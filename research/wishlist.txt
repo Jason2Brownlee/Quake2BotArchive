@@ -12,9 +12,12 @@ Eras0204.zip
 Eras0204-linux.tgz
 Eras_0212.zip
 Eraser0304.zip
+Eraser0304.exe
 Eraser0312.zip
 Eraser0313.zip
+Eraser0313.exe
 Eraser0313_patch.zip
+Eraser0313_patch.exe
 Eraser0314.zip
 Eraser0314_patch.zip
 Eraser0315_patch.zip
@@ -32,6 +35,7 @@ Eraser0411b_patch.zip
 Eraser0413_patch.zip
 Eraser0427_patch.zip
 Eraser0501.zip
+Eraser0501.exe
 eraser0501_patch.zip
 eraser0505.zip
 eraser0505_patch.zip
