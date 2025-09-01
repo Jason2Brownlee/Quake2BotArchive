@@ -4,7 +4,6 @@
 eraser0_1a.zip
 eras0113.zip
 ERAS0118.EXE
-Eras0124.exe
 Eras0124-linux.tgz
 Eras0125-linux.tgz
 EraserInstall.exe
