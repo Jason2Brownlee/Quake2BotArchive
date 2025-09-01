@@ -27,8 +27,11 @@ ACE / AceBot
 	http://www.telefragged.com/ace/
 		https://web.archive.org/web/19980626081325/http://www.telefragged.com/ace/
 		https://web.archive.org/web/*/http://www.telefragged.com/ace/*
+		https://web.archive.org/web/20001102160312*/http://www.telefragged.com:80/ace/Downloads/acesetup.exe
+		https://web.archive.org/web/19980626124027/http://www.telefragged.com:80/ace/ace_news.shtml
 	http://www.jps.net/stevey/
 		personal homepage
+		https://web.archive.org/web/*/jps.net/stevey*
 	http://www.axionfx.com/
 		personal homepage
 		https://web.archive.org/web/19990208011546/http://www.axionfx.com/
@@ -56,6 +59,29 @@ ACE / AceBot
 		http://www.angelfire.com/mt2/quakebots/ace007.zip
 		http://www.angelfire.com/mt2/quakebots/ace008dll.zip
 		http://www.angelfire.com/mt2/quakebots/ace008src.zip
+CRBot / C.R. Bot
+	Mike Malakhov
+	http://planetquake.com/crbot/
+		https://web.archive.org/web/19990224202621/http://planetquake.com/crbot/
+		https://web.archive.org/web/19990224155025/http://asp.planetquake.com/dl/dl.asp?crbot/crbot114.zip
+		https://web.archive.org/web/19990224155025/ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot108.zip
+		https://web.archive.org/web/19990224155025/ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot099.zip
+		https://web.archive.org/web/19990224220602/http://asp.planetquake.com/dl/dl.asp?crbot/crbot097.zip
+	http://www.quake2.com/misc/crbot.html
+		https://web.archive.org/web/19990218085916/http://www.quake2.com/misc/crbot.html
+	http://pobox.com/~ww
+		https://web.archive.org/web/19981205154627/pobox.com/~ww
+		https://web.archive.org/web/*/pobox.com/~ww*
+	http://www.hooked.net/~mim/
+		https://web.archive.org/web/19981206040337/http://www.hooked.net/%7Emim/
+		https://web.archive.org/web/*/http://www.hooked.net/~mim/*
+		https://web.archive.org/web/19990202061818/http://www.hooked.net/%7Emim/bot.html
+	https://www.fastmail.com/pobox
+		https://web.archive.org/web/*/https://www.fastmail.com/pobox*
+	https://www.gamers.org
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/crbot.txt
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/crbot.zip
+		https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/crbot/crbot114.zip
 ACEnEraser
 	http://www.telefragged.com/ace
 	Steve 'Meat' Yeager
@@ -68,23 +94,6 @@ gladiator bot
 		http://www.botepidemic.com/gladiator
 		http://mrelusive.com/oldprojects/gladiator
 	Author: Mr. Elusive (Code & Design), Squatt (Design), MrFreeze (Website) and Squatt
-crbot / C.R. Bot
-	by Mike Malakhov
-	http://planetquake.com/crbot/
-		https://web.archive.org/web/19990224202621/http://planetquake.com/crbot/
-		https://web.archive.org/web/19990224155025/http://asp.planetquake.com/dl/dl.asp?crbot/crbot114.zip
-		https://web.archive.org/web/19990224155025/ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot108.zip
-		https://web.archive.org/web/19990224155025/ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot099.zip
-		https://web.archive.org/web/19990224220602/http://asp.planetquake.com/dl/dl.asp?crbot/crbot097.zip
-	http://www.quake2.com/misc/crbot.html
-		https://web.archive.org/web/19990218085916/http://www.quake2.com/misc/crbot.html
-	http://pobox.com/~ww
-		?
-	http://www.hooked.net/~mim/
-		https://web.archive.org/web/19990202045412/http://www.hooked.net/%7Emim/
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/crbot.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/crbot.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/crbot/crbot114.zip
 RAMBOT
 	Website: http://www.emux.com/rambot
 	https://web.archive.org/web/20000303090553/http://www.emux.com/rambot
@@ -163,17 +172,59 @@ the goldsoft bot
 ICE Bot
 	Website: http://www.planetquake.com/ice
 	Author: jibe
-famkebot
-	Website: http://www.telefragged.com/thefatal
-	Author: Rich Whitehouse
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/famkebot.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/famkebot.zip
-	https://web.archive.org/web/20000421144249/http://www.quake2.com/famkebot/FAMKEBOT.ZIP
-	https://web.archive.org/web/20000421144249/http://www.quake2.com/famkebot/FB562UPG.ZIP
+Famkebot
+	Rich Whitehouse
+	http://www.concentric.net/~thefatal/quake.html
+		https://web.archive.org/web/*/http://www.concentric.net/~thefatal/*
+		https://web.archive.org/web/19991128065244/http://www.concentric.net/~thefatal/quake.html
+		https://web.archive.org/web/20040325183819/http://www.concentric.net:80/~thefatal/FAMKEBOT.ZIP
+		https://web.archive.org/web/20080410100753*/http://www.concentric.net:80/~thefatal/q2bot.html
+	http://www.quake2.com/famkebot/
+		https://web.archive.org/web/19971222151500/http://www.quake2.com/famkebot/
+		https://web.archive.org/web/*/http://www.quake2.com/famkebot/*
+		https://web.archive.org/web/20000520045857*/http://www.quake2.com:80/famkebot/FAMKE.ZIP
+		https://web.archive.org/web/20210804010320*/http://www.quake2.com:80/famkebot/FAMKEBOT.ZIP
+		https://web.archive.org/web/20010726182347/http://www.quake2.com:80/famkebot/FAMKESRC.ZIP
+		https://web.archive.org/web/20020513083136*/http://www.quake2.com:80/famkebot/FB562UPG.ZIP
+	https://www.gamers.org
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/famkebot.txt
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/famkebot.zip
+	http://www.telefragged.com/thefatal
+		https://web.archive.org/web/19980626064038/http://www.telefragged.com/thefatal/
+		https://web.archive.org/web/20150729180003*/http://www.telefragged.com:80/thefatal/cgi-bin/download.pl?FAMKEBOT.ZIP
+		https://web.archive.org/web/20150729180003*/http://www.telefragged.com:80/thefatal/cgi-bin/download.pl?famke70.zip
+		https://web.archive.org/web/20150729180006*/http://www.telefragged.com:80/thefatal/cgi-bin/download.pl?FB562UPG.ZIP
+		https://web.archive.org/web/20150729180004*/http://www.telefragged.com:80/thefatal/cgi-bin/download.pl?fb70gx86.zip
+		https://web.archive.org/web/20150729180006*/http://www.telefragged.com:80/thefatal/cgi-bin/download.pl?FBSRC5.ZIP
+	http://home.telefragged.com/thefatal
+		https://web.archive.org/web/19991001113637/http://home.telefragged.com/thefatal/famke.shtml
+		https://web.archive.org/web/19991001113637/http://tux.telefragged.com/file.pl?filename=FB562UPG.ZIP&dir=telefragged/thefatal/
+		https://web.archive.org/web/19991001113637/http://home.telefragged.com/thefatal/tut.htm
+		https://web.archive.org/web/19991001113637/http://tux.telefragged.com/file.pl?filename=FBSRC5.ZIP&dir=telefragged/thefatal/
+		https://web.archive.org/web/19991001113637/http://tux.telefragged.com/file.pl?filename=FAMKEBOT.ZIP&dir=telefragged/thefatal/
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/famke61.zip
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/famke62.zip
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/famke63.zip
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/famke64.zip
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/famke65.zip
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/fb65gx86.zip
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/famke66.zip
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/fb66-ctf.zip
+		https://web.archive.org/web/19991001113637/http://www.telefragged.com/mirrors/mirror.pl?thefatal/fb67-ctf.zip
+		https://web.archive.org/web/19991001113637/http://tux.telefragged.com/file.pl?filename=fb69gx86.zip&dir=telefragged/thefatal/
+		https://web.archive.org/web/19991001113637/http://tux.telefragged.com/file.pl?filename=fb67-ctf.zip&dir=telefragged/thefatal/
+		https://web.archive.org/web/20000307170337/http://www.telefragged.com/mirrors/mirror.pl?thefatal/famke67.zip
+		https://web.archive.org/web/19991001113637/http://tux.telefragged.com/file.pl?filename=famke69.zip&dir=telefragged/thefatal/
+		https://web.archive.org/web/20000307170337/http://tux.telefragged.com/file.pl?filename=famke70.zip&dir=telefragged/thefatal/
+		https://web.archive.org/web/20000307170337/http://tux.telefragged.com/file.pl?filename=fb70gx86.zip&dir=telefragged/thefatal/
+	https://richwhitehouse.com
+		https://richwhitehouse.com/index.php?content=inc_projects.php&showcat=Quake%20II
 FamkeBot CTF
 	Website: http://www.telefragged.com/thefatal
 	Author: Rich Whitehouse
 	https://web.archive.org/web/20000303090553/http://www.quake2.com/famkebot/
+	https://www.richwhitehouse.com/index.php?content=inc_res.php
+
 3zb2 bot
 	3ZB, 3ZB II: Rago
 	3rd-Zigock, 3rd-Zigock II
