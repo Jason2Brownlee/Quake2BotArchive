@@ -58,7 +58,6 @@ Eraser0505_patch.exe
 Eraser0508_patch.zip
 Eraser0508_patch.exe
 Eraser0529_patch.exe
-Eraser0529.exe
 Eraser0618_patch.zip
 Eraser0618_patch.exe
 Eraser0617-Linux.tgz
