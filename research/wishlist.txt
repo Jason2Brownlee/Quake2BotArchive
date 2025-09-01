@@ -35,7 +35,9 @@ Eraser0501.zip
 eraser0501_patch.zip
 eraser0505.zip
 eraser0505_patch.zip
+Eraser0505_patch.exe
 Eraser0508_patch.zip
+Eraser0508_patch.exe
 Eraser0529_patch.zip
 Eraser0618_patch.zip
 Eraser0618_patch.zip
