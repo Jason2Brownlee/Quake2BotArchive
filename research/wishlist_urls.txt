@@ -201,6 +201,65 @@ http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/news/Eraser0_1a.zip
 http://www.quake.org.pl/files/Eraser0_1a.zip
 http://www.quake2.com/earth/patches/eraser/Eraser0_1a.zip
 
+# gladiator
+# gladq2 08.zip
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq208.zip
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq208.zip
+ftp://ftp.telefragged.com/be/gladiator/gladq208.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq208.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq208.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq208.zip
+http://www.botepidemic.com/gladiator/files/gladq208.zip
+http://www.quake.kiev.ua/sprint/quake2/files/gladq208.zip
+# gladq209.zip
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq209.zip
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq209.zip
+ftp://ftp.telefragged.com/be/gladiator/gladq209.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq209.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq209.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq209.zip
+http://quake.crimea.ua/files/quake2/bots/gladq209.zip
+# gladq2091.zip
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2091.zip
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2091.zip
+ftp://ftp.telefragged.com/be/gladiator/gladq2091.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091.zip
+http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2091.zip
+# gladq2091gamesrc.zip
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2091gamesrc.zip
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2091gamesrc.zip
+ftp://ftp.telefragged.com/be/gladiator/gladq2091gamesrc.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091gamesrc.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091gamesrc.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091gamesrc.zip
+http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2091gamesrc.zip
+# gladq2092.zip
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2092.zip
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2092.zip
+ftp://ftp.telefragged.com/be/gladiator/gladq2092.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092.zip
+http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2092.zip
+# gladq2092gamesrca.zip
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2092gamesrca.zip
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2092gamesrca.zip
+ftp://ftp.telefragged.com/be/gladiator/gladq2092gamesrca.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092gamesrca.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092gamesrca.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092gamesrca.zip
+http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2092gamesrca.zip
+# gladq2093_win32-x86.zip
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2093_win32-x86.zip
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2093_win32-x86.zip
+ftp://ftp.telefragged.com/be/gladiator/gladq2093_win32-x86.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_win32-x86.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_win32-x86.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_win32-x86.zip
+http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2093_win32-x86.zip
+
 # neural bot
 # nbot_05.zip
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
