@@ -79,9 +79,20 @@ Eraser100_SRC.zip
 Eraser101-linux.tar.gz
 Eraser101_SRC.zip
 
+# gladiator bot
+gladq208.zip
+gladq209.zip
+gladq2091.zip
+gladq2091gamesrc.zip
+gladq2092.zip
+gladq2092gamesrca.zip
+gladq2093_win32-x86.zip
+
 # neural not
 nbot_05.zip
 nbotsource_05.zip
 nbot_06.zip
+
+
 
 
