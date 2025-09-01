@@ -5,6 +5,16 @@ crbot097.zip
 crbot101.zip
 crbot102.zip
 crbot104.zip
+crbot107.zip
+# guesses (unconfirmed)
+crbot092.zip
+crbot098.zip
+crbot10.zip
+crbot100.zip
+crbot103.zip
+crbot105.zip
+crbot109.zip
+crbot113.zip
 
 # eraser bot
 eraser0_1a.zip

@@ -1,0 +1,52 @@
+# Wishlist URLs
+
+# crbot
+# crbot097.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot097.zip
+http://asp.planetquake.com/dl/dl.asp?crbot/crbot097.zip
+http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbot097.zip
+# crbot101.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot101.zip
+# crbot102.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot102.zip
+ftp://ftp.freesoftware.com/pub/idgames2/planetquake/crbot/crbot102.zip
+http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbot102.zip
+# crbot104.zip
+http://www.quake.wplus.net/PK/Incoming/crbot104.zip
+# crbot107.zip
+http://quake2.org.pl/quake2.ftp/bots/crbot107.zip
+
+
+# eraser
+
+# neural bot
+# nbot_05.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbot_05.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=nbot_05.zip&dir=telefragged/be/neuralbot/
+# nbotsource_05.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbotsource_05.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=nbotsource_05.zip&dir=telefragged/be/neuralbot/
+# nbot_06.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbot_06.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=nbot_06.zip&dir=telefragged/be/neuralbot/
+
+
+
