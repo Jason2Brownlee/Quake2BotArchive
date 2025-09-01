@@ -7,6 +7,7 @@ ERAS0118.EXE
 Eras0124-linux.tgz
 Eras0125-linux.tgz
 EraserInstall.exe
+Eras0202.zip
 Eras0204.zip
 Eras0204-linux.tgz
 Eras_0212.zip
@@ -27,6 +28,7 @@ Eraser0316_patch.exe
 Eraser0317_patch.zip
 Eraser0317_patch.exe
 Eraser0320.zip
+Eraser320_patch.zip
 Eraser0320_patch.zip
 Eraser0320_patch.exe
 Eraser0323_patch.zip
@@ -55,6 +57,7 @@ Eraser0505_patch.exe
 Eraser0508_patch.exe
 Eraser0529_patch.exe
 Eraser0618_patch.zip
+EraserSRC_0618.zip
 Eraser0617-Linux.tgz
 Eraser100_SRC.zip
 Eraser101-linux.tar.gz
