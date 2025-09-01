@@ -61,7 +61,8 @@ Eraser0508_patch.exe
 Eraser0529_patch.exe
 Eraser0529.exe
 Eraser0618_patch.zip
-Eraser0618_patch.zip
+Eraser0618_patch.exe
+Eraser0617-Linux.tgz
 Eraser100_SRC.zip
 Eraser101-linux.tar.gz
 Eraser101_SRC.zip
