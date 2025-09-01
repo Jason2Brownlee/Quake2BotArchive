@@ -2,6 +2,9 @@
 
 # crbot
 crbot097.zip
+crbot101.zip
+crbot102.zip
+crbot104.zip
 
 # eraser bot
 eraser0_1a.zip
