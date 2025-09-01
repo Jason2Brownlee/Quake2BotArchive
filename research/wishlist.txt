@@ -42,7 +42,7 @@ Eraser0618_patch.zip
 Eraser100_SRC.zip
 Eraser101-linux.tar.gz
 Eraser101_SRC.zip
-Eraser101_patch.zip
+
 
 # neural not
 nbot_05.zip
