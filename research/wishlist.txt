@@ -37,6 +37,7 @@ Eraser0320-linux.tgz
 Eras0320-linux.tgz
 Eraser0330_patch.zip
 Eraser0330_patch.exe
+EraserSRC0410.zip
 Eraser0406_patch.zip
 Eraser0406_patch.exe
 Eraser0407-linux.tgz
@@ -62,7 +63,6 @@ Eraser0617-Linux.tgz
 Eraser100_SRC.zip
 Eraser101-linux.tar.gz
 Eraser101_SRC.zip
-
 
 # neural not
 nbot_05.zip
