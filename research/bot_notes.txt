@@ -19,19 +19,43 @@ http://quake2.gry-online.pl/dzial.php?id=a__boty
 	https://web.archive.org/web/20040705173722/http://quake2.gry-online.pl/dzial.php?id=a__boty
 
 
-
-
-
 Individual Bots
 ------------------
 
-jabot
-	https://www.moddb.com/mods/jabotq2
-acebot
-	Steve 'Meat' Yeager
-	http://www.axionfx.com/ace
-	https://web.archive.org/web/20000421144249/http://www.telefragged.com/oak/files/acesetup.exe
-	https://web.archive.org/web/20000421144249/http://www.telefragged.com/oak/files/ACEvsEraser.zip
+ACE / AceBot
+	Steve Yeager
+	http://www.telefragged.com/ace/
+		https://web.archive.org/web/19980626081325/http://www.telefragged.com/ace/
+		https://web.archive.org/web/*/http://www.telefragged.com/ace/*
+	http://www.jps.net/stevey/
+		personal homepage
+	http://www.axionfx.com/
+		personal homepage
+		https://web.archive.org/web/19990208011546/http://www.axionfx.com/
+	http://www.axionfx.com/ace/
+		ace home
+		https://web.archive.org/web/20000817072317/http://www.axionfx.com/ace/
+		https://web.archive.org/web/20000817072317/http://www.axionfx.com/ace/downloads/ace008_dll.zip
+		https://web.archive.org/web/20000817072317/http://www.axionfx.com/ace/downloads/ace008_src.zip
+		https://web.archive.org/web/20000817072317/http://www.axionfx.com/ace/Downloads/acesetup.exe
+	http://www.telefragged.com/oak/
+		hosted here as well
+		https://web.archive.org/web/19980626082055/http://www.telefragged.com/oak/
+		https://web.archive.org/web/*/telefragged.com/oak*
+		https://web.archive.org/web/20051118000000*/http://www.telefragged.com:80/oak/ace.html
+		https://web.archive.org/web/20000529172931*/http://www.telefragged.com:80/oak/files/acesetup.exe
+		https://web.archive.org/web/19990911212733/http://www.telefragged.com:80/oak/files/ACEvsEraser.zip
+	http://www.quake2.com/oak/ace.html
+		https://web.archive.org/web/20210804003558*/http://www.quake2.com:80/oak/ace.html
+		https://web.archive.org/web/20010613062115*/http://www.quake2.com:80/oak/ace006.zip
+		https://web.archive.org/web/20000521125942*/http://www.quake2.com:80/oak/files/ACEOak01.zip
+	http://qudos.quakedev.com
+		http://qudos.quakedev.com/linux/quake2/bots/ACEBot.Linux.tar.bz2
+	http://www.angelfire.com/mt2/quake3bot
+		http://www.angelfire.com/mt2/quake3bot/ACEBot.tar.bz2
+		http://www.angelfire.com/mt2/quakebots/ace007.zip
+		http://www.angelfire.com/mt2/quakebots/ace008dll.zip
+		http://www.angelfire.com/mt2/quakebots/ace008src.zip
 ACEnEraser
 	http://www.telefragged.com/ace
 	Steve 'Meat' Yeager
@@ -267,6 +291,9 @@ The Eraser Bot with Damage Skins / Damage Bot
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
 flamebot
 	http://dd.networx.net.au/flamebot/
+jabot
+	https://www.moddb.com/mods/jabotq2
+
 
 Out of Scope Bots
 ------------------

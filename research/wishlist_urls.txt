@@ -1,5 +1,12 @@
 # Wishlist URLs
 
+# acebot
+# ace006.zip
+http://www.quake2.com/oak/ace006.zip
+# ace006b.zip
+http://www.quake2.com/oak/ace006b.zip
+
+
 # crbot
 # crbot097.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot097.zip

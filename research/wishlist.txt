@@ -1,5 +1,14 @@
 # Quake II Bot File Wishlist
 
+# acebot
+ace006.zip
+ace006b.zip
+# guesses (unconfirmed)
+ace004.zip
+ace003.zip
+ace002.zip
+ace001.zip
+
 # crbot
 crbot097.zip
 crbot101.zip
@@ -87,6 +96,18 @@ gladq2091gamesrc.zip
 gladq2092.zip
 gladq2092gamesrca.zip
 gladq2093_win32-x86.zip
+# guesses (unconfirmed)
+gladq201.zip
+gladq202.zip
+gladq203.zip
+gladq204.zip
+gladq205.zip
+gladq206.zip
+gladq207.zip
+gladq208gamesrc.zip
+gladq2093gamesrca.zip
+gladq2094gamesrca.zip
+gladq2095gamesrca.zip
 
 # neural not
 nbot_05.zip
