@@ -265,8 +265,8 @@ The Eraser Bot with Damage Skins / Damage Bot
 	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.zip
 	https://web.archive.org/web/20000421144249/http://www.evilavatar.com/Files/Eraser_Damage.zip
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
-
-
+flamebot
+	http://dd.networx.net.au/flamebot/
 
 Out of Scope Bots
 ------------------
