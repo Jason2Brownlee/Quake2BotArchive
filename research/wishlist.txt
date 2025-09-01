@@ -33,7 +33,6 @@ Eraser0323_patch.zip
 Eraser0323_patch.exe
 Eraser0320-linux.tgz
 Eras0320-linux.tgz
-Eraser0330.zip
 Eraser0330_patch.zip
 Eraser0330_patch.exe
 Eraser0406_patch.zip
