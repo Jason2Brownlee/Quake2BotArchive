@@ -1,5 +1,8 @@
 # Quake II Bot File Wishlist
 
+# crbot
+crbot097.zip
+
 # eraser bot
 eraser0_1a.zip
 eras0113.zip
@@ -27,7 +30,6 @@ Eraser0316_patch.zip
 Eraser0316_patch.exe
 Eraser0317_patch.zip
 Eraser0317_patch.exe
-Eraser0320.zip
 Eraser320_patch.zip
 Eraser0320_patch.zip
 Eraser0320_patch.exe
