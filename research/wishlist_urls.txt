@@ -393,4 +393,71 @@ ftp://ftp.cdrom.com/pub/quake2/dlls/bots/borrador-bin.zip
 # GoldSoft Bots
 # gsb.zip
 http://kamensk.far.ru/files/q2/gsb.zip
+http://kamensk.far.ru/files/files/q2/gsb.zip
 
+# EraserX
+# eraserx012.zip
+http://asp.planetquake.com/dl/dl.asp?expert/eraserx012.zip
+http://ftp.sunet.se/planetquake/expert/eraserx012.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/eraserx012.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx012.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/expert/eraserx012.zip
+http://gamers.org/pub/games/idgames2/planetquake/eraserx012.zip
+http://mirror.aarnet.edu.au/games/planetquake/expert/eraserx012.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/expert/eraserx012.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/expert/eraserx012.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eraserx012.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx012.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx012.zip
+http://www.fileplanet.com/dl/dl.asp?expert/eraserx012.zip
+# eraserx30.zip
+http://asp.planetquake.com/dl/dl.asp?expert/eraserx30.zip
+http://ftp.sunet.se/planetquake/expert/eraserx30.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/eraserx30.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx30.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/expert/eraserx30.zip
+http://gamers.org/pub/games/idgames2/planetquake/eraserx30.zip
+http://mirror.aarnet.edu.au/games/planetquake/expert/eraserx30.zip
+http://mirrors.telepac.pt/pub/idgames2/planetquake/expert/eraserx30.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/expert/eraserx30.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/expert/eraserx30.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eraserx30.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx30.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx30.zip
+http://www.fileplanet.com/dl/dl.asp?expert/eraserx30.zip
+http://www.fileplanet.com/redir.asp?file=12942&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/expert/eraserx30.zip
+http://www.fileplanet.com/redir.asp?file=12942&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/expert/eraserx30.zip
+http://www.planetquake.com/dl/dl.asp?expert/eraserx30.zip
+http://ftp2.gamespy.com/pub/cdrom/expert/eraserx30.zip
+ftp://ftp.liquidextremes.com/pub/cdrom/expert/eraserx30.zip
+# eraserx301.zip
+http://ftp.sunet.se/planetquake/expert/eraserx301.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx301.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/expert/eraserx301.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/expert/eraserx301.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eraserx301.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/expert/eraserx301.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx301.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx301.zip
+http://www.fileplanet.com/dl/dl.asp?expert/eraserx301.zip
+http://www.planetquake.com/dl/dl.asp?expert/eraserx301.zip
+# eraserx301_sparc_solaris.tar.gz
+http://ftp.sunet.se/planetquake/expert/eraserx301_sparc_solaris.tar.gz
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx301_sparc_solaris.tar.gz
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/expert/eraserx301_sparc_solaris.tar.gz
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/expert/eraserx301_sparc_solaris.tar.gz
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eraserx301_sparc_solaris.tar.gz
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx301_sparc_solaris.tar.gz
+http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx301_sparc_solaris.tar.gz
+http://www.fileplanet.com/dl/dl.asp?expert/eraserx301_sparc_solaris.tar.gz
+# eraserx303b5_mac.sit.bin
+http://railgun.macquakeinfinity.com/downloads/dll/eraserx303b5_mac.sit.bin
+# eraserx30_sparc_solaris.tar.gz
+http://ftp.sunet.se/planetquake/expert/eraserx30_sparc_solaris.tar.gz
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx30_sparc_solaris.tar.gz
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/expert/eraserx30_sparc_solaris.tar.gz
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/expert/eraserx30_sparc_solaris.tar.gz
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eraserx30_sparc_solaris.tar.gz
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx30_sparc_solaris.tar.gz
+http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx30_sparc_solaris.tar.gz
+http://www.fileplanet.com/dl/dl.asp?expert/eraserx30_sparc_solaris.tar.gz

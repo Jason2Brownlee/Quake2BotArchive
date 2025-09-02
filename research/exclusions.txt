@@ -28,3 +28,5 @@ http://www.gamers.org/pub/idgames2/levels/deathmatch/a-c/arena02.zip
 https://www.quaddicted.com/files/idgames2/levels/deathmatch/a-c/arena02.zip
 https://www.quaddicted.com/files/maps/multiplayer/arena02.zip
 https://www.quaddicted.com/files/mirrors/quakerepo.net/deathmatch/maps/arena02.zip
+# gsb.zip
+http://www.angelfire.com/mt2/quakebots/gsb.zip
