@@ -170,4 +170,5 @@ ACEvsEraser.zip
 # Assassin Bot
 assbot0025.zip
 
-
+# Flamebot
+fb00251.zip

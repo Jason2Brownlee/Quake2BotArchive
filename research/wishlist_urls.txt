@@ -370,6 +370,11 @@ ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
 http://www.gibsillustrated.com/assassin/assbot0025.zip
 http://www.quake2.com/epidemic/downloads/assbot0025.zip
 
+# Flamebot
+# fb00251.zip
+http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/bots/flamebot/fb00251.zip
+http://dd.networx.net.au/cgi-bin/pftp_fb.pl?/pub/bots/flamebot/fb00251.zip
+http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/bots/flamebot/fb00251.zip
 
 
 
