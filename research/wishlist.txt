@@ -119,6 +119,7 @@ Eraser0617-Linux.tgz
 Eraser100_SRC.zip
 Eraser101-linux.tar.gz
 Eraser101_SRC.zip
+mac_eraser_101final.sit.bin
 
 # Famkebot
 fb65gx86.zip
