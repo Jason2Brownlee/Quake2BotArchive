@@ -381,6 +381,7 @@ The Eraser Bot with Damage Skins / Damage Bot
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
 flamebot
 	http://dd.networx.net.au/flamebot/
+	https://web.archive.org/web/19980119101540/http://dd.networx.net.au/cgi-bin/pftp_fb.pl?/pub/bots/flamebot/fb00251.zip
 jabot
 	https://www.moddb.com/mods/jabotq2
 Assassin Bot / assbot
