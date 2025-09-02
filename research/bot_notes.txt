@@ -98,10 +98,18 @@ gladiator bot
 		http://mrelusive.com/oldprojects/gladiator
 	Author: Mr. Elusive (Code & Design), Squatt (Design), MrFreeze (Website) and Squatt
 RAMBOT
-	Website: http://www.emux.com/rambot
-	https://web.archive.org/web/20000303090553/http://www.emux.com/rambot
-	Author: Ariel 'KRYPTYK' Mirles
-	https://web.archive.org/web/20000421144249/http://www.emux.com/rambot/files/rambot_v47.zip
+	Ariel Mirles aka "KRYPTYK"
+	http://www.emux.com/rambot
+		https://web.archive.org/web/20000303090553/http://www.emux.com/rambot
+		https://web.archive.org/web/*/emux.com/rambot*
+		https://web.archive.org/web/*/http://www.emux.com/rambot/files/rambot_v47.zip
+		https://web.archive.org/web/*/http://www.emux.com/rambot/files/rambot_v48a.zip
+		https://web.archive.org/web/*/http://rambot.emux.com/files/rambot_v49.zip
+	http://rambot.emux.com/
+		https://web.archive.org/web/20000118095314/http://rambot.emux.com/
+		https://web.archive.org/web/*/http://rambot.emux.com/*
+		https://web.archive.org/web/20000229224053/http://rambot.emux.com/files/rambot_v49.zip
+		https://web.archive.org/web/20000229224053/http://rambot.emux.com/files/rambot_skin.zip
 BorrAdor BoT
 	ftp.cdrom.com/pub/quake2/dlls/bots/borrador-2.0-bin.zip
 	Author: Siro
@@ -365,9 +373,6 @@ Navy Fortress
 	https://web.archive.org/web/20000303090553/http://nf.telefragged.com/
 SuicideBot
 	https://web.archive.org/web/20000303090553/http://www.designworx.demon.co.uk/
-Assassin
-	https://web.archive.org/web/20000303090553/http://www.gibsillustrated.com/assassin/
-	https://web.archive.org/web/20000421144249/ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
 Frostbot
 	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/fb10b1.txt
 	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/fb10b1.zip
@@ -408,10 +413,11 @@ JABot
 		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/stuff/bots/SplitMod_PR7006_ACEBOT_056_Astar.zip
 		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9.zip
 Assassin Bot / assbot
-	?
-	by "Bazza" and/or "Fluke"
+	by "Bazza"
 	http://www.telefragged.com/assassin/
 		https://web.archive.org/web/19980626081346/http://www.telefragged.com/assassin/
+	http://www.gibsillustrated.com/assassin/
+		not archived
 	assbot0025.zip
 		ftp://ftp.cdrom.com/pub/quake/telefragged/assbot0025.zip
 		ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
