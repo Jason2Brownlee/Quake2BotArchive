@@ -92,11 +92,11 @@ ACEnOak
 	http://botepidemic.com/bots/quake2.shtml
 		https://web.archive.org/web/20000306143241/http://botepidemic.com/bots/quake2.shtml
 	https://web.archive.org/web/20000521125942*/http://www.quake2.com:80/oak/files/ACEOak01.zip
-gladiator bot
+Gladiator Bot
+	Mr. Elusive
 	Website:
 		http://www.botepidemic.com/gladiator
 		http://mrelusive.com/oldprojects/gladiator
-	Author: Mr. Elusive (Code & Design), Squatt (Design), MrFreeze (Website) and Squatt
 RAMBOT
 	Ariel Mirles aka "KRYPTYK"
 	http://www.emux.com/rambot
@@ -110,15 +110,21 @@ RAMBOT
 		https://web.archive.org/web/*/http://rambot.emux.com/*
 		https://web.archive.org/web/20000229224053/http://rambot.emux.com/files/rambot_v49.zip
 		https://web.archive.org/web/20000229224053/http://rambot.emux.com/files/rambot_skin.zip
+	news
+		https://www.bluesnews.com/archives/july98-2.html
+		https://www.bluesnews.com/archives/oct98-5.html
+		http://www.quake2.com/kko/links.htm
+		https://urbanc.tripod.com/novice.htm
 BorrAdor BoT
 	ftp.cdrom.com/pub/quake2/dlls/bots/borrador-2.0-bin.zip
-	Author: Siro
+	Author: Siro aka "BJAM"
 	files
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/borrador-2.0-bin.txt
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/borrador-2.0-bin.zip
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/borrador2.1-bin.zip
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/borrador2.1-readme.txt
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/borrador2.1-routes.zip
+	version 1?
 Rocket Arena Oak
 	John Crickett
 	http://www.telefragged.com/oak
