@@ -1,5 +1,34 @@
 # Wishlist URLs
 
+# 3rd-Zigock Bot
+# 3zb149.zip
+http://users.jp.tri6.net/~ponpoko/3zb149.zip
+# 3zb150.zip
+http://users.jp.tri6.net/~ponpoko/3zb150.zip
+# 3zb151.zip
+http://users.jp.tri6.net/~ponpoko/3zb151.zip
+
+# 3rd-Zigock Bot 2
+# 3zb205beta.zip
+http://users.jp.tri6.net/~ponpoko/3zb205beta.zip
+http://www.telefragged.com/mirrors/mirrors.pl?be/3zb205beta.zip
+# 3zb207.zip
+http://users.jp.tri6.net/~ponpoko/3zb207.zip
+# 3zb208.zip
+http://users.jp.tri6.net/~ponpoko/3zb208.zip
+# 3zb2087.zip
+http://users.jp.tri6.net/~ponpoko/3zb2087.zip
+# 3zb2089u.zip
+http://ponpoko.tri6.net/3zb2089u.zip
+http://users.jp.tri6.net/~ponpoko/3zb2089u.zip
+http://www.jp.tri6.net/~ponpoko/3zb2089u.zip
+# 3zb2093.zip
+http://users.jp.tri6.net/~ponpoko/3zb2093.zip
+# 3zb2093_x86.zip
+http://reality.sgi.com/rhess_engr/beos/q2/3zb2/3zb2093_x86.zip
+# 3zb2097b.zip
+http://users.jp.tri6.net/~ponpoko/3zb2097b.zip
+
 # acebot
 # ace006.zip
 http://www.quake2.com/oak/ace006.zip

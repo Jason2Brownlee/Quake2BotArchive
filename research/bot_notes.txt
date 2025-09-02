@@ -248,6 +248,10 @@ Famkebot
 		https://web.archive.org/web/*/http://ponpoko.tri6.net/*
 		https://web.archive.org/web/20160426205325/http://ponpoko.tri6.net/3zb2097.zip
 		https://web.archive.org/web/20160426205325/http://ponpoko.tri6.net/3zb2097d.zip
+	http://reality.sgi.com/rhess_engr/beos/q2/3zb2/
+		https://web.archive.org/web/20010429202334/http://reality.sgi.com/rhess_engr/beos/q2/3zb2/
+		https://web.archive.org/web/*/http://reality.sgi.com/rhess_engr/beos/q2/3zb2*
+		https://web.archive.org/web/20010429202334/http://reality.sgi.com/rhess_engr/beos/q2/3zb2/3zb2097_x86.zip
 SecantBot
 	for Tangential mod
 	http://www.planetquake.com/tangential/
