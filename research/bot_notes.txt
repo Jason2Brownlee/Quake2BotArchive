@@ -113,10 +113,23 @@ oak rocket arena bot
 	Website: http://www.telefragged.com/oak
 	Author: John 'Spartan' Crickett
 Oak II Bot, Oak 2
-	Website: http://www.telefragged.com/oak
 	Author: John 'Spartan' Crickett
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/quake/telefragged/oak/Oak040F.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/quake/telefragged/oak/Oak040S.zip
+	ftp://ftp.cdrom.com
+		https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/quake/telefragged/oak/Oak040F.zip
+		https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/quake/telefragged/oak/Oak040S.zip
+	http://www.telefragged.com/oak
+		https://web.archive.org/web/19980626082055/http://www.telefragged.com/oak/
+		https://web.archive.org/web/*/http://www.telefragged.com/oak*
+		https://web.archive.org/web/20000303165602/http://www.telefragged.com/mirrors/mirror.pl?oak/Oak040F.zip
+		https://web.archive.org/web/20000303165602/http://www.telefragged.com/mirrors/mirror.pl?oak/Oak040S.zip
+		https://web.archive.org/web/20000303165602/http://www.telefragged.com/mirrors/mirror.pl?oak/extra.zip
+	http://web.ukonline.co.uk/johnc/oak
+		https://web.archive.org/web/*/http://web.ukonline.co.uk/johnc/*
+		https://web.archive.org/web/19970618083523/http://web.ukonline.co.uk:80/johnc/
+	http://www.quake2.com/oak/
+		https://web.archive.org/web/*/http://www.quake2.com/oak/*
+	http://www.planetquake.com/oak
+		https://web.archive.org/web/*/http://www.planetquake.com/oak*
 neural bot
 	by Ono-Sendai
 	Nicholas Chapman aka "Ono-Sendai"
@@ -245,6 +258,7 @@ Famkebot
 		https://web.archive.org/web/*/http://www.jp.tri6.net/~ponpoko*
 		https://web.archive.org/web/20010604042013/http://www.jp.tri6.net:80/~ponpoko/3zb2089u.zip
 	http://ponpoko.tri6.net/
+		still accessible
 		https://web.archive.org/web/*/http://ponpoko.tri6.net/*
 		https://web.archive.org/web/20160426205325/http://ponpoko.tri6.net/3zb2097.zip
 		https://web.archive.org/web/20160426205325/http://ponpoko.tri6.net/3zb2097d.zip

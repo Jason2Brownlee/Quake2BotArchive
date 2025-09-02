@@ -149,6 +149,11 @@ nbot_05.zip
 nbotsource_05.zip
 nbot_06.zip
 
-
-
+# oak ii
+OakII_01.zip
+OakII_01a.zip
+OakII_021.zip
+OakII_022.zip
+OakII_03.zip
+OakII_033.zip
 
