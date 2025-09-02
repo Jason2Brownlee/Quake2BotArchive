@@ -4,7 +4,6 @@
 3zb149.zip
 3zb150.zip
 3zb151.zip
-3zb156.zip
 # guesses (unconfirmed)
 3zb152.zip
 3zb153.zip
@@ -20,6 +19,7 @@
 3zb2093_x86.zip
 3zb205beta.zip
 3zb2097b.zip
+3zb2src97.zip
 
 # acebot
 ace006.zip
