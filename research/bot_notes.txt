@@ -392,8 +392,21 @@ flamebot
 	https://www.bluesnews.com/archives/jan98-2.html
 	http://www.quake2.com/oldnews/1-14-98_1-16-98.html
 		https://web.archive.org/web/19980111171418/http://dd.networx.net.au/hom/
-jabot
+JABot
+	by "jalisko"
 	https://www.moddb.com/mods/jabotq2
+		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9.zip
+		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9-Linux.tar.bz2
+			JABot-Q2-0.9-Linux.tar.bz2
+			JABot-Q2-0.9.3.zip
+			JABot-Q2-0.9.zip
+	https://www.angelfire.com/mt2/quakebots/JabotWin32.zip
+		JABot-Q2-0.9.3.zip
+		JABot-Q2-0.9.zip
+	http://jal.quakedev.com/jabot.html
+		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/jabot.html
+		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/stuff/bots/SplitMod_PR7006_ACEBOT_056_Astar.zip
+		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9.zip
 Assassin Bot / assbot
 	?
 	by "Bazza" and/or "Fluke"

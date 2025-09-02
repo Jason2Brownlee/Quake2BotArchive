@@ -172,3 +172,8 @@ assbot0025.zip
 
 # Flamebot
 fb00251.zip
+
+# JABot
+jabot902win32bin.zip
+JABot-Q2-0.92-src.zip
+
