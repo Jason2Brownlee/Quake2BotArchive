@@ -167,5 +167,7 @@ ACEOak01.zip
 # ACEvsEraser
 ACEvsEraser.zip
 
+# Assassin Bot
+assbot0025.zip
 
 

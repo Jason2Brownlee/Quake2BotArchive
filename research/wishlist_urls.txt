@@ -363,6 +363,13 @@ http://www.quake2.com/oak/files/ACEOak01.zip
 # ACEvsEraser.zip
 http://www.telefragged.com/oak/files/ACEvsEraser.zip
 
+# Assassin Bot
+# assbot0025.zip
+ftp://ftp.cdrom.com/pub/quake/telefragged/assbot0025.zip
+ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
+http://www.gibsillustrated.com/assassin/assbot0025.zip
+http://www.quake2.com/epidemic/downloads/assbot0025.zip
+
 
 
 

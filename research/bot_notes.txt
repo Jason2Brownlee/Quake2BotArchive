@@ -383,6 +383,18 @@ flamebot
 	http://dd.networx.net.au/flamebot/
 jabot
 	https://www.moddb.com/mods/jabotq2
+Assassin Bot / assbot
+	?
+	by "Bazza" and/or "Fluke"
+	http://www.telefragged.com/assassin/
+		https://web.archive.org/web/19980626081346/http://www.telefragged.com/assassin/
+	assbot0025.zip
+		ftp://ftp.cdrom.com/pub/quake/telefragged/assbot0025.zip
+		ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
+		http://www.gibsillustrated.com/assassin/assbot0025.zip
+		http://www.quake2.com/epidemic/downloads/assbot0025.zip
+
+
 
 
 Out of Scope Bots
