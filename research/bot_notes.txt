@@ -191,8 +191,15 @@ eraser ultra / EraserULTRA (eraser)
 	https://web.archive.org/web/20000421144249/http://www.users.zetnet.co.uk/jacquesa/q2/ultra.zip
 	https://web.archive.org/web/20000421144249/http://www.users.zetnet.co.uk/jacquesa/q2/patch.zip
 EraserX
+	Author: Max Lee aka "Fahrenheit"
+	Expert For Quake2: EraserX
 	Website: http://www.planetquake.com/expert
-	Author: Max 'Fahrenheit' Lee
+		https://web.archive.org/web/19980113013316/http://www.planetquake.com/expert/
+		https://web.archive.org/web/*/planetquake.com/expert*
+		https://web.archive.org/web/19981203165023/http://asp.planetquake.com/dl/dl.asp?expert/eraserx012.zip
+		https://web.archive.org/web/19990218103258/http://www.planetquake.com/dl/dl.asp?expert/eraserx30.zip
+		https://web.archive.org/web/19991104153307/http://www.fileplanet.com/dl/dl.asp?expert/eraserx303.zip
+
 GoldSoft Bots
 	"fixed" version of 3ZB2
 	by Kamensk Clan
