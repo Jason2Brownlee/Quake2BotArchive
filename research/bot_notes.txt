@@ -86,9 +86,12 @@ ACEnEraser
 	http://www.telefragged.com/ace
 	Steve 'Meat' Yeager
 	https://web.archive.org/web/20000306143241/http://botepidemic.com/bots/quake2.shtml
+	http://www.telefragged.com:80/oak/files/ACEvsEraser.zip
 ACEnOak
 	John 'Spartan' Crickett & Steve 'Meat' Yeager
-	https://web.archive.org/web/20000306143241/http://botepidemic.com/bots/quake2.shtml
+	http://botepidemic.com/bots/quake2.shtml
+		https://web.archive.org/web/20000306143241/http://botepidemic.com/bots/quake2.shtml
+	https://web.archive.org/web/20000521125942*/http://www.quake2.com:80/oak/files/ACEOak01.zip
 gladiator bot
 	Website:
 		http://www.botepidemic.com/gladiator
@@ -112,6 +115,7 @@ Rocket Arena Oak
 	John Crickett
 	http://www.telefragged.com/oak
 		https://web.archive.org/web/20000303165602/http://www.telefragged.com/mirrors/mirror.pl?oak/arena03.zip
+	http://home.telefragged.com/oak/
 Oak II Bot, Oak 2
 	Author: John 'Spartan' Crickett
 	ftp://ftp.cdrom.com

@@ -355,3 +355,15 @@ ftp://ftp.telefragged.com/pub/oak/OakII_033.zip
 # arena02.zip
 ftp://ftp.telefragged.com/pub/oak/arena02.zip
 
+# ACEnOak
+# ACEOak01.zip
+http://www.quake2.com/oak/files/ACEOak01.zip
+
+# ACEvsEraser
+# ACEvsEraser.zip
+http://www.telefragged.com/oak/files/ACEvsEraser.zip
+
+
+
+
+
