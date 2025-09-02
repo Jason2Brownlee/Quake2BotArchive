@@ -219,17 +219,35 @@ Famkebot
 		https://web.archive.org/web/20000307170337/http://tux.telefragged.com/file.pl?filename=fb70gx86.zip&dir=telefragged/thefatal/
 	https://richwhitehouse.com
 		https://richwhitehouse.com/index.php?content=inc_projects.php&showcat=Quake%20II
-3rd-Zigock Bot / 2
+3rd-Zigock Bot / 3ZB1
 	by "ponpoko"
 	http://users.jp.tri6.net/~ponpoko/stupid.html
 		https://web.archive.org/web/19981206172639/http://users.jp.tri6.net/~ponpoko/stupid.html
 		https://web.archive.org/web/*/http://users.jp.tri6.net/~ponpoko/stupid.html*
-		https://web.archive.org/web/19981206172639/http://users.jp.tri6.net/~ponpoko/3zb158.zip
+		https://web.archive.org/web/20000601181622/http://users.jp.tri6.net:80/~ponpoko/3zb151.zip
+		https://web.archive.org/web/20000520100344/http://users.jp.tri6.net:80/~ponpoko/3zb155.zip
+		https://web.archive.org/web/20000519224931/http://users.jp.tri6.net:80/~ponpoko/3zb156.zip
+		https://web.archive.org/web/20000528210608/http://users.jp.tri6.net:80/~ponpoko/3zb158.zip
 	http://www.jp.tri6.net/~ponpoko/stupid.html
-		?
+		https://web.archive.org/web/*/http://www.jp.tri6.net/~ponpoko*
 	http://ponpoko.tri6.net/stupid.html
 		https://web.archive.org/web/20001018210943/http://ponpoko.tri6.net/stupid.html
-		https://web.archive.org/web/*/http://ponpoko.tri6.net/stupid.html*
+		https://web.archive.org/web/*/http://ponpoko.tri6.net/*
+		https://web.archive.org/web/20160618060808*/http://ponpoko.tri6.net/3zb158.zip
+3rd-Zigock Bot 2 / 3ZB2
+		by "ponpoko"
+		http://users.jp.tri6.net/~ponpoko
+			https://web.archive.org/web/20160426205324/http://users.jp.tri6.net/~ponpoko/3zb2097.zip
+			https://web.archive.org/web/20160426205324/http://users.jp.tri6.net/~ponpoko/3zb2097d.zip
+			https://web.archive.org/web/20000518005422/http://users.jp.tri6.net:80/~ponpoko/3zb2087.zip
+			https://web.archive.org/web/20010604041920/http://users.jp.tri6.net:80/~ponpoko/3zb2089u.zip
+	http://www.jp.tri6.net/~ponpoko/
+		https://web.archive.org/web/*/http://www.jp.tri6.net/~ponpoko*
+		https://web.archive.org/web/20010604042013/http://www.jp.tri6.net:80/~ponpoko/3zb2089u.zip
+	http://ponpoko.tri6.net/
+		https://web.archive.org/web/*/http://ponpoko.tri6.net/*
+		https://web.archive.org/web/20160426205325/http://ponpoko.tri6.net/3zb2097.zip
+		https://web.archive.org/web/20160426205325/http://ponpoko.tri6.net/3zb2097d.zip
 SecantBot
 	for Tangential mod
 	http://www.planetquake.com/tangential/

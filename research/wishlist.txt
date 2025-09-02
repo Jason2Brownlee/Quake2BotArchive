@@ -11,15 +11,15 @@
 3zb157.zip
 
 # 3rd-Zigock Bot 2
-3zb2089u.zip
+3zb205beta.zip
 3zb207.zip
 3zb208.zip
 3zb2087.zip
+3zb2089u.zip
 3zb2093.zip
 3zb2093_x86.zip
-3zb205beta.zip
 3zb2097b.zip
-3zb2src97.zip
+3zb2src93.zip
 
 # acebot
 ace006.zip
