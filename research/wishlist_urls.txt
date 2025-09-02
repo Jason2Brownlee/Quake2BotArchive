@@ -461,3 +461,10 @@ http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eras
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx30_sparc_solaris.tar.gz
 http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx30_sparc_solaris.tar.gz
 http://www.fileplanet.com/dl/dl.asp?expert/eraserx30_sparc_solaris.tar.gz
+
+# eraser ultra
+# ultra35.zip
+http://members.xoom.com/DexSin/files/ultra35.zip
+http://www.cod.dk/files/quake2/ultra35.zip
+
+

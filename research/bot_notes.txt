@@ -215,6 +215,12 @@ Eraser ULTRA
 	reality.sgi.com/rhess_engr/irix/q2/ultra
 		https://web.archive.org/web/20000816191113/http://reality.sgi.com/rhess_engr/irix/q2/ultra/
 		https://web.archive.org/web/20000816191113/http://reality.sgi.com/rhess_engr/irix/q2/ultra/ultra_mips.tgz
+	news
+		https://www.bluesnews.com/s/3138/new-eraser-ultra-bot-released
+		https://www.bluesnews.com/archives/oct98-3.html
+			v0.27
+		http://forum.tastyspleen.net/quake/index.php?topic=12466.0
+			0.47
 EraserX
 	Author: Max Lee aka "Fahrenheit"
 	Expert For Quake2: EraserX
