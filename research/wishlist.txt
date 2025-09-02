@@ -20,6 +20,17 @@
 3zb2093_x86.zip
 3zb2097b.zip
 3zb2src93.zip
+# guesses (unconfirmed)
+3zb206.zip
+3zb2085.zip
+3zb2086.zip
+3zb2088.zip
+3zb2090.zip
+3zb2091.zip
+3zb2092.zip
+3zb2094.zip
+3zb2095.zip
+3zb2096.zip
 
 # acebot
 ace006.zip
