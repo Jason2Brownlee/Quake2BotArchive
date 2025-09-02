@@ -466,5 +466,11 @@ http://www.fileplanet.com/dl/dl.asp?expert/eraserx30_sparc_solaris.tar.gz
 # ultra35.zip
 http://members.xoom.com/DexSin/files/ultra35.zip
 http://www.cod.dk/files/quake2/ultra35.zip
+http://quake.catchnet.com.au/models/ultra35.zip
+http://www.botepidemic.com/q2rfd/files/bots/ultra/ultra35.zip
+# linux-ultra35.zip
+http://www.botepidemic.com/q2rfd/files/bots/ultra/linux-ultra35.zip
+# mac_eraserultra40.sit.bin
+http://railgun.macquakeinfinity.com/downloads/mac_eraserultra40.sit.bin
 
 
