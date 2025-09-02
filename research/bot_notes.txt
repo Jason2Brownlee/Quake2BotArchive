@@ -148,7 +148,7 @@ Oak II Bot, Oak 2
 		https://web.archive.org/web/*/http://www.quake2.com/oak/*
 	http://www.planetquake.com/oak
 		https://web.archive.org/web/*/http://www.planetquake.com/oak*
-neural bot
+Neural Bot
 	by Ono-Sendai
 	Nicholas Chapman aka "Ono-Sendai"
 	https://www.reddit.com/r/programming/comments/15xdsa/neuralbot_a_quake_2_evolving_artificial/
@@ -177,10 +177,7 @@ neural bot
 		https://web.archive.org/web/20000606233542/http://tux.telefragged.com/file.pl?filename=nbdemos.zip&dir=telefragged/be/neuralbot/
 	https://github.com/Ono-Sendai
 	https://forwardscattering.org/
-eraser bot + ctf
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser0312.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser0312.exe
-eraser bot
+Eraser bot
 	Website: http://impact.frag.com
 	Author: Ryan 'Ridah' Feltrin
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/idgames2/frag.com/impact/Eraser101_Full.exe
@@ -196,10 +193,15 @@ eraser ultra / EraserULTRA (eraser)
 EraserX
 	Website: http://www.planetquake.com/expert
 	Author: Max 'Fahrenheit' Lee
-the goldsoft bot
+GoldSoft Bots
+	"fixed" version of 3ZB2
+	by Kamensk Clan
 	http://kamensk.far.ru/files/q2.htm
+		https://web.archive.org/web/*/http://kamensk.far.ru/*
 		https://web.archive.org/web/20020608181207/http://kamensk.far.ru/files/q2.htm
 		https://web.archive.org/web/20020608181207/http://kamensk.far.ru/files/q2/gsb.zip
+	repack:
+		http://www.angelfire.com/mt2/quakebots/gsb.zip
 ICE Bot
 	Website: http://www.planetquake.com/ice
 	Author: jibe

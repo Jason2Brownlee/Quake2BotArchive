@@ -390,3 +390,7 @@ http://www.emux.com/rambot/files/rambot_v47.zip
 # borrador-bin.zip
 ftp://ftp.cdrom.com/pub/quake2/dlls/bots/borrador-bin.zip
 
+# GoldSoft Bots
+# gsb.zip
+http://kamensk.far.ru/files/q2/gsb.zip
+

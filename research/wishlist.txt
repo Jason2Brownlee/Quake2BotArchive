@@ -182,3 +182,6 @@ rambot_v47.zip
 
 # borrador bot
 borrador-bin.zip
+
+# GoldSoft Bots
+gsb.zip
