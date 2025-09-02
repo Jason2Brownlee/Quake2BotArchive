@@ -185,11 +185,36 @@ Eraser bot
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/idgames2/frag.com/impact/Eraser101_patch.zip
 	https://web.archive.org/web/20000421144249/http://impact.frag.com/files/Eraser0618.zip
 	https://web.archive.org/web/20000421144249/http://impact.frag.com/files/Eraser0618_patch.zip
-eraser ultra / EraserULTRA (eraser)
+Eraser ULTRA
+	Anthony Jacques aka "AnthonyJ"
 	http://ultra.quake2.co.uk
-	AnthonyJ
-	https://web.archive.org/web/20000421144249/http://www.users.zetnet.co.uk/jacquesa/q2/ultra.zip
-	https://web.archive.org/web/20000421144249/http://www.users.zetnet.co.uk/jacquesa/q2/patch.zip
+		https://web.archive.org/web/*/http://ultra.quake2.co.uk*
+		https://web.archive.org/web/20000818043642/http://ultra.quake2.co.uk:80/ultra40-src.zip
+		https://web.archive.org/web/20000818062156/http://ultra.quake2.co.uk:80/ultra40.zip
+		https://web.archive.org/web/19991012175426/http://ultra.quake2.co.uk:80/download.htm
+			https://web.archive.org/web/19991012175426/http://ultra.quake2.co.uk:80/ultra35.zip
+			https://web.archive.org/web/19991012175426/http://ultra.quake2.co.uk:80/linux-ultra35.zip
+			https://web.archive.org/web/19991012175426/http://ultra.quake2.co.uk:80/ultra_x86.zip
+			https://web.archive.org/web/19991012175426/http://ultra.quake2.co.uk:80/ultra_mips.zip
+			https://web.archive.org/web/19991012175426/http://ultra.quake2.co.uk:80/EraserULTRA27b1.sit.bin
+			https://web.archive.org/web/19991012175426/http://www.planetquake.com/dl/dl.asp?outpost/q2dm_ul.zip
+			https://web.archive.org/web/19991012175426/http://ultra.quake2.co.uk:80/demos.zip
+	http://www.users.zetnet.co.uk/jacquesa
+		https://web.archive.org/web/19970722012607/http://www.users.zetnet.co.uk/jacquesa/
+		https://web.archive.org/web/*/users.zetnet.co.uk/jacquesa*
+		https://web.archive.org/web/20000421144249/http://www.users.zetnet.co.uk/jacquesa/q2/ultra.zip
+		https://web.archive.org/web/20000421144249/http://www.users.zetnet.co.uk/jacquesa/q2/patch.zip
+	jacquesa.freeserve.co.uk
+		https://web.archive.org/web/*/jacquesa.freeserve.co.uk*
+		https://web.archive.org/web/20001101160602/http://www.jacquesa.freeserve.co.uk:80/
+	btinternet.com/~anthonyj
+		http://www.btinternet.com/~anthonyj/EraserULTRA/ultra47.zip
+		https://web.archive.org/web/*/btinternet.com/~anthonyj*
+		https://web.archive.org/web/20010424114739/http://www.btinternet.com/~AnthonyJ/
+		https://web.archive.org/web/20110109022749/http://www.btinternet.com:80/~AnthonyJ/EraserULTRA
+	reality.sgi.com/rhess_engr/irix/q2/ultra
+		https://web.archive.org/web/20000816191113/http://reality.sgi.com/rhess_engr/irix/q2/ultra/
+		https://web.archive.org/web/20000816191113/http://reality.sgi.com/rhess_engr/irix/q2/ultra/ultra_mips.tgz
 EraserX
 	Author: Max Lee aka "Fahrenheit"
 	Expert For Quake2: EraserX
@@ -199,7 +224,6 @@ EraserX
 		https://web.archive.org/web/19981203165023/http://asp.planetquake.com/dl/dl.asp?expert/eraserx012.zip
 		https://web.archive.org/web/19990218103258/http://www.planetquake.com/dl/dl.asp?expert/eraserx30.zip
 		https://web.archive.org/web/19991104153307/http://www.fileplanet.com/dl/dl.asp?expert/eraserx303.zip
-
 GoldSoft Bots
 	"fixed" version of 3ZB2
 	by Kamensk Clan
