@@ -6,7 +6,6 @@ http://www.quake2.com/oak/ace006.zip
 # ace006b.zip
 http://www.quake2.com/oak/ace006b.zip
 
-
 # crbot
 # crbot097.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot097.zip
@@ -207,6 +206,16 @@ http://www.bluesnews.com/files/quake2/bots/Eraser0_1a.zip
 http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/news/Eraser0_1a.zip
 http://www.quake.org.pl/files/Eraser0_1a.zip
 http://www.quake2.com/earth/patches/eraser/Eraser0_1a.zip
+
+# Famkebot
+# fb65gx86.zip
+ftp://ftp.epix.net/pub/telefragged/thefatal/fb65gx86.zip
+ftp://ftp.saix.net/pub/telefragged/thefatal/fb65gx86.zip
+ftp://ftp.telefragged.com/thefatal/fb65gx86.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/thefatal/fb65gx86.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/thefatal/fb65gx86.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/thefatal/fb65gx86.zip
+http://www.telefragged.com/mirrors/mirror.pl?thefatal/fb65gx86.zip
 
 # gladiator
 # gladq2 08.zip

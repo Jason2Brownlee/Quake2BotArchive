@@ -219,18 +219,17 @@ Famkebot
 		https://web.archive.org/web/20000307170337/http://tux.telefragged.com/file.pl?filename=fb70gx86.zip&dir=telefragged/thefatal/
 	https://richwhitehouse.com
 		https://richwhitehouse.com/index.php?content=inc_projects.php&showcat=Quake%20II
-FamkeBot CTF
-	Website: http://www.telefragged.com/thefatal
-	Author: Rich Whitehouse
-	https://web.archive.org/web/20000303090553/http://www.quake2.com/famkebot/
-	https://www.richwhitehouse.com/index.php?content=inc_res.php
-
-3zb2 bot
-	3ZB, 3ZB II: Rago
-	3rd-Zigock, 3rd-Zigock II
-	by Ponpoko
-	http://users.jp.tri6.net/~ponpoko
-	https://web.archive.org/web/20000421144249/http://users.jp.tri6.net/~ponpoko/3zb158.zip
+3rd-Zigock Bot / 2
+	by "ponpoko"
+	http://users.jp.tri6.net/~ponpoko/stupid.html
+		https://web.archive.org/web/19981206172639/http://users.jp.tri6.net/~ponpoko/stupid.html
+		https://web.archive.org/web/*/http://users.jp.tri6.net/~ponpoko/stupid.html*
+		https://web.archive.org/web/19981206172639/http://users.jp.tri6.net/~ponpoko/3zb158.zip
+	http://www.jp.tri6.net/~ponpoko/stupid.html
+		?
+	http://ponpoko.tri6.net/stupid.html
+		https://web.archive.org/web/20001018210943/http://ponpoko.tri6.net/stupid.html
+		https://web.archive.org/web/*/http://ponpoko.tri6.net/stupid.html*
 SecantBot
 	for Tangential mod
 	http://www.planetquake.com/tangential/
