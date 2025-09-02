@@ -108,10 +108,10 @@ BorrAdor BoT
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/borrador2.1-bin.zip
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/borrador2.1-readme.txt
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/borrador2.1-routes.zip
-oak rocket arena bot
-	RA2 Bot
-	Website: http://www.telefragged.com/oak
-	Author: John 'Spartan' Crickett
+Rocket Arena Oak
+	John Crickett
+	http://www.telefragged.com/oak
+		https://web.archive.org/web/20000303165602/http://www.telefragged.com/mirrors/mirror.pl?oak/arena03.zip
 Oak II Bot, Oak 2
 	Author: John 'Spartan' Crickett
 	ftp://ftp.cdrom.com

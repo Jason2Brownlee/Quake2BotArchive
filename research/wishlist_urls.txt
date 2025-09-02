@@ -336,5 +336,22 @@ http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation
 http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbot_06.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=nbot_06.zip&dir=telefragged/be/neuralbot/
 
+# Oak II
+# OakII_01.zip
+http://www.quake2.com/oak/files/OakII_01.zip
+# OakII_01a.zip
+http://www.quake2.com/oak/files/OakII_01a.zip
+# OakII_021.zip
+http://www.quake2.com/oak/files/OakII_021.zip
+# OakII_022.zip
+http://www.quake2.com/oak/files/OakII_022.zip
+# OakII_03.zip
+ftp://quake.mtu.ru/pub/quake2/bots/oakii_03.zip
+http://www.quake2.com/oak/files/OakII_03.zip
+# OakII_033.zip
+ftp://ftp.telefragged.com/pub/oak/OakII_033.zip
 
+# Rocket Arena Oak
+# arena02.zip
+ftp://ftp.telefragged.com/pub/oak/arena02.zip
 

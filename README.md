@@ -27,6 +27,7 @@ Famkebot | Rich Whitehouse | [famkebot_110.zip](bin/famkebot_110.zip)<br>[famkeb
 Gladiator | Jan Paul van Waveren aka "Mr. Elusive" | gladq208.zip<br>gladq209.zip<br>[gladq209gamesrc.zip](bin/gladq209gamesrc.zip)<br>gladq2091.zip<br>gladq2091gamesrc.zip<br>gladq2092.zip<br>gladq2092gamesrca.zip<br>gladq2093_win32-x86.zip<br>[gladq2094_win32-x86.exe](bin/gladq2094_win32-x86.exe)<br>[gladq2095.exe](bin/gladq2095.exe)<br>[gladq2095_win32-x86.exe](bin/gladq2095_win32-x86.exe)<br>[gladq2096_win32-x86.exe](bin/gladq2096_win32-x86.exe)<br>[gladq2096gamesrc.zip](bin/gladq2096gamesrc.zip)<br>[gladq2096_linux-x86-glibc.tar.gz](bin/gladq2096_linux-x86-glibc.tar.gz)<br>[gladq2096_linux-x86-libc5.tar.gz](bin/gladq2096_linux-x86-libc5.tar.gz)
 Neural Bot | Nicholas Chapman aka "Ono-Sendai" | nbot_05.zip<br>nbotsource_05.zip<br>nbot_06.zip<br>[nbot_06_2_.zip](bin/nbot_06_2_.zip)<br>[nbotsource_06.zip](bin/nbotsource_06.zip)
 Oak II Bot | John Crickett | OakII_01.zip<br>OakII_01a.zip<br>[OakII_02.zip](bin/oakii_02.zip)<br>OakII_021.zip<br>OakII_022.zip<br>OakII_03.zip<br>OakII_033.zip<br>[Oak040F.zip](bin/Oak040F.zip)<br>[Oak040S.zip](bin/Oak040S.zip)
+Rocket Arena Oak (RA2 + OakII) | John Crickett | arena01.zip<br>arena02.zip<br>[arena03.zip](bin/arena03.zip)
 
 ## Help
 

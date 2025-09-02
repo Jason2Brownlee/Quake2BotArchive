@@ -1,1 +1,30 @@
 # wishlist url exclusions (false positives)
+
+# arena01.zip
+ftp://ftp.cdrom.com/.4/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1999/Maps/ARENA01.zip
+http://ftp.planetmirror.com/pub/idgames2/levels/deathmatch/a-c/arena01.zip
+http://ftp.sunet.se/idgames2/levels/deathmatch/a-c/arena01.zip
+http://ftp.sunet.se/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
+http://quake2.usww.com/downloads/arena01.zip
+http://quakerepo.net/deathmatch/maps/arena01.zip
+http://winsoft.net.au/~stephen/quake/maps/quake2/ARENA01.ZIP
+http://www.fortunecity.com/underworld/continue/1057/Download/arena01.zip
+http://www.fortunecity.com/underworld/rpg/479/Arena01.zip
+http://www.gamers.org/pub/games/idgames2/levels/deathmatch/a-c/arena01.zip
+http://www.gamers.org/pub/idgames2/levels/deathmatch/a-c/arena01.zip
+https://www.quaddicted.com/files/idgames2/levels/deathmatch/a-c/arena01.zip
+https://www.quaddicted.com/files/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
+https://www.quaddicted.com/files/maps/multiplayer/arena01.zip
+https://www.quaddicted.com/files/mirrors/quakerepo.net/deathmatch/maps/arena01.zip
+# arena02.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1999/Maps/ARENA02.zip
+http://ftp.planetmirror.com/pub/idgames2/levels/deathmatch/a-c/arena02.zip
+http://ftp.sunet.se/idgames2/levels/deathmatch/a-c/arena02.zip
+http://quakerepo.net/deathmatch/maps/arena02.zip
+http://www.gamers.org/pub/games/idgames2/levels/deathmatch/a-c/arena02.zip
+http://www.gamers.org/pub/idgames2/levels/deathmatch/a-c/arena02.zip
+https://www.quaddicted.com/files/idgames2/levels/deathmatch/a-c/arena02.zip
+https://www.quaddicted.com/files/maps/multiplayer/arena02.zip
+https://www.quaddicted.com/files/mirrors/quakerepo.net/deathmatch/maps/arena02.zip
