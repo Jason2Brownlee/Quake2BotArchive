@@ -37,9 +37,10 @@ ICE Bot | "jibe" | ice_01-011.zip<br>ice_011.zip<br>ice_011-02.zip<br>ice_02.zip
 JABot | "jalisko" | [JABot-Q2-0.9.zip](bin/JABot-Q2-0.9.zip)<br>[JABot-Q2-0.9-Linux.tar.bz2](bin/JABot-Q2-0.9-Linux.tar.bz2)<br>[JABot-0.9-Linux.Bin.src.tar.bz2](bin/JABot-0.9-Linux.Bin.src.tar.bz2)<br>jabot902win32bin.zip<br>JABot-Q2-0.92-src.zip<br>[JABot-Q2-0.9.3.zip](bin/JABot-Q2-0.9.3.zip)<br>[JABot-0.93-bot-chat.tar.bz2](bin/JABot-0.93-bot-chat.tar.bz2)<br>[JABot-Q2-0.9.3.Linux.tar.bz2](bin/JABot-Q2-0.9.3.Linux.tar.bz2)
 Neural Bot | Nicholas Chapman aka "Ono-Sendai" | nbot_05.zip<br>nbotsource_05.zip<br>nbot_06.zip<br>[nbot_06_2_.zip](bin/nbot_06_2_.zip)<br>[nbotsource_06.zip](bin/nbotsource_06.zip)
 Oak II Bot | John Crickett | OakII_01.zip<br>OakII_01a.zip<br>[OakII_02.zip](bin/oakii_02.zip)<br>OakII_021.zip<br>OakII_022.zip<br>OakII_03.zip<br>OakII_033.zip<br>[Oak040F.zip](bin/Oak040F.zip)<br>[Oak040S.zip](bin/Oak040S.zip)
+RA2 Eraser | David Wright aka "crt" | [ra2eraser.zip](bin/ra2eraser.zip)
 RAMBOT | Ariel Mirles aka "KRYPTYK" | rambot_v47.zip<br>[rambot_v48a.zip](bin/rambot_v48a.zip)<br>[rambot_v49.zip](bin/rambot_v49.zip)
 Rocket Arena Oak (RA2 + OakII) | John Crickett | arena01.zip<br>arena02.zip<br>[arena03.zip](bin/arena03.zip)
-RA2 Eraser | David Wright aka "crt" | [ra2eraser.zip](bin/ra2eraser.zip)
+Rocket Bot | Manfred Nerurkar aka "Defcon-X" | [rbot06.exe](bin/rbot06.exe)<br>[rbot0715.exe](bin/rbot0715.exe)<br>[rbot076.exe](bin/rbot076.exe)<br>[rbot078.exe](bin/rbot078.exe)<br>[rbot078b.exe](bin/rbot078b.exe)<br>[rbot079.exe](bin/rbot079.exe)
 
 ## Help
 

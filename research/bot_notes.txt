@@ -396,7 +396,7 @@ RA2 Eraser
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/servers/arena/ra2eraser.zip
 	By David Wright aka "crt"
 Rocket Bot / RocketArena 2 bot / RA2 Bot (eraser)
-	Author: Defcon-X
+	Author: Manfred Nerurkar aka "Defcon-X"
 	Website: http://www.planetquake.com/arena
 		https://web.archive.org/web/*/http://www.planetquake.com/arena*
 		https://web.archive.org/web/19981205132314/http://www.planetquake.com/arena/
