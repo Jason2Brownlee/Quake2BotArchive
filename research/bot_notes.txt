@@ -240,8 +240,17 @@ GoldSoft Bots
 	repack:
 		http://www.angelfire.com/mt2/quakebots/gsb.zip
 ICE Bot
-	Website: http://www.planetquake.com/ice
 	Author: jibe
+	http://www.planetquake.com/ice
+		https://web.archive.org/web/*/planetquake.com/ice*
+		https://web.archive.org/web/20000815211141/http://www.planetquake.com/ice/
+		https://web.archive.org/web/19990427094925/http://www.planetquake.com/ice/download.htm
+			https://web.archive.org/web/19990427094925/http://www.planetquake.com/dl/dl.asp?ice/ice_10.zip
+			https://web.archive.org/web/19990427094925/http://www.planetquake.com/dl/dl.asp?ice/ice_03-10.zip
+	news
+		http://www.quake2.com/oldnews/12-2-98_1-9-99.html
+			v0.3
+			relocated from where?
 Famkebot
 	Rich Whitehouse
 	http://www.concentric.net/~thefatal/quake.html

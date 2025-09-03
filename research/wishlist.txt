@@ -205,3 +205,14 @@ ultra-27.zip
 ultra-26-linux.zip
 ultra-30.zip
 
+# ice bot
+ice_01-011.zip
+ice_011-02.zip
+ice_011.zip
+ice_02-03.zip
+ice_02.zip
+ice_03.zip
+# guess
+ice_01.zip
+
+
