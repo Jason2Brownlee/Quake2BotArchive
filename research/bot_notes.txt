@@ -486,7 +486,36 @@ BBQBot
 		https://web.archive.org/web/20030609195546/http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv05_upgrade.zip
 	http://planetquake.gamespy.com/bbqbot
 	http://files.quake.ie/q2bbqbot.zip
-
+	https://web.archive.org/web/20050728101452/http://www.altfire.com/files/quake2/bbqbotv05_full.zip
+	https://web.archive.org/web/20050728101452/http://www.altfire.com/files/quake2/bbqbotv05_upgrade.zip
+DroneBot
+	By XoXus
+	planetquake.com/dronebot
+		https://web.archive.org/web/*/planetquake.com/dronebot*
+		https://web.archive.org/web/19991002120739/http://www.planetquake.com/dronebot/frames.htm
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_b01.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_b01.zip
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_a04.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_a02.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_a02.zip
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/snd_pak1.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/snd_pak1.zip
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_a01.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_a01.zip
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_g23.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_g23.zip
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_g22.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_g22.zip
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_g21.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_g21.zip
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_g20.exe
+		https://web.archive.org/web/20021113173623/http://asp.planetquake.com/dl/dl.asp?dronebot/db_g20.zip
+	http://www.planetquake.com/outpost/DABots.html
+		https://web.archive.org/web/20000421144249/http://www.planetquake.com/outpost/DABots.html
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/dronebot/
+	http://www.iinet.net.au:80/~bilbe/main/dronebot.html
+		https://web.archive.org/web/20210804000000*/http://www.iinet.net.au:80/~bilbe/main/dronebot.html
+		https://web.archive.org/web/20000421144249/http://www.iinet.net.au/~bilbe/download/db_g22.zip
 
 
 
@@ -529,11 +558,6 @@ tossbot
 Computer Generated Forces / Action Quake2 Bot
 	http://www.botepidemic.com/aid/cgf
 	William van der Sterren
-DroneBot
-	planetquake.com/dronebot
-	Various, but RiEvEr is the guy doing the bulk (if not all) of the coding.
-	https://web.archive.org/web/20000421144249/http://www.planetquake.com/outpost/DABots.html
-		https://web.archive.org/web/20000421144249/http://www.iinet.net.au/~bilbe/download/db_g22.zip
 Entron
 	http://www.endorproductions.com/entron
 Havoc-Bot
