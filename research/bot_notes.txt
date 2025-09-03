@@ -405,6 +405,11 @@ Frostbot
 		https://www.bluesnews.com/archives/jan98-5.html
 		http://quake2.com/epidemic/frostpre.html
 			dead
+GoodBot
+	https://www.gamers.org
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.txt
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.tar.gz
+
 
 
 TODO
@@ -449,9 +454,6 @@ Navy Fortress
 	https://web.archive.org/web/20000303090553/http://nf.telefragged.com/
 SuicideBot
 	https://web.archive.org/web/20000303090553/http://www.designworx.demon.co.uk/
-GoodBot
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.tar.gz
 The Eraser Bot with Damage Skins / Damage Bot
 	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.txt
 	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.zip
