@@ -39,7 +39,7 @@ Neural Bot | Nicholas Chapman aka "Ono-Sendai" | nbot_05.zip<br>nbotsource_05.zi
 Oak II Bot | John Crickett | OakII_01.zip<br>OakII_01a.zip<br>[OakII_02.zip](bin/oakii_02.zip)<br>OakII_021.zip<br>OakII_022.zip<br>OakII_03.zip<br>OakII_033.zip<br>[Oak040F.zip](bin/Oak040F.zip)<br>[Oak040S.zip](bin/Oak040S.zip)
 RAMBOT | Ariel Mirles aka "KRYPTYK" | rambot_v47.zip<br>[rambot_v48a.zip](bin/rambot_v48a.zip)<br>[rambot_v49.zip](bin/rambot_v49.zip)
 Rocket Arena Oak (RA2 + OakII) | John Crickett | arena01.zip<br>arena02.zip<br>[arena03.zip](bin/arena03.zip)
-
+RA2 Eraser | David Wright aka "crt" | [ra2eraser.zip](bin/ra2eraser.zip)
 
 ## Help
 
