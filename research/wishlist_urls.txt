@@ -470,8 +470,10 @@ http://members.xoom.com/DexSin/files/ultra35.zip
 http://www.cod.dk/files/quake2/ultra35.zip
 http://quake.catchnet.com.au/models/ultra35.zip
 http://www.botepidemic.com/q2rfd/files/bots/ultra/ultra35.zip
+http://ultra.quake2.co.uk/ultra35.zip
 # linux-ultra35.zip
 http://www.botepidemic.com/q2rfd/files/bots/ultra/linux-ultra35.zip
+http://ultra.quake2.co.uk/linux-ultra35.zip
 # mac_eraserultra40.sit.bin
 http://railgun.macquakeinfinity.com/downloads/mac_eraserultra40.sit.bin
 # ultra.zip
@@ -485,5 +487,37 @@ http://ultra.quake2.co.uk/ultra-27.zip
 http://quake.org.pl/files/quake2/boty/ultra/ultra-26-linux.zip
 # ultra-30.zip
 http://ultra.quake2.co.uk/ultra-30.zip
+
+# ice bot
+# ice_01-011.zip
+http://planetquake.com/ice/download/ice_01-011.zip
+http://www.planetquake.com/ice/download/ice_01-011.zip
+# ice_011-02.zip
+http://ftp.sunet.se/planetquake/ice/ice_011-02.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ice/ice_011-02.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ice_011-02.zip
+http://mirror.aarnet.edu.au/games/planetquake/ice/ice_011-02.zip
+http://mirror.aarnet.edu.au/games/planetquake/ice_011-02.zip
+# ice_011.zip
+http://planetquake.com/ice/download/ice_011.zip
+http://www.planetquake.com/ice/download/ice_011.zip
+# ice_02-03.zip
+http://ftp.sunet.se/planetquake/ice/ice_02-03.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ice/ice_02-03.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ice_02-03.zip
+http://mirror.aarnet.edu.au/games/planetquake/ice/ice_02-03.zip
+http://mirror.aarnet.edu.au/games/planetquake/ice_02-03.zip
+# ice_02.zip
+http://ftp.sunet.se/planetquake/ice/ice_02.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ice/ice_02.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ice_02.zip
+http://mirror.aarnet.edu.au/games/planetquake/ice/ice_02.zip
+http://mirror.aarnet.edu.au/games/planetquake/ice_02.zip
+# ice_03.zip
+http://ftp.sunet.se/planetquake/ice/ice_03.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ice/ice_03.zip
+http://mirror.aarnet.edu.au/games/planetquake/ice/ice_03.zip
+http://mirror.aarnet.edu.au/games/planetquake/ice_03.zip
+http://www.planetquake.com/dl/dl.asp?ice/ice_03.zip
 
 
