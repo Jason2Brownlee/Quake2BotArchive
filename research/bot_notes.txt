@@ -438,6 +438,14 @@ DEraser (eraser)
 		http://quake.org.pl/files/quake2/boty/deraser/deraser.zip
 		http://www.markwheeler.com/binaries/deraser.zip
 		http://www.markwheeler.com/deraser.zip
+RAIL ARENA
+	Author: Sumfuka
+	http://www.planetquake.com/rail
+		https://web.archive.org/web/*/http://www.planetquake.com/rail*
+		https://web.archive.org/web/19981202111142/http://www.planetquake.com/rail/
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/rail/
+		v1.2
+
 
 
 
@@ -482,7 +490,6 @@ tossbot
 Computer Generated Forces / Action Quake2 Bot
 	http://www.botepidemic.com/aid/cgf
 	William van der Sterren
-
 DroneBot
 	planetquake.com/dronebot
 	Various, but RiEvEr is the guy doing the bulk (if not all) of the coding.
@@ -513,9 +520,7 @@ Ninja Eraser (eraser)
 Pandora Bot
 	Website: http://www.opt-sci.arizona.edu/Pandora
 	Author: Darrin 'Roark' Cullop
-RAIL ARENA
-	Website: http://www.planetquake.com/rail
-	Author: Sumfuka
+
 
 
 
