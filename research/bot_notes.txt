@@ -547,21 +547,31 @@ Pandora Bot
 		https://web.archive.org/web/20001011064634/http://www.optics.arizona.edu:80/Pandora/Downloads/pandora200_source.zip
 		https://web.archive.org/web/20000831155028/http://www.optics.arizona.edu/Pandora/Downloads/PandoraSkin.zip
 	https://www.quaddicted.com/files/idgames2/quake2/graphics/skins/p-r/pandoraskin.zip
+SecantBot (Tangential)
+	for Tangential mod
+	Anthony Yuen aka "Tangent"
+	http://www.planetquake.com/tangential/
+	https://web.archive.org/web/*/planetquake.com/tangential*
+		https://web.archive.org/web/19981206060844/http://www.planetquake.com/tangential/
+		https://web.archive.org/web/20000524141103fw_/http://planetquake.com/tangential/SecantBot.html
+		https://web.archive.org/web/20000309141029fw_/http://planetquake.com/tangential/Download.html
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_100.zip
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_111.zip
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_120.zip
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_130.zip
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_140.zip
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_145.zip
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_151.zip
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_160_Win32.zip
+		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_160_Linux.zip
+	https://www.gamers.org/pub/idgames2/planetquake/tangential/
 
 
 
 
 TODO
 --------------------------------------------------------------------------------
-SecantBot
-	for Tangential mod
-	http://www.planetquake.com/tangential/
-		https://web.archive.org/web/19981206060844/http://www.planetquake.com/tangential/
-		https://web.archive.org/web/20000524141103fw_/http://planetquake.com/tangential/SecantBot.html
-		https://web.archive.org/web/20000309141029fw_/http://planetquake.com/tangential/Download.html
-	Website: http://www.planetquake.com/tangential
-	Authors: Anthony 'Tangent-' Yuen
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/tangential/Tangential_160_Win32.zip
+
 S.A.B.I.N.
 	Website: http://www.planetquake.com/botshop/sabin
 	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
@@ -614,6 +624,7 @@ SuicideBot / Suicide Bot
 		https://web.archive.org/web/19981111185132/http://www.designworx.demon.co.uk/
 		https://web.archive.org/web/*/http://www.designworx.demon.co.uk/*
 		?
-
+OniBot (Tangential)
+	https://web.archive.org/web/20000621203132fw/http://planetquake.com/tangential/OniBot.html
 
 
