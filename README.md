@@ -47,7 +47,7 @@ RA2 Eraser | David Wright aka "crt" | [ra2eraser.zip](bin/ra2eraser.zip)
 RAMBOT | Ariel Mirles aka "KRYPTYK" | rambot_v47.zip<br>[rambot_v48a.zip](bin/rambot_v48a.zip)<br>[rambot_v49.zip](bin/rambot_v49.zip)
 Rail Arena (Eraser) | "Sumfuka" | [rail12.zip](bin/rail12.zip)<br>[rail12_src.zip](bin/rail12_src.zip)<br>[rail_arena_1.2_linux.zip](bin/rail_arena_1.2_linux.zip)<br>[rail_12_sparc.tar.gz](bin/rail_12_sparc.tar.gz)<br>[rail_12_solx86.tar.gz](bin/rail_12_solx86.tar.gz)
 Rocket Arena Oak (RA2 + OakII) | John Crickett | arena01.zip<br>arena02.zip<br>[arena03.zip](bin/arena03.zip)
-Rocket Bot (RA2) | Manfred Nerurkar aka "Defcon-X" | [rbot06.exe](bin/rbot06.exe)<br>rbot07.exe<br>[rbot0715.exe](bin/rbot0715.exe)<br>[rbot076.exe](bin/rbot076.exe)<br>[rbot078.exe](bin/rbot078.exe)<br>[rbot078b.exe](bin/rbot078b.exe)<br>[rbot079.exe](bin/rbot079.exe)
+Rocket Bot (RA2) | Manfred Nerurkar aka "Defcon-X" | [rbot06.exe](bin/rbot06.exe)<br>[rbot07.exe](bin/rbot07.exe)<br>[rbot0715.exe](bin/rbot0715.exe)<br>[rbot076.exe](bin/rbot076.exe)<br>[rbot078.exe](bin/rbot078.exe)<br>[rbot078b.exe](bin/rbot078b.exe)<br>[rbot079.exe](bin/rbot079.exe)
 Stool Pigeon | "RottenTurd" | [stoolbot.zip](bin/stoolbot.zip)
 
 ## Help

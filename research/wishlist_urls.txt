@@ -520,4 +520,67 @@ http://mirror.aarnet.edu.au/games/planetquake/ice/ice_03.zip
 http://mirror.aarnet.edu.au/games/planetquake/ice_03.zip
 http://www.planetquake.com/dl/dl.asp?ice/ice_03.zip
 
+# niq
+# niq-linux-1.9.tgz
+ftp://ftp.cdrom.com/pub/planetquake/niq/niq-linux-1.9.tgz
+ftp://ftp.epix.net/pub/idgames2/planetquake/niq/niq-linux-1.9.tgz
+ftp://ftp.gamers.org/pub/mirrors/ftp.planetquake.com/niq/niq-linux-1.9.tgz
+ftp://ftp.iis.com.br/pub/mirror/Quake/planetquake/niq/niq-linux-1.9.tgz
+ftp://ftp.linuxquake.com/pub/idgames2/planetquake/niq/niq-linux-1.9.tgz
+ftp://ftp.livewire.com.au/pub/planetquake/niq/niq-linux-1.9.tgz
+ftp://ftp.questnet.net.au/pub/planetquake/niq/niq-linux-1.9.tgz
+ftp://mirrors.xmission.com/planetquake/niq/niq-linux-1.9.tgz
+ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/niq/niq-linux-1.9.tgz
+http://asp.planetquake.com/dl/dl.asp?niq/niq-linux-1.9.tgz
+http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq-linux-1.9.tgz
+http://ftp.sunet.se/planetquake/niq/niq-linux-1.9.tgz
+http://ftp.telepac.pt/pub/idgames2/planetquake/niq/niq-linux-1.9.tgz
+http://mirror.aarnet.edu.au/games/planetquake/niq/niq-linux-1.9.tgz
+http://mirrors.telepac.pt/pub/idgames2/planetquake/niq/niq-linux-1.9.tgz
+# niq17.zip
+ftp://ftp.cdrom.com/pub/planetquake/niq/niq17.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq17.zip
+http://ftp.sunet.se/planetquake/niq/niq17.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq/niq17.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq17.zip
+# niq19.zip
+ftp://ftp.cdrom.com/pub/planetquake/niq/niq19.zip
+http://asp.planetquake.com/dl/dl.asp?niq/niq19.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq19.zip
+http://ftp.sunet.se/planetquake/niq/niq19.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq/niq19.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq19.zip
+# niq192.zip
+http://asp.planetquake.com/dl/dl.asp?niq/niq192.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq192.zip
+http://ftp.sunet.se/planetquake/niq/niq192.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq/niq192.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq192.zip
+http://quake.org.pl/files/quake2/niq/niq192.zip
+http://www.planetquake.com/niq/files/niq192.zip
+# niq192sc.zip
+http://asp.planetquake.com/dl/dl.asp?niq/niq192sc.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq192sc.zip
+http://ftp.sunet.se/planetquake/niq/niq192sc.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq/niq192sc.zip
+# niq194.zip
+http://asp.planetquake.com/dl/dl.asp?niq/niq194.zip
+http://www.planetquake.com/niq/files/niq194.zip
+# niq194sc.zip
+http://asp.planetquake.com/dl/dl.asp?niq/niq194sc.zip
+http://www.planetquake.com/niq/files/niq194sc.zip
+# niq19a.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq19a.zip
+http://ftp.sunet.se/planetquake/niq/niq19a.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq/niq19a.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq19a.zip
+# niq19src.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq19src.zip
+http://ftp.sunet.se/planetquake/niq/niq19src.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq/niq19src.zip
+http://mirror.aarnet.edu.au/games/planetquake/niq19src.zip
+http://quake.org.pl/files/quake2/niq/niq19src.zip
+http://www.planetquake.com/niq/files/niq19src.zip
+
+
 
