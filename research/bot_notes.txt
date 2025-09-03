@@ -525,6 +525,15 @@ Havoc-Bot / ChaosDM
 		https://web.archive.org/web/20000421144249/ftp://ftp.telefragged.com/pub/chaosdm/chaos10.exe
 		https://web.archive.org/web/20000421144249/ftp://ftp.telefragged.com/pub/chaosdm/update103.zip
 	http://www.gamers.org/pub/games/idgames2/planetquake/chaotic/
+HyperQuake (Eraser)
+	Authors
+		Justin Sherfey aka "aNGeLoRD"
+	    Tom Nicholson aka "Anozireth"
+		Hunter Rognstad aka "Hunter"
+		Andrzej Lach aka "Dupeq"
+	http://hyper.telefragged.com
+	http://telefragged.com/hyper
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/hyper/
 
 
 
@@ -574,10 +583,6 @@ Entron
 Holywars + ACE Bot Mod
 	Website: http://www.planetquake.com/redemption
 	Author: RiEvEr
-HyperQuake Eraser (eraser)
-	Website: http://hyper.telefragged.com
-	Author: Flash
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/quake/telefragged/hyper/hyper03full.zip
 LTK (License to Kill)
 	Website: www.planetquake.com/maxtron/ltk
 	Author: RiEvEr
