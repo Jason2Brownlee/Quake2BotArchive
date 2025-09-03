@@ -546,7 +546,7 @@ Pandora Bot
 		https://web.archive.org/web/20010501215544/http://www.optics.arizona.edu/pandora/Downloads/default.asp
 		https://web.archive.org/web/20001011064634/http://www.optics.arizona.edu:80/Pandora/Downloads/pandora200_source.zip
 		https://web.archive.org/web/20000831155028/http://www.optics.arizona.edu/Pandora/Downloads/PandoraSkin.zip
-
+	https://www.quaddicted.com/files/idgames2/quake2/graphics/skins/p-r/pandoraskin.zip
 
 
 
