@@ -392,8 +392,12 @@ RAIL ARENA
 	Website: http://www.planetquake.com/rail
 	Author: Sumfuka
 RocketBot (eraser)
-	Website: http://www.planetquake.com/arena
 	Author: Defcon-X
+	Website: http://www.planetquake.com/arena
+		https://web.archive.org/web/*/http://www.planetquake.com/arena*
+		https://web.archive.org/web/19981205132314/http://www.planetquake.com/arena/
+		https://web.archive.org/web/19990129053545/http://planetquake.com/arena/downloads.html
+
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/servers/arena/ra2eraser.zip
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/idgames2/planetquake/outpost/rbot076.exe
 	rbot078b.exe
