@@ -582,5 +582,20 @@ http://mirror.aarnet.edu.au/games/planetquake/niq19src.zip
 http://quake.org.pl/files/quake2/niq/niq19src.zip
 http://www.planetquake.com/niq/files/niq19src.zip
 
+# bbqbot
+# bbqbot.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbot.zip
+# bbqbotv02.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv02.zip
+# bbqbotv03.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv03.zip
+# bbqbotv05_upgrade.zip
+http://www.altfire.com/files/quake2/bbqbotv05_upgrade.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv05_upgrade.zip
+
+# chaos / havoc
+# update103_linux.zip
+http://quake.org.pl/files/quake2/chaosdm/update103_linux.zip
+
 
 

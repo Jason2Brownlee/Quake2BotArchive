@@ -14,7 +14,8 @@ https://www.randars.com/bots/bots1.html
 https://www.gamers.org/pub/idgames2/quake2/dlls/bots/
 http://quake2.gry-online.pl/dzial.php?id=a__boty
 	https://web.archive.org/web/20040705173722/http://quake2.gry-online.pl/dzial.php?id=a__boty
-
+http://www.planetquake.com/maxtron/bots/quake2.shtml
+	https://web.archive.org/web/20010509143905fw_/http://www.planetquake.com/maxtron/bots/quake2.shtml
 
 Individual Bots
 --------------------------------------------------------------------------------
@@ -588,7 +589,11 @@ Computer Generated Forces (Action Quake2)
 			https://web.archive.org/web/20000104010518/http://tux.telefragged.com/file.pl?filename=cgf_0_81.zip&dir=telefragged/be/cgf/
 			https://web.archive.org/web/20000104010518/http://www.botepidemic.com:80/aid/cgf/docs/cgf_0_81.txt
 		https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
-
+		https://dondeq2.com/2019/01/04/computer-generated-forces-cgf-for-action-quake-2-bots-mission-tactics-and-scripting-in-action/
+Licensed To Kill (LTK) (Action Quake2)
+	Author: RiEvEr
+	planetquake.com/maxtron/ltk
+		https://web.archive.org/web/20000816190517/http://www.planetquake.com/maxtron/ltk/
 
 
 TODO
@@ -618,21 +623,20 @@ The Eraser Bot with Damage Skins / Damage Bot
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
 tossbot
 	https://code.google.com/archive/p/tossbot/
-
 Entron
 	http://www.endorproductions.com/entron
 Holywars + ACE Bot Mod
 	Website: http://www.planetquake.com/redemption
 	Author: RiEvEr
-LTK (License to Kill)
-	Website: www.planetquake.com/maxtron/ltk
-	Author: RiEvEr
+
 Ninja Eraser (eraser)
 	Website: http://www.quake2.com/NinjaQ2
 	Author: eriq@groupsoft.com
 	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
 	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/ninjactf_no3wave.zip
-
+AdionBot
+	https://discmaster.textfiles.com/view/22453/XENIATGM89.iso/E-Mail/Paolo%20Bianco/killer15.zip/manual.html
+	?
 
 
 
