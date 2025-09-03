@@ -565,7 +565,29 @@ SecantBot (Tangential)
 		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_160_Win32.zip
 		https://web.archive.org/web/19990826151653/http://asp.planetquake.com/dl/dl.asp?tangential/Tangential_160_Linux.zip
 	https://www.gamers.org/pub/idgames2/planetquake/tangential/
-
+Computer Generated Forces (Action Quake2)
+	William van der Sterren
+	http://www.botepidemic.com/aid/cgf
+		https://web.archive.org/web/19991004025552/http://www.botepidemic.com/aid/cgf/
+		https://web.archive.org/web/*/http://www.botepidemic.com/aid/cgf*
+			https://web.archive.org/web/20000517234428/http://www.botepidemic.com:80/aid/cgf/downloads/aq2_glass_fx_map.zip
+			https://web.archive.org/web/20001004233251*/http://www.botepidemic.com:80/aid/cgf/downloads/cgf_editplus.zip
+			https://web.archive.org/web/20001005020619*/http://www.botepidemic.com:80/aid/cgf/downloads/cgf_gtedit.zip
+			https://web.archive.org/web/20001005021541*/http://www.botepidemic.com:80/aid/cgf/downloads/cgfmsn_urban_gang.zip
+			https://web.archive.org/web/20001005044910*/http://www.botepidemic.com:80/aid/cgf/downloads/cgfmsn_urban_meeting.zip
+		news
+			https://web.archive.org/web/19991004025552/http://tux.telefragged.com/file.pl?filename=cgfpack_urban2.zip&dir=telefragged/be/cgf/
+		https://web.archive.org/web/19991128070214/http://www.botepidemic.com/aid/cgf/downloads.shtml#launcher
+			https://web.archive.org/web/19991128070214/http://www.botepidemic.com/aid/cgf/downloads/cgf_0_78.txt
+			https://web.archive.org/web/19991128070214/http://tux.telefragged.com/file.pl?filename=cgf_0_78.zip&dir=telefragged/be/
+			https://web.archive.org/web/19991128070214/http://tux.telefragged.com/file.pl?filename=cgf_0_78u.zip&dir=telefragged/be/
+			https://web.archive.org/web/19991128070214/http://tux.telefragged.com/file.pl?filename=cgf_0_77.zip&dir=telefragged/be/
+			https://web.archive.org/web/19991128070214/http://www.botepidemic.com/aid/cgf/downloads/cgfparser.zip
+			https://web.archive.org/web/20000104010518/http://tux.telefragged.com/file.pl?filename=cgf_0_80.zip&dir=telefragged/be/cgf/
+			https://web.archive.org/web/20000104010518/http://tux.telefragged.com/file.pl?filename=cgf_0_81u.zip&dir=telefragged/be/cgf/
+			https://web.archive.org/web/20000104010518/http://tux.telefragged.com/file.pl?filename=cgf_0_81.zip&dir=telefragged/be/cgf/
+			https://web.archive.org/web/20000104010518/http://www.botepidemic.com:80/aid/cgf/docs/cgf_0_81.txt
+		https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
 
 
 
@@ -596,9 +618,7 @@ The Eraser Bot with Damage Skins / Damage Bot
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
 tossbot
 	https://code.google.com/archive/p/tossbot/
-Computer Generated Forces / Action Quake2 Bot
-	http://www.botepidemic.com/aid/cgf
-	William van der Sterren
+
 Entron
 	http://www.endorproductions.com/entron
 Holywars + ACE Bot Mod
@@ -626,5 +646,6 @@ SuicideBot / Suicide Bot
 		?
 OniBot (Tangential)
 	https://web.archive.org/web/20000621203132fw/http://planetquake.com/tangential/OniBot.html
-
+	https://web.archive.org/web/20000818052624/http://www.planetquake.com/maxtron/
+	http://www.botepidemic.com/oni
 
