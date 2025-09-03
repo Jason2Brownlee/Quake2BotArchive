@@ -445,6 +445,18 @@ RAIL ARENA
 		https://web.archive.org/web/19981202111142/http://www.planetquake.com/rail/
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/rail/
 		v1.2
+Pro-Eraser
+	by "Cardiac"
+	Pro-Rocket + Eraser
+	http://www.planetquake.com/pro-rocket/
+		https://web.archive.org/web/*/http://www.planetquake.com/pro-rocket/*
+		https://web.archive.org/web/20000817090110/http://www.planetquake.com/pro-rocket/
+		https://web.archive.org/web/20000608222350fw_/http://www.planetquake.com/pro-rocket/mods/pro-eraser.htm
+		https://web.archive.org/web/20000608222350/http://asp.planetquake.com/dl/dl.asp?pro-rocket/pro-eraser-1.0.zip
+		https://web.archive.org/web/20000608222350/http://asp.planetquake.com/dl/dl.asp?pro-rocket/pro-eraser-1.0.source.zip
+	https://www.quaddicted.com/files/idgames2/planetquake/pro-rocket/
+		https://www.quaddicted.com/files/idgames2/planetquake/pro-rocket/pro-eraser-1.0.source.zip
+		https://www.quaddicted.com/files/idgames2/planetquake/pro-rocket/pro-eraser-1.0.zip
 
 
 
@@ -471,9 +483,6 @@ Viking Mod w/Eraser Bot (eraser)
 WF Bot
 	Website: http://www.captured.com/weaponsfactory
 	Authors: Acrid
-pro-rocket / Pro-Eraser (eraser)
-	https://web.archive.org/web/20000817090110/http://www.planetquake.com/pro-rocket/
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/pro-rocket/pro-eraser-1.0.zip
 Keys 2
 	https://web.archive.org/web/20000817085208/http://www.planetquake.com/keys2/
 Quake2 Basketball

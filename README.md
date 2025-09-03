@@ -42,6 +42,7 @@ JABot | "jalisko" | [JABot-Q2-0.9.zip](bin/JABot-Q2-0.9.zip)<br>[JABot-Q2-0.9-Li
 NIQ Bots (Eraser) | Mike Fox aka "Artful Dodger" | [niq100.zip](bin/niq100.zip)<br>[niq15.zip](bin/niq15.zip)<br>[niqctf15.zip](bin/niqctf15.zip)<br>niq17.zip<br>niq19.zip<br>niq19a.zip<br>niq-linux-1.9.tgz<br>[niq_linux_190.tgz](bin/niq_linux_190.tgz)<br>niq19src.zip<br>niq192.zip<br>niq192sc.zip<br>niq194.zip<br>niq194sc.zip<br>[niq195.zip](bin/niq195.zip)<br>[niq195sc.zip](bin/niq195sc.zip)<br>[niq_linux_195.tgz](bin/niq_linux_195.tgz)
 Neural Bot | Nicholas Chapman aka "Ono-Sendai" | nbot_05.zip<br>nbotsource_05.zip<br>nbot_06.zip<br>[nbot_06_2_.zip](bin/nbot_06_2_.zip)<br>[nbotsource_06.zip](bin/nbotsource_06.zip)
 Oak II Bot | John Crickett | OakII_01.zip<br>OakII_01a.zip<br>[OakII_02.zip](bin/oakii_02.zip)<br>OakII_021.zip<br>OakII_022.zip<br>OakII_03.zip<br>OakII_033.zip<br>[Oak040F.zip](bin/Oak040F.zip)<br>[Oak040S.zip](bin/Oak040S.zip)
+Pro-Eraser | "Cardiac" | [pro-eraser-1.0.zip](bin/pro-eraser-1.0.zip)<br>[pro-eraser-1.0.source.zip](bin/pro-eraser-1.0.source.zip)
 Quake2BotCore | Ben Swartzlander | [q2botcore.zip](bin/q2botcore.zip)<br>[q2bc_src.zip](bin/q2bc_src.zip)
 RA2 Eraser | David Wright aka "crt" | [ra2eraser.zip](bin/ra2eraser.zip)
 RAMBOT | Ariel Mirles aka "KRYPTYK" | rambot_v47.zip<br>[rambot_v48a.zip](bin/rambot_v48a.zip)<br>[rambot_v49.zip](bin/rambot_v49.zip)
