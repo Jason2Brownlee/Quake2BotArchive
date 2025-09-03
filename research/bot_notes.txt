@@ -426,6 +426,18 @@ NIQ Eraser (eraser)
 		https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq17.zip
 		https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq19.zip
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/niq/
+DEraser (eraser)
+	Mark Wheeler
+	http://members.xoom.com/markwheeler/games.html
+		https://web.archive.org/web/20000421144249/http://members.xoom.com/markwheeler/deraser.zip
+	http://www.markwheeler.com/
+		https://web.archive.org/web/20000303090553/http://www.markwheeler.com/
+	deraser.zip
+		http://markwheeler.com/binaries/deraser.zip
+		http://members.xoom.com/markwheeler/deraser.zip
+		http://quake.org.pl/files/quake2/boty/deraser/deraser.zip
+		http://www.markwheeler.com/binaries/deraser.zip
+		http://www.markwheeler.com/deraser.zip
 
 
 
@@ -470,11 +482,7 @@ tossbot
 Computer Generated Forces / Action Quake2 Bot
 	http://www.botepidemic.com/aid/cgf
 	William van der Sterren
-DEraser (eraser)
-	http://members.xoom.com/markwheeler/games.html
-	https://web.archive.org/web/20000303090553/http://www.markwheeler.com/
-	Mark Wheeler
-	https://web.archive.org/web/20000421144249/http://members.xoom.com/markwheeler/deraser.zip
+
 DroneBot
 	planetquake.com/dronebot
 	Various, but RiEvEr is the guy doing the bulk (if not all) of the coding.
