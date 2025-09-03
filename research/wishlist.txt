@@ -203,3 +203,5 @@ mac_eraserultra40.sit.bin
 ultra-26.zip
 ultra-27.zip
 ultra-26-linux.zip
+ultra-30.zip
+
