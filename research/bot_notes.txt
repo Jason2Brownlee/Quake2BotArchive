@@ -2,11 +2,8 @@ Quake II Bot Research Notes
 ===========================
 
 
-
 Lists / Collections of Quake 2 Bots
-------------------
-
-
+--------------------------------------------------------------------------------
 https://www.angelfire.com/mt2/quakebots/
 	https://www.angelfire.com/mt2/quakebots/downloads.html
 http://botepidemic.com/bots/quake2.shtml
@@ -20,8 +17,7 @@ http://quake2.gry-online.pl/dzial.php?id=a__boty
 
 
 Individual Bots
-------------------
-
+--------------------------------------------------------------------------------
 ACE / AceBot
 	Steve Yeager
 	http://www.telefragged.com/ace/
@@ -332,15 +328,6 @@ Famkebot
 		https://web.archive.org/web/20010429202334/http://reality.sgi.com/rhess_engr/beos/q2/3zb2/
 		https://web.archive.org/web/*/http://reality.sgi.com/rhess_engr/beos/q2/3zb2*
 		https://web.archive.org/web/20010429202334/http://reality.sgi.com/rhess_engr/beos/q2/3zb2/3zb2097_x86.zip
-SecantBot
-	for Tangential mod
-	http://www.planetquake.com/tangential/
-		https://web.archive.org/web/19981206060844/http://www.planetquake.com/tangential/
-		https://web.archive.org/web/20000524141103fw_/http://planetquake.com/tangential/SecantBot.html
-		https://web.archive.org/web/20000309141029fw_/http://planetquake.com/tangential/Download.html
-	Website: http://www.planetquake.com/tangential
-	Authors: Anthony 'Tangent-' Yuen
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/tangential/Tangential_160_Win32.zip
 BastardBot
 	Ben Swartzlander
 	client-side bot
@@ -357,6 +344,121 @@ Quake2BotCore
 		https://web.archive.org/web/19991010065518/http://www.telefragged.com:80/Q2BotCore/download.shtml
 		https://web.archive.org/web/19991010065518/http://www.telefragged.com:80/Q2BotCore/q2bc_src.zip
 		https://web.archive.org/web/19991010065518/http://www.telefragged.com:80/Q2BotCore/q2botcore.zip
+	http://owlnet.rice.edu/~swartz/Q2BotCore
+		https://web.archive.org/web/*/http://owlnet.rice.edu/~swartz/Q2BotCore*
+RA2 Eraser
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/servers/arena/ra2eraser.zip
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/servers/arena/ra2eraser.zip
+	By David Wright aka "crt"
+Rocket Bot / RocketArena 2 bot / RA2 Bot (eraser)
+	Author: Manfred Nerurkar aka "Defcon-X"
+	Website: http://www.planetquake.com/arena
+		https://web.archive.org/web/*/http://www.planetquake.com/arena*
+		https://web.archive.org/web/19981205132314/http://www.planetquake.com/arena/
+		https://web.archive.org/web/19990129053545/http://planetquake.com/arena/downloads.html
+			https://web.archive.org/web/19990129053545/http://asp.planetquake.com/dl/dl.asp?servers/arena/rbot079.exe
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/servers/arena/
+flamebot
+	http://dd.networx.net.au/flamebot/
+		https://web.archive.org/web/19980119101540/http://dd.networx.net.au/cgi-bin/pftp_fb.pl?/pub/bots/flamebot/fb00251.zip
+		https://web.archive.org/web/19980213101221/http://dd.networx.net.au/cgi-bin/pftp_fb.pl
+		https://web.archive.org/web/19980213042851/http://dd.networx.net.au/flamebot/index.html
+	fb00251.zip
+		http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/bots/flamebot/fb00251.zip
+		http://dd.networx.net.au/cgi-bin/pftp_fb.pl?/pub/bots/flamebot/fb00251.zip
+		http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/bots/flamebot/fb00251.zip
+	https://www.bluesnews.com/archives/jan98-1.html
+	https://www.bluesnews.com/archives/jan98-2.html
+	http://www.quake2.com/oldnews/1-14-98_1-16-98.html
+		https://web.archive.org/web/19980111171418/http://dd.networx.net.au/hom/
+JABot
+	by "jalisko"
+	https://www.moddb.com/mods/jabotq2
+		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9.zip
+		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9-Linux.tar.bz2
+			JABot-Q2-0.9-Linux.tar.bz2
+			JABot-Q2-0.9.3.zip
+			JABot-Q2-0.9.zip
+	https://www.angelfire.com/mt2/quakebots/JabotWin32.zip
+		JABot-Q2-0.9.3.zip
+		JABot-Q2-0.9.zip
+	http://jal.quakedev.com/jabot.html
+		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/jabot.html
+		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/stuff/bots/SplitMod_PR7006_ACEBOT_056_Astar.zip
+		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9.zip
+Assassin Bot / assbot
+	by "Bazza"
+	http://www.telefragged.com/assassin/
+		https://web.archive.org/web/19980626081346/http://www.telefragged.com/assassin/
+	http://www.gibsillustrated.com/assassin/
+		not archived
+	assbot0025.zip
+		ftp://ftp.cdrom.com/pub/quake/telefragged/assbot0025.zip
+		ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
+		http://www.gibsillustrated.com/assassin/assbot0025.zip
+		http://www.quake2.com/epidemic/downloads/assbot0025.zip
+Frostbot
+	https://www.gamers.org
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/fb10b1.txt
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/fb10b1.zip
+	news
+		https://www.bluesnews.com/archives/jan98-5.html
+		http://quake2.com/epidemic/frostpre.html
+			dead
+
+
+TODO
+--------------------------------------------------------------------------------
+SecantBot
+	for Tangential mod
+	http://www.planetquake.com/tangential/
+		https://web.archive.org/web/19981206060844/http://www.planetquake.com/tangential/
+		https://web.archive.org/web/20000524141103fw_/http://planetquake.com/tangential/SecantBot.html
+		https://web.archive.org/web/20000309141029fw_/http://planetquake.com/tangential/Download.html
+	Website: http://www.planetquake.com/tangential
+	Authors: Anthony 'Tangent-' Yuen
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/tangential/Tangential_160_Win32.zip
+S.A.B.I.N.
+	Website: http://www.planetquake.com/botshop/sabin
+	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
+Stool Pigeon
+	Website: Get it @ ftp.cdrom.com/pub/quake2/dlls/bots/stoolbot.zip
+	Authors: RottenTurd
+	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/stoolbot.txt
+	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/stoolbot.zip
+Viking Mod w/Eraser Bot (eraser)
+	Website: http://www.planetquake.com/viking
+	Authors: RaVeN
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/viking/win32/viking097b.zip
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/viking/win32/w32099apatch.zip
+WF Bot
+	Website: http://www.captured.com/weaponsfactory
+	Authors: Acrid
+pro-rocket / Pro-Eraser (eraser)
+	https://web.archive.org/web/20000817090110/http://www.planetquake.com/pro-rocket/
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/pro-rocket/pro-eraser-1.0.zip
+niq (eraser)
+	https://web.archive.org/web/20000303090553/http://www.planetquake.com/niq
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq17.zip
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq19.zip
+Keys 2
+	https://web.archive.org/web/20000817085208/http://www.planetquake.com/keys2/
+Quake2 Basketball
+	https://web.archive.org/web/20000303090553/http://www.planetquake.com/bball
+Navy Fortress
+	https://web.archive.org/web/20000303090553/http://nf.telefragged.com/
+SuicideBot
+	https://web.archive.org/web/20000303090553/http://www.designworx.demon.co.uk/
+GoodBot
+	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.txt
+	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.tar.gz
+The Eraser Bot with Damage Skins / Damage Bot
+	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.txt
+	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.zip
+	https://web.archive.org/web/20000421144249/http://www.evilavatar.com/Files/Eraser_Damage.zip
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
+tossbot
+	https://code.google.com/archive/p/tossbot/
 Computer Generated Forces / Action Quake2 Bot
 	http://www.botepidemic.com/aid/cgf
 	William van der Sterren
@@ -401,107 +503,5 @@ Pandora Bot
 RAIL ARENA
 	Website: http://www.planetquake.com/rail
 	Author: Sumfuka
-RA2 Eraser
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/servers/arena/ra2eraser.zip
-	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/servers/arena/ra2eraser.zip
-	By David Wright aka "crt"
-Rocket Bot / RocketArena 2 bot / RA2 Bot (eraser)
-	Author: Manfred Nerurkar aka "Defcon-X"
-	Website: http://www.planetquake.com/arena
-		https://web.archive.org/web/*/http://www.planetquake.com/arena*
-		https://web.archive.org/web/19981205132314/http://www.planetquake.com/arena/
-		https://web.archive.org/web/19990129053545/http://planetquake.com/arena/downloads.html
-			https://web.archive.org/web/19990129053545/http://asp.planetquake.com/dl/dl.asp?servers/arena/rbot079.exe
-	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/servers/arena/
-
-S.A.B.I.N.
-	Website: http://www.planetquake.com/botshop/sabin
-	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
-Stool Pigeon
-	Website: Get it @ ftp.cdrom.com/pub/quake2/dlls/bots/stoolbot.zip
-	Authors: RottenTurd
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/stoolbot.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/stoolbot.zip
-Viking Mod w/Eraser Bot (eraser)
-	Website: http://www.planetquake.com/viking
-	Authors: RaVeN
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/viking/win32/viking097b.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/viking/win32/w32099apatch.zip
-WF Bot
-	Website: http://www.captured.com/weaponsfactory
-	Authors: Acrid
-pro-rocket / Pro-Eraser (eraser)
-	https://web.archive.org/web/20000817090110/http://www.planetquake.com/pro-rocket/
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/pro-rocket/pro-eraser-1.0.zip
-niq (eraser)
-	https://web.archive.org/web/20000303090553/http://www.planetquake.com/niq
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq17.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq19.zip
-Keys 2
-	https://web.archive.org/web/20000817085208/http://www.planetquake.com/keys2/
-Quake2 Basketball
-	https://web.archive.org/web/20000303090553/http://www.planetquake.com/bball
-Navy Fortress
-	https://web.archive.org/web/20000303090553/http://nf.telefragged.com/
-SuicideBot
-	https://web.archive.org/web/20000303090553/http://www.designworx.demon.co.uk/
-Frostbot
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/fb10b1.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/fb10b1.zip
-GoodBot
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.tar.gz
-The Eraser Bot with Damage Skins / Damage Bot
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.zip
-	https://web.archive.org/web/20000421144249/http://www.evilavatar.com/Files/Eraser_Damage.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
-flamebot
-	http://dd.networx.net.au/flamebot/
-		https://web.archive.org/web/19980119101540/http://dd.networx.net.au/cgi-bin/pftp_fb.pl?/pub/bots/flamebot/fb00251.zip
-		https://web.archive.org/web/19980213101221/http://dd.networx.net.au/cgi-bin/pftp_fb.pl
-		https://web.archive.org/web/19980213042851/http://dd.networx.net.au/flamebot/index.html
-	fb00251.zip
-		http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/bots/flamebot/fb00251.zip
-		http://dd.networx.net.au/cgi-bin/pftp_fb.pl?/pub/bots/flamebot/fb00251.zip
-		http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/bots/flamebot/fb00251.zip
-	https://www.bluesnews.com/archives/jan98-1.html
-	https://www.bluesnews.com/archives/jan98-2.html
-	http://www.quake2.com/oldnews/1-14-98_1-16-98.html
-		https://web.archive.org/web/19980111171418/http://dd.networx.net.au/hom/
-JABot
-	by "jalisko"
-	https://www.moddb.com/mods/jabotq2
-		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9.zip
-		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9-Linux.tar.bz2
-			JABot-Q2-0.9-Linux.tar.bz2
-			JABot-Q2-0.9.3.zip
-			JABot-Q2-0.9.zip
-	https://www.angelfire.com/mt2/quakebots/JabotWin32.zip
-		JABot-Q2-0.9.3.zip
-		JABot-Q2-0.9.zip
-	http://jal.quakedev.com/jabot.html
-		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/jabot.html
-		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/stuff/bots/SplitMod_PR7006_ACEBOT_056_Astar.zip
-		https://web.archive.org/web/20050221030852/http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9.zip
-Assassin Bot / assbot
-	by "Bazza"
-	http://www.telefragged.com/assassin/
-		https://web.archive.org/web/19980626081346/http://www.telefragged.com/assassin/
-	http://www.gibsillustrated.com/assassin/
-		not archived
-	assbot0025.zip
-		ftp://ftp.cdrom.com/pub/quake/telefragged/assbot0025.zip
-		ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
-		http://www.gibsillustrated.com/assassin/assbot0025.zip
-		http://www.quake2.com/epidemic/downloads/assbot0025.zip
-
-
-
-
-Out of Scope Bots
-------------------
-?
-
 
 
