@@ -234,3 +234,8 @@ bbqbotv05_upgrade.zip
 # guess
 bbqbotv04.zip
 
+# chaos / havoc
+update103.zip
+update103_linux.zip
+
+

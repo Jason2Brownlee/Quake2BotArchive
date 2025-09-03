@@ -516,6 +516,17 @@ DroneBot
 	http://www.iinet.net.au:80/~bilbe/main/dronebot.html
 		https://web.archive.org/web/20210804000000*/http://www.iinet.net.au:80/~bilbe/main/dronebot.html
 		https://web.archive.org/web/20000421144249/http://www.iinet.net.au/~bilbe/download/db_g22.zip
+Havoc-Bot / ChaosDM
+	Author: Matthias Elter
+	http://www.planetquake.com/chaotic
+		https://web.archive.org/web/*/http://www.planetquake.com/chaotic*
+		https://web.archive.org/web/19990128120025/http://www.planetquake.com/chaotic/
+	http://chaotic.telefragged.com/
+		https://web.archive.org/web/20000421144249/ftp://ftp.telefragged.com/pub/chaosdm/chaos10.exe
+		https://web.archive.org/web/20000421144249/ftp://ftp.telefragged.com/pub/chaosdm/update103.zip
+	http://www.gamers.org/pub/games/idgames2/planetquake/chaotic/
+
+
 
 
 
@@ -560,11 +571,6 @@ Computer Generated Forces / Action Quake2 Bot
 	William van der Sterren
 Entron
 	http://www.endorproductions.com/entron
-Havoc-Bot
-	Website: http://www.planetquake.com/chaotic
-	Author: Flash
-	https://web.archive.org/web/20000421144249/ftp://ftp.telefragged.com/pub/chaosdm/chaos10.exe
-	https://web.archive.org/web/20000421144249/ftp://ftp.telefragged.com/pub/chaosdm/update103.zip
 Holywars + ACE Bot Mod
 	Website: http://www.planetquake.com/redemption
 	Author: RiEvEr
