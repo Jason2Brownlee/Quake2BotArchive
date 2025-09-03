@@ -342,11 +342,21 @@ SecantBot
 	Authors: Anthony 'Tangent-' Yuen
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/tangential/Tangential_160_Win32.zip
 BastardBot
-	http://www.telefragged.com/Q2BotCore
 	Ben Swartzlander
-Quake II Bot Core
-	Website: http://www.telefragged.com/Q2BotCore
+	client-side bot
+	http://www.telefragged.com/Q2BotCore
+		https://web.archive.org/web/19990129024846/http://www.telefragged.com:80/Q2BotCore/bastard.shtml
+		https://web.archive.org/web/20000818062153/http://www.telefragged.com:80/Q2BotCore/bastard.zip
+		https://web.archive.org/web/19991010065518/http://www.telefragged.com:80/Q2BotCore/download.shtml
+	home.telefragged.com/Q2BotCore
+		https://web.archive.org/web/19981205044149/http://home.telefragged.com/Q2BotCore/
+		https://web.archive.org/web/*/http://home.telefragged.com/Q2BotCore/*
+Quake2BotCore
 	Author: Ben Swartzlander
+	Website: http://www.telefragged.com/Q2BotCore
+		https://web.archive.org/web/19991010065518/http://www.telefragged.com:80/Q2BotCore/download.shtml
+		https://web.archive.org/web/19991010065518/http://www.telefragged.com:80/Q2BotCore/q2bc_src.zip
+		https://web.archive.org/web/19991010065518/http://www.telefragged.com:80/Q2BotCore/q2botcore.zip
 Computer Generated Forces / Action Quake2 Bot
 	http://www.botepidemic.com/aid/cgf
 	William van der Sterren
