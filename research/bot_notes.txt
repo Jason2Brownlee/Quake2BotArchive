@@ -594,6 +594,18 @@ Licensed To Kill (LTK) (Action Quake2)
 	Author: RiEvEr
 	planetquake.com/maxtron/ltk
 		https://web.archive.org/web/20000816190517/http://www.planetquake.com/maxtron/ltk/
+		https://web.archive.org/web/20000823200025/http://www.planetquake.com/maxtron/ltk/html/downloads.html
+		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/LTK110.zip
+		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/LTK122.zip
+		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/ltk122linux.zip
+		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK013Beta.zip
+		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK014Beta.zip
+		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK015Beta.zip
+	http://reality.sgi.com/rhess_engr/linux/q2/ltk/
+		https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/
+		https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/ltk110a_glibc.zip
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
+
 
 
 TODO
