@@ -225,3 +225,12 @@ niq194sc.zip
 niq19a.zip
 niq19src.zip
 niq-linux-1.9.tgz
+
+# bbqbot
+bbqbot.zip
+bbqbotv02.zip
+bbqbotv03.zip
+bbqbotv05_upgrade.zip
+# guess
+bbqbotv04.zip
+

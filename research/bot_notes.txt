@@ -466,6 +466,28 @@ ErrorUltra
 		https://web.archive.org/web/20021213125556/http://www.geocities.com/subcog/
 		https://web.archive.org/web/20091027123850/http://www.geocities.com/subcog/downloads.html
 		https://web.archive.org/web/20091027123850/http://www.geocities.com/subcog/ErrorUltra.zip
+	https://web.archive.org/web/20041215023519/http://www.fileplanet.com/117850/110000/fileinfo/ErrorUltra-Deathmatch
+	https://archive.org/download/Fileplanet_ftp1_122002/fileplanet_ftp1_122002.tar/122002/errorultra.zip
+BBQBot
+	by "Macroman" ?
+	http://tastyspleen.net/quake/downloads/mods/bbqbot/bbqbotv05_full.zip
+	http://www.dnagames.net/bbc/bbq.html
+		https://web.archive.org/web/*/dnagames.net/bbc*
+		https://web.archive.org/web/20010517181046/http://www.dnagames.net/bbc/
+		https://web.archive.org/web/20010517181727/http://www.dnagames.net/bbc/bbq.html
+		https://web.archive.org/web/20010517181727/http://www.dnagames.net/bbc/bbq.zip
+	http://www.planetquake.com/bbqbot
+		https://web.archive.org/web/*/http://www.planetquake.com/bbqbot*
+		https://web.archive.org/web/20020804052133/http://www.planetquake.com/bbqbot/
+		https://web.archive.org/web/20020804052133/http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbot.zip
+		https://web.archive.org/web/20020804052133/http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv02.zip
+		https://web.archive.org/web/20020804052133/http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv03.zip
+		https://web.archive.org/web/20030609195546/http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv05_full.zip
+		https://web.archive.org/web/20030609195546/http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv05_upgrade.zip
+	http://planetquake.gamespy.com/bbqbot
+	http://files.quake.ie/q2bbqbot.zip
+
+
 
 
 
@@ -538,8 +560,7 @@ Pandora Bot
 	Website: http://www.opt-sci.arizona.edu/Pandora
 	Author: Darrin 'Roark' Cullop
 
-BBQBot
-	http://tastyspleen.net/quake/downloads/mods/bbqbot/bbqbotv05_full.zip
+
 
 
 Incomplete / Insufficient Info

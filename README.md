@@ -24,6 +24,7 @@ ACE Bot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.z
 ACEnEraser | Steve Yeager | ACEvsEraser.zip
 ACEnOak | Steve Yeager and John Crickett | ACEOak01.zip
 Assassin Bot | "Bazza" | assbot0025.zip
+BBQBot | Paul Scollon aka "RawShark" | bbqbot.zip<br>bbqbotv02.zip<br>bbqbotv03.zip<br>bbqbotv05_upgrade.zip<br>[bbqbotv05_full.zip](bin/bbqbotv05_full.zip)<br>[q2bbqbot.zip](bin/q2bbqbot.zip)
 BastardBot | Ben Swartzlander | [bastard.zip](bin/bastard.zip)
 BorrAdor BoT | Siro aka "BJAM" | borrador-bin.zip<br>[borrador-2.0-bin.zip](bin/borrador-2.0-bin.zip)<br>[borrador2.1-bin.zip](bin/borrador2.1-bin.zip)<br>[borrador2.1-routes.zip](bin/borrador2.1-routes.zip)
 C.R.Bot | Mike Malakhov | [crbot091.zip](bin/crbot091.zip)<br>[crbot093.zip](bin/crbot093.zip)<br>[crbot094.zip](bin/crbot094.zip)<br>[crbot095.zip](bin/crbot095.zip)<br>[crbot096.zip](bin/crbot096.zip)<br>crbot097.zip<br>[crbot099.zip](bin/crbot099.zip)<br>crbot101.zip<br>crbot102.zip<br>crbot104.zip<br>[crbot106.zip](bin/crbot106.zip)<br>crbot107.zip<br>[crbot108.zip](bin/crbot108.zip)<br>[crbot11.zip](bin/crbot11.zip)<br>[crbot112.zip](bin/crbot112.zip)<br>[crbot114.zip](bin/crbot114.zip)<br>[crbot_src.zip](bin/crbot_src.zip)<br>[crbot_src.rar](bin/crbot_src.rar)<br>[crbotlinux.zip](bin/crbotlinux.zip)
