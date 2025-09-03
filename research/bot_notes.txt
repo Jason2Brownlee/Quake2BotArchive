@@ -418,6 +418,15 @@ Stool Pigeon
 	http://home.earthlink.net/~rottenturd
 		https://web.archive.org/web/*/http://home.earthlink.net/~rottenturd*
 		https://web.archive.org/web/19991002120350/http://home.earthlink.net/%7Erottenturd/
+NIQ Eraser (eraser)
+	Author: Mike Fox / Mike Fox (a.k.a. Artful Dodger)
+	http://www.planetquake.com/niq
+		https://web.archive.org/web/*/http://www.planetquake.com/niq*
+		https://web.archive.org/web/20000303090553/http://www.planetquake.com/niq
+		https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq17.zip
+		https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq19.zip
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/niq/
+
 
 
 TODO
@@ -445,18 +454,12 @@ WF Bot
 pro-rocket / Pro-Eraser (eraser)
 	https://web.archive.org/web/20000817090110/http://www.planetquake.com/pro-rocket/
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/pro-rocket/pro-eraser-1.0.zip
-niq (eraser)
-	https://web.archive.org/web/20000303090553/http://www.planetquake.com/niq
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq17.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/niq/niq19.zip
 Keys 2
 	https://web.archive.org/web/20000817085208/http://www.planetquake.com/keys2/
 Quake2 Basketball
 	https://web.archive.org/web/20000303090553/http://www.planetquake.com/bball
 Navy Fortress
 	https://web.archive.org/web/20000303090553/http://nf.telefragged.com/
-SuicideBot
-	https://web.archive.org/web/20000303090553/http://www.designworx.demon.co.uk/
 The Eraser Bot with Damage Skins / Damage Bot
 	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.txt
 	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.zip
@@ -499,14 +502,22 @@ Ninja Eraser (eraser)
 	Author: eriq@groupsoft.com
 	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
 	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/ninjactf_no3wave.zip
-NIQ Eraser (eraser)
-	Website: http://www.planetquake.com/niq
-	Author: Mike Fox
 Pandora Bot
 	Website: http://www.opt-sci.arizona.edu/Pandora
 	Author: Darrin 'Roark' Cullop
 RAIL ARENA
 	Website: http://www.planetquake.com/rail
 	Author: Sumfuka
+
+
+
+Incomplete / Insufficient Info
+--------------------------------------------------------------------------------
+SuicideBot / Suicide Bot
+	http://www.designworx.demon.co.uk/
+		https://web.archive.org/web/19981111185132/http://www.designworx.demon.co.uk/
+		https://web.archive.org/web/*/http://www.designworx.demon.co.uk/*
+		?
+
 
 

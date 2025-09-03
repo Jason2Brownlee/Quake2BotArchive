@@ -218,3 +218,12 @@ ice_01.zip
 # rocket bot
 rbot07.exe
 
+# niq
+niq17.zip
+niq19.zip
+niq192.zip
+niq192sc.zip
+niq194.zip
+niq194sc.zip
+niq19a.zip
+niq19src.zip
