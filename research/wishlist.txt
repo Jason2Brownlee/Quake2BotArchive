@@ -227,3 +227,4 @@ niq194.zip
 niq194sc.zip
 niq19a.zip
 niq19src.zip
+niq-linux-1.9.tgz
