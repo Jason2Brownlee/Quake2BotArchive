@@ -457,7 +457,15 @@ Pro-Eraser
 	https://www.quaddicted.com/files/idgames2/planetquake/pro-rocket/
 		https://www.quaddicted.com/files/idgames2/planetquake/pro-rocket/pro-eraser-1.0.source.zip
 		https://www.quaddicted.com/files/idgames2/planetquake/pro-rocket/pro-eraser-1.0.zip
-
+ErrorUltra
+	http://tastyspleen.net/quake/downloads/mods/eraser/error/readme.txt
+	http://tastyspleen.net/quake/downloads/mods/eraser/error/errorultra.zip
+	http://tastyspleen.net/quake/downloads/mods/error_ultra/errorultra.zip
+	www.Geocities.com/SubCog
+		https://web.archive.org/web/*/www.Geocities.com/SubCog*
+		https://web.archive.org/web/20021213125556/http://www.geocities.com/subcog/
+		https://web.archive.org/web/20091027123850/http://www.geocities.com/subcog/downloads.html
+		https://web.archive.org/web/20091027123850/http://www.geocities.com/subcog/ErrorUltra.zip
 
 
 
@@ -530,7 +538,8 @@ Pandora Bot
 	Website: http://www.opt-sci.arizona.edu/Pandora
 	Author: Darrin 'Roark' Cullop
 
-
+BBQBot
+	http://tastyspleen.net/quake/downloads/mods/bbqbot/bbqbotv05_full.zip
 
 
 Incomplete / Insufficient Info
