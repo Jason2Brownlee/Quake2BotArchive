@@ -532,9 +532,20 @@ HyperQuake (Eraser)
 		Hunter Rognstad aka "Hunter"
 		Andrzej Lach aka "Dupeq"
 	http://hyper.telefragged.com
+		https://web.archive.org/web/*/http://hyper.telefragged.com*
+		https://web.archive.org/web/19981205052618/http://hyper.telefragged.com/
 	http://telefragged.com/hyper
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/hyper/
-
+Pandora Bot
+	Author: Darrin Cullop aka "Roark"
+	http://www.opt-sci.arizona.edu/Pandora
+		https://web.archive.org/web/*/http://www.opt-sci.arizona.edu/Pandora*
+	http://www.optics.Arizona.EDU/Pandora
+		https://web.archive.org/web/*/http://www.optics.arizona.edu/Pandora/*
+		https://web.archive.org/web/20000831162245/http://www.optics.arizona.edu/Pandora/
+		https://web.archive.org/web/20010501215544/http://www.optics.arizona.edu/pandora/Downloads/default.asp
+		https://web.archive.org/web/20001011064634/http://www.optics.arizona.edu:80/Pandora/Downloads/pandora200_source.zip
+		https://web.archive.org/web/20000831155028/http://www.optics.arizona.edu/Pandora/Downloads/PandoraSkin.zip
 
 
 
@@ -591,9 +602,7 @@ Ninja Eraser (eraser)
 	Author: eriq@groupsoft.com
 	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
 	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/ninjactf_no3wave.zip
-Pandora Bot
-	Website: http://www.opt-sci.arizona.edu/Pandora
-	Author: Darrin 'Roark' Cullop
+
 
 
 

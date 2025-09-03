@@ -238,4 +238,9 @@ bbqbotv04.zip
 update103.zip
 update103_linux.zip
 
+# pandora bot
+PandoraSkin.zip
+
+
+
 
