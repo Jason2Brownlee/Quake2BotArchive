@@ -409,7 +409,15 @@ GoodBot
 	https://www.gamers.org
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.txt
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.tar.gz
-
+Stool Pigeon
+	Website: Get it @ ftp.cdrom.com/pub/quake2/dlls/bots/stoolbot.zip
+	Authors: RottenTurd
+	www.gamers.org
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/stoolbot.txt
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/stoolbot.zip
+	http://home.earthlink.net/~rottenturd
+		https://web.archive.org/web/*/http://home.earthlink.net/~rottenturd*
+		https://web.archive.org/web/19991002120350/http://home.earthlink.net/%7Erottenturd/
 
 
 TODO
@@ -426,11 +434,6 @@ SecantBot
 S.A.B.I.N.
 	Website: http://www.planetquake.com/botshop/sabin
 	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
-Stool Pigeon
-	Website: Get it @ ftp.cdrom.com/pub/quake2/dlls/bots/stoolbot.zip
-	Authors: RottenTurd
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/stoolbot.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/stoolbot.zip
 Viking Mod w/Eraser Bot (eraser)
 	Website: http://www.planetquake.com/viking
 	Authors: RaVeN
