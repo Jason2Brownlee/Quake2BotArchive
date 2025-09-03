@@ -196,10 +196,10 @@ eraserx301_sparc_solaris.tar.gz
 eraserx303b5_mac.sit.bin
 
 # eraser ultra
+ultra.zip
 ultra35.zip
 linux-ultra35.zip
 mac_eraserultra40.sit.bin
-# guess
-ultra27.zip
-
-
+ultra-26.zip
+ultra-27.zip
+ultra-26-linux.zip

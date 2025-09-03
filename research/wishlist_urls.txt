@@ -474,5 +474,16 @@ http://www.botepidemic.com/q2rfd/files/bots/ultra/ultra35.zip
 http://www.botepidemic.com/q2rfd/files/bots/ultra/linux-ultra35.zip
 # mac_eraserultra40.sit.bin
 http://railgun.macquakeinfinity.com/downloads/mac_eraserultra40.sit.bin
+# ultra.zip
+http://www.users.zetnet.co.uk/jacquesa/q2/ultra.zip
+# ultra-26.zip
+http://quake.org.pl/files/quake2/boty/ultra/ultra-26.zip
+http://ultra.quake2.co.uk/ultra-26.zip
+# ultra-27.zip
+http://ultra.quake2.co.uk/ultra-27.zip
+# ultra-26-linux.zip
+http://quake.org.pl/files/quake2/boty/ultra/ultra-26-linux.zip
+
+
 
 
