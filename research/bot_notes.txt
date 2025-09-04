@@ -632,6 +632,11 @@ AdionBot
 	http://www.geocities.com/TelevisionCity/Set/1894/quake.htm
 		https://web.archive.org/web/*/http://www.geocities.com/TelevisionCity/Set/1894/*
 		https://web.archive.org/web/19991013005255/http://www.geocities.com/TelevisionCity/Set/1894/quake.htm
+tossbot
+	https://code.google.com/archive/p/tossbot/
+	https://forums.bots-united.com/showthread.php?t=9033
+		"The Storm"
+	http://epodbot.bots-united.com/
 
 
 
@@ -660,8 +665,6 @@ The Eraser Bot with Damage Skins / Damage Bot
 	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.zip
 	https://web.archive.org/web/20000421144249/http://www.evilavatar.com/Files/Eraser_Damage.zip
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
-tossbot
-	https://code.google.com/archive/p/tossbot/
 Entron
 	http://www.endorproductions.com/entron
 Holywars + ACE Bot Mod

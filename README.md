@@ -60,6 +60,7 @@ Rocket Arena Oak (RA2 + OakII) | John Crickett | arena01.zip<br>arena02.zip<br>[
 Rocket Bot (RA2) | Manfred Nerurkar aka "Defcon-X" | [rbot06.exe](bin/rbot06.exe)<br>[rbot07.exe](bin/rbot07.exe)<br>[rbot0715.exe](bin/rbot0715.exe)<br>[rbot076.exe](bin/rbot076.exe)<br>[rbot078.exe](bin/rbot078.exe)<br>[rbot078b.exe](bin/rbot078b.exe)<br>[rbot079.exe](bin/rbot079.exe)
 SecantBot (Tangential) | Anthony Yuen aka "Tangent" | [Tangential_100.zip](bin/Tangential_100.zip)<br>[Tangential_111.zip](bin/Tangential_111.zip)<br>[Tangential_120.zip](bin/Tangential_120.zip)<br>[Tangential_130.zip](bin/Tangential_130.zip)<br>[Tangential_140.zip](bin/Tangential_140.zip)<br>[Tangential_145.zip](bin/Tangential_145.zip)<br>[Tangential_151.zip](bin/Tangential_151.zip)<br>[Tangential_160_Linux.zip](bin/Tangential_160_Linux.zip)<br>[Tangential_160_Win32.zip](bin/Tangential_160_Win32.zip)
 Stool Pigeon | "RottenTurd" | [stoolbot.zip](bin/stoolbot.zip)
+TossBot | "The Storm" | [tossbot.zip](bin/tossbot.zip)
 
 ## Help
 
