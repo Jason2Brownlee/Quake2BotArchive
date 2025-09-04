@@ -655,6 +655,47 @@ The Eraser Bot with Damage Skins / Damage Bot
 		https://web.archive.org/web/20000421144249/http://www.evilavatar.com/Files/Eraser_Damage.zip
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
 	https://www.quaddicted.com/files/idgames2/quake2/dlls/bots/eraser_damage.zip
+Navy Fortress
+	Manfred Nerurkar aka "Defcon-X"
+	http://nf.telefragged.com/
+		https://web.archive.org/web/*/http://nf.telefragged.com/*
+		https://web.archive.org/web/20000307053743/http://nf.telefragged.com/
+		https://web.archive.org/web/19990831013310/http://nf.telefragged.com:80/download.htm
+			https://web.archive.org/web/19991011211513/http://tux.telefragged.com/file.pl?filename=_nfall.exe&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19991011211513/http://tux.telefragged.com/file.pl?filename=_nf985.exe&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19991011211513/http://tux.telefragged.com/file.pl?filename=_nf987.exe&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19991011211513/http://tux.telefragged.com/file.pl?filename=_nf2armybase1.exe&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19991011211513/http://tux.telefragged.com/file.pl?filename=gamei386.so&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19991011211513/http://tux.telefragged.com/file.pl?filename=_nf987.exe&dir=telefragged/navyfortress/
+		https://web.archive.org/web/19990831013310/http://nf.telefragged.com:80/download.htm
+			https://web.archive.org/web/19990831013310/http://tux.telefragged.com/file.pl?filename=_nfall.exe&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19990831013310/http://tux.telefragged.com/file.pl?filename=_nf985.exe&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19990831013310/ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nf985.exe
+			https://web.archive.org/web/19990831013310/http://tux.telefragged.com/file.pl?filename=_nf987.exe&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19990831013310/ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nf987.exe
+			https://web.archive.org/web/19990831013310/http://tux.telefragged.com/file.pl?filename=_nf991.zip&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19990831013310/ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nf991.zip
+			https://web.archive.org/web/19990831013310/http://tux.telefragged.com/file.pl?filename=_nfsound991.zip&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19990831013310/ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nfsound991.zip
+			https://web.archive.org/web/19990831013310/http://tux.telefragged.com/file.pl?filename=gamei386.so&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19990831013310/ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/gamei386.so
+			https://web.archive.org/web/19990831013310/http://tux.telefragged.com/file.pl?filename=_nf987.exe&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19990831013310/ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nf987.exe
+			https://web.archive.org/web/19990831013310/http://tux.telefragged.com/file.pl?filename=_nf991.zip&dir=telefragged/navyfortress/
+			https://web.archive.org/web/19990831013310/ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nf991.zip
+	http://www.planetquake.com/nf
+		https://web.archive.org/web/20000307053743/http://www.planetquake.com/nf
+		https://web.archive.org/web/19991110143821/http://planetquake.com/nf/files.htm
+			https://web.archive.org/web/19991110143821/http://www.planetquake.com/dl/dl.asp?nf/_nfbaseoct2.zip
+			https://web.archive.org/web/19991110143821/http://www.planetquake.com/dl/dl.asp?nf/_nfgfxbase.zip
+			https://web.archive.org/web/19991110143821/http://www.planetquake.com/dl/dl.asp?nf/_nfgfxupd.zip
+			https://web.archive.org/web/19991110143821/http://www.planetquake.com/dl/dl.asp?nf/_nfsndbase.zip
+			https://web.archive.org/web/19991110143821/http://www.planetquake.com/dl/dl.asp?nf/_nfsndupd.zip
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/nf/
+
+
+
+
 
 
 
@@ -676,8 +717,6 @@ Keys 2
 	https://web.archive.org/web/20000817085208/http://www.planetquake.com/keys2/
 Quake2 Basketball
 	https://web.archive.org/web/20000303090553/http://www.planetquake.com/bball
-Navy Fortress
-	https://web.archive.org/web/20000303090553/http://nf.telefragged.com/
 Entron
 	http://www.endorproductions.com/entron
 Ninja Eraser (eraser)

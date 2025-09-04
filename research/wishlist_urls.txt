@@ -645,6 +645,9 @@ http://www.pondscum.co.uk/files/ltkbo/ltkbotv1_2.zip
 # ltksrc.zip
 http://www.pondscum.co.uk/file/ltkbo/ltksrc.zip
 http://www.pondscum.co.uk/files/ltkbo/ltksrc.zip
-
+# ltk122src-proj.zip
+http://files.actiongames.co.uk/tnn/ltk/source/ltk122src-proj.zip
+# ltksrc_nix.zip
+http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
 
 

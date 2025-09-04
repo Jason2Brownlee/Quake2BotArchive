@@ -235,7 +235,6 @@ bbqbotv05_upgrade.zip
 bbqbotv04.zip
 
 # chaos / havoc
-update103.zip
 update103_linux.zip
 
 # cgf / action quake2
@@ -262,6 +261,16 @@ LTK001Alpha.zip
 LTK010Beta.zip
 LTK011Beta.zip
 LTK012Beta.zip
+
+# navy forces
+_nfall.exe
+_nf985.exe
+_nf987.exe
+_nf2armybase1.exe
+_nf991.zip
+_nfsound991.zip
+
+
 
 
 
