@@ -645,6 +645,16 @@ Holywars + ACE Bot Mod
 		https://web.archive.org/web/20000818044048/http://www.planetquake.com/dl/dl.asp?redemption/Q2HWBot001.zip
 		https://web.archive.org/web/20000818044118/http://www.planetquake.com/redemption/html/july99.shtml
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/redemption/Q2HWBot001.zip
+The Eraser Bot with Damage Skins / Damage Bot
+	By "Rastaf"
+	https://www.gamers.org
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.txt
+		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.zip
+	http://www.evilavatar.com
+		https://web.archive.org/web/*/evilavatar.com/Files*
+		https://web.archive.org/web/20000421144249/http://www.evilavatar.com/Files/Eraser_Damage.zip
+	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
+	https://www.quaddicted.com/files/idgames2/quake2/dlls/bots/eraser_damage.zip
 
 
 
@@ -668,11 +678,6 @@ Quake2 Basketball
 	https://web.archive.org/web/20000303090553/http://www.planetquake.com/bball
 Navy Fortress
 	https://web.archive.org/web/20000303090553/http://nf.telefragged.com/
-The Eraser Bot with Damage Skins / Damage Bot
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.txt
-	https://www.gamers.org/pub/idgames2/quake2/dlls/bots/eraser_damage.zip
-	https://web.archive.org/web/20000421144249/http://www.evilavatar.com/Files/Eraser_Damage.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
 Entron
 	http://www.endorproductions.com/entron
 Ninja Eraser (eraser)
