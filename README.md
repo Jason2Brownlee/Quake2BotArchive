@@ -23,6 +23,7 @@ Bot Name | Bot Author(s) | File
 ACE Bot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>[ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
 ACEnEraser | Steve Yeager | ACEvsEraser.zip
 ACEnOak | Steve Yeager and John Crickett | ACEOak01.zip
+AdionBot | Adion Coolman | [adionBot.zip](bin/adionBot.zip)
 Assassin Bot | "Bazza" | assbot0025.zip
 BBQBot | Paul Scollon aka "RawShark" | bbqbot.zip<br>bbqbotv02.zip<br>bbqbotv03.zip<br>bbqbotv05_upgrade.zip<br>[bbqbotv05_full.zip](bin/bbqbotv05_full.zip)<br>[q2bbqbot.zip](bin/q2bbqbot.zip)
 BastardBot | Ben Swartzlander | [bastard.zip](bin/bastard.zip)

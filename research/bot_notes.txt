@@ -625,6 +625,13 @@ Licensed To Kill (LTK) (Action Quake2)
 		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
+AdionBot
+	https://discmaster.textfiles.com/view/22453/XENIATGM89.iso/E-Mail/Paolo%20Bianco/killer15.zip/manual.html
+	https://gif.oocities.org/televisioncity/set/1894/
+		https://gif.oocities.org/televisioncity/set/1894/adionBot.zip
+	http://www.geocities.com/TelevisionCity/Set/1894/quake.htm
+		https://web.archive.org/web/*/http://www.geocities.com/TelevisionCity/Set/1894/*
+		https://web.archive.org/web/19991013005255/http://www.geocities.com/TelevisionCity/Set/1894/quake.htm
 
 
 
@@ -660,15 +667,12 @@ Entron
 Holywars + ACE Bot Mod
 	Website: http://www.planetquake.com/redemption
 	Author: RiEvEr
-
 Ninja Eraser (eraser)
 	Website: http://www.quake2.com/NinjaQ2
 	Author: eriq@groupsoft.com
 	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
 	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/ninjactf_no3wave.zip
-AdionBot
-	https://discmaster.textfiles.com/view/22453/XENIATGM89.iso/E-Mail/Paolo%20Bianco/killer15.zip/manual.html
-	?
+
 
 
 
@@ -680,8 +684,4 @@ SuicideBot / Suicide Bot
 		https://web.archive.org/web/19981111185132/http://www.designworx.demon.co.uk/
 		https://web.archive.org/web/*/http://www.designworx.demon.co.uk/*
 		?
-OniBot (Tangential)
-	https://web.archive.org/web/20000621203132fw/http://planetquake.com/tangential/OniBot.html
-	https://web.archive.org/web/20000818052624/http://www.planetquake.com/maxtron/
-	http://www.botepidemic.com/oni
 
