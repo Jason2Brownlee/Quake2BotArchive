@@ -771,5 +771,5 @@ http://tux.telefragged.com/file.pl?filename=_nfsound991.zip&dir=telefragged/navy
 ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
 http://quake.org.pl/files/quake2/ninja/Ninerase.zip
 
-
+# Eraser + Weapons Factory
 

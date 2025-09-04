@@ -718,9 +718,19 @@ Eraser + Viking
 		client
 			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/common/pain_pak.zip
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/viking/
-
-
-
+Eraser + Weapons Factory
+	Authors: Acrid
+	http://www.captured.com/weaponsfactory
+		https://web.archive.org/web/*/http://www.captured.com/weaponsfactory*
+		https://web.archive.org/web/19981202152931/http://www.captured.com/weaponsfactory/
+			https://web.archive.org/web/19990203081005/http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser34b.zip
+	files
+		http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser1b.zip
+		http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser34a.zip
+		http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser34b.zip
+		http://ftp.telepac.pt/pub/idgames2/planetquake/captured/weaponsfactory/wferaser34b.zip
+		http://ftp.telepac.pt/pub/idgames2/planetquake/captured/weaponsfactory/wferaser3b.zip
+		http://www.captured.com/weaponsfactory/wferaser42.html
 
 
 
@@ -731,10 +741,6 @@ TODO
 S.A.B.I.N.
 	Website: http://www.planetquake.com/botshop/sabin
 	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
-
-WF Bot
-	Website: http://www.captured.com/weaponsfactory
-	Authors: Acrid
 Keys 2
 	https://web.archive.org/web/20000817085208/http://www.planetquake.com/keys2/
 Quake2 Basketball

@@ -273,7 +273,10 @@ _nfsound991.zip
 # Eraser + Ninja
 Ninerase.zip
 
-
+# Eraser + Weapons Factory
+wferaser34a.zip
+wferaser3b.zip
+wferaser1b.zip
 
 
 
