@@ -637,6 +637,14 @@ tossbot
 	https://forums.bots-united.com/showthread.php?t=9033
 		"The Storm"
 	http://epodbot.bots-united.com/
+Holywars + ACE Bot Mod
+	Author: RiEvEr
+	http://www.planetquake.com/redemption
+		https://web.archive.org/web/*/http://www.planetquake.com/redemption*
+		https://web.archive.org/web/20000818041501/http://www.planetquake.com/redemption/
+		https://web.archive.org/web/20000818044048/http://www.planetquake.com/dl/dl.asp?redemption/Q2HWBot001.zip
+		https://web.archive.org/web/20000818044118/http://www.planetquake.com/redemption/html/july99.shtml
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/redemption/Q2HWBot001.zip
 
 
 
@@ -667,9 +675,6 @@ The Eraser Bot with Damage Skins / Damage Bot
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/ce/dmgsknadd.zip
 Entron
 	http://www.endorproductions.com/entron
-Holywars + ACE Bot Mod
-	Website: http://www.planetquake.com/redemption
-	Author: RiEvEr
 Ninja Eraser (eraser)
 	Website: http://www.quake2.com/NinjaQ2
 	Author: eriq@groupsoft.com

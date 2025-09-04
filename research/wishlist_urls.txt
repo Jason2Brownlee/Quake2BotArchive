@@ -311,6 +311,12 @@ http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2093_win32-x86.zi
 
 # neural bot
 # nbot_05.zip
+ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbot/nbot_05.zip
+ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbot/nbot_05.zip
+ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbot/nbot_05.zip
+ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbot/nbot_05.zip
+ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbot/nbot_05.zip
+http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbot/nbot_05.zip
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbot_05.zip&filename=nbot_05.zip&dl=mirror
@@ -320,6 +326,12 @@ http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation
 http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbot_05.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=nbot_05.zip&dir=telefragged/be/neuralbot/
 # nbotsource_05.zip
+ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbot/nbotsource_05.zip
+ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbot/nbotsource_05.zip
+ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbot/nbotsource_05.zip
+ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbot/nbotsource_05.zip
+ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbot/nbotsource_05.zip
+http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbot/nbotsource_05.zip
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
@@ -329,6 +341,12 @@ http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation
 http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbotsource_05.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=nbotsource_05.zip&dir=telefragged/be/neuralbot/
 # nbot_06.zip
+ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
+ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
+ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
+ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbot/nbot_06.zip
+ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
+http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbot/nbot_06.zip
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
@@ -618,4 +636,15 @@ http://www.planetquake.com/dl/dl.asp?maxtron/LTK101.zip
 http://www.botgod.org.uk/LTK112dll.zip
 # LTK120.zip
 http://www.botgod.org.uk/LTK120.zip
+# ltk123.zip
+http://www.pondscum.co.uk/file/ltkbo/ltk123.zip
+http://www.pondscum.co.uk/files/ltkbo/ltk123.zip
+# ltkbotv1_2.zip
+http://www.pondscum.co.uk/file/ltkbo/ltkbotv1_2.zip
+http://www.pondscum.co.uk/files/ltkbo/ltkbotv1_2.zip
+# ltksrc.zip
+http://www.pondscum.co.uk/file/ltkbo/ltksrc.zip
+http://www.pondscum.co.uk/files/ltkbo/ltksrc.zip
+
+
 
