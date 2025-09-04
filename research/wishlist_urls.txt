@@ -413,11 +413,13 @@ http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/e
 http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx012.zip
 http://www.fileplanet.com/dl/dl.asp?expert/eraserx012.zip
 # eraserx30.zip
+ftp://ftp.liquidextremes.com/pub/cdrom/expert/eraserx30.zip
 http://asp.planetquake.com/dl/dl.asp?expert/eraserx30.zip
 http://ftp.sunet.se/planetquake/expert/eraserx30.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/eraserx30.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx30.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/expert/eraserx30.zip
+http://ftp2.gamespy.com/pub/cdrom/expert/eraserx30.zip
 http://gamers.org/pub/games/idgames2/planetquake/eraserx30.zip
 http://mirror.aarnet.edu.au/games/planetquake/expert/eraserx30.zip
 http://mirrors.telepac.pt/pub/idgames2/planetquake/expert/eraserx30.zip
@@ -430,8 +432,6 @@ http://www.fileplanet.com/dl/dl.asp?expert/eraserx30.zip
 http://www.fileplanet.com/redir.asp?file=12942&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/expert/eraserx30.zip
 http://www.fileplanet.com/redir.asp?file=12942&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/expert/eraserx30.zip
 http://www.planetquake.com/dl/dl.asp?expert/eraserx30.zip
-http://ftp2.gamespy.com/pub/cdrom/expert/eraserx30.zip
-ftp://ftp.liquidextremes.com/pub/cdrom/expert/eraserx30.zip
 # eraserx301.zip
 http://ftp.sunet.se/planetquake/expert/eraserx301.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx301.zip
@@ -597,5 +597,25 @@ http://www.fileplanet.com/dl/dl.asp?/planetquake/bbqbot/bbqbotv05_upgrade.zip
 # update103_linux.zip
 http://quake.org.pl/files/quake2/chaosdm/update103_linux.zip
 
-
+# LTK / action quake2
+# LTK002Alpha.zip
+http://www.planetq**ke.com/dl/dl.asp?maxtron/LTK002Alpha.zip
+http://www.planetquake.com/dl/dl.asp?maxtron/LTK002Alpha.zip
+# LTK013Beta.zip
+http://www.planetquake.com/dl/dl.asp?maxtron/LTK013Beta.zip
+# LTK014Beta.zip
+http://dl.fileplanet.com/dl/dl.asp?maxtron/LTK014Beta.zip
+http://quake.bnbt.de/quake/download/mods/action/bot/LTK014Beta.zip
+http://www.planetquake.com/dl/dl.asp?maxtron/LTK014Beta.zip
+# LTK015Beta.zip
+http://quake.bnbt.de/quake/download/mods/action/bot/LTK015Beta.zip
+http://www.planetquake.com/dl/dl.asp?maxtron/LTK015Beta.zip
+# LTK100.zip
+http://www.planetquake.com/dl/dl.asp?maxtron/LTK100.zip
+# LTK101.zip
+http://www.planetquake.com/dl/dl.asp?maxtron/LTK101.zip
+# LTK112dll.zip
+http://www.botgod.org.uk/LTK112dll.zip
+# LTK120.zip
+http://www.botgod.org.uk/LTK120.zip
 
