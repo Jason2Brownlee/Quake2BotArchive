@@ -604,7 +604,6 @@ Licensed To Kill (LTK) (Action Quake2)
 	http://reality.sgi.com/rhess_engr/linux/q2/ltk/
 		https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/
 		https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/ltk110a_glibc.zip
-	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
 	http://www.pondscum.co.uk/ltk/ltkpage.htm
 		https://web.archive.org/web/*/http://www.pondscum.co.uk/*
 		https://web.archive.org/web/20000816190517/http://www.pondscum.co.uk/ltk/ltkpage.htm
@@ -617,6 +616,8 @@ Licensed To Kill (LTK) (Action Quake2)
 		https://web.archive.org/web/20000816190517/http://www.botgod.org.uk/LTK112dll.zip
 		https://web.archive.org/web/20000530215407/http://www.botgod.org.uk/LTK120.zip
 		https://web.archive.org/web/20000530215407/http://www.botgod.org.uk/
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
 
 
 

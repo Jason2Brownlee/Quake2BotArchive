@@ -244,6 +244,7 @@ cgf_0_78u.zip
 cgf_0_77.zip
 
 # ltk / action quake2
+LTK002Alpha.zip
 LTK013Beta.zip
 LTK014Beta.zip
 LTK015Beta.zip
@@ -255,11 +256,11 @@ ltk110a_glibc.zip
 ltk123.zip
 ltkbotv1_2.zip
 ltksrc.zip
-
-
-
-
-
+# assumed from history
+LTK001Alpha.zip
+LTK010Beta.zip
+LTK011Beta.zip
+LTK012Beta.zip
 
 
 
