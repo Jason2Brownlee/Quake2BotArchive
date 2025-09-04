@@ -270,6 +270,9 @@ _nf2armybase1.exe
 _nf991.zip
 _nfsound991.zip
 
+# Eraser + Ninja
+Ninerase.zip
+
 
 
 

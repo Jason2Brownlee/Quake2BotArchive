@@ -692,7 +692,14 @@ Navy Fortress
 			https://web.archive.org/web/19991110143821/http://www.planetquake.com/dl/dl.asp?nf/_nfsndbase.zip
 			https://web.archive.org/web/19991110143821/http://www.planetquake.com/dl/dl.asp?nf/_nfsndupd.zip
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/nf/
-
+Eraser + Ninja
+	by Eric Quinlan aka "Bohica"
+	http://www.quake2.com/NinjaQ2
+		https://web.archive.org/web/*/quake2.com/NinjaQ2*
+		https://web.archive.org/web/19990209081443/http://www.quake2.com/NinjaQ2/
+		https://web.archive.org/web/20250515000000*/http://www.quake2.com:80/NinjaQ2/downloads.htm
+			https://web.archive.org/web/19990429010802/ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
+			https://web.archive.org/web/19990429010802/ftp://ftp.quake2.com/pub/NinjaQ2/ninjactf_no3wave.zip
 
 
 
@@ -719,11 +726,7 @@ Quake2 Basketball
 	https://web.archive.org/web/20000303090553/http://www.planetquake.com/bball
 Entron
 	http://www.endorproductions.com/entron
-Ninja Eraser (eraser)
-	Website: http://www.quake2.com/NinjaQ2
-	Author: eriq@groupsoft.com
-	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.quake2.com/pub/NinjaQ2/ninjactf_no3wave.zip
+
 
 
 

@@ -761,7 +761,10 @@ http://tux.telefragged.com/download.pl?dir=telefragged/navyfortress&filename=_nf
 http://tux.telefragged.com/file.pl?filename=_nfsound991.zip&dir=telefragged/navyfortress/
 
 
-
+# Eraser + Ninja
+# Ninerase.zip
+ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
+http://quake.org.pl/files/quake2/ninja/Ninerase.zip
 
 
 
