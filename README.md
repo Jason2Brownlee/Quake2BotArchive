@@ -34,6 +34,7 @@ Computer Generated Forces (CGF) (Action Quake2) | William van der Sterren | cgf_
 DEraser | Mark Wheeler | [deraser.zip](bin/deraser.zip)
 DroneBot | "XoXus" and "RiEvEr" | [db_a01.exe](bin/db_a01.exe)<br>[db_a01.zip](bin/db_a01.zip)<br>[db_a02.zip](bin/db_a02.zip)<br>[db_a02.exe](bin/db_a02.exe)<br>[Snd_pak1.zip](bin/Snd_pak1.zip)<br>[Snd_pak1.exe](bin/Snd_pak1.exe)<br>[db_a04.zip](bin/db_a04.zip)<br>[db_b01.exe](bin/db_b01.exe)<br>[db_g20.zip](bin/db_g20.zip)<br>[db_g20.exe](bin/db_g20.exe)<br>[db_g21.zip](bin/db_g21.zip)<br>[db_g21.exe](bin/db_g21.exe)<br>[db_g22.zip](bin/db_g22.zip)<br>[db_g22.exe](bin/db_g22.exe)<br>[db_g23.zip](bin/db_g23.zip)<br>[db_g23.exe](bin/db_g23.exe)
 Eraser + Damage Skins | "Rastaf" | [eraser_damage.zip](bin/eraser_damage.zip)
+Eraser + Keys2 | Rich Shetina | [keys2_193a_win32.zip](bin/keys2_193a_win32.zip)<br>[keys2_193a_win32_full.zip](bin/keys2_193a_win32_full.zip)<br>[keys2_193a_source_win32.zip](bin/keys2_193a_source_win32.zip)<br>[keys2_193a_source_solaris_x86.tar.gz](bin/keys2_193a_source_solaris_x86.tar.gz)<br>[keys2_193a_source_solaris_sparc.tar.gz](bin/keys2_193a_source_solaris_sparc.tar.gz)<br>[keys2_193a_source_linux20_x86.zip](bin/keys2_193a_source_linux20_x86.zip)<br>[keys2_193a_solaris_x86.tar.gz](bin/keys2_193a_solaris_x86.tar.gz)<br>[keys2_193a_solaris_sparc.tar.gz](bin/keys2_193a_solaris_sparc.tar.gz)<br>[keys2_193a_linux20_x86.zip](bin/keys2_193a_linux20_x86.zip)<br>
 Eraser + Ninja | Eric Quinlan aka "Bohica" | Ninerase.zip
 Eraser + RA2 | David Wright aka "crt" | [ra2eraser.zip](bin/ra2eraser.zip)
 Eraser + Rail Arena | "Sumfuka" | [rail12.zip](bin/rail12.zip)<br>[rail12_src.zip](bin/rail12_src.zip)<br>[rail_arena_1.2_linux.zip](bin/rail_arena_1.2_linux.zip)<br>[rail_12_sparc.tar.gz](bin/rail_12_sparc.tar.gz)<br>[rail_12_solx86.tar.gz](bin/rail_12_solx86.tar.gz)
@@ -68,6 +69,7 @@ Rocket Bot (RA2) | Manfred Nerurkar aka "Defcon-X" | [rbot06.exe](bin/rbot06.exe
 SecantBot (Tangential) | Anthony Yuen aka "Tangent" | [Tangential_100.zip](bin/Tangential_100.zip)<br>[Tangential_111.zip](bin/Tangential_111.zip)<br>[Tangential_120.zip](bin/Tangential_120.zip)<br>[Tangential_130.zip](bin/Tangential_130.zip)<br>[Tangential_140.zip](bin/Tangential_140.zip)<br>[Tangential_145.zip](bin/Tangential_145.zip)<br>[Tangential_151.zip](bin/Tangential_151.zip)<br>[Tangential_160_Linux.zip](bin/Tangential_160_Linux.zip)<br>[Tangential_160_Win32.zip](bin/Tangential_160_Win32.zip)
 Stool Pigeon | "RottenTurd" | [stoolbot.zip](bin/stoolbot.zip)
 TossBot | "The Storm" | [tossbot.zip](bin/tossbot.zip)
+[keys2_194_win32.zip](bin/keys2_194_win32.zip)<br>[keys2_194_source_win32.zip](bin/keys2_194_source_win32.zip)<br>[keys2_194_source_sparc_solaris.tar.gz](bin/keys2_194_source_sparc_solaris.tar.gz)<br>[keys2_194_source_linux20_x86.zip](bin/keys2_194_source_linux20_x86.zip)<br>[keys2_194_solaris_sparc.tar.gz](bin/keys2_194_solaris_sparc.tar.gz)<br>[keys2_194_linux20_x86.zip](bin/keys2_194_linux20_x86.zip)
 
 ## Help
 

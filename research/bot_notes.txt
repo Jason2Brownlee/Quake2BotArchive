@@ -742,6 +742,17 @@ Quake2 Basketball Bot
 		https://web.archive.org/web/19981205171206/http://planetquake.com/bball/
 			https://web.archive.org/web/19990220184933/http://asp.planetquake.com/dl/dl.asp?bball/q2bball094.zip
 		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/bball/
+Eraser + Keys2
+	http://www.planetquake.com/keys2/
+		https://web.archive.org/web/*/http://www.planetquake.com/keys2/*
+		https://web.archive.org/web/19990203104448/http://planetquake.com/keys2/
+	Versions
+		all after 1.90 have eraser...
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/keys2/
+
+
+
+
 
 
 
@@ -752,8 +763,6 @@ TODO
 S.A.B.I.N.
 	Website: http://www.planetquake.com/botshop/sabin
 	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
-Keys 2
-	https://web.archive.org/web/20000817085208/http://www.planetquake.com/keys2/
 
 Entron
 	http://www.endorproductions.com/entron
