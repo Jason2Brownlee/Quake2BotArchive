@@ -701,6 +701,24 @@ Eraser + Ninja
 			https://web.archive.org/web/19990429010802/ftp://ftp.quake2.com/pub/NinjaQ2/ninjadm.zip
 			https://web.archive.org/web/19990429010802/ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
 			https://web.archive.org/web/19990429010802/ftp://ftp.quake2.com/pub/NinjaQ2/ninjactf_no3wave.zip
+Eraser + Viking
+	Authors: Doug Buckley aka "RaVeN"
+	http://www.planetquake.com/viking
+		https://web.archive.org/web/*/http://www.planetquake.com/viking*
+		https://web.archive.org/web/19981206180023/http://www.planetquake.com/viking/
+		https://web.archive.org/web/19990224053952/http://www.planetquake.com/viking/dl.shtml
+		Eraser
+			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/win32/vik104e.zip
+			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/sparc/viking_104E_solx86_tar.gz
+			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/sparc/viking_104E_sparc_tar.gz
+		Non-eraser
+			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/win32/vik104.zip
+			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/sparc/viking_104_solx86_tar.gz
+			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/sparc/viking_104_sparc_tar
+		client
+			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/common/pain_pak.zip
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/viking/
+
 
 
 
@@ -713,11 +731,7 @@ TODO
 S.A.B.I.N.
 	Website: http://www.planetquake.com/botshop/sabin
 	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
-Viking Mod w/Eraser Bot (eraser)
-	Website: http://www.planetquake.com/viking
-	Authors: RaVeN
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/viking/win32/viking097b.zip
-	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/planetquake/viking/win32/w32099apatch.zip
+
 WF Bot
 	Website: http://www.captured.com/weaponsfactory
 	Authors: Acrid
