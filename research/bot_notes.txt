@@ -731,6 +731,17 @@ Eraser + Weapons Factory
 		http://ftp.telepac.pt/pub/idgames2/planetquake/captured/weaponsfactory/wferaser34b.zip
 		http://ftp.telepac.pt/pub/idgames2/planetquake/captured/weaponsfactory/wferaser3b.zip
 		http://www.captured.com/weaponsfactory/wferaser42.html
+Quake2 Basketball Bot
+	by Matt Shade
+	http://www.planetquake.com/bball
+		https://web.archive.org/web/*/http://www.planetquake.com/bball*
+		https://web.archive.org/web/19981205171206/http://planetquake.com/bball/
+		https://web.archive.org/web/20000831111259fw_/http://planetquake.com/bball/download.html
+			https://web.archive.org/web/20000831111259/http://asp.planetquake.com/dl/dl.asp?bball/q2bball_1.zip
+			https://web.archive.org/web/20001002153231/http://asp.planetquake.com/dl/dl.asp?bball/bballsrc_1.zip
+		https://web.archive.org/web/19981205171206/http://planetquake.com/bball/
+			https://web.archive.org/web/19990220184933/http://asp.planetquake.com/dl/dl.asp?bball/q2bball094.zip
+		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/bball/
 
 
 
@@ -743,8 +754,7 @@ S.A.B.I.N.
 	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
 Keys 2
 	https://web.archive.org/web/20000817085208/http://www.planetquake.com/keys2/
-Quake2 Basketball
-	https://web.archive.org/web/20000303090553/http://www.planetquake.com/bball
+
 Entron
 	http://www.endorproductions.com/entron
 

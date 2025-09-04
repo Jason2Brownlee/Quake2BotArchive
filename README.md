@@ -61,13 +61,13 @@ Oak II Bot + RA2 | John Crickett | arena01.zip<br>arena02.zip<br>[arena03.zip](b
 Oak II Bot | John Crickett | OakII_01.zip<br>OakII_01a.zip<br>[OakII_02.zip](bin/oakii_02.zip)<br>OakII_021.zip<br>OakII_022.zip<br>OakII_03.zip<br>OakII_033.zip<br>[Oak040F.zip](bin/Oak040F.zip)<br>[Oak040S.zip](bin/Oak040S.zip)
 Pandora Bot | Darrin W. Cullop | [PandoraSkin.zip](bin/pandoraskin.zip)<br>[pandora200_source.zip](bin/pandora200_source.zippandora200_source.zip)
 Pro-Eraser | "Cardiac" | [pro-eraser-1.0.zip](bin/pro-eraser-1.0.zip)<br>[pro-eraser-1.0.source.zip](bin/pro-eraser-1.0.source.zip)
+Quake2 Basketball Bot | Matt Shade | [q2bball094.zip](bin/q2bball094.zip)<br>[bballsrc094.zip](bin/bballsrc094.zip)<br>[q2bball_1.zip](bin/q2bball_1.zip)<br>[bballsrc_1.zip](bin/bballsrc_1.zip)
 Quake2BotCore | Ben Swartzlander | [q2botcore.zip](bin/q2botcore.zip)<br>[q2bc_src.zip](bin/q2bc_src.zip)
 RAMBOT | Ariel Mirles aka "KRYPTYK" | rambot_v47.zip<br>[rambot_v48a.zip](bin/rambot_v48a.zip)<br>[rambot_v49.zip](bin/rambot_v49.zip)
 Rocket Bot (RA2) | Manfred Nerurkar aka "Defcon-X" | [rbot06.exe](bin/rbot06.exe)<br>[rbot07.exe](bin/rbot07.exe)<br>[rbot0715.exe](bin/rbot0715.exe)<br>[rbot076.exe](bin/rbot076.exe)<br>[rbot078.exe](bin/rbot078.exe)<br>[rbot078b.exe](bin/rbot078b.exe)<br>[rbot079.exe](bin/rbot079.exe)
 SecantBot (Tangential) | Anthony Yuen aka "Tangent" | [Tangential_100.zip](bin/Tangential_100.zip)<br>[Tangential_111.zip](bin/Tangential_111.zip)<br>[Tangential_120.zip](bin/Tangential_120.zip)<br>[Tangential_130.zip](bin/Tangential_130.zip)<br>[Tangential_140.zip](bin/Tangential_140.zip)<br>[Tangential_145.zip](bin/Tangential_145.zip)<br>[Tangential_151.zip](bin/Tangential_151.zip)<br>[Tangential_160_Linux.zip](bin/Tangential_160_Linux.zip)<br>[Tangential_160_Win32.zip](bin/Tangential_160_Win32.zip)
 Stool Pigeon | "RottenTurd" | [stoolbot.zip](bin/stoolbot.zip)
 TossBot | "The Storm" | [tossbot.zip](bin/tossbot.zip)
-
 
 ## Help
 
