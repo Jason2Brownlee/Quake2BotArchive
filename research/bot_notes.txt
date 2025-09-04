@@ -611,11 +611,18 @@ Licensed To Kill (LTK) (Action Quake2)
 		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltk121.zip
 		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltk123.zip
 		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltkbotv1_2.zip
+		https://web.archive.org/web/20010826082541/http://www.pondscum.co.uk/file/files.htm
 	http://www.botgod.org.uk/
 		https://web.archive.org/web/*/http://www.botgod.org.uk/*
 		https://web.archive.org/web/20000816190517/http://www.botgod.org.uk/LTK112dll.zip
 		https://web.archive.org/web/20000530215407/http://www.botgod.org.uk/LTK120.zip
 		https://web.archive.org/web/20000530215407/http://www.botgod.org.uk/
+	http://actiongames.co.uk/tnn/ltk/
+		https://web.archive.org/web/20020923171838/http://actiongames.co.uk/tnn/ltk/ltkdload.shtml
+		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/client/ltk122.zip
+		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/client/ltk122linux.zip
+		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/source/ltk122src-proj.zip
+		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
 

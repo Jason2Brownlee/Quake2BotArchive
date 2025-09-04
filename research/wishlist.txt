@@ -255,6 +255,8 @@ LTK120.zip
 ltk123.zip
 ltkbotv1_2.zip
 ltksrc.zip
+ltk122src-proj.zip
+ltksrc_nix.zip
 # assumed from history
 LTK001Alpha.zip
 LTK010Beta.zip
