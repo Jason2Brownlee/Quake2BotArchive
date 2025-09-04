@@ -135,6 +135,7 @@ http://www.quake.convey.ru/ftp/pub/quake.ii/dlls/bots/Eraser0323_patch.zip
 ftp://ftp.frag.com/frag/impact/Eraser0330_patch.exe
 # Eraser0330_patch.zip
 ftp://ftp.frag.com/frag/impact/Eraser0330_patch.zip
+http://games.gci.net/pub/Quake2/QuakeMods/EraserBot/Eraser0330_patch.zip
 # Eraser0406_patch.exe
 ftp://ftp.frag.com/frag/impact/Eraser0406_patch.exe
 # Eraser0406_patch.zip
@@ -193,6 +194,7 @@ http://www.frag.com/cgi-bin/dl.cgi?impact/Eraser101-linux.tar.gz
 # Eraser101_SRC.zip
 http://quake.org.pl/files/quake2/boty/eraser/Eraser101_SRC.zip
 http://www.frag.com/cgi-bin/dl.cgi?impact/Eraser101_SRC.zip
+ftp://ftp.fasta.fh-dortmund.de/gdi/quake2/tools/bots/Eraser101_SRC.zip
 # Eraser320_patch.zip
 http://impact.frag.com/files/Eraser320_patch.zip
 # EraserInstall.exe
@@ -220,6 +222,7 @@ http://impact.frag.com/files/Eraser0501_patch.exe
 # eraser0501_patch.zip
 ftp://ftp.stomped.com/pub/redwood/bots/eraser0501_patch.zip
 http://impact.frag.com/files/Eraser0501_patch.zip
+http://games.gci.net/pub/Quake2/QuakeMods/EraserBot/Eraser0501_patch.zip
 # eraser0505.exe
 http://quake2.org.pl/ftp/bots/EraserBot/Eraser0505.exe
 # eraser0505.zip
@@ -227,6 +230,7 @@ http://impact.frag.com/files/eraser0505.zip
 # eraser0505_patch.zip
 ftp://ftp.stomped.com/pub/redwood/bots/eraser0505_patch.zip
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0505_patch.zip
+http://games.gci.net/pub/Quake2/QuakeMods/EraserBot/Eraser0505_patch.zip
 # eraser0_1a.zip
 ftp://ftp.torget.se/pub/games/quake2/bots/eraser0_1a.zip
 http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/news/Eraser0_1a.zip
@@ -252,6 +256,7 @@ http://www.telefragged.com/mirrors/mirror.pl?thefatal/fb65gx86.zip
 
 # gladiator
 # gladq2 08.zip
+http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq208.zip
 ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq208.zip
 ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq208.zip
 ftp://ftp.telefragged.com/be/gladiator/gladq208.zip
@@ -345,6 +350,7 @@ http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation
 http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbotsource_05.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=nbotsource_05.zip&dir=telefragged/be/neuralbot/
 # nbot_06.zip
+https://dl.dropbox.com/u/8789055/nbot_06.zip
 http://203.96.147.59/~nickc/neuralbot/nbot_06.zip
 http://homepages.paradise.net.nz/nickamy/neuralbot/nbot_06.zip
 ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
@@ -770,9 +776,45 @@ ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
 http://quake.org.pl/files/quake2/ninja/Ninerase.zip
 
 # Eraser + Weapons Factory
+# wferaser1b.zip
+http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser1b.zip
+# wferaser34a.zip
+http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser34a.zip
+# wferaser3b.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/captured/weaponsfactory/wferaser3b.zip
 
 # sabin
-
+# sabin971230.exe
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin971230.exe
+# sabin980128.exe
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980128.exe
+# sabin980130.exe
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980130.exe
+# sabin980221.exe
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980221.exe
+# sabin980611.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980611.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980611.zip
+# sabin980615-update.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980615-update.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980615-update.zip
+# sabin980620-vwep-update.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980620-vwep-update.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980620-vwep-update.zip
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin980620-vwep-update.zip
+# sabin980721.zip
+http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin980721.zip
+# sabin980723-linux-src.zip
+http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/sabin980723-linux-src.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980723-linux-src.zip
+# sabin980723-test.exe
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/test/sabin980723-test.exe
+http://quake.org.pl/files/quake2/boty/sabin/sabin980723-test.exe
+# sabin980724-test.exe
+http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin980724-test.exe
+http://quake.org.pl/files/quake2/boty/sabin/sabin980724-test.exe
+# sabin_linux.tar.gz
+http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin_linux.tar.gz
 
 
 

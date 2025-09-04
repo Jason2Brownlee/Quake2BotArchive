@@ -9,6 +9,7 @@
 3zb153.zip
 3zb154.zip
 3zb157.zip
+3zb2098.zip
 
 # 3rd-Zigock Bot 2
 3zb205beta.zip
@@ -290,5 +291,3 @@ sabin980723-linux-src.zip
 sabin980723-test.exe
 sabin980724-test.exe
 sabin_linux.tar.gz
-
-
