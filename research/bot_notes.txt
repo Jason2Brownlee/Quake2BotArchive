@@ -784,10 +784,7 @@ S.A.B.I.N.
 TODO
 --------------------------------------------------------------------------------
 
-
-
-Entron
-	http://www.endorproductions.com/entron
+n/a
 
 
 
@@ -804,3 +801,28 @@ SuicideBot / Suicide Bot
 
 
 
+Out Of Scope
+--------------------------------------------------------------------------------
+
+Entron
+	http://www.endorproductions.com/entron
+		https://web.archive.org/web/*/http://www.endorproductions.com/entron*
+		https://web.archive.org/web/19990508130920/http://www.endorproductions.com/entron/
+		https://web.archive.org/web/19991002001443/http://endorproductions.com:80/entron/index.html
+		https://web.archive.org/web/20000512004041/http://www.endorproductions.com:80/entron/downloadsa.html
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=entrondm.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=ent_gfx.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=ent_scode.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=entron_src.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=ent_sfx.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=ent_smaps.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=ent_tex.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=life.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=life_src.zipdir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/http://tux.telefragged.com/ftp.pl?filename=entronFGD.zip&dir=telefragged/endorproductions/entron/
+			https://web.archive.org/web/20000512004041/ftp://ftp.telefragged.com/endorproductions/entron/ent_scode.zip
+			https://web.archive.org/web/20000512004041/ftp://ftp.telefragged.com/endorproductions/entron/ent_smaps.zip
+			https://web.archive.org/web/20000512004041/ftp://ftp.telefragged.com/endorproductions/entron/ent_sfx.zip
+			https://web.archive.org/web/20000512004041/ftp://ftp.telefragged.com/endorproductions/entron/ent_tex.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/endorproductions/entron/
+	single player total conversion, no evidence of bots...

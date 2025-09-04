@@ -505,8 +505,6 @@ http://www.users.zetnet.co.uk/jacquesa/q2/ultra.zip
 # ultra-26.zip
 http://quake.org.pl/files/quake2/boty/ultra/ultra-26.zip
 http://ultra.quake2.co.uk/ultra-26.zip
-# ultra-27.zip
-http://ultra.quake2.co.uk/ultra-27.zip
 # ultra-26-linux.zip
 http://quake.org.pl/files/quake2/boty/ultra/ultra-26-linux.zip
 # ultra-30.zip
@@ -772,4 +770,10 @@ ftp://ftp.quake2.com/pub/NinjaQ2/Ninerase.zip
 http://quake.org.pl/files/quake2/ninja/Ninerase.zip
 
 # Eraser + Weapons Factory
+
+# sabin
+
+
+
+
 

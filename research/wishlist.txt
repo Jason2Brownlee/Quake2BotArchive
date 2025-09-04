@@ -201,7 +201,6 @@ ultra35.zip
 linux-ultra35.zip
 mac_eraserultra40.sit.bin
 ultra-26.zip
-ultra-27.zip
 ultra-26-linux.zip
 ultra-30.zip
 
@@ -291,3 +290,5 @@ sabin980723-linux-src.zip
 sabin980723-test.exe
 sabin980724-test.exe
 sabin_linux.tar.gz
+
+
