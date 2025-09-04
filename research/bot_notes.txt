@@ -398,7 +398,11 @@ Assassin Bot / assbot
 		ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
 		http://www.gibsillustrated.com/assassin/assbot0025.zip
 		http://www.quake2.com/epidemic/downloads/assbot0025.zip
-Frostbot
+FrostBot
+	http://www.xmission.com/~dreading/frostbot
+		https://web.archive.org/web/19990429003602/http://www.xmission.com/%7Edreading/frostbot
+		https://web.archive.org/web/*/http://www.xmission.com/~dreading/frostbot*
+			"Crew Reading" ?
 	https://www.gamers.org
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/fb10b1.txt
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/fb10b1.zip
@@ -406,6 +410,8 @@ Frostbot
 		https://www.bluesnews.com/archives/jan98-5.html
 		http://quake2.com/epidemic/frostpre.html
 			dead
+		https://web.archive.org/web/19981201202216/http://www.planetquake.com:80/botshop/sabin/bot.html
+			Uses the entire SABIN 3.14 CTF base.
 GoodBot
 	https://www.gamers.org
 		https://www.gamers.org/pub/idgames2/quake2/dlls/bots/goodbot-0.1.txt
@@ -491,6 +497,8 @@ BBQBot
 	https://web.archive.org/web/20050728101452/http://www.altfire.com/files/quake2/bbqbotv05_upgrade.zip
 DroneBot
 	By XoXus
+	http://dronebot.vortexq.com/
+		https://web.archive.org/web/19991124013810/http://dronebot.vortexq.com/
 	planetquake.com/dronebot
 		https://web.archive.org/web/*/planetquake.com/dronebot*
 		https://web.archive.org/web/19991002120739/http://www.planetquake.com/dronebot/frames.htm
@@ -749,8 +757,24 @@ Eraser + Keys2
 	Versions
 		all after 1.90 have eraser...
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/keys2/
-
-
+S.A.B.I.N.
+	Terry Hendrix aka "DS"
+	http://www.planetquake.com/botshop/sabin
+		https://web.archive.org/web/*/http://www.planetquake.com/botshop/sabin*
+		https://web.archive.org/web/19981201194657/http://www.planetquake.com/botshop/sabin/
+		https://web.archive.org/web/19990128093327/http://www.planetquake.com:80/botshop/sabin/releases.html
+			https://web.archive.org/web/19990128093327/http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin980724-test.exe
+			https://web.archive.org/web/19990128093327/http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin980721.zip
+			https://web.archive.org/web/19990128093327/http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/sabin980723-linux-src.zip
+			https://web.archive.org/web/19990128093327/http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin_linux.tar.gz
+			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980611.zip
+			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980615-update.zip
+			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980620-vwep-update.zip
+			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980221.exe
+			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980130.exe
+			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980128.exe
+			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin971230.exe
+		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/
 
 
 
@@ -760,9 +784,7 @@ Eraser + Keys2
 TODO
 --------------------------------------------------------------------------------
 
-S.A.B.I.N.
-	Website: http://www.planetquake.com/botshop/sabin
-	Authors: (These are the authors of the SABIN base not all the team members) Terry 'DS' Hendrix, Alan 'Strider' Kivlin, William van der Sterren
+
 
 Entron
 	http://www.endorproductions.com/entron

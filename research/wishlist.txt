@@ -278,9 +278,16 @@ wferaser34a.zip
 wferaser3b.zip
 wferaser1b.zip
 
-
-
-
-
-
-
+# sabin
+sabin971230.exe
+sabin980128.exe
+sabin980130.exe
+sabin980221.exe
+sabin980611.zip
+sabin980615-update.zip
+sabin980620-vwep-update.zip
+sabin980721.zip
+sabin980723-linux-src.zip
+sabin980723-test.exe
+sabin980724-test.exe
+sabin_linux.tar.gz
