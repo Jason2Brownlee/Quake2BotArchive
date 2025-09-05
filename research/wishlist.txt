@@ -83,10 +83,10 @@ Eras_0212.zip
 Eraser0304.zip
 Eraser0312.zip
 Eraser0313.zip
+Eraser0313.exe
 Eraser0313_patch.zip
 Eraser0313_patch.exe
 Eraser0314.zip
-Eraser0314.exe
 Eraser0314_patch.zip
 Eraser0314_patch.exe
 Eraser0315_patch.zip

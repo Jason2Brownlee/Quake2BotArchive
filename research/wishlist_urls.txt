@@ -103,14 +103,14 @@ http://www.bluesnews.com/files/quake2/bots/eraser/Eraser0304.zip
 http://impact.frag.com/files/Eraser0312.zip
 http://www.bluesnews.com/files/quake2/bots/eraser/Eraser0312.zip
 http://www.farmbert.com/botster/files/eraser0312.zip
+# Eraser0313.exe
+http://impact.frag.com/files/Eraser0313.exe
 # Eraser0313.zip
 ftp://ftp.telefragged.com/pub/quake2/bots/Eraser0313.zip
 # Eraser0313_patch.exe
 http://impact.frag.com/files/Eraser0313_patch.exe
 # Eraser0313_patch.zip
 http://impact.frag.com/files/Eraser0313_patch.zip
-# Eraser0314.exe
-http://impact.frag.com/files/Eraser0314.exe
 # Eraser0314.zip
 http://impact.frag.com/files/Eraser0314.zip
 # Eraser0314_patch.exe
