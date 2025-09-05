@@ -1,6 +1,10 @@
 # Quake II Bot File Wishlist
 
 # 3rd-Zigock Bot
+stp099d.zip
+stp099e.zip
+stp099f.zip
+stp099h.zip
 3zb149.zip
 3zb150.zip
 3zb151.zip
@@ -10,6 +14,10 @@
 3zb154.zip
 3zb157.zip
 3zb2098.zip
+stp099a.zip
+stp099b.zip
+stp099c.zip
+stp099g.zip
 
 # 3rd-Zigock Bot 2
 3zb205beta.zip
