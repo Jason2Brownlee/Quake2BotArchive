@@ -44,13 +44,14 @@ ace001.zip
 
 # crbot
 crbot097.zip
+crbt099a.zip
 crbot101.zip
 crbot102.zip
 crbot104.zip
 crbot107.zip
 # guesses (unconfirmed)
 crbot092.zip
-crbot098.zip
+crbt099b.zip
 crbot10.zip
 crbot100.zip
 crbot103.zip
