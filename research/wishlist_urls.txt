@@ -1,6 +1,12 @@
 # Wishlist URLs
 
-# 3rd-Zigock Bot
+# 3rd-Zigock Bot / Stupid Bot
+# stp099d.zip
+http://users.jp.tri6.net/~ponpoko/stp099d.zip
+# stp099h.zip
+http://users.jp.tri6.net/~ponpoko/stp099h.zip
+# stp099f.zip
+http://users.jp.tri6.net/~ponpoko/stp099f.zip
 # 3zb149.zip
 http://users.jp.tri6.net/~ponpoko/3zb149.zip
 # 3zb150.zip
@@ -52,6 +58,12 @@ http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbot102.zip
 http://www.quake.wplus.net/PK/Incoming/crbot104.zip
 # crbot107.zip
 http://quake2.org.pl/quake2.ftp/bots/crbot107.zip
+#crbt099a.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbt099a.zip
+http://asp.planetquake.com/dl/dl.asp?crbot/crbt099a.zip
+http://meccaworld.com/cgi-bin/download.cgi?ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbt099a.zip
+http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbt099a.zip
+
 
 # eraser
 # ERAS0118.EXE
