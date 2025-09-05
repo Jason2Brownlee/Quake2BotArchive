@@ -3,7 +3,6 @@
 # 3rd-Zigock Bot
 stp099d.zip
 stp099e.zip
-stp099f.zip
 stp099h.zip
 3zb149.zip
 3zb150.zip
