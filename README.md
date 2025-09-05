@@ -18,7 +18,7 @@ Alphabetical list of Quake II bot names, authors, and local download links for a
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
-3rd-Zigock 1 Bot (Stupid Bot) | "ponpoko" | stp099e.zip<br>3zb149.zip<br>3zb150.zip<br>3zb151.zip<br>[3zb155.zip](bin/3zb155.zip)<br>[3zb156.zip](bin/3zb156.zip)<br>[3zb158.zip](bin/3zb158.zip)
+3rd-Zigock 1 Bot (Stupid Bot) | "ponpoko" | [stp099e.zip](bin/stp099e.zip)<br>3zb149.zip<br>3zb150.zip<br>3zb151.zip<br>[3zb155.zip](bin/3zb155.zip)<br>[3zb156.zip](bin/3zb156.zip)<br>[3zb158.zip](bin/3zb158.zip)
 3rd-Zigock 2 Bot | "ponpoko" | 3zb205beta.zip<br>3zb207.zip<br>3zb208.zip<br>[3zb2082.zip](bin/3zb2082.zip)<br>3zb2087.zip<br>3zb2089u.zip<br>3zb2093.zip<br>3zb2src93.zip<br>3zb2093_x86.zip<br>[3zb2097.zip](bin/3zb2097.zip)<br>3zb2097b.zip<br>[3zb2097d.zip](bin/3zb2097d.zip)<br>[3zb2src97.zip](bin/3zb2src97.zip)<br>[3zb2src97LCC.zip](bin/3zb2src97LCC.zip)<br>[3zb2097_x86.zip](bin/3zb2097_x86.zip)<br>[3zb2097_glibc.zip](bin/3zb2097_glibc.zip)
 ACE Bot + Holywars | "RiEvEr" | [Q2HWBot001.zip](bin/Q2HWBot001.zip)
 ACE Bot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>[ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
