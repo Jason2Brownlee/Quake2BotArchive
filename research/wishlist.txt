@@ -17,6 +17,9 @@ stp099a.zip
 stp099b.zip
 stp099c.zip
 stp099g.zip
+# maybe related
+stup10p.zip
+stup10x.zip
 
 # 3rd-Zigock Bot 2
 3zb205beta.zip
@@ -80,7 +83,6 @@ Eras_0212.zip
 Eraser0304.zip
 Eraser0312.zip
 Eraser0313.zip
-Eraser0313.exe
 Eraser0313_patch.zip
 Eraser0313_patch.exe
 Eraser0314.zip
