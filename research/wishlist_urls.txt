@@ -90,15 +90,15 @@ http://impact.frag.com/files/Eras0204.zip
 http://www.bluesnews.com/files/quake2/bots/eraser/eras0204.zip
 # Eras0320-linux.tgz
 http://impact.frag.com/files/Eras0320-linux.tgz
-# Eras_0212.zip
-http://bluesnews.com/files/quake2/bots/eraser/eras_0212.zip
-http://impact.frag.com/files/Eras_0212.zip
-http://www.bluesnews.com/files/quake2/bots/eraser/eras_0212.zip
 # Eraser0304.zip
 http://209.1.245.14/files/quake2/bots/eraser/Eraser0304.zip
 http://bluesnews.com/files/quake2/bots/eraser/Eraser0304.zip
 http://impact.frag.com/files/Eraser0304.zip
 http://www.bluesnews.com/files/quake2/bots/eraser/Eraser0304.zip
+# Eraser0312.zip
+http://impact.frag.com/files/Eraser0312.zip
+http://www.bluesnews.com/files/quake2/bots/eraser/Eraser0312.zip
+http://www.farmbert.com/botster/files/eraser0312.zip
 # Eraser0313.exe
 http://impact.frag.com/files/Eraser0313.exe
 # Eraser0313.zip
