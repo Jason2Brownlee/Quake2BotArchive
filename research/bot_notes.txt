@@ -782,7 +782,14 @@ Crusader bot
 	http://www.quake.czt/bot/default.html
 	https://discmaster.textfiles.com/view/38650/Score_1998-03_51_cd.bin/Utils/3DStuff/Bots/quake2/crusv05.zip/readme.txt
 	crusbot.zip
-
+	http://www.quake.cz/bot/
+		https://web.archive.org/web/*/http://www.quake.cz/bot/*
+		https://web.archive.org/web/19990819040149/http://www.quake.cz/bot/
+		https://web.archive.org/web/19991128081610/http://www.quake.cz:80/bot/download/default.htm
+			https://web.archive.org/web/19991128081610/http://www.quake.cz:80/bot/download/dodw.zip
+			https://web.archive.org/web/19991128081610/http://www.quake.cz:80/bot/download/crusv05.zip
+	http://www.quake.cz/
+		https://web.archive.org/web/19981212032139/http://www.quake.cz/
 
 
 
