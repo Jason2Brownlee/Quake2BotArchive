@@ -81,7 +81,6 @@ Eras0204.zip
 Eras0204-linux.tgz
 Eras_0212.zip
 Eraser0304.zip
-Eraser0312.zip
 Eraser0313.zip
 Eraser0313.exe
 Eraser0313_patch.zip
