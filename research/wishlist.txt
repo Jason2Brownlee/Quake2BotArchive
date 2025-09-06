@@ -12,7 +12,6 @@ stp099f.zip
 3zb153.zip
 3zb154.zip
 3zb157.zip
-3zb2098.zip
 stp099a.zip
 stp099b.zip
 stp099c.zip
@@ -55,19 +54,25 @@ ace001.zip
 # crbot
 crbot097.zip
 crbt099a.zip
+crbot10.zip
 crbot101.zip
 crbot102.zip
+crbot103.zip
 crbot104.zip
+crbot105.zip
 crbot107.zip
 # guesses (unconfirmed)
+crbot090.zip
 crbot092.zip
 crbt099b.zip
-crbot10.zip
+crbt099e.zip
 crbot100.zip
-crbot103.zip
-crbot105.zip
 crbot109.zip
+crbot111.zip
 crbot113.zip
+crbot099a.zip
+crbot099b.zip
+crbot099e.zip
 
 # eraser bot
 eraser0_1a.zip

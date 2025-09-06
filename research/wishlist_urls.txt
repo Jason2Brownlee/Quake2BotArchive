@@ -64,13 +64,20 @@ ftp://ftp.freesoftware.com/pub/idgames2/planetquake/crbot/crbot102.zip
 http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbot102.zip
 # crbot104.zip
 http://www.quake.wplus.net/PK/Incoming/crbot104.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot104.zip
 # crbot107.zip
 http://quake2.org.pl/quake2.ftp/bots/crbot107.zip
-#crbt099a.zip
+# crbt099a.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbt099a.zip
 http://asp.planetquake.com/dl/dl.asp?crbot/crbt099a.zip
 http://meccaworld.com/cgi-bin/download.cgi?ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbt099a.zip
 http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbt099a.zip
+# crbot10.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot10.zip
+# crbot103.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot103.zip
+# crbot105.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot105.zip
 
 
 # eraser
