@@ -13,6 +13,14 @@ http://users.jp.tri6.net/~ponpoko/3zb149.zip
 http://users.jp.tri6.net/~ponpoko/3zb150.zip
 # 3zb151.zip
 http://users.jp.tri6.net/~ponpoko/3zb151.zip
+# related to stupid bot?
+# stup10p.zip
+http://users.jp.tri6.net/~ponpoko/stup10p.zip
+# stup10x.zip
+http://ponpoko.tri6.net/stup10x.zip
+http://users.jp.tri6.net/~ponpoko/stup10x.zip
+http://www.jp.tri6.net/~ponpoko/stup10x.zip
+
 
 # 3rd-Zigock Bot 2
 # 3zb205beta.zip

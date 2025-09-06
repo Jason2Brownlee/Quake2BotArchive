@@ -726,6 +726,8 @@ Eraser + Viking
 		client
 			https://web.archive.org/web/19990224053952/http://asp.planetquake.com/dl/dl.asp?viking/common/pain_pak.zip
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/viking/
+	https://discmaster.textfiles.com/browse/22549/GAMBLERCD20A.BIN/Utils/3D/MODY/VIKING
+		W32099AP.ZIP ???
 Eraser + Weapons Factory
 	Authors: Acrid
 	http://www.captured.com/weaponsfactory
@@ -775,8 +777,11 @@ S.A.B.I.N.
 			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980128.exe
 			https://web.archive.org/web/19990128093327/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin971230.exe
 		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/
-
-
+Crusader bot
+	Mark Rabas
+	http://www.quake.czt/bot/default.html
+	https://discmaster.textfiles.com/view/38650/Score_1998-03_51_cd.bin/Utils/3DStuff/Bots/quake2/crusv05.zip/readme.txt
+	crusbot.zip
 
 
 
