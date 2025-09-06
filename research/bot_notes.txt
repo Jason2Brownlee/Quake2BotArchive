@@ -182,6 +182,8 @@ Eraser bot
 	https://web.archive.org/web/20000421144249/ftp://ftp.cdrom.com/pub/idgames2/frag.com/impact/Eraser101_patch.zip
 	https://web.archive.org/web/20000421144249/http://impact.frag.com/files/Eraser0618.zip
 	https://web.archive.org/web/20000421144249/http://impact.frag.com/files/Eraser0618_patch.zip
+	https://discmaster.textfiles.com/browse/21882/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe)/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe).bin/setup_12/data/Eraser
+		v1.02 (Net Pack edition)
 Eraser ULTRA
 	Anthony Jacques aka "AnthonyJ"
 	http://ultra.quake2.co.uk
