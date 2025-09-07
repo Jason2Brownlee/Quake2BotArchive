@@ -159,6 +159,7 @@ ftp://ftp.frag.com/frag/impact/Eraser0330_patch.zip
 http://games.gci.net/pub/Quake2/QuakeMods/EraserBot/Eraser0330_patch.zip
 # Eraser0406_patch.exe
 ftp://ftp.frag.com/frag/impact/Eraser0406_patch.exe
+ftp://ftp.stomped.com/pub/redwood/bots/eraser0406_patch.exe
 # Eraser0406_patch.zip
 ftp://ftp.frag.com/frag/impact/Eraser0406_patch.zip
 # Eraser0407-linux.tgz

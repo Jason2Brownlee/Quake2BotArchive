@@ -137,6 +137,7 @@ Eraser101_SRC.zip
 mac_eraser_101final.sit.bin
 
 # Famkebot
+famkebot150.zip
 fb65gx86.zip
 
 # gladiator bot
