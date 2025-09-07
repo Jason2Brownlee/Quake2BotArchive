@@ -78,7 +78,7 @@ ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot10.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot103.zip
 # crbot105.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot105.zip
-
+http://www.geocities.com/SiliconValley/Lab/8885/crbot105.zip
 
 # eraser
 # ERAS0118.EXE
@@ -278,6 +278,7 @@ http://www.telefragged.com/mirrors/mirror.pl?thefatal/fb65gx86.zip
 
 # gladiator
 # gladq2 08.zip
+ftp://ftp.telefragged.com/pub/be/gladiator/gladq208.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq208.zip
 ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq208.zip
 ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq208.zip
