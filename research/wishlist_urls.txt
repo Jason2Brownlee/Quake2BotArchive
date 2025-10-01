@@ -276,6 +276,11 @@ ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/thefatal/fb65gx86.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/thefatal/fb65gx86.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/thefatal/fb65gx86.zip
 http://www.telefragged.com/mirrors/mirror.pl?thefatal/fb65gx86.zip
+# famkebot150.zip
+ftp://ftp.openquake.org/pub/quake/openquake/famkebot150.zip
+ftp://ftp.tyumen.ru/pub/games/quake2/bots/famkebot150.zip
+ftp://quake.df.ru/pub/Quake2/DLLs/famkebot150.zip
+http://www.bluesnews.com/files/quake2/oqverified/famkebot150.zip
 
 # gladiator
 # gladq2 08.zip
@@ -297,15 +302,6 @@ ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq209.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq209.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq209.zip
 http://quake.crimea.ua/files/quake2/bots/gladq209.zip
-# gladq2091.zip
-ftp://fugazi.dermak.pl/pub/extremeclan/quake2/gladq2091.zip
-ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2091.zip
-ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2091.zip
-ftp://ftp.telefragged.com/be/gladiator/gladq2091.zip
-ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091.zip
-ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091.zip
-ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2091.zip
-http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2091.zip
 # gladq2091gamesrc.zip
 ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2091gamesrc.zip
 ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2091gamesrc.zip
@@ -322,6 +318,7 @@ ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2092.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2092.zip
+http://www.quake.lviv.ua/files/gladq2092.zip
 # gladq2092gamesrca.zip
 ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2092gamesrca.zip
 ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2092gamesrca.zip
@@ -338,6 +335,20 @@ ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_win3
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_win32-x86.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_win32-x86.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2093_win32-x86.zip
+# gladq2093_linux-x86-glibc.tar.gz
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2093_linux-x86-glibc.tar.gz
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2093_linux-x86-glibc.tar.gz
+ftp://ftp.telefragged.com/be/gladiator/gladq2093_linux-x86-glibc.tar.gz
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_linux-x86-glibc.tar.gz
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_linux-x86-glibc.tar.gz
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_linux-x86-glibc.tar.gz
+# gladq2093_linux-x86-libc5.tar.gz
+ftp://ftp.epix.net/pub/telefragged/be/gladiator/gladq2093_linux-x86-libc5.tar.gz
+ftp://ftp.saix.net/pub/telefragged/be/gladiator/gladq2093_linux-x86-libc5.tar.gz
+ftp://ftp.telefragged.com/be/gladiator/gladq2093_linux-x86-libc5.tar.gz
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_linux-x86-libc5.tar.gz
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_linux-x86-libc5.tar.gz
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator/gladq2093_linux-x86-libc5.tar.gz
 
 # neural bot
 # nbot_05.zip
