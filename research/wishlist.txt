@@ -62,7 +62,6 @@ crbot104.zip
 crbot105.zip
 crbot107.zip
 # guesses (unconfirmed)
-crbot090.zip
 crbot092.zip
 crbt099b.zip
 crbt099e.zip
@@ -139,6 +138,10 @@ mac_eraser_101final.sit.bin
 # Famkebot
 famkebot150.zip
 fb65gx86.zip
+# generic
+# FAMKESRC.ZIP
+# FAMKEBOT.ZIP
+# FAMKE.ZIP
 
 # gladiator bot
 gladq208.zip
