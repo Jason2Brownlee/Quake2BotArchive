@@ -16,6 +16,8 @@ http://quake2.gry-online.pl/dzial.php?id=a__boty
 	https://web.archive.org/web/20040705173722/http://quake2.gry-online.pl/dzial.php?id=a__boty
 http://www.planetquake.com/maxtron/bots/quake2.shtml
 	https://web.archive.org/web/20010509143905fw_/http://www.planetquake.com/maxtron/bots/quake2.shtml
+http://www.swissquake.ch/botpage/
+	https://web.archive.org/web/19981202190704/http://www.swissquake.ch/botpage/
 
 Individual Bots
 --------------------------------------------------------------------------------
@@ -799,19 +801,14 @@ TODO
 --------------------------------------------------------------------------------
 
 
-Collosus
-	https://psewell.tripod.com/downloads.html
-		http://strider.reality-x.co.uk/
-		http://strider.reality-x.co.uk/downloads.htm
-Jagger
-	https://psewell.tripod.com/downloads.html
-		http://www.geocities.com/SiliconValley/Haven/6020/index.html
-313 Bot
-	https://psewell.tripod.com/botsindex.htm
-		http://www.fortunecity.com/skyscraper/pacific/10/index.html
+
+
 Demonshooter Helper Bot
 	https://psewell.tripod.com/botsindex.htm
 		http://www.geocities.com/TimesSquare/Battlefield/6856/
+	http://www.geocities.com/TimesSquare/Battlefield/6856/
+		https://web.archive.org/web/19990221081040/http://www.geocities.com/TimesSquare/Battlefield/6856/
+		bot for quake 1 and another for q2
 HappyFun Bot
 	https://psewell.tripod.com/botsindex.htm
 		http://www.gazpacho.net/happyfun/
@@ -826,6 +823,40 @@ SuicideBot / Suicide Bot
 		https://web.archive.org/web/19981111185132/http://www.designworx.demon.co.uk/
 		https://web.archive.org/web/*/http://www.designworx.demon.co.uk/*
 		?
+Collosus Bot
+	https://psewell.tripod.com/downloads.html
+		http://strider.reality-x.co.uk/
+		http://strider.reality-x.co.uk/downloads.htm
+	https://groups.google.com/g/rec.games.computer.quake.playing/c/OyEwKxqorrs/m/utfnt4Ngs_cJ
+		There are ACE, Assasin, CRBot, Demonshooter, Eraser, Famkebot, Oak II,
+		SABIN, Secant and Stupid bots. There will be Collossus, Eliminator,
+		Flame, Frost, Jagger, Pandora and Terror bots, possibly, in the future.
+	?
+Jagger / JaGgEr Bot
+	by Adam Sultani
+	https://psewell.tripod.com/downloads.html
+		http://www.geocities.com/SiliconValley/Haven/6020/index.html
+	https://groups.google.com/g/fido7.ru.game.half-life/c/Ityv0BUfr34/m/rvWLlUIv_ScJ
+		JaGgEr had several QII bot tutorials written and was working
+		on his own QII bot when he became ill in the first quarter of
+		'98. He recently updated his site talking of some new stuff
+		he would be working on soon. Further investigation by Randar
+		revealed that this would be a Half-Life bot.
+	https://groups.google.com/g/alt.games.quake2/c/mF7ycQBYrio/m/lqgLYwFziqEJ
+		Adam Sultani (a.k.a Jag, Jagger, VjaggerV).
+	http://www.geocities.com/SiliconValley/Haven/6020/
+		https://web.archive.org/web/20020212005211/http://www.geocities.com/SiliconValley/Haven/6020/
+		https://web.archive.org/web/*/http://www.geocities.com/SiliconValley/Haven/6020/*
+	never released
+313 Bot
+	https://psewell.tripod.com/botsindex.htm
+		http://www.fortunecity.com/skyscraper/pacific/10/index.html
+	http://www.fortunecity.com/skyscraper/pacific/10/index.html
+		https://web.archive.org/web/20000919053319/http://www.fortunecity.com/skyscraper/pacific/10/index.html
+		https://web.archive.org/web/*/http://www.fortunecity.com/skyscraper/pacific/10/*
+	http://planethalflife.com/fixxxer/
+		https://web.archive.org/web/20000817072057/http://planethalflife.com/fixxxer/
+	not released?
 
 
 

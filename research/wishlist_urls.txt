@@ -26,6 +26,8 @@ http://www.jp.tri6.net/~ponpoko/stup10x.zip
 # 3zb205beta.zip
 http://users.jp.tri6.net/~ponpoko/3zb205beta.zip
 http://www.telefragged.com/mirrors/mirrors.pl?be/3zb205beta.zip
+# 3zb206.zip
+http://users.jp.tri6.net/~ponpoko/3zb206.zip
 # 3zb207.zip
 http://users.jp.tri6.net/~ponpoko/3zb207.zip
 # 3zb208.zip
@@ -258,6 +260,7 @@ ftp://ftp.stomped.com/pub/redwood/bots/eraser0505_patch.zip
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0505_patch.zip
 http://games.gci.net/pub/Quake2/QuakeMods/EraserBot/Eraser0505_patch.zip
 # eraser0_1a.zip
+ftp://ftp.quipo.it/pub/quake2/BOT/Eraser0_1a.zip
 ftp://ftp.torget.se/pub/games/quake2/bots/eraser0_1a.zip
 http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/news/Eraser0_1a.zip
 http://impact.frag.com/files/Eraser0_1a.zip
@@ -284,6 +287,9 @@ ftp://ftp.openquake.org/pub/quake/openquake/famkebot150.zip
 ftp://ftp.tyumen.ru/pub/games/quake2/bots/famkebot150.zip
 ftp://quake.df.ru/pub/Quake2/DLLs/famkebot150.zip
 http://www.bluesnews.com/files/quake2/oqverified/famkebot150.zip
+# famkesrc.zip
+http://www.geocities.com/SiliconValley/Haven/6020/famkesrc.zip
+http://www.quake2.com/famkebot/FAMKESRC.ZIP
 
 # gladiator
 # gladq2 08.zip
@@ -406,6 +412,7 @@ http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/tel
 http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbot_06.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=nbot_06.zip&dir=telefragged/be/neuralbot/
+http://quake.quipo.it/q2crew/q2/nbot_06.zip
 
 # Oak II
 # OakII_01.zip
@@ -501,6 +508,7 @@ http://www.fileplanet.com/dl/dl.asp?expert/eraserx30.zip
 http://www.fileplanet.com/redir.asp?file=12942&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/expert/eraserx30.zip
 http://www.fileplanet.com/redir.asp?file=12942&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/expert/eraserx30.zip
 http://www.planetquake.com/dl/dl.asp?expert/eraserx30.zip
+http://quake.quipo.it/q2crew/q2/eraserx30.zip
 # eraserx301.zip
 http://ftp.sunet.se/planetquake/expert/eraserx301.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx301.zip
@@ -554,6 +562,7 @@ http://ultra.quake2.co.uk/ultra-26.zip
 http://quake.org.pl/files/quake2/boty/ultra/ultra-26-linux.zip
 # ultra-30.zip
 http://ultra.quake2.co.uk/ultra-30.zip
+http://quake.quipo.it/q2crew/q2/ultra-30.zip
 
 # ice bot
 # ice_01-011.zip

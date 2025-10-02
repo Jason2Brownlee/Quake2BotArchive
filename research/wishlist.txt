@@ -31,8 +31,8 @@ stup10x.zip
 3zb2093_x86.zip
 3zb2097b.zip
 3zb2src93.zip
-# guesses (unconfirmed)
 3zb206.zip
+# guesses (unconfirmed)
 3zb2085.zip
 3zb2086.zip
 3zb2090.zip
