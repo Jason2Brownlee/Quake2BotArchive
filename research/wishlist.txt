@@ -321,3 +321,6 @@ hfbot-010a.tgz
 hfbotsrc.tgz
 hfbot01a.zip
 hfbotsrc.zip
+
+# pandora
+pandora200b60.zip

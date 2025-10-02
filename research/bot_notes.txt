@@ -827,10 +827,6 @@ TODO
 
 
 
-
-
-
-
 Incomplete / Insufficient Info
 --------------------------------------------------------------------------------
 SuicideBot / Suicide Bot
@@ -872,7 +868,9 @@ Jagger / JaGgEr Bot
 	http://planethalflife.com/fixxxer/
 		https://web.archive.org/web/20000817072057/http://planethalflife.com/fixxxer/
 	not released?
-
+EliminatorBot2
+	https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
+	not released?
 
 
 Out Of Scope
