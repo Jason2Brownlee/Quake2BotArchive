@@ -868,6 +868,8 @@ http://quake.org.pl/files/quake2/boty/sabin/sabin980724-test.exe
 # sabin_linux.tar.gz
 http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin_linux.tar.gz
 
-
+# shooter2.zip
+http://www.geocities.com/TimesSquare/Battlefield/6856/shooter2.zip
+http://www.geocities.com/timessquare/battlefield/6856/shooter2.zip
 
 

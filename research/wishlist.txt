@@ -310,3 +310,6 @@ sabin980723-linux-src.zip
 sabin980723-test.exe
 sabin980724-test.exe
 sabin_linux.tar.gz
+
+# daemon shooter 2
+shooter2.zip

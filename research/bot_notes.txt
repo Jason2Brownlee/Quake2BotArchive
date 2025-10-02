@@ -794,6 +794,16 @@ Crusader bot
 			https://web.archive.org/web/19991128081610/http://www.quake.cz:80/bot/download/crusv05.zip
 	http://www.quake.cz/
 		https://web.archive.org/web/19981212032139/http://www.quake.cz/
+Demonshooter Helper Bot
+	Arno Onken
+	https://psewell.tripod.com/botsindex.htm
+		http://www.geocities.com/TimesSquare/Battlefield/6856/
+	http://www.geocities.com/TimesSquare/Battlefield/6856/
+		https://web.archive.org/web/19990221081040/http://www.geocities.com/TimesSquare/Battlefield/6856/
+		bot for quake 1 and another for q2
+	https://web.archive.org/web/19981202190704/http://www.swissquake.ch/botpage/
+		http://geocities.com/timessquare/battlefield/6856/shooter2.zip
+
 
 
 
@@ -803,12 +813,7 @@ TODO
 
 
 
-Demonshooter Helper Bot
-	https://psewell.tripod.com/botsindex.htm
-		http://www.geocities.com/TimesSquare/Battlefield/6856/
-	http://www.geocities.com/TimesSquare/Battlefield/6856/
-		https://web.archive.org/web/19990221081040/http://www.geocities.com/TimesSquare/Battlefield/6856/
-		bot for quake 1 and another for q2
+
 HappyFun Bot
 	https://psewell.tripod.com/botsindex.htm
 		http://www.gazpacho.net/happyfun/
