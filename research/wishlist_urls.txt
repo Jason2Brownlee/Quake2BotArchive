@@ -872,4 +872,14 @@ http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin_linux.tar.gz
 http://www.geocities.com/TimesSquare/Battlefield/6856/shooter2.zip
 http://www.geocities.com/timessquare/battlefield/6856/shooter2.zip
 
+# happy fun bot
+# hfbot-010a.tgz
+http://www.gazpacho.net/files/hfbot-010a.tgz
+# hfbotsrc.tgz
+http://www.gazpacho.net/files/hfbotsrc.tgz
+# hfbot01a.zip
+http://www.gazpacho.net/files/hfbot01a.zip
+# hfbotsrc.zip
+http://gazpacho.net/files/hfbotsrc.zip
+
 

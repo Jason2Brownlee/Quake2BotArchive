@@ -800,9 +800,23 @@ Demonshooter Helper Bot
 		http://www.geocities.com/TimesSquare/Battlefield/6856/
 	http://www.geocities.com/TimesSquare/Battlefield/6856/
 		https://web.archive.org/web/19990221081040/http://www.geocities.com/TimesSquare/Battlefield/6856/
+		https://web.archive.org/web/*/http://www.geocities.com/TimesSquare/Battlefield/6856/*
+		https://web.archive.org/web/20090902015136/http://geocities.com/timessquare/battlefield/6856/shooter2.zip
+		https://web.archive.org/web/19991109222111/http://www.geocities.com:80/TimesSquare/Battlefield/6856/shooterhq.html
 		bot for quake 1 and another for q2
 	https://web.archive.org/web/19981202190704/http://www.swissquake.ch/botpage/
 		http://geocities.com/timessquare/battlefield/6856/shooter2.zip
+HappyFun Bot
+	https://psewell.tripod.com/botsindex.htm
+		http://www.gazpacho.net/happyfun/
+	http://www.gazpacho.net/happyfun/
+		https://web.archive.org/web/19990222090242/http://www.gazpacho.net/happyfun/
+			https://web.archive.org/web/20120228201527/http://www.gazpacho.net/files/hfbot-010a.tgz
+			https://web.archive.org/web/20120228201817/http://www.gazpacho.net/files/hfbotsrc.tgz
+			https://web.archive.org/web/20000603204052/http://www.gazpacho.net/files/hfbot01a.zip
+			https://web.archive.org/web/20130701225817/http://gazpacho.net/files/hfbotsrc.zip
+		https://web.archive.org/web/20020823174526/http://www.gazpacho.net/index.html
+		https://web.archive.org/web/20030812181327/http://www.gazpacho.net/downloads.html
 
 
 
@@ -813,10 +827,6 @@ TODO
 
 
 
-
-HappyFun Bot
-	https://psewell.tripod.com/botsindex.htm
-		http://www.gazpacho.net/happyfun/
 
 
 

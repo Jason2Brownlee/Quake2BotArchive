@@ -313,3 +313,9 @@ sabin_linux.tar.gz
 
 # daemon shooter 2
 shooter2.zip
+
+# HappyFun Bot
+hfbot-010a.tgz
+hfbotsrc.tgz
+hfbot01a.zip
+hfbotsrc.zip
