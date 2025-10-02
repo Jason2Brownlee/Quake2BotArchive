@@ -32,6 +32,9 @@ http://users.jp.tri6.net/~ponpoko/3zb207.zip
 http://users.jp.tri6.net/~ponpoko/3zb208.zip
 # 3zb2087.zip
 http://users.jp.tri6.net/~ponpoko/3zb2087.zip
+http://quake.quipo.it/q2crew/q2/3zb2087.zip
+# 3zb2088.zip
+http://quake.quipo.it/q2crew/q2/3zb2088.zip
 # 3zb2089u.zip
 http://ponpoko.tri6.net/3zb2089u.zip
 http://users.jp.tri6.net/~ponpoko/3zb2089u.zip
