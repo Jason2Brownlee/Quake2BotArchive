@@ -561,6 +561,7 @@ http://quake.org.pl/files/quake2/boty/ultra/ultra-26.zip
 http://ultra.quake2.co.uk/ultra-26.zip
 # ultra-26-linux.zip
 http://quake.org.pl/files/quake2/boty/ultra/ultra-26-linux.zip
+http://ultra.quake2.co.uk/ultra-26-linux.zip
 # ultra-30.zip
 http://ultra.quake2.co.uk/ultra-30.zip
 http://quake.quipo.it/q2crew/q2/ultra-30.zip
@@ -882,5 +883,13 @@ http://www.gazpacho.net/files/hfbotsrc.tgz
 http://www.gazpacho.net/files/hfbot01a.zip
 # hfbotsrc.zip
 http://gazpacho.net/files/hfbotsrc.zip
+http://www.gazpacho.net/files/hfbotsrc.zip
+
+# pandora
+# pandora200b60.zip
+http://www.opt-sci.arizona.edu/Pandora/Downloads/pandora200b60.zip
+
+
+
 
 
