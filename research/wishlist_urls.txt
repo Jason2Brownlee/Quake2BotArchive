@@ -447,6 +447,7 @@ ftp://ftp.cdrom.com/pub/quake/telefragged/assbot0025.zip
 ftp://ftp.telefragged.com/pub/assassin/assbot0025.zip
 http://www.gibsillustrated.com/assassin/assbot0025.zip
 http://www.quake2.com/epidemic/downloads/assbot0025.zip
+ftp://ftp.lake.de/homepages/medusa/q2/files/assbot0025.zip
 
 # Flamebot
 # fb00251.zip

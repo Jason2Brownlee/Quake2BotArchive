@@ -134,8 +134,8 @@ Eraser100_SRC.zip
 Eraser101-linux.tar.gz
 Eraser101_SRC.zip
 mac_eraser_101final.sit.bin
-eraser_101_solx86.tar.gz
-eraser_101_sparc.tar.gz
+
+
 
 # Famkebot
 famkebot150.zip
