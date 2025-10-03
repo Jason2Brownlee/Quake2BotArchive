@@ -324,3 +324,7 @@ hfbotsrc.zip
 
 # pandora
 pandora200b60.zip
+
+# zbots
+zbot07k.zip
+zbot317.zip
