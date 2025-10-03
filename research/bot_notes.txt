@@ -836,6 +836,30 @@ ZBot (aimbot)
 		https://www.geocities.ws/oldquaker/clanllama/files/zbot319.zip
 	home7.swipnet.se/~w-71686
 		not archived
+	http://www.geocities.com:80/TimesSquare/Bunker/8949/files.html
+		https://web.archive.org/web/19991128064421/http://www.geocities.com:80/TimesSquare/Bunker/8949/files.html
+		origional
+			zbotq2.zip 43k - v0.06 works with Q2 v3.12-3.14
+			zbot07.zip 49k - v0.07 works with Q2 v3.12-3.14
+			zbot08.zip 52k - v0.08 works with Q2 v3.15
+			zbot09.zip 51k - v0.09 works with Q2 v3.17
+			N/A - Refer to zbot09.zip
+		modified
+			zbot06k.zip 44k - modified v0.06
+			zbot07k.zip 49k - modified v0.07
+			zbot08k.zip 48k - modified v0.08
+			zbot09k.zip 47k - modified v0.09
+			zbot10.zip 56k - modified v0.09 for Q2 v3.19 *NEW*
+	modified zbot
+		zbot10m1.zip and zbot10m2.zip
+		Zorlac
+	modified zbot
+		"k" extensions
+		"=_Extor_="
+
+
+
+
 
 
 

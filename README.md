@@ -73,7 +73,10 @@ S.A.B.I.N. | Terry Hendrix aka "DS" | sabin971230.exe<br>sabin980128.exe<br>sabi
 SecantBot (Tangential) | Anthony Yuen aka "Tangent" | [Tangential_100.zip](bin/Tangential_100.zip)<br>[Tangential_111.zip](bin/Tangential_111.zip)<br>[Tangential_120.zip](bin/Tangential_120.zip)<br>[Tangential_130.zip](bin/Tangential_130.zip)<br>[Tangential_140.zip](bin/Tangential_140.zip)<br>[Tangential_145.zip](bin/Tangential_145.zip)<br>[Tangential_151.zip](bin/Tangential_151.zip)<br>[Tangential_160_Linux.zip](bin/Tangential_160_Linux.zip)<br>[Tangential_160_Win32.zip](bin/Tangential_160_Win32.zip)
 Stool Pigeon | "RottenTurd" | [stoolbot.zip](bin/stoolbot.zip)
 TossBot | "The Storm" | [tossbot.zip](bin/tossbot.zip)
-ZBot | ? | [zbotq2.zip](bin/zbotq2.zip)<br>[zbot07.zip](bin/zbot07.zip)<br>[zbot08.zip](bin/zbot08.zip)<br>[zbot09.zip](bin/zbot09.zip)<br>[zbot06k.zip](bin/zbot06k.zip)<br>zbot07k.zip<br>[zbot08k.zip](bin/zbot08k.zip)<br>[zbot09k.zip](bin/zbot09k.zip)<br>zbot317.zip<br>[zbot10.zip](bin/zbot10.zip)<br>[zbot319.zip](bini/zbot319.zip)<br>[zbot10m1.zip](bin/zbot10m1.zip)<br>[zbot10m2.zip](bin/zbot10m2.zip)
+ZBot (modified) | "=_Extor_=" | [zbot06k.zip](bin/zbot06k.zip)<br>zbot07k.zip<br>[zbot08k.zip](bin/zbot08k.zip)<br>[zbot09k.zip](bin/zbot09k.zip)<br>zbot317.zip<br>[zbot10.zip](bin/zbot10.zip)<br>[zbot319.zip](bini/zbot319.zip)
+ZBot (modified) | "Zorlac" | [zbot10m1.zip](bin/zbot10m1.zip)<br>[zbot10m2.zip](bin/zbot10m2.zip)
+ZBot | "Zappa" | [zbotq2.zip](bin/zbotq2.zip)<br>[zbot07.zip](bin/zbot07.zip)<br>[zbot08.zip](bin/zbot08.zip)<br>[zbot09.zip](bin/zbot09.zip)
+
 
 ## Help
 
