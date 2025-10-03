@@ -20,8 +20,8 @@ v0.7 (Beta)		| 0304 (Eraser0304)
 v0.8 (Beta)		| 0312 (eraser0312)
 ??? (0.81?)		| 0313 (Eraser0313)
 v0.82 (Beta)	| 0314 (Eraser0314)
-???	(0.83?)		| 0315 (Eraser0315)
-???				| 0316 (Eraser0316)
+???	(0.82a?)	| 0315 (Eraser0315)
+???	(0.82b?)	| 0316 (Eraser0316)
 v0.84 (Beta)	| 0317 (Eraser0317)
 v0.85 (Beta)	| 0320 (Eraser0320)
 v0.86 (Beta)	| 0323 (Eraser0323)
@@ -44,3 +44,7 @@ v1.02 (Net Pack)| 1015
 
 
 
+---
+
+check old news here:
+https://web.archive.org/web/19981205055417/http://www.planetquake.com/hotlaunch/

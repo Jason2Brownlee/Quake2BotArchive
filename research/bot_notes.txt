@@ -817,12 +817,36 @@ HappyFun Bot
 			https://web.archive.org/web/20130701225817/http://gazpacho.net/files/hfbotsrc.zip
 		https://web.archive.org/web/20020823174526/http://www.gazpacho.net/index.html
 		https://web.archive.org/web/20030812181327/http://www.gazpacho.net/downloads.html
-
+ZBot (aimbot)
+	https://zbot1.fortunecity.ws/
+		https://zbot1.fortunecity.ws/q2/zfiles.html
+			zbotq2.zip 43k - v0.06 works with Q2 v3.12-3.14
+			zbot07.zip 49k - v0.07 works with Q2 v3.12-3.14
+			zbot08.zip 52k - v0.08 works with Q2 v3.15
+			zbot09.zip 51k - v0.09 works with Q2 v3.17
+			zbot06k.zip 44k - modified v0.06
+			zbot07k.zip 49k - modified v0.07
+			zbot08k.zip 48k - modified v0.08
+			zbot09k.zip 47k - modified v0.09
+			zbot10.zip 56k - modified v0.09 for Q2 v3.19
+			zbot10m1.zip 57k - modified v0.10 for Q2 v3.20
+			zbot10M1.zip 51k - modified v0.10 III for Q2 v3.20 *NEW* added on 4-9-99 5:30:37 Include's a manual.
+	https://www.geocities.ws/oldquaker/clanllama/zbot.html
+		https://www.geocities.ws/oldquaker/clanllama/files/zbot317.zip
+		https://www.geocities.ws/oldquaker/clanllama/files/zbot319.zip
+	home7.swipnet.se/~w-71686
+		not archived
 
 
 
 TODO
 --------------------------------------------------------------------------------
+
+
+RatBot
+	https://zbot1.fortunecity.ws/q2/rfiles.html
+	https://zbot1.fortunecity.ws/files/RCC.zip
+	members.tripod.com/Rat_HQ
 
 
 
