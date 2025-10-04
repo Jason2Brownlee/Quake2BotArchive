@@ -817,7 +817,7 @@ HappyFun Bot
 			https://web.archive.org/web/20130701225817/http://gazpacho.net/files/hfbotsrc.zip
 		https://web.archive.org/web/20020823174526/http://www.gazpacho.net/index.html
 		https://web.archive.org/web/20030812181327/http://www.gazpacho.net/downloads.html
-ZBot (aimbot)
+ZBot (Zappa Bot)
 	https://zbot1.fortunecity.ws/
 		https://zbot1.fortunecity.ws/q2/zfiles.html
 			zbotq2.zip 43k - v0.06 works with Q2 v3.12-3.14
@@ -865,7 +865,9 @@ RatBot
 	ratbot.net
 		https://web.archive.org/web/20001110095300/http://www.ratbot.net/
 		https://web.archive.org/web/*/ratbot.net*
-	Thomas from Dortmund/Germany Alias Rat_42
+		https://web.archive.org/web/20011023150916fw_/http://www.ratbot.net/agreement.txt
+			Thomas from Dortmund/Germany Alias Rat_42
+	news suggests multiple versions, all released as "ratbot.exe"
 
 
 
@@ -885,7 +887,7 @@ SuicideBot / Suicide Bot
 		https://web.archive.org/web/19981111185132/http://www.designworx.demon.co.uk/
 		https://web.archive.org/web/*/http://www.designworx.demon.co.uk/*
 		?
-Collosus Bot
+Collosus Bot (Colossus?)
 	https://psewell.tripod.com/downloads.html
 		http://strider.reality-x.co.uk/
 		http://strider.reality-x.co.uk/downloads.htm
