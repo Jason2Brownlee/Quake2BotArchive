@@ -856,8 +856,16 @@ ZBot (aimbot)
 	modified zbot
 		"k" extensions
 		"=_Extor_="
-
-
+RatBot
+	https://zbot1.fortunecity.ws/q2/rfiles.html
+	https://zbot1.fortunecity.ws/files/RCC.zip
+	members.tripod.com/Rat_HQ
+	ratbot.com
+	ratbot.org
+	ratbot.net
+		https://web.archive.org/web/20001110095300/http://www.ratbot.net/
+		https://web.archive.org/web/*/ratbot.net*
+	Thomas from Dortmund/Germany Alias Rat_42
 
 
 
@@ -866,11 +874,6 @@ ZBot (aimbot)
 TODO
 --------------------------------------------------------------------------------
 
-
-RatBot
-	https://zbot1.fortunecity.ws/q2/rfiles.html
-	https://zbot1.fortunecity.ws/files/RCC.zip
-	members.tripod.com/Rat_HQ
 
 
 
