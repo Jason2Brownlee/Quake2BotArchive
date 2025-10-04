@@ -141,7 +141,7 @@ mac_eraser_101final.sit.bin
 famkebot150.zip
 fb65gx86.zip
 # generic
-# FAMKESRC.ZIP
+famkesrc.zip
 # FAMKEBOT.ZIP
 # FAMKE.ZIP
 

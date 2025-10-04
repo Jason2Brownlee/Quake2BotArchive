@@ -299,6 +299,9 @@ Famkebot
 		https://web.archive.org/web/20000307170337/http://tux.telefragged.com/file.pl?filename=fb70gx86.zip&dir=telefragged/thefatal/
 	https://richwhitehouse.com
 		https://richwhitehouse.com/index.php?content=inc_projects.php&showcat=Quake%20II
+	http://telefragged.com/thefatal/old/famke.shtml
+		https://web.archive.org/web/20051118224738/http://telefragged.com/thefatal/old/famke.shtml
+	many early versions released as "famkebot.zip"...
 3rd-Zigock Bot / 3ZB1
 	by "ponpoko"
 	http://users.jp.tri6.net/~ponpoko/stupid.html
@@ -882,8 +885,19 @@ RatBot
 TODO
 --------------------------------------------------------------------------------
 
-
-
+frkq2
+	https://www.unknowncheats.me/forum/quake-1-4-a/13056-undetectable-aimbot-quake2.html
+	http://webpages.charter.net/cmabry/frkq2_bot.htm
+	https://www.unknowncheats.me/forum/quake-1-4-a/10908-zgh-frk-nocheat-2-34-a.html
+	https://q2scene.com/scene/index.php?op=col&id=25
+	another aimbot?
+q2ace
+	https://www.unknowncheats.me/forum/quake-1-4-a/13056-undetectable-aimbot-quake2.html
+	https://www.angelfire.com/games4/q2ace/
+	http://www.geocities.com/anticheater999
+	http://www.spks.org/
+	another aimbot? pro client?
+	?
 
 
 Incomplete / Insufficient Info
@@ -906,6 +920,7 @@ Jagger / JaGgEr Bot
 	by Adam Sultani
 	https://psewell.tripod.com/downloads.html
 		http://www.geocities.com/SiliconValley/Haven/6020/index.html
+		https://web.archive.org/web/20021201124014/http://www.geocities.com/SiliconValley/Haven/6020/
 	https://groups.google.com/g/fido7.ru.game.half-life/c/Ityv0BUfr34/m/rvWLlUIv_ScJ
 		JaGgEr had several QII bot tutorials written and was working
 		on his own QII bot when he became ill in the first quarter of
