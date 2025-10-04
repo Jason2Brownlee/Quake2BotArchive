@@ -15,6 +15,7 @@ Let's try and disentangle this.
 * http://www.concentric.net/~thefatal/q2bot.html (not archived)
 * http://www.quake2.com/famkebot/ (circa December 1997 to Early 1998)
 * http://www.telefragged.com/thefatal
+* http://home.telefragged.com/thefatal
 * https://richwhitehouse.com
 
 
@@ -28,13 +29,12 @@ Version | Filename | Date (yyyymmdd)
 1.50			| famkebot150.zip 	| 19971220 (?)
 1.60 			| ? 				| 19971221 (?)
 2.0 			| ? 				| 19971229 (?)
-2.21			| ? 				| 19971230 (?)
+2.21 Source		| ? 				| 19971230 (?)
 2.20			| famkebot.zip 		| 19980102
 5.0 			| famkebot.zip 		| 19980406 (?)
-5.5				| ? 				| ?
 5.6				| famkebot.zip 		| 19980415
 5.62 Upgrade 	| fb562upg.zip 		| 19980415
-??? 			| famkebot.zip 		| 19980529
+??? (v5.6 reupload!?)			| famkebot.zip 		| 19980529
 5.? Source 		| fbsrcv5.zip 		| 19980617
 6.0 			| famke6.zip		| 19990211
 
@@ -94,6 +94,9 @@ More evidence of multiple releases with the same filename:
 
 * [http://www.telefragged.com/thefatal/](https://web.archive.org/web/19980626064038/http://www.telefragged.com/thefatal/) (archived)
 
+More history:
+
+* [http://home.telefragged.com/thefatal/famke.shtml](https://web.archive.org/web/19991001113637/http://home.telefragged.com/thefatal/famke.shtml) (archived)
 
 
 ## Version Links
