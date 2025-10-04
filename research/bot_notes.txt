@@ -856,6 +856,9 @@ ZBot (Zappa Bot)
 	modified zbot
 		"k" extensions
 		"=_Extor_="
+	author
+		"Jörgen Karlsson"
+		https://groups.google.com/g/alt.games.quake2/c/0BSkeCVnbgs/m/ErYsMo84lRoJ
 RatBot
 	https://zbot1.fortunecity.ws/q2/rfiles.html
 	https://zbot1.fortunecity.ws/files/RCC.zip

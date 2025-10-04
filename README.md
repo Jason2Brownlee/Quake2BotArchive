@@ -76,7 +76,7 @@ Stool Pigeon | "RottenTurd" | [stoolbot.zip](bin/stoolbot.zip)
 TossBot | "The Storm" | [tossbot.zip](bin/tossbot.zip)
 ZBot (modified) | "=\_Extor\_=" | [zbot06k.zip](bin/zbot06k.zip)<br>zbot07k.zip<br>[zbot08k.zip](bin/zbot08k.zip)<br>[zbot09k.zip](bin/zbot09k.zip)<br>[zbot10.zip](bin/zbot10.zip)
 ZBot (modified) | "Zorlac" | [zbot10m1.zip](bin/zbot10m1.zip)<br>[zbot10m2.zip](bin/zbot10m2.zip)
-ZBot (Zappa Bot) | "Zappa" | [zbotq2.zip](bin/zbotq2.zip)<br>[zbot07.zip](bin/zbot07.zip)<br>[zbot08.zip](bin/zbot08.zip)<br>[zbot09.zip](bin/zbot09.zip)
+ZBot (Zappa Bot) | Jörgen Karlsson aka "Zappa" | [zbotq2.zip](bin/zbotq2.zip)<br>[zbot07.zip](bin/zbot07.zip)<br>[zbot08.zip](bin/zbot08.zip)<br>[zbot09.zip](bin/zbot09.zip)
 
 ## Help
 
