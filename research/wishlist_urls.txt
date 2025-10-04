@@ -622,6 +622,7 @@ http://ftp.sunet.se/planetquake/niq/niq17.zip
 http://mirror.aarnet.edu.au/games/planetquake/niq/niq17.zip
 http://mirror.aarnet.edu.au/games/planetquake/niq17.zip
 # niq19.zip
+ftp://ftp.cdrom.com/pub/quake/planetquake/niq/niq19.zip
 ftp://ftp.cdrom.com/pub/planetquake/niq/niq19.zip
 http://asp.planetquake.com/dl/dl.asp?niq/niq19.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq19.zip
@@ -889,7 +890,10 @@ http://www.gazpacho.net/files/hfbotsrc.zip
 # pandora200b60.zip
 http://www.opt-sci.arizona.edu/Pandora/Downloads/pandora200b60.zip
 
-
+# zbot
+# zbot317.zip
+http://members.tripod.com/clanllama/quake2c/zbot317.zip
+http://www.geocities.ws/oldquaker/clanllama/files/zbot317.zip
 
 
 
