@@ -211,9 +211,11 @@ http://impact.frag.com/files/Eraser0529_patch.exe
 http://impact.frag.com/files/Eraser0617-Linux.tgz
 # Eraser0618_patch.zip
 http://impact.frag.com/files/Eraser0618_patch.zip
+ftp://ftp.stomped.com/pub/redwood/bots/eraser0618_patch.zip
 # Eraser100_SRC.zip
 http://impact.frag.com/files/Eraser100_SRC.zip
 http://quake.org.pl/files/quake2/boty/eraser/Eraser100_SRC.zip
+ftp://quake.ctv.es/pub/Bots/Eraser/Eraser100_SRC.zip
 # Eraser101-linux.tar.gz
 http://quake.org.pl/files/quake2/boty/eraser/Eraser101-linux.tar.gz
 http://www.botepidemic.com/q2rfd/files/bots/eraser/Eraser101-linux.tar.gz
