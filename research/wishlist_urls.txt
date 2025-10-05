@@ -874,6 +874,20 @@ http://quake.org.pl/files/quake2/boty/sabin/sabin980724-test.exe
 http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin_linux.tar.gz
 # 24_1_98.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/24_1_98.zip
+# sabin290398.rar
+http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin290398.rar
+# sabin980320.rar
+http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980320.rar
+# sabin980505.rar
+http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980505.rar
+# sabin980510.rar
+http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980510.rar
+# sabin_ctf_demo.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin_ctf_demo.zip
+# sabin_demo.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin_demo.zip
+# sabin_plan_demo.zip
+ftp://ftp.telefragged.com/pub/epidemic/sabin_plan_demo.zip
 
 
 # shooter2.zip
