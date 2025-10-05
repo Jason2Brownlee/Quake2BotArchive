@@ -142,8 +142,7 @@ famkebot150.zip
 fb65gx86.zip
 # generic
 famkesrc.zip
-# FAMKEBOT.ZIP
-# FAMKE.ZIP
+# famkebot.zip
 
 # gladiator bot
 gladq208.zip
@@ -312,6 +311,16 @@ sabin980723-linux-src.zip
 sabin980723-test.exe
 sabin980724-test.exe
 sabin_linux.tar.gz
+# related?
+sabin290398.rar
+sabin980320.rar
+sabin980505.rar
+sabin980510.rar
+24_1_98.zip
+sabin_ctf_demo.zip
+sabin_demo.zip
+sabin_plan_demo.zip
+
 
 # daemon shooter 2
 shooter2.zip
