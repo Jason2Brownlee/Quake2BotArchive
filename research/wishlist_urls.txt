@@ -80,7 +80,6 @@ ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot103.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot105.zip
 http://www.geocities.com/SiliconValley/Lab/8885/crbot105.zip
 ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/crbotq2/crbot105.zip
-
 # eraser
 # ERAS0118.EXE
 ftp://ftp.warzone.com/pub/quake2/bots/eras0118.exe
@@ -223,6 +222,11 @@ ftp://quake.ctv.es/pub/Bots/Eraser/Eraser100_SRC.zip
 http://quake.org.pl/files/quake2/boty/eraser/Eraser101-linux.tar.gz
 http://www.botepidemic.com/q2rfd/files/bots/eraser/Eraser101-linux.tar.gz
 http://www.frag.com/cgi-bin/dl.cgi?impact/Eraser101-linux.tar.gz
+# Eraser101_SRC.zip
+http://quake.org.pl/files/quake2/boty/eraser/Eraser101_SRC.zip
+http://www.frag.com/cgi-bin/dl.cgi?impact/Eraser101_SRC.zip
+ftp://ftp.fasta.fh-dortmund.de/gdi/quake2/tools/bots/Eraser101_SRC.zip
+http://games.gci.net/pub/Quake2/QuakeMods/EraserBot/Eraser101_SRC.zip
 # Eraser320_patch.zip
 http://impact.frag.com/files/Eraser320_patch.zip
 # EraserInstall.exe
