@@ -76,6 +76,7 @@ crbot099b.zip
 crbot099e.zip
 
 # eraser bot
+ridahAI.zip
 eraser0_1a.zip
 eras0113.zip
 ERAS0118.EXE

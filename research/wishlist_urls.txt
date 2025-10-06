@@ -80,7 +80,10 @@ ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot103.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot105.zip
 http://www.geocities.com/SiliconValley/Lab/8885/crbot105.zip
 ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/crbotq2/crbot105.zip
+
 # eraser
+# ridahAI.zip
+http://impact.frag.com/files/ridahAI.zip
 # ERAS0118.EXE
 ftp://ftp.warzone.com/pub/quake2/bots/eras0118.exe
 http://impact.frag.com/files/ERAS0118.EXE
