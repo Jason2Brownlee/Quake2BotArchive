@@ -143,6 +143,7 @@ http://impact.frag.com/files/Eraser0316_patch.exe
 http://impact.frag.com/files/Eraser0316_patch.zip
 # Eraser0317_patch.exe
 http://impact.frag.com/files/Eraser0317_patch.exe
+ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2/eraser0317_patch.exe
 # Eraser0317_patch.zip
 http://impact.frag.com/files/Eraser0317_patch.zip
 # Eraser0320-linux.tgz
@@ -154,6 +155,7 @@ http://redwood.stomped.com/files/bots/eraser0320_patch.exe
 http://www.farmbert.com/botster/files/eraser0320_patch.zip
 # Eraser0323_patch.exe
 http://impact.frag.com/files/Eraser0323_patch.exe
+http://quake2.mikrosat.com.pl/quake2ftp/bots/eraser0323_patch.exe
 # Eraser0323_patch.zip
 http://impact.frag.com/files/Eraser0323_patch.zip
 http://www.quake.convey.ru/ftp/pub/quake.ii/dlls/bots/Eraser0323_patch.zip
@@ -183,8 +185,11 @@ http://impact.frag.com/files/Eraser0411b_patch.zip
 http://bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0427.exe
 http://impact.frag.com/files/Eraser0427.exe
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0427.exe
+http://quake.org.pl/files/Eraser0427.exe
+ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2/eraser0427.exe
 # Eraser0427_patch.exe
 http://impact.frag.com/files/Eraser0427_patch.exe
+ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2/eraser0427_patch.exe
 # Eraser0427_patch.zip
 http://impact.frag.com/files/Eraser0427_patch.zip
 # Eraser0501.exe
@@ -193,12 +198,14 @@ http://bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0501.exe
 http://impact.frag.com/files/Eraser0501.exe
 http://impact.frag.com/files/eraser0501.exe
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0501.exe
+ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2/eraser0501.exe
 # Eraser0505_patch.exe
 ftp://ftp.stomped.com/pub/redwood/bots/eraser0505_patch.exe
 http://impact.frag.com/files/Eraser0505_patch.exe
 http://impact.frag.com/files/eraser0505_patch.exe
 http://quake2.org.pl/ftp/bots/EraserBot/Eraser0505_patch.exe
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0505_patch.exe
+ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2/eraser0505_patch.exe
 # Eraser0508_patch.exe
 ftp://ftp.gamesnet.net/pub/bluesnews/quake2/eraser/Eraser0508_patch.exe
 http://impact.frag.com/files/Eraser0508_patch.exe
@@ -928,6 +935,4 @@ http://www.opt-sci.arizona.edu/Pandora/Downloads/pandora200b60.zip
 # zbot317.zip
 http://members.tripod.com/clanllama/quake2c/zbot317.zip
 http://www.geocities.ws/oldquaker/clanllama/files/zbot317.zip
-
-
 
