@@ -945,8 +945,9 @@ Jagger / JaGgEr Bot
 EliminatorBot2
 	https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
 	not released?
-
-
+3zb2 + KMQuake2
+	https://www.moddb.com/mods/q2dirt-dd3zb2/downloads/dd3zb2-010-ctf
+	"dirtdemon"
 
 
 Out Of Scope

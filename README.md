@@ -19,7 +19,8 @@ Alphabetical list of Quake II bot names, authors, and local download links for a
 Bot Name | Bot Author(s) | File
 --- | --- | ---
 3rd-Zigock 1 Bot (Stupid Bot) | "ponpoko" | stp099d.zip<br>[stp099e.zip](bin/stp099e.zip)<br>[stp099f.zip](bin/stp099f.zip)<br>stp099h.zip<br>3zb149.zip<br>3zb150.zip<br>3zb151.zip<br>[3zb155.zip](bin/3zb155.zip)<br>[3zb156.zip](bin/3zb156.zip)<br>[3zb158.zip](bin/3zb158.zip)
-3rd-Zigock 2 Bot | "ponpoko" | 3zb205beta.zip<br>3zb206.zip<br>3zb207.zip<br>3zb208.zip<br>[3zb2082.zip](bin/3zb2082.zip)<br>[3zb2087.zip](bin/3zb2087.zip)<br>[3zb2088.zip](bin/3zb2088.zip)<br>3zb2089u.zip<br>3zb2093.zip<br>3zb2src93.zip<br>3zb2093_x86.zip<br>[3zbjpndoc096.zip](bin/3zbjpndoc096.zip)<br>[3zb2097.zip](bin/3zb2097.zip)<br>3zb2097b.zip<br>[3zb2097d.zip](bin/3zb2097d.zip)<br>[3zb2src97.zip](bin/3zb2src97.zip)<br>[3zb2src97LCC.zip](bin/3zb2src97LCC.zip)<br>[3zb2097_x86.zip](bin/3zb2097_x86.zip)<br>[3zb2097_glibc.zip](bin/3zb2097_glibc.zip)<br>[3zb2098.zip](bin/3zb2098.zip)
+3rd-Zigock 2 Bot (3zb2) | "ponpoko" | 3zb205beta.zip<br>3zb206.zip<br>3zb207.zip<br>3zb208.zip<br>[3zb2082.zip](bin/3zb2082.zip)<br>[3zb2087.zip](bin/3zb2087.zip)<br>[3zb2088.zip](bin/3zb2088.zip)<br>3zb2089u.zip<br>3zb2093.zip<br>3zb2src93.zip<br>3zb2093_x86.zip<br>[3zbjpndoc096.zip](bin/3zbjpndoc096.zip)<br>[3zb2097.zip](bin/3zb2097.zip)<br>3zb2097b.zip<br>[3zb2097d.zip](bin/3zb2097d.zip)<br>[3zb2src97.zip](bin/3zb2src97.zip)<br>[3zb2src97LCC.zip](bin/3zb2src97LCC.zip)<br>[3zb2097_x86.zip](bin/3zb2097_x86.zip)<br>[3zb2097_glibc.zip](bin/3zb2097_glibc.zip)<br>[3zb2098.zip](bin/3zb2098.zip)
+3zb2 + KMQuake2 | "dirtdemon" | [dd3zb2_010_ctf.zip](bin/dd3zb2_010_ctf.zip)
 ACE Bot + Holywars | "RiEvEr" | [Q2HWBot001.zip](bin/Q2HWBot001.zip)
 ACE Bot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>[ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
 ACEnEraser | Steve Yeager | ACEvsEraser.zip
@@ -74,9 +75,9 @@ S.A.B.I.N. | Terry Hendrix aka "Mongoose" | sabin971230.exe<br>24_1_98.zip<br>sa
 SecantBot (Tangential) | Anthony Yuen aka "Tangent" | [Tangential_100.zip](bin/Tangential_100.zip)<br>[Tangential_111.zip](bin/Tangential_111.zip)<br>[Tangential_120.zip](bin/Tangential_120.zip)<br>[Tangential_130.zip](bin/Tangential_130.zip)<br>[Tangential_140.zip](bin/Tangential_140.zip)<br>[Tangential_145.zip](bin/Tangential_145.zip)<br>[Tangential_151.zip](bin/Tangential_151.zip)<br>[Tangential_160_Linux.zip](bin/Tangential_160_Linux.zip)<br>[Tangential_160_Win32.zip](bin/Tangential_160_Win32.zip)
 Stool Pigeon | "RottenTurd" | [stoolbot.zip](bin/stoolbot.zip)
 TossBot | "The Storm" | [tossbot.zip](bin/tossbot.zip)
+ZBot (Zappa Bot) | Jörgen Karlsson aka "Zappa" | [zbotq2.zip](bin/zbotq2.zip)<br>[zbot07.zip](bin/zbot07.zip)<br>[zbot08.zip](bin/zbot08.zip)<br>[zbot09.zip](bin/zbot09.zip)
 ZBot (modified) | "=\_Extor\_=" | [zbot06k.zip](bin/zbot06k.zip)<br>zbot07k.zip<br>[zbot08k.zip](bin/zbot08k.zip)<br>[zbot09k.zip](bin/zbot09k.zip)<br>[zbot10.zip](bin/zbot10.zip)
 ZBot (modified) | Zorlac Meister | [zbot10m1.zip](bin/zbot10m1.zip)<br>[zbot10m2.zip](bin/zbot10m2.zip)
-ZBot (Zappa Bot) | Jörgen Karlsson aka "Zappa" | [zbotq2.zip](bin/zbotq2.zip)<br>[zbot07.zip](bin/zbot07.zip)<br>[zbot08.zip](bin/zbot08.zip)<br>[zbot09.zip](bin/zbot09.zip)
 
 ## Help
 
