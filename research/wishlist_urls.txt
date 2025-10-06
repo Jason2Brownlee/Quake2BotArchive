@@ -251,6 +251,7 @@ http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/news/eras0113.zip
 # eraser0501_patch.exe
 ftp://ftp.stomped.com/pub/redwood/bots/eraser0501_patch.exe
 http://impact.frag.com/files/Eraser0501_patch.exe
+ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2/eraser0501_patch.exe
 # eraser0501_patch.zip
 ftp://ftp.stomped.com/pub/redwood/bots/eraser0501_patch.zip
 http://impact.frag.com/files/Eraser0501_patch.zip
@@ -493,27 +494,6 @@ http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eras
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx012.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx012.zip
 http://www.fileplanet.com/dl/dl.asp?expert/eraserx012.zip
-# eraserx30.zip
-ftp://ftp.liquidextremes.com/pub/cdrom/expert/eraserx30.zip
-http://asp.planetquake.com/dl/dl.asp?expert/eraserx30.zip
-http://ftp.sunet.se/planetquake/expert/eraserx30.zip
-http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/eraserx30.zip
-http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx30.zip
-http://ftp.telepac.pt/pub/idgames2/planetquake/expert/eraserx30.zip
-http://ftp2.gamespy.com/pub/cdrom/expert/eraserx30.zip
-http://gamers.org/pub/games/idgames2/planetquake/eraserx30.zip
-http://mirror.aarnet.edu.au/games/planetquake/expert/eraserx30.zip
-http://mirrors.telepac.pt/pub/idgames2/planetquake/expert/eraserx30.zip
-http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/expert/eraserx30.zip
-http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/expert/eraserx30.zip
-http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eraserx30.zip
-http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx30.zip
-http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx30.zip
-http://www.fileplanet.com/dl/dl.asp?expert/eraserx30.zip
-http://www.fileplanet.com/redir.asp?file=12942&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/expert/eraserx30.zip
-http://www.fileplanet.com/redir.asp?file=12942&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/expert/eraserx30.zip
-http://www.planetquake.com/dl/dl.asp?expert/eraserx30.zip
-http://quake.quipo.it/q2crew/q2/eraserx30.zip
 # eraserx301.zip
 http://ftp.sunet.se/planetquake/expert/eraserx301.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx301.zip

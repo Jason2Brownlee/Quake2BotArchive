@@ -211,7 +211,6 @@ gsb.zip
 
 # eraserx
 eraserx012.zip
-eraserx30.zip
 eraserx30_sparc_solaris.tar.gz
 eraserx301.zip
 eraserx301_sparc_solaris.tar.gz
