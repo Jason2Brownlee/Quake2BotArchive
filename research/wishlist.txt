@@ -24,7 +24,6 @@ stup10x.zip
 3zb205beta.zip
 3zb207.zip
 3zb208.zip
-3zb2088.zip
 3zb2089u.zip
 3zb2093.zip
 3zb2093_x86.zip
@@ -32,9 +31,13 @@ stup10x.zip
 3zb2src93.zip
 3zb206.zip
 # guesses (unconfirmed)
+3zb2081.zip
+3zb2083.zip
+3zb2084.zip
 3zb2085.zip
 3zb2086.zip
 3zb2090.zip
+3zb209.zip
 3zb2091.zip
 3zb2092.zip
 3zb2094.zip
