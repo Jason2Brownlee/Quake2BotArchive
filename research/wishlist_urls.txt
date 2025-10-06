@@ -852,18 +852,25 @@ ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980221.exe
 # sabin980611.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980611.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980611.zip
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin980611.zip
+http://src.doc.ic.ac.uk/packages/quake/planetquake/botshop/sabin/sabin980611.zip
 # sabin980615-update.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980615-update.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980615-update.zip
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin980615-update.zip
+http://src.doc.ic.ac.uk/packages/quake/planetquake/botshop/sabin/sabin980615-update.zip
 # sabin980620-vwep-update.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin980620-vwep-update.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980620-vwep-update.zip
 http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin980620-vwep-update.zip
+http://src.doc.ic.ac.uk/packages/quake/planetquake/botshop/sabin/sabin980620-vwep-update.zip
 # sabin980721.zip
 http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin980721.zip
 # sabin980723-linux-src.zip
 http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/sabin980723-linux-src.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980723-linux-src.zip
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin980723-linux-src.zip
+http://src.doc.ic.ac.uk/packages/quake/planetquake/botshop/sabin/sabin980723-linux-src.zip
 # sabin980723-test.exe
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/test/sabin980723-test.exe
 http://quake.org.pl/files/quake2/boty/sabin/sabin980723-test.exe
@@ -876,12 +883,20 @@ http://asp.planetquake.com/dl/dl.asp?/botshop/sabin/test/sabin_linux.tar.gz
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/24_1_98.zip
 # sabin290398.rar
 http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin290398.rar
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin290398.rar
+http://src.doc.ic.ac.uk/packages/quake/planetquake/botshop/sabin/sabin290398.rar
 # sabin980320.rar
 http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980320.rar
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin980320.rar
+http://src.doc.ic.ac.uk/packages/quake/planetquake/botshop/sabin/sabin980320.rar
 # sabin980505.rar
 http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980505.rar
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin980505.rar
+http://src.doc.ic.ac.uk/packages/quake/planetquake/botshop/sabin/sabin980505.rar
 # sabin980510.rar
 http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/sabin/sabin980510.rar
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop/sabin/sabin980510.rar
+http://src.doc.ic.ac.uk/packages/quake/planetquake/botshop/sabin/sabin980510.rar
 # sabin_ctf_demo.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin_ctf_demo.zip
 # sabin_demo.zip
