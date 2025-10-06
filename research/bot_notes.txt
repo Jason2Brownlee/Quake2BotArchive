@@ -645,9 +645,14 @@ LTK Extension
 		LTK 1.25
 		LTK 2.0 Beta
 		Fred Paril
+	https://www.moddb.com/mods/action-quake-2-bot
 	https://www.moddb.com/mods/action-quake-2-bot/downloads/ltk-125
 		LTK 1.25 30 March/Apr 2006
 		LTK 2.00 BETA March 2007
+	https://www.moddb.com/mods/action-quake-2-bot/news/a-new-version-is-aviable
+		http://www.playspoon.com/Aq2_Bot/Files/BotRelease0.5.1.zip
+			BotRelease0.5.1.zip
+			what version number madness is this?
 AdionBot
 	https://discmaster.textfiles.com/view/22453/XENIATGM89.iso/E-Mail/Paolo%20Bianco/killer15.zip/manual.html
 	https://gif.oocities.org/televisioncity/set/1894/

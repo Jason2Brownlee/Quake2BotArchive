@@ -698,6 +698,8 @@ http://www.pondscum.co.uk/files/ltkbo/ltksrc.zip
 http://files.actiongames.co.uk/tnn/ltk/source/ltk122src-proj.zip
 # ltksrc_nix.zip
 http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
+# BotRelease0.5.1.zip
+http://www.playspoon.com/Aq2_Bot/Files/BotRelease0.5.1.zip
 
 # Navy Fortress
 # _nfall.exe
