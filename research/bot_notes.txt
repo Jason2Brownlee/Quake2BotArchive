@@ -640,6 +640,14 @@ Licensed To Kill (LTK) (Action Quake2)
 		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
+LTK Extension
+	https://web.archive.org/web/20090406015629/http://www.franva.org/download.php?list.4
+		LTK 1.25
+		LTK 2.0 Beta
+		Fred Paril
+	https://www.moddb.com/mods/action-quake-2-bot/downloads/ltk-125
+		LTK 1.25 30 March/Apr 2006
+		LTK 2.00 BETA March 2007
 AdionBot
 	https://discmaster.textfiles.com/view/22453/XENIATGM89.iso/E-Mail/Paolo%20Bianco/killer15.zip/manual.html
 	https://gif.oocities.org/televisioncity/set/1894/
