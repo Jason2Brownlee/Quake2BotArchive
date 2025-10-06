@@ -890,7 +890,11 @@ RatBot
 		https://web.archive.org/web/20011023150916fw_/http://www.ratbot.net/agreement.txt
 			Thomas from Dortmund/Germany Alias Rat_42
 	news suggests multiple versions, all released as "ratbot.exe"
-
+3zb2 + KMQuake2
+	https://www.moddb.com/mods/q2dirt-dd3zb2/downloads/dd3zb2-010-ctf
+	"dirtdemon"
+3zb2 + Q2RTX
+	https://www.moddb.com/mods/3zb2-bots-for-q2rtx/downloads
 
 
 
@@ -958,9 +962,7 @@ Jagger / JaGgEr Bot
 EliminatorBot2
 	https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
 	not released?
-3zb2 + KMQuake2
-	https://www.moddb.com/mods/q2dirt-dd3zb2/downloads/dd3zb2-010-ctf
-	"dirtdemon"
+
 
 
 Out Of Scope
