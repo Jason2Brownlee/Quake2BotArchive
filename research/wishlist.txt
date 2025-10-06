@@ -198,7 +198,6 @@ fb00251.zip
 
 # JABot
 jabot902win32bin.zip
-JABot-Q2-0.92-src.zip
 
 # RAMBOT
 rambot_v47.zip

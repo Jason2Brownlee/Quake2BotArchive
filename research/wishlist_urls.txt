@@ -461,8 +461,6 @@ http://dd.networx.net.au/cgi-bin/pftp_fb.pl?/pub/bots/flamebot/fb00251.zip
 http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/bots/flamebot/fb00251.zip
 
 # JABot
-# JABot-Q2-0.92-src.zip
-http://jal.quakedev.com/stuff/bots/JABot-Q2-0.92-src.zip
 # jabot902win32bin.zip
 http://jal.quakedev.com/stuff/bots/jabot902win32bin.zip
 
