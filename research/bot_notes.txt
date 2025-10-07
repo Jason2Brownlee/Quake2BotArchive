@@ -913,6 +913,12 @@ Eraser ULTRA + BeOS
 LTK + BeOS
 	https://web.archive.org/web/20000815092346/http://reality.sgi.com/rhess_engr/beos/q2/ltk/
 	https://web.archive.org/web/20000815092346/http://reality.sgi.com/rhess_engr/beos/q2/ltk/ltk110a_x86.zip
+3ZB2 + Linux
+	https://web.archive.org/web/20000816191215/http://reality.sgi.com/rhess_engr/linux/q2/3zb2/
+	https://web.archive.org/web/20000816191215/http://reality.sgi.com/rhess_engr/linux/q2/3zb2/3zb2097_glibc.zip
+LTK + Linux
+	https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/
+	https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/ltk110a_glibc.zip
 
 
 
