@@ -720,6 +720,9 @@ http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
 # BotRelease0.5.1.zip
 http://www.playspoon.com/Aq2_Bot/Files/BotRelease0.5.1.zip
 
+# Quake2-QuDos-3ZB2.Linux.tar.bz2
+http://qudos.quakedev.com/linux/quake2/bots/Quake2-QuDos-3ZB2.Linux.tar.bz2
+
 # Navy Fortress
 # _nfall.exe
 http://tux.telefragged.com/download.pl?dir=&filename=_nfall.exe&dir&dl=local

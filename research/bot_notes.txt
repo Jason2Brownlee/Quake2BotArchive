@@ -1044,7 +1044,21 @@ FDMBot + Linux
 		http://qudos.quakedev.com/linux/quake2/bots/DMBot.FDMBot.Routes.tar.bz2
 		http://qudos.quakedev.com/linux/quake2/bots/DMBot.Linux.tar.bz2
 	what is this?
-
+OSP Tourney DM
+	http://osp.dget.cc/orangesmoothie/downloads/tourney-2.5-win32-x86.zip
+	gladiator bot
+		added in 1.17
+	https://web.archive.org/web/20000510121055/http://www.orangesmoothie.org/download.html
+	so many versions...
+		https://jackc.teptin.net/files/q2/mods/OSP%20Tourney%202.76/History.txt
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/osp/
+		tourney-2.5-freebsd-x86.tar.gz	2006-Jan-04 07:45:00	2.0M	application/x-gzip
+		tourney-2.5-linux-alpha.tar.gz	2006-Jan-04 07:45:00	348.4K	application/x-gzip
+		tourney-2.5-linux-x86-glibc.tar.gz	2006-Jan-04 07:45:00	2.0M	application/x-gzip
+		tourney-2.5-linux-x86-libc5.tar.gz	2006-Jan-04 07:45:00	2.0M	application/x-gzip
+		tourney-2.5-solaris-sparc.tar.gz	2006-Jan-04 07:45:00	339.1K	application/x-gzip
+		tourney-2.5-solaris-x86.tar.gz	2006-Jan-04 07:45:00	290.0K	application/x-gzip
+		tourney-2.5-win32-x86.zip	2006-Jan-04 07:45:00	4.4M	application/zip
 
 
 
