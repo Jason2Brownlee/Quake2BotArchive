@@ -139,9 +139,13 @@ Eraser101-linux.tar.gz
 Eraser101_SRC.zip
 
 # macports
-mac_eraser_101final.sit.bin
 eraser101final_mac.sit.bin
-
+mac_LTK122.sit.bin
+mac_eraser_101final.sit.bin
+mac_eraserultra40.sit.bin
+mac_famke70.sit.bin
+mac_niq195.sit.bin
+niq195_mac.sit.bin
 
 # Famkebot
 famkebot150.zip
@@ -224,7 +228,6 @@ eraserx303b5_mac.sit.bin
 ultra.zip
 ultra35.zip
 linux-ultra35.zip
-mac_eraserultra40.sit.bin
 ultra-26.zip
 ultra-26-linux.zip
 ultra-30.zip

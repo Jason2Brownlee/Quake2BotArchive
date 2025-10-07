@@ -951,7 +951,7 @@ Chaos + Solaris
 	https://www.gamers.org/pub/mirrors/ftp.planetquake.com/eclipse/
 	chaosdm_111_sparc.tar.gz
 	chaosdm_111_solx86.tar.gz
-Eraser + MacOS
+Eraser + Mac
 	http://railgun.macquakeinfinity.com/files.html
 		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
 		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_eraser_101final.sit.bin
@@ -959,7 +959,23 @@ Eraser + MacOS
 	http://railgun.macquakeinfinity.com/downloads/mac_eraser_101final.sit.bin
 	http://www.botepidemic.com/q2rfd/files/bots/eraser/mac_eraser_101final.sit.bin..bin
 		Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan"
-
+Eraser + NIQ (Mac)
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_niq195.sit.bin
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/dll/niq195_mac.sit.bin
+EraserX + Mac
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_eraserx303b5.sit.bin
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/dll/eraserx303b5_mac.sit.bin
+Eraser ULTRA + Mac
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_eraserultra40.sit.bin
+Famkebot + Mac
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_famke70.sit.bin
+LTK + Mac
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_LTK122.sit.bin
 
 
 

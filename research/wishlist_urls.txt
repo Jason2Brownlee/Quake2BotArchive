@@ -284,6 +284,8 @@ http://www.quake2.com/earth/patches/eraser/Eraser0_1a.zip
 # Mac
 # mac_eraser_101final.sit.bin
 http://railgun.macquakeinfinity.com/downloads/mac_eraser_101final.sit.bin
+# mac_eraserultra40.sit.bin
+http://railgun.macquakeinfinity.com/downloads/mac_eraserultra40.sit.bin
 
 
 # Famkebot
@@ -542,8 +544,6 @@ http://ultra.quake2.co.uk/ultra35.zip
 # linux-ultra35.zip
 http://www.botepidemic.com/q2rfd/files/bots/ultra/linux-ultra35.zip
 http://ultra.quake2.co.uk/linux-ultra35.zip
-# mac_eraserultra40.sit.bin
-http://railgun.macquakeinfinity.com/downloads/mac_eraserultra40.sit.bin
 # ultra.zip
 http://www.users.zetnet.co.uk/jacquesa/q2/ultra.zip
 # ultra-26.zip
