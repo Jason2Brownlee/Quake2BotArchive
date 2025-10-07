@@ -1009,9 +1009,19 @@ Eraser + Linux
 	https://web.archive.org/web/20070107165435/http://qudos.quakedev.com/linux/quake2/mods/old/Eraser-v1.0.1.Linux.tar.bz2
 Eraser ULTRA + Linux
 	https://web.archive.org/web/20070107165435/http://qudos.quakedev.com/linux/quake2/mods/old/Eraser-Ultra.Linux.tar.bz2
-
-
-
+JABot + Linux
+	http://qudos.quakedev.com
+		https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/JABot-0.93-bot-chat.tar.bz2
+		https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/JABot-Q2-0.9.3.Linux.tar.bz2
+	http://jal.quakedev.com
+		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9-Linux.tar.bz2
+	http://www.angelfire.com
+		http://www.angelfire.com/mt2/quake3bot/JABot-0.9-Linux.Bin.src.tar.bz2
+		http://www.angelfire.com/mt2/quake3bot/JABot-0.9-Linux.tar.bz2
+	https://www.moddb.com/mods/jabotq2
+		JABOT_Q2_v0.9x_x86-Linux.zip
+			just a re-archive of the above
+		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9-Linux.tar.bz2
 
 
 TODO
