@@ -919,7 +919,9 @@ LTK + BeOS
 LTK + Linux
 	https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/
 	https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/ltk110a_glibc.zip
-
+Eraser ULTRA + IRIX
+	https://web.archive.org/web/20000816191113/http://reality.sgi.com/rhess_engr/irix/q2/ultra/
+	https://web.archive.org/web/20000816191113/http://reality.sgi.com/rhess_engr/irix/q2/ultra/ultra_mips.tgz
 
 
 
