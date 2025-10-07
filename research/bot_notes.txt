@@ -899,6 +899,8 @@ RatBot
 
 
 
+
+
 TODO
 --------------------------------------------------------------------------------
 
@@ -915,6 +917,9 @@ q2ace
 	http://www.spks.org/
 	another aimbot? pro client?
 	?
+
+
+
 
 
 Incomplete / Insufficient Info
@@ -962,6 +967,17 @@ Jagger / JaGgEr Bot
 EliminatorBot2
 	https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
 	not released?
+ReaperFX II
+	https://web.archive.org/web/20010625144918/http://www.geocities.com/TimesSquare/Arena/2800/
+		Paul Johnstone A.K.A. Pob the Impaler
+	http://www.btinternet.com/~impaler/
+		https://web.archive.org/web/20010609125101/http://www.btinternet.com/~impaler/
+	http://www.planetquake.com/chronos/
+		https://web.archive.org/web/19990210073122/http://www.planetquake.com/chronos/
+		?
+	not released?
+
+
 
 
 
@@ -990,3 +1006,8 @@ Entron
 			https://web.archive.org/web/20000512004041/ftp://ftp.telefragged.com/endorproductions/entron/ent_tex.zip
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/endorproductions/entron/
 	single player total conversion, no evidence of bots...
+
+
+
+
+

@@ -113,6 +113,7 @@ Eraser0330_patch.exe
 EraserSRC0410.zip
 Eraser0406_patch.zip
 Eraser0406_patch.exe
+erasersrc0406.zip
 Eraser0407-linux.tgz
 Eraser0410_patch.zip
 Eraser0410_patch.exe
