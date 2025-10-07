@@ -356,18 +356,25 @@ zbot317.zip
 # osp tourney
 tourney-1_32-Win32-x86.zip
 tourney-1.32-Win32-x86.zip
-
+tourney-1_32-Solaris-Sparc.tar.Z
+tourney-1.32-Solaris-Sparc.tar.Z
 tourney-1_32-Linux-Alpha.tar.gz
 tourney-1_32-Linux-x86-glibc.tar.gz
 tourney-1_32-Linux-x86-libc5.tar.gz
 tourney-1.32-Linux-Alpha.tar.gz
 tourney-1.32-Linux-x86-glibc.tar.gz
 tourney-1.32-Linux-x86-libc5.tar.gz
+tourney-1_32-FreeBSD-x86.tar.gz
+tourney-1.32-FreeBSD-x86.tar.gz
 
 tourney-1_68-Linux-x86-glibc.tar.gz
 tourney-1_68-Linux-x86-libc5.tar.gz
 tourney-1.68-Linux-x86-glibc.tar.gz
 tourney-1.68-Linux-x86-libc5.tar.gz
+tourney-1_68-Solaris-Sparc.tar.gz
+tourney-1.68-Solaris-Sparc.tar.gz
+tourney-1_68-FreeBSD-x86.tar.gz
+tourney-1.68-FreeBSD-x86.tar.gz
 
 tourney-2.0.1-Win32-x86.zip
 tourney-2.0.1-Linux-x86-glibc.tar.gz
