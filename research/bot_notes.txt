@@ -947,7 +947,10 @@ Eraser + NIQ (Solaris)
 		[   ] niq_192_sparc.tar.gz                               2006-01-04 02:09  284K
 		[   ] niq_195_solx86.tar.gz                              2006-01-04 02:09  283K
 		[   ] niq_195_sparc.tar.gz                               2006-01-04 02:09  295K
-
+Chaos + Solaris
+	https://www.gamers.org/pub/mirrors/ftp.planetquake.com/eclipse/
+	chaosdm_111_sparc.tar.gz
+	chaosdm_111_solx86.tar.gz
 
 
 
@@ -1027,8 +1030,6 @@ ReaperFX II
 		https://web.archive.org/web/19990210073122/http://www.planetquake.com/chronos/
 		?
 	not released?
-
-
 
 
 
