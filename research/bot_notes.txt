@@ -432,7 +432,7 @@ Stool Pigeon
 	http://home.earthlink.net/~rottenturd
 		https://web.archive.org/web/*/http://home.earthlink.net/~rottenturd*
 		https://web.archive.org/web/19991002120350/http://home.earthlink.net/%7Erottenturd/
-NIQ Eraser (eraser)
+Eraser + NIQ
 	Author: Mike Fox / Mike Fox (a.k.a. Artful Dodger)
 	http://www.planetquake.com/niq
 		https://web.archive.org/web/*/http://www.planetquake.com/niq*
@@ -937,10 +937,17 @@ Eraser + Solaris
 		[   ] eraser_110_sparc.tar.gz                            2006-01-04 02:09  259K
 Eraser + Viking (Solaris)
 	https://web.archive.org/web/19990221012631/http://www.planetquake.com/eclipse/download.html
-	[   ] viking_104E_solx86.tar.gz                          2006-01-04 02:09  320K
-	[   ] viking_104E_sparc.tar.gz                           2006-01-04 02:09  336K
-	[   ] viking_104_solx86.tar.gz                           2006-01-04 02:09  232K
-	[   ] viking_104_sparc.tar.gz
+		[   ] viking_104E_solx86.tar.gz                          2006-01-04 02:09  320K
+		[   ] viking_104E_sparc.tar.gz                           2006-01-04 02:09  336K
+		[   ] viking_104_solx86.tar.gz                           2006-01-04 02:09  232K
+		[   ] viking_104_sparc.tar.gz
+Eraser + NIQ (Solaris)
+	https://www.gamers.org/pub/mirrors/ftp.planetquake.com/eclipse/
+		[   ] niq_192_solx86.tar.gz                              2006-01-04 02:09  280K
+		[   ] niq_192_sparc.tar.gz                               2006-01-04 02:09  284K
+		[   ] niq_195_solx86.tar.gz                              2006-01-04 02:09  283K
+		[   ] niq_195_sparc.tar.gz                               2006-01-04 02:09  295K
+
 
 
 
