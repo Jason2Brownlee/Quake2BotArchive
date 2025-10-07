@@ -907,6 +907,13 @@ ACE + BeOS
 3ZB2 + BeOS
 	https://web.archive.org/web/20010429202334/http://reality.sgi.com/rhess_engr/beos/q2/3zb2/
 	https://web.archive.org/web/20010429202334/http://reality.sgi.com/rhess_engr/beos/q2/3zb2/3zb2097_x86.zip
+Eraser ULTRA + BeOS
+	https://web.archive.org/web/20000815092329/http://reality.sgi.com/rhess_engr/beos/q2/ultra/
+	https://web.archive.org/web/20000815092329/http://reality.sgi.com/rhess_engr/beos/q2/ultra/ultra_x86.zip
+
+
+
+
 
 
 
