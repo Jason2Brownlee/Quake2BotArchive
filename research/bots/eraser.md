@@ -51,6 +51,8 @@ v1.02 (Net Pack)| 1015
 * https://web.archive.org/web/19980109080354/http://impact.frag.com/
 * https://web.archive.org/web/19980224195135fw/http://impact.frag.com/oldnews1.htm
 * https://web.archive.org/web/19980511165430/http://redwood.stomped.com/
+* insideqc
+
 
 
 
