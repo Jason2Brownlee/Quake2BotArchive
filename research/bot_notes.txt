@@ -1002,6 +1002,9 @@ ACEBot + Rogue (Linux)
 	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Rogue-Bots.tar.bz2
 EraserX + Linux
 	https://web.archive.org/web/20070107165435/http://qudos.quakedev.com/linux/quake2/mods/old/EraserX-3.03.Linux.tar.bz2
+Gladiator + Linux
+	https://web.archive.org/web/20070107165435/http://qudos.quakedev.com/linux/quake2/mods/old/Gladiator-Bot-v2096-Linux.tar.bz2
+
 
 
 
