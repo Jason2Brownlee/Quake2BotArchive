@@ -935,6 +935,12 @@ Eraser + Solaris
 		[   ] eraser_101_sparc.tar.gz                            2006-01-04 02:09  249K
 		[   ] eraser_110_solx86.tar.gz                           2006-01-04 02:09  251K
 		[   ] eraser_110_sparc.tar.gz                            2006-01-04 02:09  259K
+Eraser + Viking (Solaris)
+	https://web.archive.org/web/19990221012631/http://www.planetquake.com/eclipse/download.html
+	[   ] viking_104E_solx86.tar.gz                          2006-01-04 02:09  320K
+	[   ] viking_104E_sparc.tar.gz                           2006-01-04 02:09  336K
+	[   ] viking_104_solx86.tar.gz                           2006-01-04 02:09  232K
+	[   ] viking_104_sparc.tar.gz
 
 
 
