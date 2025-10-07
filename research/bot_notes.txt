@@ -910,8 +910,9 @@ ACE + BeOS
 Eraser ULTRA + BeOS
 	https://web.archive.org/web/20000815092329/http://reality.sgi.com/rhess_engr/beos/q2/ultra/
 	https://web.archive.org/web/20000815092329/http://reality.sgi.com/rhess_engr/beos/q2/ultra/ultra_x86.zip
-
-
+LTK + BeOS
+	https://web.archive.org/web/20000815092346/http://reality.sgi.com/rhess_engr/beos/q2/ltk/
+	https://web.archive.org/web/20000815092346/http://reality.sgi.com/rhess_engr/beos/q2/ltk/ltk110a_x86.zip
 
 
 
