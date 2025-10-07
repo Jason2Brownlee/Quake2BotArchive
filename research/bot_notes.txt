@@ -890,10 +890,10 @@ RatBot
 		https://web.archive.org/web/20011023150916fw_/http://www.ratbot.net/agreement.txt
 			Thomas from Dortmund/Germany Alias Rat_42
 	news suggests multiple versions, all released as "ratbot.exe"
-3zb2 + KMQuake2
+3ZB2 + KMQuake2
 	https://www.moddb.com/mods/q2dirt-dd3zb2/downloads/dd3zb2-010-ctf
 	"dirtdemon"
-3zb2 + Q2RTX
+3ZB2 + Q2RTX
 	https://www.moddb.com/mods/3zb2-bots-for-q2rtx/downloads
 Eraser + BeOS
 	https://web.archive.org/web/20000815092325/http://reality.sgi.com/rhess_engr/beos/q2/eraser/
@@ -904,7 +904,9 @@ Eraser + BeOS
 ACE + BeOS
 	https://web.archive.org/web/20000815092300/http://reality.sgi.com/rhess_engr/beos/q2/ace/
 	https://web.archive.org/web/20000815092300/http://reality.sgi.com/rhess_engr/beos/q2/ace/ace_x86.zip
-
+3ZB2 + BeOS
+	https://web.archive.org/web/20010429202334/http://reality.sgi.com/rhess_engr/beos/q2/3zb2/
+	https://web.archive.org/web/20010429202334/http://reality.sgi.com/rhess_engr/beos/q2/3zb2/3zb2097_x86.zip
 
 
 
