@@ -976,17 +976,26 @@ Famkebot + Mac
 LTK + Mac
 	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
 		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_LTK122.sit.bin
+Ace Bot + HolyWars
+	aka "Michael Bot"
+	https://web.archive.org/web/20001017141807fw/http://www.planetquake.com/holywars/files.htm
+		https://web.archive.org/web/20001017141807/http://asp.planetquake.com/dl/dl.asp?holywars/quake2/michael003.zip
+		Connor Caple aka "RiEvEr"
+	http://www.planetquake.com/maxtron/michael/
+Ace Bot + HolyWars (Mac)
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
+	"Macintosh Michael Bot 0.03b7 final"
+	mac_hwbot003b7final.sit.bin
+
 
 
 
 TODO
 --------------------------------------------------------------------------------
 
-Holywars Bot?
-	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
-	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
-	"Macintosh Michael Bot 0.03b7 final"
-	mac_hwbot003b7final.sit.bin
+
+
 
 frkq2
 	https://www.unknowncheats.me/forum/quake-1-4-a/13056-undetectable-aimbot-quake2.html

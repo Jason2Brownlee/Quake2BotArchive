@@ -148,6 +148,11 @@ mac_eraserultra40.sit.bin
 mac_famke70.sit.bin
 mac_niq195.sit.bin
 niq195_mac.sit.bin
+mac_hwbot003b7final.sit.bin
+
+# michael bot
+# ace bot + holywars
+michael002.zip
 
 # Famkebot
 famkebot150.zip
