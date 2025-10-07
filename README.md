@@ -24,10 +24,11 @@ Bot Name | Bot Author(s) | File
 3ZB2 + Q2RTX | "tehnetium" | [3zb2.zip](bin/3zb2.zip)
 3rd-Zigock 1 Bot (Stupid Bot) | "ponpoko" | stp099d.zip<br>[stp099e.zip](bin/stp099e.zip)<br>[stp099f.zip](bin/stp099f.zip)<br>stp099h.zip<br>3zb149.zip<br>3zb150.zip<br>3zb151.zip<br>[3zb155.zip](bin/3zb155.zip)<br>[3zb156.zip](bin/3zb156.zip)<br>[3zb158.zip](bin/3zb158.zip)
 3rd-Zigock 2 Bot (3ZB2) | "ponpoko" | 3zb205beta.zip<br>3zb206.zip<br>3zb207.zip<br>3zb208.zip<br>[3zb2082.zip](bin/3zb2082.zip)<br>[3zb2087.zip](bin/3zb2087.zip)<br>[3zb2088.zip](bin/3zb2088.zip)<br>3zb2089u.zip<br>3zb2093.zip<br>3zb2src93.zip<br>3zb2093_x86.zip<br>[3zbjpndoc096.zip](bin/3zbjpndoc096.zip)<br>[3zb2097.zip](bin/3zb2097.zip)<br>3zb2097b.zip<br>[3zb2097d.zip](bin/3zb2097d.zip)<br>[3zb2src97.zip](bin/3zb2src97.zip)<br>[3zb2src97LCC.zip](bin/3zb2src97LCC.zip)<br>[3zb2098.zip](bin/3zb2098.zip)
-ACE Bot + BeOS | Richard Hess | [ace_x86.zip](bin/ace_x86.zip)
-ACE Bot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>[ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
-ACEnEraser | Steve Yeager | ACEvsEraser.zip
-ACEnOak | Steve Yeager and John Crickett | ACEOak01.zip
+ACEBot + BeOS | Richard Hess | [ace_x86.zip](bin/ace_x86.zip)
+ACEBot + Zaero | QuDos | [Zaero-Bots.tar.bz2](bin/Zaero-Bots.tar.bz2)
+ACEBot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>[ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
+ACEnEraser (ACEBot + Eraser) | Steve Yeager | ACEvsEraser.zip
+ACEnOak (ACEBot + OakII) | Steve Yeager and John Crickett | ACEOak01.zip
 AdionBot | Adion Coolman | [adionBot.zip](bin/adionBot.zip)
 Assassin Bot | "Bazza" | assbot0025.zip
 BBQBot | Paul Scollon aka "RawShark" | bbqbot.zip<br>bbqbotv02.zip<br>bbqbotv03.zip<br>bbqbotv05_upgrade.zip<br>[bbqbotv05_full.zip](bin/bbqbotv05_full.zip)<br>[q2bbqbot.zip](bin/q2bbqbot.zip)
@@ -79,8 +80,8 @@ LTK + BeOS | Richard Hess | [ltk110a_x86.zip](bin/ltk110a_x86.zip)
 LTK + Linux | Richard Hess | [ltk110a_glibc.zip](bin/ltk110a_glibc.zip)
 LTK + Mac | Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan" | mac_LTK122.sit.bin
 Licensed To Kill (LTK) (Action Quake2) | Connor Caple aka "RiEvEr" and Fredrick Vamstad aka "Fred" and Paril | LTK002Alpha.zip<br>LTK013Beta.zip<br>LTK014Beta.zip<br>LTK015Beta.zip<br>[LTK016Beta.zip](bin/LTK016Beta.zip)<br>LTK100.zip<br>LTK101.zip<br>[LTK110.zip](bin/LTK110.zip)<br>LTK112dll.zip<br>LTK120.zip<br>[ltk121.zip](bin/ltk121.zip)<br>[LTK122.zip](bin/LTK122.zip)<br>[ltk122linux.zip](bin/ltk122linux.zip)<br>ltk122src-proj.zip<br>ltksrc_nix.zip<br>ltkbotv1_2.zip<br>BotRelease0.5.1.zip<br>[LTK_1.23.exe](bin/LTK_1.23.exe)<br>LTK1.24.exe<br>[LTK1.25.exe](bin/LTK1.25.exe)<br>[LTK2.0.zip](bin/LTK2.0.zip)
-Michael Bot (Ace Bot + HolyWars) (Mac) | Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan" | mac_hwbot003b7final.sit.bin
-Michael Bot (Ace Bot + HolyWars) | Connor Caple aka "RiEvEr" | [Q2HWBot001.zip](bin/Q2HWBot001.zip)<br>[michael003.zip](bin/michael003.zip)
+Michael Bot (ACEBot + HolyWars) (Mac) | Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan" | mac_hwbot003b7final.sit.bin
+Michael Bot (ACEBot + HolyWars) | Connor Caple aka "RiEvEr" | [Q2HWBot001.zip](bin/Q2HWBot001.zip)<br>[michael003.zip](bin/michael003.zip)
 Navy Fortress | Manfred Nerurkar aka "Defcon-X" | \_nfall.exe<br>\_nf985.exe<br>\_nf987.exe<br>\_nf2armybase1.exe<br>\_nf991.zip<br>\_nfsound991.zip<br>[\_nfbaseoct2.zip](bin/_nfbaseoct2.zip)<br>[\_nfgfxbase.zip](bin/_nfgfxbase.zip)<br>[\_nfgfxupd.zip](bin/_nfgfxupd.zip)<br>[\_nfsndbase.zip](bin/_nfsndbase.zip)<br>[\_nfsndupd.zip](bin/_nfsndupd.zip)
 Neural Bot | Nicholas Chapman aka "Ono-Sendai" | nbot_05.zip<br>nbotsource_05.zip<br>nbot_06.zip<br>[nbot_06_2_.zip](bin/nbot_06_2_.zip)<br>[nbotsource_06.zip](bin/nbotsource_06.zip)
 Oak II Bot + RA2 | John Crickett | arena01.zip<br>arena02.zip<br>[arena03.zip](bin/arena03.zip)

@@ -984,8 +984,13 @@ Ace Bot + HolyWars (Mac)
 	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 	"Macintosh Michael Bot 0.03b7 final"
 	mac_hwbot003b7final.sit.bin
+ACEBot + Zaero
+	by QuDos
+	http://qudos.quakedev.com
+	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Zaero-Bots.tar.bz2
 
 
+ACEBot + Zaero | QuDos | [Zaero-Bots.tar.bz2](bin/Zaero-Bots.tar.bz2)
 
 
 TODO
