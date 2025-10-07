@@ -1034,7 +1034,7 @@ Eraser + Keys2 (Linux)
 FDMBot + Linux
 	http://qudos.quakedev.com/linux/quake2/bots/FDMBot.Linux.tar.bz2
 	http://qudos.quakedev.com/linux/quake2/bots/DMBot.FDMBot.Routes.tar.bz2
-
+	http://qudos.quakedev.com/linux/quake2/bots/DMBot.Linux.tar.bz2
 
 
 
