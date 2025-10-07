@@ -984,6 +984,9 @@ Ace Bot + HolyWars aka "Michael Bot"
 		https://web.archive.org/web/20000818044048/http://www.planetquake.com/dl/dl.asp?redemption/Q2HWBot001.zip
 		https://web.archive.org/web/20000818044118/http://www.planetquake.com/redemption/html/july99.shtml
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/redemption/Q2HWBot001.zip
+	http://www.planetquake.com/maxtron/mhw/
+		https://web.archive.org/web/20010711052714/http://www.planetquake.com/maxtron/mhw/
+		https://web.archive.org/web/20010711052714/http://www.planetquake.com/dl/dl.asp?maxtron/michael003.zip
 Ace Bot + HolyWars (Mac)
 	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
 	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin

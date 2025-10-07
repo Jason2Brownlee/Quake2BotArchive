@@ -136,3 +136,8 @@ Below are lists of known files missing from the archive.
 * [Quake Bot URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
 
 
+### Acknowledgements
+This archive would not be as complete as it is without the generousness help from the Quake community.
+
+Special thank you to: Daniel Ramsay.
+
