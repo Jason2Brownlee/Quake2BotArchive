@@ -895,10 +895,12 @@ RatBot
 	"dirtdemon"
 3zb2 + Q2RTX
 	https://www.moddb.com/mods/3zb2-bots-for-q2rtx/downloads
-
-
-
-
+Eraser + BeOS
+	https://web.archive.org/web/20000815092325/http://reality.sgi.com/rhess_engr/beos/q2/eraser/
+		https://web.archive.org/web/20000815092325/http://reality.sgi.com/rhess_engr/beos/q2/eraser/eraser110_x86.zip
+		https://web.archive.org/web/20000815092325/http://reality.sgi.com/rhess_engr/beos/q2/eraser/eraser101_x86.zip
+	https://web.archive.org/web/19990128055850/http://reality.sgi.com/rhess_engr/beos/
+		Richard Hess
 
 
 TODO
