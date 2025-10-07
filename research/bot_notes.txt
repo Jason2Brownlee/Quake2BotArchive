@@ -1022,14 +1022,18 @@ JABot + Linux
 		JABOT_Q2_v0.9x_x86-Linux.zip
 			just a re-archive of the above
 		http://jal.quakedev.com/stuff/bots/JABot-Q2-0.9-Linux.tar.bz2
+ChaosDM + Linux
+	http://qudos.quakedev.com/linux/quake2/mods/Chaos-v1.14.Linux.tar.bz2
+	http://qudos.quakedev.com/linux/quake2/mods/misc/Chaos.botchat-fix.tar.bz2
+
+
+
+
+
 
 
 TODO
 --------------------------------------------------------------------------------
-
-
-
-
 frkq2
 	https://www.unknowncheats.me/forum/quake-1-4-a/13056-undetectable-aimbot-quake2.html
 	http://webpages.charter.net/cmabry/frkq2_bot.htm
@@ -1102,7 +1106,6 @@ ReaperFX II
 		https://web.archive.org/web/19990210073122/http://www.planetquake.com/chronos/
 		?
 	not released?
-
 
 
 
