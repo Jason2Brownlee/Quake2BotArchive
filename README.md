@@ -20,13 +20,14 @@ Bot Name | Bot Author(s) | File
 --- | --- | ---
 3ZB2 + BeOS | Richard Hess | [3zb2097_x86.zip](bin/3zb2097_x86.zip)
 3ZB2 + KMQuake2 | "dirtdemon" | [dd3zb2_010_ctf.zip](bin/dd3zb2_010_ctf.zip)
-3ZB2 + Linux | Richard Hess | [3zb2097_glibc.zip](bin/3zb2097_glibc.zip)
+3ZB2 + Linux | Richard Hess | [3zb2097_glibc.zip](bin/3zb2097_glibc.zip)<br>[3ZB2-Linux.tar.bz2](bin/3ZB2-Linux.tar.bz2)
 3ZB2 + Q2RTX | "tehnetium" | [3zb2.zip](bin/3zb2.zip)
 3rd-Zigock 1 Bot (Stupid Bot) | "ponpoko" | stp099d.zip<br>[stp099e.zip](bin/stp099e.zip)<br>[stp099f.zip](bin/stp099f.zip)<br>stp099h.zip<br>3zb149.zip<br>3zb150.zip<br>3zb151.zip<br>[3zb155.zip](bin/3zb155.zip)<br>[3zb156.zip](bin/3zb156.zip)<br>[3zb158.zip](bin/3zb158.zip)
 3rd-Zigock 2 Bot (3ZB2) | "ponpoko" | 3zb205beta.zip<br>3zb206.zip<br>3zb207.zip<br>3zb208.zip<br>[3zb2082.zip](bin/3zb2082.zip)<br>[3zb2087.zip](bin/3zb2087.zip)<br>[3zb2088.zip](bin/3zb2088.zip)<br>3zb2089u.zip<br>3zb2093.zip<br>3zb2src93.zip<br>3zb2093_x86.zip<br>[3zbjpndoc096.zip](bin/3zbjpndoc096.zip)<br>[3zb2097.zip](bin/3zb2097.zip)<br>3zb2097b.zip<br>[3zb2097d.zip](bin/3zb2097d.zip)<br>[3zb2src97.zip](bin/3zb2src97.zip)<br>[3zb2src97LCC.zip](bin/3zb2src97LCC.zip)<br>[3zb2098.zip](bin/3zb2098.zip)
 ACEBot + BeOS | Richard Hess | [ace_x86.zip](bin/ace_x86.zip)
-ACEBot + Zaero | QuDos | [Zaero-Bots.tar.bz2](bin/Zaero-Bots.tar.bz2)
-ACEBot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>[ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
+ACEBot + Linux | "QuDos" | [ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
+ACEBot + Zaero (Linux) | "QuDos" | [Zaero-Bots.tar.bz2](bin/Zaero-Bots.tar.bz2)
+ACEBot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)
 ACEnEraser (ACEBot + Eraser) | Steve Yeager | ACEvsEraser.zip
 ACEnOak (ACEBot + OakII) | Steve Yeager and John Crickett | ACEOak01.zip
 AdionBot | Adion Coolman | [adionBot.zip](bin/adionBot.zip)
@@ -34,7 +35,8 @@ Assassin Bot | "Bazza" | assbot0025.zip
 BBQBot | Paul Scollon aka "RawShark" | bbqbot.zip<br>bbqbotv02.zip<br>bbqbotv03.zip<br>bbqbotv05_upgrade.zip<br>[bbqbotv05_full.zip](bin/bbqbotv05_full.zip)<br>[q2bbqbot.zip](bin/q2bbqbot.zip)
 BastardBot | Ben Swartzlander | [bastard.zip](bin/bastard.zip)
 BorrAdor BoT | Siro aka "BJAM" | borrador-bin.zip<br>[borrador-2.0-bin.zip](bin/borrador-2.0-bin.zip)<br>[borrador2.1-bin.zip](bin/borrador2.1-bin.zip)<br>[borrador2.1-routes.zip](bin/borrador2.1-routes.zip)
-C.R.Bot | Mike Malakhov | [crbot09.zip](bin/crbot09.zip)<br>[crbot091.zip](bin/crbot091.zip)<br>[crbot093.zip](bin/crbot093.zip)<br>[crbot094.zip](bin/crbot094.zip)<br>[crbot095.zip](bin/crbot095.zip)<br>[crbot096.zip](bin/crbot096.zip)<br>crbot097.zip<br>[crbot098.zip](bin/crbot098.zip)<br>[crbot099.zip](bin/crbot099.zip)<br>crbt099a.zip<br>[crbt099c.zip](bin/crbt099c.zip)<br>[crbt099d.zip](bin/crbt099d.zip)<br>crbot10.zip<br>crbot101.zip<br>crbot102.zip<br>crbot103.zip<br>crbot104.zip<br>crbot105.zip<br>[crbot106.zip](bin/crbot106.zip)<br>crbot107.zip<br>[crbot108.zip](bin/crbot108.zip)<br>[crbot11.zip](bin/crbot11.zip)<br>[crbot112.zip](bin/crbot112.zip)<br>[crbot114.zip](bin/crbot114.zip)<br>[crbot_src.zip](bin/crbot_src.zip)<br>[crbot_src.rar](bin/crbot_src.rar)<br>[crbotlinux.zip](bin/crbotlinux.zip)
+CRBot + Linux | Marc Kerschbaumer aka "Grieve" and Peter Chiochetti aka "DUB" | [CRBot-v1.14.Linux.tar.bz2](bin/CRBot-v1.14.Linux.tar.bz2)<br>[crbotlinux.zip](bin/crbotlinux.zip)
+CRBot | Mike Malakhov | [crbot09.zip](bin/crbot09.zip)<br>[crbot091.zip](bin/crbot091.zip)<br>[crbot093.zip](bin/crbot093.zip)<br>[crbot094.zip](bin/crbot094.zip)<br>[crbot095.zip](bin/crbot095.zip)<br>[crbot096.zip](bin/crbot096.zip)<br>crbot097.zip<br>[crbot098.zip](bin/crbot098.zip)<br>[crbot099.zip](bin/crbot099.zip)<br>crbt099a.zip<br>[crbt099c.zip](bin/crbt099c.zip)<br>[crbt099d.zip](bin/crbt099d.zip)<br>crbot10.zip<br>crbot101.zip<br>crbot102.zip<br>crbot103.zip<br>crbot104.zip<br>crbot105.zip<br>[crbot106.zip](bin/crbot106.zip)<br>crbot107.zip<br>[crbot108.zip](bin/crbot108.zip)<br>[crbot11.zip](bin/crbot11.zip)<br>[crbot112.zip](bin/crbot112.zip)<br>[crbot114.zip](bin/crbot114.zip)<br>[crbot_src.zip](bin/crbot_src.zip)<br>[crbot_src.rar](bin/crbot_src.rar)
 ChaosDM + Solaris | Zoran Lazovski | [chaosdm_111_sparc.tar.gz](bin/chaosdm_111_sparc.tar.gz)<br>[chaosdm_111_solx86.tar.gz](bin/chaosdm_111_solx86.tar.gz)
 Computer Generated Forces (CGF) (Action Quake2) | William van der Sterren | cgf_0_77.zip<br>cgf_0_78.zip<br>cgf_0_78u.zip<br>[cgf_0_80.zip](bin/cgf_0_80.zip)<br>[cgf_0_81u.zip](bin/cgf_0_81u.zip)<br>[cgf_0_81.zip](bin/cgf_0_81.zip)
 Crusader Bot | Mark Rabas | [crusv05.zip](bin/crusv05.zip)
