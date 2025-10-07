@@ -286,7 +286,20 @@ http://www.quake2.com/earth/patches/eraser/Eraser0_1a.zip
 http://railgun.macquakeinfinity.com/downloads/mac_eraser_101final.sit.bin
 # mac_eraserultra40.sit.bin
 http://railgun.macquakeinfinity.com/downloads/mac_eraserultra40.sit.bin
-
+# eraser101final_mac.sit.bin
+http://railgun.macquakeinfinity.com/downloads/dll/eraser101final_mac.sit.bin
+# mac_LTK122.sit.bin
+http://railgun.macquakeinfinity.com/downloads/mac_LTK122.sit.bin
+# mac_eraser_110b1.sit.bin
+http://railgun.macquakeinfinity.com/downloads/mac_eraser_110b1.sit.bin
+# mac_famke70.sit.bin
+http://railgun.macquakeinfinity.com/downloads/mac_famke70.sit.bin
+# mac_niq195.sit.bin
+http://railgun.macquakeinfinity.com/downloads/mac_niq195.sit.bin
+# niq195_mac.sit.bin
+http://railgun.macquakeinfinity.com/downloads/dll/niq195_mac.sit.bin
+# eraserx303b5_mac.sit.bin
+http://railgun.macquakeinfinity.com/downloads/dll/eraserx303b5_mac.sit.bin
 
 # Famkebot
 # fb65gx86.zip
@@ -522,8 +535,6 @@ http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eras
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx301_sparc_solaris.tar.gz
 http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx301_sparc_solaris.tar.gz
 http://www.fileplanet.com/dl/dl.asp?expert/eraserx301_sparc_solaris.tar.gz
-# eraserx303b5_mac.sit.bin
-http://railgun.macquakeinfinity.com/downloads/dll/eraserx303b5_mac.sit.bin
 # eraserx30_sparc_solaris.tar.gz
 http://ftp.sunet.se/planetquake/expert/eraserx30_sparc_solaris.tar.gz
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx30_sparc_solaris.tar.gz

@@ -140,14 +140,14 @@ Eraser101_SRC.zip
 
 # macports
 eraser101final_mac.sit.bin
+eraserx303b5_mac.sit.bin
 mac_LTK122.sit.bin
 mac_eraser_101final.sit.bin
+mac_eraser_110b1.sit.bin
 mac_eraserultra40.sit.bin
 mac_famke70.sit.bin
 mac_niq195.sit.bin
 niq195_mac.sit.bin
-mac_eraser_110b1.sit.bin
-mac_eraser_b1.sit.bin
 
 # Famkebot
 famkebot150.zip
@@ -224,7 +224,6 @@ eraserx012.zip
 eraserx30_sparc_solaris.tar.gz
 eraserx301.zip
 eraserx301_sparc_solaris.tar.gz
-eraserx303b5_mac.sit.bin
 
 # eraser ultra
 ultra.zip
