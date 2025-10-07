@@ -300,6 +300,8 @@ http://railgun.macquakeinfinity.com/downloads/mac_niq195.sit.bin
 http://railgun.macquakeinfinity.com/downloads/dll/niq195_mac.sit.bin
 # eraserx303b5_mac.sit.bin
 http://railgun.macquakeinfinity.com/downloads/dll/eraserx303b5_mac.sit.bin
+# mac_hwbot003b7final.sit.bin
+http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 
 # Famkebot
 # fb65gx86.zip
