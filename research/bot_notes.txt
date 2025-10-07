@@ -951,6 +951,14 @@ Chaos + Solaris
 	https://www.gamers.org/pub/mirrors/ftp.planetquake.com/eclipse/
 	chaosdm_111_sparc.tar.gz
 	chaosdm_111_solx86.tar.gz
+Eraser + MacOS
+	http://railgun.macquakeinfinity.com/files.html
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
+		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_eraser_101final.sit.bin
+	http://railgun.macquakeinfinity.com/downloads/dll/eraser101final_mac.sit.bin
+	http://railgun.macquakeinfinity.com/downloads/mac_eraser_101final.sit.bin
+	http://www.botepidemic.com/q2rfd/files/bots/eraser/mac_eraser_101final.sit.bin..bin
+		Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan"
 
 
 

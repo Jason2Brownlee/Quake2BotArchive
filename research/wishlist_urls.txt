@@ -280,8 +280,11 @@ http://www.bluesnews.com/files/quake2/bots/Eraser0_1a.zip
 http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/news/Eraser0_1a.zip
 http://www.quake.org.pl/files/Eraser0_1a.zip
 http://www.quake2.com/earth/patches/eraser/Eraser0_1a.zip
+
+# Mac
 # mac_eraser_101final.sit.bin
 http://railgun.macquakeinfinity.com/downloads/mac_eraser_101final.sit.bin
+
 
 # Famkebot
 # fb65gx86.zip
