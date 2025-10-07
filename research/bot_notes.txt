@@ -1006,7 +1006,8 @@ Gladiator + Linux
 	https://web.archive.org/web/20070107165435/http://qudos.quakedev.com/linux/quake2/mods/old/Gladiator-Bot-v2096-Linux.tar.bz2
 Eraser + Linux
 	https://web.archive.org/web/20070107165435/http://qudos.quakedev.com/linux/quake2/mods/old/Eraser-v1.0.1.Linux.tar.bz2
-
+Eraser ULTRA + Linux
+	https://web.archive.org/web/20070107165435/http://qudos.quakedev.com/linux/quake2/mods/old/Eraser-Ultra.Linux.tar.bz2
 
 
 
