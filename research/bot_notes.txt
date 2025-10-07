@@ -985,10 +985,20 @@ Ace Bot + HolyWars (Mac)
 	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 	"Macintosh Michael Bot 0.03b7 final"
 	mac_hwbot003b7final.sit.bin
-ACEBot + Zaero
+ACEBot + Zaero (Linux)
 	by QuDos
 	http://qudos.quakedev.com
 	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Zaero-Bots.tar.bz2
+CRBot + Linux
+	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/CRBot-v1.14.Linux.tar.bz2
+	Grieve (Marc Kerschbaumer) and DUB (Peter Chiochetti)
+	https://www.angelfire.com/mt2/quakebots/crbotlinux.zip
+		same, a repack?
+Lights (ACEBot)
+	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Lights-Bots.tar.bz2
+ACEBot + Xatrix (Linux)
+	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Xatrix-Bots.tar.bz2
+
 
 
 
@@ -1074,11 +1084,7 @@ ReaperFX II
 		https://web.archive.org/web/19990210073122/http://www.planetquake.com/chronos/
 		?
 	not released?
-CRBot + Linux
-	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/CRBot-v1.14.Linux.tar.bz2
-	Grieve (Marc Kerschbaumer) and DUB (Peter Chiochetti)
-	https://www.angelfire.com/mt2/quakebots/crbotlinux.zip
-		same, a repack?
+
 
 
 
