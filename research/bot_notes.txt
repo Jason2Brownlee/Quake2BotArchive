@@ -665,14 +665,6 @@ tossbot
 	https://forums.bots-united.com/showthread.php?t=9033
 		"The Storm"
 	http://epodbot.bots-united.com/
-Holywars + ACE Bot Mod
-	Author: RiEvEr
-	http://www.planetquake.com/redemption
-		https://web.archive.org/web/*/http://www.planetquake.com/redemption*
-		https://web.archive.org/web/20000818041501/http://www.planetquake.com/redemption/
-		https://web.archive.org/web/20000818044048/http://www.planetquake.com/dl/dl.asp?redemption/Q2HWBot001.zip
-		https://web.archive.org/web/20000818044118/http://www.planetquake.com/redemption/html/july99.shtml
-	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/redemption/Q2HWBot001.zip
 The Eraser Bot with Damage Skins / Damage Bot
 	By "Rastaf"
 	https://www.gamers.org
@@ -976,12 +968,17 @@ Famkebot + Mac
 LTK + Mac
 	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
 		https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_LTK122.sit.bin
-Ace Bot + HolyWars
-	aka "Michael Bot"
+Ace Bot + HolyWars aka "Michael Bot"
 	https://web.archive.org/web/20001017141807fw/http://www.planetquake.com/holywars/files.htm
 		https://web.archive.org/web/20001017141807/http://asp.planetquake.com/dl/dl.asp?holywars/quake2/michael003.zip
 		Connor Caple aka "RiEvEr"
 	http://www.planetquake.com/maxtron/michael/
+	http://www.planetquake.com/redemption
+		https://web.archive.org/web/*/http://www.planetquake.com/redemption*
+		https://web.archive.org/web/20000818041501/http://www.planetquake.com/redemption/
+		https://web.archive.org/web/20000818044048/http://www.planetquake.com/dl/dl.asp?redemption/Q2HWBot001.zip
+		https://web.archive.org/web/20000818044118/http://www.planetquake.com/redemption/html/july99.shtml
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/redemption/Q2HWBot001.zip
 Ace Bot + HolyWars (Mac)
 	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
 	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin

@@ -151,7 +151,6 @@ niq195_mac.sit.bin
 mac_hwbot003b7final.sit.bin
 
 # michael bot
-# ace bot + holywars
 michael002.zip
 
 # Famkebot
