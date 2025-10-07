@@ -1036,9 +1036,13 @@ SecantBot (Tangential) + Linux
 Eraser + Keys2 (Linux)
 	http://qudos.quakedev.com/linux/quake2/mods/old/Keys2.Linux.tar.bz2
 FDMBot + Linux
-	http://qudos.quakedev.com/linux/quake2/bots/FDMBot.Linux.tar.bz2
-	http://qudos.quakedev.com/linux/quake2/bots/DMBot.FDMBot.Routes.tar.bz2
-	http://qudos.quakedev.com/linux/quake2/bots/DMBot.Linux.tar.bz2
+	http://qudos.quakedev.com
+		http://qudos.quakedev.com/linux/quake2/bots/FDMBot.Linux.tar.bz2
+		http://qudos.quakedev.com/linux/quake2/bots/DMBot.FDMBot.Routes.tar.bz2
+		http://qudos.quakedev.com/linux/quake2/bots/DMBot.Linux.tar.bz2
+	what is this?
+
+
 
 
 
