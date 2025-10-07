@@ -926,6 +926,15 @@ Eraser + IRIX
 	https://web.archive.org/web/19990128120141/http://reality.sgi.com/sgiquake/
 	https://web.archive.org/web/20010413165229fw/http://reality.sgi.com/sgiquake/download/
 	https://web.archive.org/web/20010413165229fw_/http://reality.sgi.com/sgiquake/download/sgiEraser.111398.tar.gz
+Eraser + Solaris
+	https://web.archive.org/web/19990508102511/http://impact.frag.com/files.htm
+	https://web.archive.org/web/19990508102511/http://www.telefragged.com/eclipse
+	Zoran Lazovski
+		https://www.gamers.org/pub/mirrors/ftp.planetquake.com/eclipse/
+		[   ] eraser_101_solx86.tar.gz                           2006-01-04 02:09  248K
+		[   ] eraser_101_sparc.tar.gz                            2006-01-04 02:09  249K
+		[   ] eraser_110_solx86.tar.gz                           2006-01-04 02:09  251K
+		[   ] eraser_110_sparc.tar.gz                            2006-01-04 02:09  259K
 
 
 
