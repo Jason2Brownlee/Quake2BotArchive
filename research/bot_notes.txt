@@ -982,6 +982,12 @@ LTK + Mac
 TODO
 --------------------------------------------------------------------------------
 
+Holywars Bot?
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/files.html
+	https://web.archive.org/web/20010212032127/http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
+	"Macintosh Michael Bot 0.03b7 final"
+	mac_hwbot003b7final.sit.bin
+
 frkq2
 	https://www.unknowncheats.me/forum/quake-1-4-a/13056-undetectable-aimbot-quake2.html
 	http://webpages.charter.net/cmabry/frkq2_bot.htm

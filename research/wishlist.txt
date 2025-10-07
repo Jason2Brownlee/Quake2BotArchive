@@ -146,6 +146,8 @@ mac_eraserultra40.sit.bin
 mac_famke70.sit.bin
 mac_niq195.sit.bin
 niq195_mac.sit.bin
+mac_eraser_110b1.sit.bin
+mac_eraser_b1.sit.bin
 
 # Famkebot
 famkebot150.zip
