@@ -151,7 +151,7 @@ niq195_mac.sit.bin
 mac_hwbot003b7final.sit.bin
 
 # linux ports (qudos)
-
+Quake2-QuDos-3ZB2.Linux.tar.bz2
 
 # michael bot
 michael002.zip

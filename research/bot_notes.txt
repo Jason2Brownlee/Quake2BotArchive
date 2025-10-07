@@ -51,13 +51,14 @@ ACE / AceBot
 		https://web.archive.org/web/20210804003558*/http://www.quake2.com:80/oak/ace.html
 		https://web.archive.org/web/20010613062115*/http://www.quake2.com:80/oak/ace006.zip
 		https://web.archive.org/web/20000521125942*/http://www.quake2.com:80/oak/files/ACEOak01.zip
-	http://qudos.quakedev.com
-		http://qudos.quakedev.com/linux/quake2/bots/ACEBot.Linux.tar.bz2
 	http://www.angelfire.com/mt2/quake3bot
-		http://www.angelfire.com/mt2/quake3bot/ACEBot.tar.bz2
 		http://www.angelfire.com/mt2/quakebots/ace007.zip
 		http://www.angelfire.com/mt2/quakebots/ace008dll.zip
 		http://www.angelfire.com/mt2/quakebots/ace008src.zip
+ACEBot + Linux
+	http://qudos.quakedev.com
+		http://qudos.quakedev.com/linux/quake2/bots/ACEBot.Linux.tar.bz2
+	http://www.angelfire.com/mt2/quake3bot/ACEBot.tar.bz2
 CRBot / C.R. Bot
 	Mike Malakhov
 	http://planetquake.com/crbot/
@@ -906,9 +907,12 @@ LTK + BeOS
 	https://web.archive.org/web/20000815092346/http://reality.sgi.com/rhess_engr/beos/q2/ltk/
 	https://web.archive.org/web/20000815092346/http://reality.sgi.com/rhess_engr/beos/q2/ltk/ltk110a_x86.zip
 3ZB2 + Linux
-	https://web.archive.org/web/20000816191215/http://reality.sgi.com/rhess_engr/linux/q2/3zb2/
-	https://web.archive.org/web/20000816191215/http://reality.sgi.com/rhess_engr/linux/q2/3zb2/3zb2097_glibc.zip
-	http://qudos.quakedev.com/linux/quake2/bots/ACEBot.Linux.tar.bz2
+	http://reality.sgi.com
+		https://web.archive.org/web/20000816191215/http://reality.sgi.com/rhess_engr/linux/q2/3zb2/
+		https://web.archive.org/web/20000816191215/http://reality.sgi.com/rhess_engr/linux/q2/3zb2/3zb2097_glibc.zip
+	http://qudos.quakedev.com
+		http://qudos.quakedev.com/linux/quake2/mods/old/3ZB2-Linux.tar.bz2
+		http://qudos.quakedev.com/linux/quake2/bots/Quake2-QuDos-3ZB2.Linux.tar.bz2
 LTK + Linux
 	https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/
 	https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/ltk110a_glibc.zip
