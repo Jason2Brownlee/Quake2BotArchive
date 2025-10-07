@@ -986,7 +986,7 @@ Ace Bot + HolyWars (Mac)
 	"Macintosh Michael Bot 0.03b7 final"
 	mac_hwbot003b7final.sit.bin
 ACEBot + Zaero (Linux)
-	by QuDos
+	"QuDos"
 	http://qudos.quakedev.com
 	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Zaero-Bots.tar.bz2
 CRBot + Linux
@@ -998,9 +998,10 @@ Lights (ACEBot)
 	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Lights-Bots.tar.bz2
 ACEBot + Xatrix (Linux)
 	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Xatrix-Bots.tar.bz2
-
-
-
+ACEBot + Rogue (Linux)
+	https://web.archive.org/web/20060630011245/http://qudos.quakedev.com/linux/quake2/bots/Rogue-Bots.tar.bz2
+EraserX + Linux
+	https://web.archive.org/web/20070107165435/http://qudos.quakedev.com/linux/quake2/mods/old/EraserX-3.03.Linux.tar.bz2
 
 
 

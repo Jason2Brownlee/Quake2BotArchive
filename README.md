@@ -26,6 +26,7 @@ Bot Name | Bot Author(s) | File
 3rd-Zigock 2 Bot (3ZB2) | "ponpoko" | 3zb205beta.zip<br>3zb206.zip<br>3zb207.zip<br>3zb208.zip<br>[3zb2082.zip](bin/3zb2082.zip)<br>[3zb2087.zip](bin/3zb2087.zip)<br>[3zb2088.zip](bin/3zb2088.zip)<br>3zb2089u.zip<br>3zb2093.zip<br>3zb2src93.zip<br>3zb2093_x86.zip<br>[3zbjpndoc096.zip](bin/3zbjpndoc096.zip)<br>[3zb2097.zip](bin/3zb2097.zip)<br>3zb2097b.zip<br>[3zb2097d.zip](bin/3zb2097d.zip)<br>[3zb2src97.zip](bin/3zb2src97.zip)<br>[3zb2src97LCC.zip](bin/3zb2src97LCC.zip)<br>[3zb2098.zip](bin/3zb2098.zip)
 ACEBot + BeOS | Richard Hess | [ace_x86.zip](bin/ace_x86.zip)
 ACEBot + Linux | "QuDos" | [ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
+ACEBot + Rogue (Linux) | "QuDos" | [Rogue-Bots.tar.bz2](bin/Rogue-Bots.tar.bz2)
 ACEBot + Xatrix (Linux) | "QuDos" | [Xatrix-Bots.tar.bz2](bin/Xatrix-Bots.tar.bz2)
 ACEBot + Zaero (Linux) | "QuDos" | [Zaero-Bots.tar.bz2](bin/Zaero-Bots.tar.bz2)
 ACEBot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)
@@ -64,8 +65,9 @@ Eraser ULTRA + BeOS | Richard Hess | [ultra_x86.zip](bin/ultra_x86.zip)
 Eraser ULTRA + IRIX | Richard Hess | [ultra_mips.tgz](bin/ultra_mips.tgz)
 Eraser ULTRA + Mac | Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan" | [EraserULTRA27b1.sit.bin](bin/EraserULTRA27b1.sit.bin)<br>mac_eraserultra40.sit.bin
 Eraser ULTRA | Anthony Jacques aka "AnthonyJ" | ultra.zip<br>ultra-26.zip<br>ultra-26-linux.zip<br>[ultra-27.zip](bin/Ultra-27.zip)<br>ultra-30.zip<br>ultra35.zip<br>linux-ultra35.zip<br>[ultra40.zip](bin/ultra40.zip)<br>[ultra40-src.zip](bin/ultra40-src.zip)<br>[ultra40-linux.tar.gz](bin/ultra40-linux.tar.gz)<br>[ultra-46a-src.zip](bin/ultra-46a-src.zip)<br>[ultra47.zip](bin/ultra47.zip)<br>[EraserUltra-0.47b.zip](bin/EraserUltra-0.47b.zip)
+EraserX + Linux | "QuDos" | [EraserX-3.03.Linux.tar.bz2](bin/EraserX-3.03.Linux.tar.bz2)
 EraserX + Mac | Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan" | mac_eraserx303b5.sit.bin<br>eraserx303b5_mac.sit.bin
-EraserX | Max Lee aka "Fahrenheit" | eraserx012.zip<br>[eraserx30.zip](bin/eraserx30.zip)<br>eraserx30_sparc_solaris.tar.gz<br>eraserx301.zip<br>eraserx301_sparc_solaris.tar.gz<br>[eraserx303.zip](bin/eraserx303.zip)<br>[EraserX-3.03.Linux.tar.bz2](bin/EraserX-3.03.Linux.tar.bz2)
+EraserX | Max Lee aka "Fahrenheit" | eraserx012.zip<br>[eraserx30.zip](bin/eraserx30.zip)<br>eraserx30_sparc_solaris.tar.gz<br>eraserx301.zip<br>eraserx301_sparc_solaris.tar.gz<br>[eraserx303.zip](bin/eraserx303.zip)
 ErrorUltra | Paul Tanner | [errorultra.zip](bin/errorultra.zip)
 Famkebot + Mac | Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan" | mac_famke70.sit.bin
 Famkebot | Rich Whitehouse aka "thefatal" | [famkebot_110.zip](bin/famkebot_110.zip)<br>famkebot_150.zip<br>famkebot_160.zip<br>famkebot_20.zip<br>famkebot_21.zip<br>famkesrc_21.zip<br>[famkebot_22.zip](bin/famkebot_22.zip)<br>famkebot_50.zip<br>[famkebot_56.zip](bin/famkebot_56.zip)<br>[fb562upg.zip](bin/fb562upg.zip)<br>[fbsrcv5.zip](bin/fbsrcv5.zip)<br>[famke6.zip](bin/famke6.zip)<br>[famke61.zip](bin/famke61.zip)<br>[famke62.zip](bin/famke62.zip)<br>[famke63.zip](bin/famke63.zip)<br>[famke64.zip](bin/famke64.zip)<br>[famke65.zip](bin/famke65.zip)<br>fb65gx86.zip<br>[famke66.zip](bin/famke66.zip)<br>[fb66-ctf.zip](bin/fb66-ctf.zip)<br>[fb67-ctf.zip](bin/fb67-ctf.zip)<br>[famke67.zip](bin/famke67.zip)<br>[famke68.zip](bin/famke68.zip)<br>[famke69.zip](bin/famke69.zip)<br>[fb69gx86.zip](bin/fb69gx86.zip)<br>[famke70.zip](bin/famke70.zip)<br>[fb70gx86.zip](bin/fb70gx86.zip)
