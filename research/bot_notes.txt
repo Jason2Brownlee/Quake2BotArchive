@@ -922,6 +922,10 @@ LTK + Linux
 Eraser ULTRA + IRIX
 	https://web.archive.org/web/20000816191113/http://reality.sgi.com/rhess_engr/irix/q2/ultra/
 	https://web.archive.org/web/20000816191113/http://reality.sgi.com/rhess_engr/irix/q2/ultra/ultra_mips.tgz
+Eraser + IRIX
+	https://web.archive.org/web/19990128120141/http://reality.sgi.com/sgiquake/
+	https://web.archive.org/web/20010413165229fw/http://reality.sgi.com/sgiquake/download/
+	https://web.archive.org/web/20010413165229fw_/http://reality.sgi.com/sgiquake/download/sgiEraser.111398.tar.gz
 
 
 
