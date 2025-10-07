@@ -1029,6 +1029,8 @@ Quake2 Basketball + Linux
 	https://web.archive.org/web/20070103124044/http://qudos.quakedev.com/linux/quake2/mods/Basketball.Linux.tar.bz2
 SecantBot (Tangential) + Linux
 	http://qudos.quakedev.com/linux/quake2/mods/old/Tangential-v1.60-Linux.tar.bz2
+Eraser + Keys2 (Linux)
+	http://qudos.quakedev.com/linux/quake2/mods/old/Keys2.Linux.tar.bz2
 
 
 
