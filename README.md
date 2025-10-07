@@ -22,6 +22,7 @@ Bot Name | Bot Author(s) | File
 3rd-Zigock 2 Bot (3zb2) | "ponpoko" | 3zb205beta.zip<br>3zb206.zip<br>3zb207.zip<br>3zb208.zip<br>[3zb2082.zip](bin/3zb2082.zip)<br>[3zb2087.zip](bin/3zb2087.zip)<br>[3zb2088.zip](bin/3zb2088.zip)<br>3zb2089u.zip<br>3zb2093.zip<br>3zb2src93.zip<br>3zb2093_x86.zip<br>[3zbjpndoc096.zip](bin/3zbjpndoc096.zip)<br>[3zb2097.zip](bin/3zb2097.zip)<br>3zb2097b.zip<br>[3zb2097d.zip](bin/3zb2097d.zip)<br>[3zb2src97.zip](bin/3zb2src97.zip)<br>[3zb2src97LCC.zip](bin/3zb2src97LCC.zip)<br>[3zb2097_x86.zip](bin/3zb2097_x86.zip)<br>[3zb2097_glibc.zip](bin/3zb2097_glibc.zip)<br>[3zb2098.zip](bin/3zb2098.zip)
 3zb2 + KMQuake2 | "dirtdemon" | [dd3zb2_010_ctf.zip](bin/dd3zb2_010_ctf.zip)
 3zb2 + Q2RTX | "tehnetium" | [3zb2.zip](bin/3zb2.zip)
+ACE + BeOS | Richard Hess | [ace_x86.zip](bin/ace_x86.zip)
 ACE Bot + Holywars | "RiEvEr" | [Q2HWBot001.zip](bin/Q2HWBot001.zip)
 ACE Bot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>[ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
 ACEnEraser | Steve Yeager | ACEvsEraser.zip

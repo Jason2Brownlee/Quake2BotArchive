@@ -901,6 +901,11 @@ Eraser + BeOS
 		https://web.archive.org/web/20000815092325/http://reality.sgi.com/rhess_engr/beos/q2/eraser/eraser101_x86.zip
 	https://web.archive.org/web/19990128055850/http://reality.sgi.com/rhess_engr/beos/
 		Richard Hess
+ACE + BeOS
+	https://web.archive.org/web/20000815092300/http://reality.sgi.com/rhess_engr/beos/q2/ace/
+	https://web.archive.org/web/20000815092300/http://reality.sgi.com/rhess_engr/beos/q2/ace/ace_x86.zip
+
+
 
 
 TODO
