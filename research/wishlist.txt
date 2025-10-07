@@ -150,6 +150,9 @@ mac_niq195.sit.bin
 niq195_mac.sit.bin
 mac_hwbot003b7final.sit.bin
 
+# linux ports (qudos)
+
+
 # michael bot
 michael002.zip
 
