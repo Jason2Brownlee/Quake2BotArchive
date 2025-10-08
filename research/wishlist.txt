@@ -360,7 +360,6 @@ tourney-1.07a-19990125.zip
 tourney-1_07a-19990125.zip
 tourney-1.15-19990209.zip
 tourney-1_15-19990209.zip
-
 tourney-1_32-Win32-x86.zip
 tourney-1.32-Win32-x86.zip
 tourney-1_32-Solaris-Sparc.tar.Z
@@ -373,7 +372,6 @@ tourney-1.32-Linux-x86-glibc.tar.gz
 tourney-1.32-Linux-x86-libc5.tar.gz
 tourney-1_32-FreeBSD-x86.tar.gz
 tourney-1.32-FreeBSD-x86.tar.gz
-
 tourney-1_68-Linux-x86-glibc.tar.gz
 tourney-1_68-Linux-x86-libc5.tar.gz
 tourney-1.68-Linux-x86-glibc.tar.gz
@@ -382,12 +380,11 @@ tourney-1_68-Solaris-Sparc.tar.gz
 tourney-1.68-Solaris-Sparc.tar.gz
 tourney-1_68-FreeBSD-x86.tar.gz
 tourney-1.68-FreeBSD-x86.tar.gz
-
 tourney-2.0.1-Win32-x86.zip
 tourney-2.0.1-Linux-x86-glibc.tar.gz
-
 server-2.57-solaris-sparc.tar.gz
 server-2.57-linux-alpha.tar.gz
+server-2.66-win32-x86.zip
 server-2.66-linux-glib-x86.tar.gz
 server-2.75-linux-glibc-x86.tar.gz
 server-2.75-win32-x86.zip
