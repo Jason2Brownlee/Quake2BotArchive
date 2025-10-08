@@ -952,8 +952,6 @@ http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Linux-x86-glibc.tar.gz
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Linux-x86-libc5.tar.gz
 # tourney-1_32-Solaris-Sparc.tar.Z
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Solaris-Sparc.tar.Z
-# tourney-1_32-Win32-x86.zip
-http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Win32-x86.zip
 # tourney-1_68-FreeBSD-x86.tar.gz
 http://ftp.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-FreeBSD-x86.tar.gz
 http://mirrors.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-FreeBSD-x86.tar.gz
