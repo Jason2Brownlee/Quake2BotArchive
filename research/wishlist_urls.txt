@@ -970,7 +970,44 @@ http://mirrors.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-Solaris-Spar
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-2.0.1-Linux-x86-glibc.tar.gz
 # tourney-2.0.1-Win32-x86.zip
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-2.0.1-Win32-x86.zip
-
+# server-2.57-linux-alpha.tar.gz
+http://www.orangesmoothie.org/downloads/beta/server-2.57-linux-alpha.tar.gz
+# server-2.57-solaris-sparc.tar.gz
+http://www.orangesmoothie.org/downloads/beta/server-2.57-solaris-sparc.tar.gz
+# server-2.66-linux-glib-x86.tar.gz
+http://www.orangesmoothie.org/downloads/beta/server-2.66-linux-glib-x86.tar.gz
+# server-2.66-win32-x86.zip
+http://www.orangesmoothie.org/downloads/beta/server-2.66-win32-x86.zip
+# tourney-1.07a-19990125.zip
+http://ftp.sunet.se/planetquake/osp/tourney-1.07a-19990125.zip
+http://ftp.sunet.se/planetquake/tourney-1.07a-19990125.zip
+http://mirror.aarnet.edu.au/games/planetquake/osp/tourney-1.07a-19990125.zip
+http://mirror.aarnet.edu.au/games/planetquake/tourney-1.07a-19990125.zip
+# tourney-1.15-19990209.zip
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-1.15-19990209.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/osp/tourney-1.15-19990209.zip
+http://gamers.org/pub/games/idgames2/planetquake/osp/tourney-1.15-19990209.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/osp/tourney-1.15-19990209.zip
+# tourney-1_07a-19990125.zip
+http://ftp.sunet.se/planetquake/osp/tourney-1.07a-19990125.zip
+http://ftp.sunet.se/planetquake/tourney-1.07a-19990125.zip
+http://mirror.aarnet.edu.au/games/planetquake/osp/tourney-1.07a-19990125.zip
+http://mirror.aarnet.edu.au/games/planetquake/tourney-1.07a-19990125.zip
+# tourney-1_15-19990209.zip
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-1.15-19990209.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/osp/tourney-1.15-19990209.zip
+http://gamers.org/pub/games/idgames2/planetquake/osp/tourney-1.15-19990209.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/osp/tourney-1.15-19990209.zip
+# tourney19990111.zip
+http://ftp.sunet.se/planetquake/osp/tourney19990111.zip
+http://ftp.sunet.se/planetquake/tourney19990111.zip
+http://mirror.aarnet.edu.au/games/planetquake/osp/tourney19990111.zip
+http://mirror.aarnet.edu.au/games/planetquake/tourney19990111.zip
+# tourney19990115.zip
+http://ftp.sunet.se/planetquake/osp/tourney19990115.zip
+http://ftp.sunet.se/planetquake/tourney19990115.zip
+http://mirror.aarnet.edu.au/games/planetquake/osp/tourney19990115.zip
+http://mirror.aarnet.edu.au/games/planetquake/tourney19990115.zip
 
 
 
