@@ -354,6 +354,12 @@ zbot07k.zip
 zbot317.zip
 
 # osp tourney
+tourney19990111.zip
+tourney19990115.zip
+tourney-1.07a-19990125.zip
+tourney-1.15-19990209.zip
+tourney-1_15-19990209.zip
+
 tourney-1_32-Win32-x86.zip
 tourney-1.32-Win32-x86.zip
 tourney-1_32-Solaris-Sparc.tar.Z
