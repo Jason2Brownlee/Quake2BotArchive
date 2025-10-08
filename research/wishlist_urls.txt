@@ -935,3 +935,42 @@ http://www.opt-sci.arizona.edu/Pandora/Downloads/pandora200b60.zip
 http://members.tripod.com/clanllama/quake2c/zbot317.zip
 http://www.geocities.ws/oldquaker/clanllama/files/zbot317.zip
 
+# OSP
+# server-2.75-linux-glibc-x86.tar.gz
+http://www.orangesmoothie.org/downloads/beta/server-2.75-linux-glibc-x86.tar.gz
+# server-2.75-win32-x86.zip
+http://www.orangesmoothie.org/downloads/beta/server-2.75-win32-x86.zip
+# tourney-1_32-FreeBSD-x86.tar.gz
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-FreeBSD-x86.tar.gz
+# tourney-1_32-Linux-Alpha.tar.gz
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Linux-Alpha.tar.gz
+http://ftp.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_32-Linux-Alpha.tar.gz
+http://mirrors.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_32-Linux-Alpha.tar.gz
+# tourney-1_32-Linux-x86-glibc.tar.gz
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Linux-x86-glibc.tar.gz
+# tourney-1_32-Linux-x86-libc5.tar.gz
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Linux-x86-libc5.tar.gz
+# tourney-1_32-Solaris-Sparc.tar.Z
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Solaris-Sparc.tar.Z
+# tourney-1_32-Win32-x86.zip
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Win32-x86.zip
+# tourney-1_68-FreeBSD-x86.tar.gz
+http://ftp.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-FreeBSD-x86.tar.gz
+http://mirrors.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-FreeBSD-x86.tar.gz
+# tourney-1_68-Linux-x86-glibc.tar.gz
+http://ftp.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-Linux-x86-glibc.tar.gz
+http://mirrors.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-Linux-x86-glibc.tar.gz
+# tourney-1_68-Linux-x86-libc5.tar.gz
+http://ftp.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-Linux-x86-libc5.tar.gz
+http://mirrors.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-Linux-x86-libc5.tar.gz
+# tourney-1_68-Solaris-Sparc.tar.gz
+http://ftp.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-Solaris-Sparc.tar.gz
+http://mirrors.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_68-Solaris-Sparc.tar.gz
+# tourney-2.0.1-Linux-x86-glibc.tar.gz
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-2.0.1-Linux-x86-glibc.tar.gz
+# tourney-2.0.1-Win32-x86.zip
+http://asp.planetquake.com/dl/dl.asp?osp/tourney-2.0.1-Win32-x86.zip
+
+
+
+
