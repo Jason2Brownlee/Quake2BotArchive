@@ -504,19 +504,23 @@ http://kamensk.far.ru/files/files/q2/gsb.zip
 
 # EraserX
 # eraserx012.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/eraserx012.zip
 http://asp.planetquake.com/dl/dl.asp?expert/eraserx012.zip
 http://ftp.sunet.se/planetquake/expert/eraserx012.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/eraserx012.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx012.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/expert/eraserx012.zip
 http://gamers.org/pub/games/idgames2/planetquake/eraserx012.zip
+http://gamers.org/pub/games/idgames2/planetquake/expert/eraserx012.zip
 http://mirror.aarnet.edu.au/games/planetquake/expert/eraserx012.zip
+http://mirrors.telepac.pt/pub/idgames2/planetquake/expert/eraserx012.zip
 http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/expert/eraserx012.zip
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/expert/eraserx012.zip
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eraserx012.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx012.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx012.zip
 http://www.fileplanet.com/dl/dl.asp?expert/eraserx012.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/expert/eraserx012.zip
 # eraserx301.zip
 http://ftp.sunet.se/planetquake/expert/eraserx301.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx301.zip
@@ -938,8 +942,10 @@ http://www.geocities.ws/oldquaker/clanllama/files/zbot317.zip
 # OSP
 # server-2.75-linux-glibc-x86.tar.gz
 http://www.orangesmoothie.org/downloads/beta/server-2.75-linux-glibc-x86.tar.gz
+http://www.sunflow.com/orangesmoothie/downloads/server-2.75-linux-glibc-x86.tar.gz
 # server-2.75-win32-x86.zip
 http://www.orangesmoothie.org/downloads/beta/server-2.75-win32-x86.zip
+http://www.sunflow.com/orangesmoothie/downloads/server-2.75-win32-x86.zip
 # tourney-1_32-FreeBSD-x86.tar.gz
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-FreeBSD-x86.tar.gz
 # tourney-1_32-Linux-Alpha.tar.gz

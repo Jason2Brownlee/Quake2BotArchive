@@ -1,28 +1,19 @@
 Bots on quake2 addon cds
 ========================
 
-CDs
-----
 
-Zaero
-	https://www.mobygames.com/game/6392/zaero-for-quake-ii/
-	https://ogdb.eu/index.php?section=title&titleid=643
-	https://archive.org/details/zaero4Q2
-	https://archive.org/details/zaero
-	BOTS
-		none
+OFFICIAL
+-------
 Quake II Mission Pack: Ground Zero
 	https://www.mobygames.com/game/4341/quake-ii-mission-pack-ground-zero/
+Quake II Mission Pack: The Reckoning
+	https://www.mobygames.com/game/4342/quake-ii-mission-pack-the-reckoning/
+	https://archive.org/details/q-2-hard
 Quake II: Colossus
 	https://www.mobygames.com/game/26106/quake-ii-colossus/
-Fault Line for Quake II
-	https://www.mobygames.com/game/99205/fault-line-for-quake-ii/
-	https://ogdb.eu/index.php?section=title&titleid=2382
-	https://archive.org/details/fault-line
-	BOTS
-		data/DLL/BOTS		1998-06-13 00:59:30
-		data/DLL/BOTS/fb10b1.txt		1998-02-13 03:37:46	24
-		data/DLL/BOTS/fb10b1.zip
+	Quake II
+	Quake II Mission Pack: The Reckoning
+	Quake II Mission Pack: Ground Zero.
 Quake II: Quad Damage
 	https://www.mobygames.com/game/2315/quake-ii-quad-damage/
 	https://ogdb.eu/index.php?section=title&titleid=1241
@@ -42,9 +33,26 @@ Quake II Netpack I: Extremities
 		eraser v1.02 (Net Pack edition)
 		https://discmaster.textfiles.com/view/21882/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe)/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe).bin/Docs/Help/EraserBot.htm
 		https://discmaster.textfiles.com/browse/21882/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe)/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe).bin/setup_12/data
-Quake II Mission Pack: The Reckoning
-	https://www.mobygames.com/game/4342/quake-ii-mission-pack-the-reckoning/
-	https://archive.org/details/q-2-hard
+
+
+CDs (UNOFFICIAL)
+----
+
+Zaero
+	https://www.mobygames.com/game/6392/zaero-for-quake-ii/
+	https://ogdb.eu/index.php?section=title&titleid=643
+	https://archive.org/details/zaero4Q2
+	https://archive.org/details/zaero
+	BOTS
+		???
+Fault Line for Quake II
+	https://www.mobygames.com/game/99205/fault-line-for-quake-ii/
+	https://ogdb.eu/index.php?section=title&titleid=2382
+	https://archive.org/details/fault-line
+	BOTS
+		data/DLL/BOTS		1998-06-13 00:59:30
+		data/DLL/BOTS/fb10b1.txt		1998-02-13 03:37:46	24
+		data/DLL/BOTS/fb10b1.zip
 Q2 Hard
 	https://legendsworld.net/shooter/year/1998#6566
 	https://ogdb.eu/index.php?section=title&titleid=12125
@@ -84,7 +92,7 @@ Juggernaut: The New Story for Quake II
 	https://archive.org/details/juggernautusadeluxeedition
 	BOTS
 		TODO
-Quake 2: Total Destruction (Toolkit for Quake 2)
+Total Destruction
 	https://legendsworld.net/shooter/year/1998#6566
 	https://discmaster.textfiles.com/browse/35869
 	https://archive.org/details/total-destruction_202506
