@@ -321,7 +321,12 @@ PC Zone 77
 	https://discmaster.textfiles.com/browse/39495
 	BOTS
 		Editor.ial / PGC99 / pgc99.exe / gladq2091.zip
-
+PCMania 76
+	https://discmaster.textfiles.com/browse/12536
+	BOTS
+		pcmania / treal76 / chaos / chaos11.exe
+		pcmania / treal76 / chaos / chaos111_update.exe
+		pcmania / treal76 / arena / rbot079.zip
 
 
 
