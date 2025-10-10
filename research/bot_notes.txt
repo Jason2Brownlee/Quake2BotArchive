@@ -1082,16 +1082,7 @@ q2ace
 	http://www.spks.org/
 	another aimbot? pro client?
 	?
-orange
-	gladiator bot?
-	http://www.cus.umist.ac.uk/club.louise/
-		https://web.archive.org/web/*/http://www.cus.umist.ac.uk/club.louise/*
-	http://www.captured.com/orange/
-		https://web.archive.org/web/20000817090016/http://www.captured.com/orange/
-	http://www.cus.umist.ac.uk/%7Efnjordy/
-		https://web.archive.org/web/19990225130056/http://www.cus.umist.ac.uk/%7Efnjordy/
-	a copy on "Fault Line for Quake II" cd with m_gladiator.c in the src
-		for the turret?
+
 
 Incomplete / Insufficient Info
 --------------------------------------------------------------------------------

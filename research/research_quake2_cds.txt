@@ -2,158 +2,327 @@ Bots on quake2 addon cds
 ========================
 
 
-OFFICIAL
--------
-Quake II Mission Pack: Ground Zero
-	https://www.mobygames.com/game/4341/quake-ii-mission-pack-ground-zero/
-Quake II Mission Pack: The Reckoning
-	https://www.mobygames.com/game/4342/quake-ii-mission-pack-the-reckoning/
-	https://archive.org/details/q-2-hard
-Quake II: Colossus
-	https://www.mobygames.com/game/26106/quake-ii-colossus/
-	Quake II
-	Quake II Mission Pack: The Reckoning
-	Quake II Mission Pack: Ground Zero.
-Quake II: Quad Damage
-	https://www.mobygames.com/game/2315/quake-ii-quad-damage/
-	https://ogdb.eu/index.php?section=title&titleid=1241
-	https://archive.org/details/Quake_II_Quad_Damage_USA
-	https://archive.org/details/quake-ii-quad-damage-usa
-	contents:
-		Quake II
-		Quake II Mission Pack I: The Reckoning
-		Quake II Mission Pack II: Ground Zero
-		Quake II Netpack I: Extremities
+ADDON CDS
+---------
+
 Quake II Netpack I: Extremities
 	https://www.mobygames.com/game/6391/quake-ii-netpack-i-extremities/
 	https://discmaster.textfiles.com/browse/21882
 	https://archive.org/details/quake-ii-netpack-i-extremities-1998-id-software-activision-cd
 	https://archive.org/details/QuakeIINetpackIExtremitiesUSAEurope
 	BOTS
-		eraser v1.02 (Net Pack edition)
-		https://discmaster.textfiles.com/view/21882/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe)/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe).bin/Docs/Help/EraserBot.htm
-		https://discmaster.textfiles.com/browse/21882/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe)/Quake%20II%20Netpack%20I%20-%20Extremities%20(USA,%20Europe).bin/setup_12/data
-
-
-CDs (UNOFFICIAL)
-----
-
-Zaero
-	https://www.mobygames.com/game/6392/zaero-for-quake-ii/
-	https://ogdb.eu/index.php?section=title&titleid=643
-	https://archive.org/details/zaero4Q2
-	https://archive.org/details/zaero
-	BOTS
-		???
+		SETUP_12/DATA/ERASER
+			eraser v1.02 (Net Pack edition)
+		SETUP_10/DATA/RAIL/ERASER.TXT
+			Rail arena + eraser v1.2
 Fault Line for Quake II
 	https://www.mobygames.com/game/99205/fault-line-for-quake-ii/
 	https://ogdb.eu/index.php?section=title&titleid=2382
 	https://archive.org/details/fault-line
 	BOTS
-		data/DLL/BOTS		1998-06-13 00:59:30
-		data/DLL/BOTS/fb10b1.txt		1998-02-13 03:37:46	24
 		data/DLL/BOTS/fb10b1.zip
+			Frostbot
 Q2 Hard
 	https://legendsworld.net/shooter/year/1998#6566
 	https://ogdb.eu/index.php?section=title&titleid=12125
 	BOTS
-		eraser v.04
-			KATALOG/ARCHIV/PATCH/27093.ZIP
-		crbot v0.99
-			KATALOG/ARCHIV/PATCH/27362.ZIP
+		KATALOG/ARCHIV/PATCH/27093.ZIP
+			eraser v.04
+		KATALOG/ARCHIV/PATCH/27362.ZIP
+			crbot v0.99
 Total Conversions for Quake 2
 	https://discmaster.textfiles.com/browse/35868
 	http://redump.org/disc/68450/
 	https://archive.org/details/total-conversions-for-quake-2
 	BOTS
-		New Levels/The C.R.Bot, for Quake II v0.90		1998-05-28 20:48:14
-		New Levels/The C.R.Bot, for Quake II v0.90/crbot09.zip		1998-01-07 13:38:14	145055
-		New Levels/The C.R.Bot, for Quake II v0.94		1998-05-28 20:48:14
-		New Levels/The C.R.Bot, for Quake II v0.94/crbot094.zip		1998-02-11 14:28:38	150754
-		New Levels/The C.R.Bot, for Quake II v0.95		1998-05-28 20:48:14
-		New Levels/The C.R.Bot, for Quake II v0.95/crbot095.zip		1998-02-11 15:23:04	151593
-		New Levels/The C.R.Bot, for Quake II v0.96		1998-05-28 20:48:14
-		New Levels/The C.R.Bot, for Quake II v0.96/crbot096.zip		1998-02-11 15:24:54	611201
-		New Levels/The C.R.Bot, for Quake II v0.99		1998-05-28 20:48:14
-		New Levels/The C.R.Bot, for Quake II v0.99/crbot099.zip		1998-02-11 15:25:32	623491
-		New Levels/The Famkebot, for Quake II		1998-05-28 20:48:16
+		New Levels/The C.R.Bot, for Quake II v0.90/crbot09.zip
+		New Levels/The C.R.Bot, for Quake II v0.94/crbot094.zip
+		New Levels/The C.R.Bot, for Quake II v0.95/crbot095.zip
+		New Levels/The C.R.Bot, for Quake II v0.96/crbot096.zip
+		New Levels/The C.R.Bot, for Quake II v0.99/crbot099.zip
 		New Levels/The Famkebot, for Quake II/FAMKEBOT.ZIP
-		ai		1998-05-28 20:47:04
-		ai/Eraser Bot v0.3		1998-05-28 20:47:04
-		ai/Eraser Bot v0.3/eras0118.zip		1998-02-11 16:02:10	1184906
-		ai/Eraser Bot v0.4		1998-05-28 20:47:04
+			v2.2
+		ai/Eraser Bot v0.3/eras0118.zip
 		ai/Eraser Bot v0.4/eras0124.zip
-Juggernaut: The New Story for Quake II
-	Quake 2 Total Conversion: Juggernaut - The New Story For Quake 2
-	https://legendsworld.net/shooter/year/1998#6566
-	https://ogdb.eu/index.php?section=title&titleid=662
-	https://archive.org/details/Juggernaut_for_Quake_2_AddOn
-	https://archive.org/details/juggernautusa
-	https://archive.org/details/juggernautusadeluxeedition
-	BOTS
-		TODO
 Total Destruction
 	https://legendsworld.net/shooter/year/1998#6566
 	https://discmaster.textfiles.com/browse/35869
 	https://archive.org/details/total-destruction_202506
 	https://archive.org/details/cdrom-quake2-total-destruction
+	https://discmaster.textfiles.com/browse/35869/Total_Destruction.iso
 	BOTS
-		crbt099d.exe
-		crbt099d.zip
-		The C.R.Bot, .zip
-		acebot.exe
-		famkebot.exe
-		stupidbot.exe
-		acebot.zip
-		stp099f.zip
-Quake 2: Complete Gamer Add-on
-	Complete Gamer: Quake II - Ultimate Add-On Disc
-	https://legendsworld.net/shooter/year/1998#6566
-	https://ogdb.eu/index.php?section=title&titleid=21273
-	https://archive.org/details/complete-gamer-issue-6-quake-ultimate-add-on-disc
+		addons/crbt099d.exe
+		addons/zipz/The C.R.Bot, .zip
+			v0.98
+		addons/zipz/crbt099d.zip
+		mods/acebot.exe
+			v0.05
+		mods/famkebot.exe
+			v2.2
+		mods/stupidbot.exe
+			v0.99f.zip
+		mods/zipz/acebot.zip
+			v0.05
+		mods/EraserInstall.exe
+			v0.6
+		mods/zipz/stp099f.zip
+		mods/Tangential_140.exe
+
+
+MAGAZINE CDS
+-------------
+
+Essential CD Gamer Volume 2
+	https://archive.org/details/Essential_CD_Gamer_Volume_2_PCG55-4-98B_PC-Gamer
+	https://discmaster.textfiles.com/browse/31951
 	BOTS
-		none
-Quake 2: Unseen (cancelled)
-	https://legendsworld.net/shooter/year/1998#6566
+		Quake2/Addons/ErasrBot/EraserInstall.exe
+			v0.6
+PC PowerPlay The Quake Bible CD
+	https://archive.org/details/QUAKEBIBLE
+	https://discmaster.textfiles.com/browse/31424
 	BOTS
-		none
-The Q2 Files
-	https://legendsworld.net/shooter/year/1998#6566
-	https://discmaster.textfiles.com/browse/35194
+		programs / eraser101.exe
+		PROGRAMS/ERASER~1.EXE
+			v1.01
+CD Action 36
+	https://discmaster.textfiles.com/browse/23037
 	BOTS
-		none
-Qoole for Quake II, Quake & Hexen II
-	https://legendsworld.net/shooter/year/1998#6566
-Hardcore Gamer for Quake 2
-	Hardcore Gamer for Quake II
-	https://discmaster.textfiles.com/browse/21310
-	https://ogdb.eu/index.php?section=title&titleid=21277
-	https://discmaster.textfiles.com/browse/21310
+		Bonus / gryfpp.EXE / gryFPP / quake / Q1 / boty / stp099d / stupid
+			v0.99e.zip
+		Bonus / gryfpp.EXE / gryFPP / quake / Q1 / boty / crbt099c
+			crbt099c.zip
+		Bonus / gryfpp.EXE / gryFPP / quake / Q1 / boty / Tangenti / Tangenti
+			Tangential_120.zip
+		Bonus / gryfpp.EXE / gryFPP / quake / Q1 / boty / EraserIn.exe
+			v0.6
+		Bonus / gryfpp.EXE / gryFPP / quake / Q2 / Q2bots / famke
+			1.10
+CD Action 27 A
+	https://archive.org/details/cdrom-cdaction27a
+	https://discmaster.textfiles.com/browse/23031
 	BOTS
-		none
-Quake II Strategy Mastery
-	https://discmaster.textfiles.com/browse/35897
-Quake II: Authorized Strategy Guide
-	https://discmaster.textfiles.com/browse/29337
-Toolkit for Quake II
-	https://discmaster.textfiles.com/browse/16236
-	http://redump.org/disc/11009/
-	https://discmaster.textfiles.com/browse/16236
+		BONUS.DOS / Q&D.EXE / QUAKEDUK / QUAKEDUK / QUAKE / QUAKE 2 / Q2BOTS / 3ZB155
+			3zb155.zip
+		BONUS.DOS / Q&D.EXE / QUAKEDUK / QUAKEDUK / QUAKE / QUAKE 2 / Q2BOTS / ERASER
+			v0.97
+		BONUS.DOS / Q&D.EXE / QUAKEDUK / QUAKEDUK / QUAKE / QUAKE 2 / Q2BOTS / FAMKE
+			5.6
+Igromania 1999 December
+	https://archive.org/details/igromania2712cd
+	https://discmaster.textfiles.com/browse/12288
 	BOTS
-		none
-Legacy of the Watchers: Nightfall
-	https://ogdb.eu/index.php?section=title&titleid=43082
-Oblivion
-	https://ogdb.eu/index.php?section=title&titleid=11805
-	https://archive.org/details/cd-gamer-christmas-1999-issue-77-oblivion
+		27_12_1999.iso / bots / 3zb158.exe
+		27_12_1999.iso / bots / ace008_dll.exe
+		27_12_1999.iso / bots / crbot114.exe
+		27_12_1999.iso / bots / Eraser101_Full.exe
+Oh!X 1999 Spring
+	https://discmaster.textfiles.com/browse/21459
+	https://archive.org/details/Nova_OhX1999Spring_Japan
+	BOTS
+		Oh!X 1999 Spring Special CD-ROM (Japan) (Part 1) / Oh!X 1999 Spring Special CD-ROM (Japan) (Part 1).bin / quake / 3ZB2
+			0.82x
+Joystick Magazine 1999 May
+	https://discmaster.textfiles.com/browse/22671
+	BOTS
+		Data / WIN95 / JEUX / acesetup.exe
+			v007
+Joystick Magazine 1998 February
+	https://discmaster.textfiles.com/browse/22657
+	BOTS
+		data / win95 / jeux / crbot093.zip
+PC-X 1998 May
+	https://discmaster.textfiles.com/browse/34196
+	BOTS
+		GAMEPORT / EXTRAK / QUAKE.HU / QUAKE2 / BOTS / CRBOT112.ZIP
+		GAMEPORT / EXTRAK / QUAKE.HU / QUAKE2 / BOTS / ERASER90.ZIP
+		GAMEPORT / EXTRAK / QUAKE.HU / QUAKE2 / BOTS / ERASER95.ZIP
+Score 1998 March
+	https://discmaster.textfiles.com/browse/38650
+	BOTS
+		Utils / 3DStuff / Bots / quake2 / crbot099.zip
+		Utils / 3DStuff / Bots / quake2 / crusv05.zip
+		Utils / 3DStuff / Bots / quake2 / EraserInstall.exe
+			v0.6
+PCPP Game Guide 2 (PC Power Play)
+	https://discmaster.textfiles.com/browse/16071
+	https://archive.org/details/pcppgg2
+	BOTS
+		PCPP / addons / crbot094.zip
+		PCPP / addons / crbot095.zip
+		PCPP / addons / crbot096.zip
+		PCPP / addons / crbot099.zip
+		PCPP / addons / eras0118.zip
+		PCPP / addons / eras0124.zip
+PC Format (Portugal) 16
+	https://discmaster.textfiles.com/browse/16098
+	BOTS
+		PC Format (Portugal) 16.iso / Games / q2Stuff / qstuff.exe / crbot091.zip
+GameStar 1998 October
+	https://discmaster.textfiles.com/browse/23154
+	BOTS
+		_q2 / Bots / crbot114.zip
+		_q2 / Bots / Eraser101_Full.exe
+		_q2 / mods_tc / rbot076.exe
+PC Format 79
+	https://discmaster.textfiles.com/browse/16122
+	BOTS
+		Games / q2Stuff / qstuff.exe / crbot091.zip
+Amiga Format CD 51
+	https://discmaster.textfiles.com/browse/1062
+	BOTS
+		-readerstuff- / richard_hodge / madcows / zips / crbot114.zip
+PC-X 1998 April
+	https://discmaster.textfiles.com/browse/34195
+	BOTS
+		GAMEPORT / EXTRAK / QUAKE_HU / QUAKE2 / BOTS / CRBOT106.ZIP
+		GAMEPORT / EXTRAK / QUAKE_HU / QUAKE2 / BOTS / Erasr085.zip
+		GAMEPORT / EXTRAK / QUAKE_HU / QUAKE2 / BOTS / Erasr086.zip
+Joystick Magazine 1999 April
+	https://discmaster.textfiles.com/browse/22670
+	BOTS
+		Data / WIN95 / JEUX / Q2weapon.exe / wferaser34b
+			v3.4 B2
+OK CD GAMER Epoca 15
+	https://discmaster.textfiles.com/browse/33409
+	BOTS
+		niveles / QUAKE2 / EXTRAS / ERASERB / ERAS0125.ZIP
+CD Ware Multimedia 1998 May
+	https://discmaster.textfiles.com/browse/32306
+	BOTS
+		Niveles / QUAKE2 / EXTRAS / ERASERB / ERAS0125.ZIP
+PC Games.EXE 1998 April
+	https://discmaster.textfiles.com/browse/21668
+	BOTS
+		MODMonth / Eras0125.exe
+PC/CD Gamer UK 55
+	https://discmaster.textfiles.com/browse/33550
+	BOTS
+		Quake2 / Addons / ErasrBot / EraserInstall.exe
+			v0.6
+PC-X 1998 July
+	https://discmaster.textfiles.com/browse/34198
+	BOTS
+		GAMEPORT / EXTRAK / QUAKE2 / Eraser0992.zip
+Score 1998 April
+	https://discmaster.textfiles.com/browse/38651
+	BOTS
+		Quake / bot-q2 / eraser0312.exe
+Gambler 18
+	https://discmaster.textfiles.com/browse/22547
+	BOTS
+		utils / 3d / quake_2 / boty / eraser / eraser04.exe
+		utils / 3d / quake_2 / boty / eraser.exe
+			v0.84
+		utils / 3d / quake_2 / boty / er-skins.exe
+			v0.82
+		utils / 3d / quake_2 / boty / oakii_02.zip
+PC Press 1998 September
+	https://discmaster.textfiles.com/browse/16595
+	BOTS
+		GAMES / ERASER03.EXE
+Vrtulník 4
+	https://discmaster.textfiles.com/browse/33168
+	BOTS
+		special / quake2 / eraserbot / eraser0320.exe
+		special / quake2 / patches / eraserpatch / eraser0413_patch.exe
+PCMania 68
+	https://discmaster.textfiles.com/browse/12528
+	BOTS
+		pcmania / treal68 / Eraser0427.zip
+PCMania 69
+	https://discmaster.textfiles.com/browse/12529
+	BOTS
+		pcmania / treal69 / Eraser0529.zip
+PCNet 1998 August
+	https://discmaster.textfiles.com/browse/36220
+	BOTS
+		Oyun / eraser0312.exe
+PC Format 83
+	https://discmaster.textfiles.com/browse/16108
+	BOTS
+		Games / q2-adds / Q2.EXE / Eraser0330.exe
+Score 1998 July
+	https://discmaster.textfiles.com/browse/38654
+	BOTS
+		Quake2 / Bots / Eraser0991.exe
+PCMania 67
+	https://discmaster.textfiles.com/browse/12527
+	BOTS
+		pcmania / Treal67 / Mapas / Eraser0330.exe
+PC/CD Gamer UK 61
+	https://discmaster.textfiles.com/browse/33551
+	BOTS
+		Quake2 / Eraser / Eraser0618.exe
+Gambler 20 A
+	https://discmaster.textfiles.com/browse/22549
+	BOTS
+		Utils / 3D / BOT / ERASER1.EXE
+			v0.992
+		Utils / 3D / BOT / ERASER2.EXE
+			v0.991
+		Utils / 3D / BOT / ER-SKINS.EXE
+			v0.82
+CD Action 42 A
+	https://discmaster.textfiles.com/browse/23061
+	BOTS
+		Bonus / fpp.exe / fppzone / Fpp_zone listopad / zip / eraser101.exe
+Igromania 2001 October
+	https://discmaster.textfiles.com/browse/11531
+	BOTS
+		Gamezone / Quake / Quake2 / EraserBot / Eraser101Full.rar
+PCMania 79
+	https://discmaster.textfiles.com/browse/12539
+	BOTS
+		PCMANIA / treal79 / Eraser101_Full.exe
+		PCMANIA / treal79 / ice_10.zip
+		PCMANIA / treal79 / icer_10.zip
+PC/CD Gamer UK 73
+	https://discmaster.textfiles.com/browse/33557
+	BOTS
+		Conversions / Quake2 / ErasrBot / Eraser101_Full.exe
+PC-X 1998 October
+	https://discmaster.textfiles.com/browse/34200
+	BOTS
+		GAMEPORT / EXTRAK / Quake2 / eraser101_full.exe
+Hráč 1998 January
+	https://discmaster.textfiles.com/browse/22589
+	BOTS
+		programy / quake2 / ine / newstuff / famkebot.zip
+			1.10
+		programy / quake2 / ine / dlls / bots / famkebot.zip
+			1.10
+CD Ware Multimedia 1998 February
+	https://discmaster.textfiles.com/browse/32298
+	BOTS
+		Niveles / Quake2 / Niveles / famkebot.zip
+			1.10
+PC PowerPlay 40
+	https://discmaster.textfiles.com/browse/31405
+	BOTS
+		QUAKE2 / Coding / gladq209src.zip
+		QUAKE2 / Bots / gladq2094_win32-x86.exe
+		QUAKE2 / Mods / gladq2095_win32-x86.exe
+		QUAKE2 / Mods / ServerSide / tourney-1_68-Win32-x86.zip
+CD Action 40
+	https://discmaster.textfiles.com/browse/23059
+	BOTS
+		Bonus / FPPzone.exe / FPP zone wrzesien / gladq2094_win32-x86.exe
+PCMania 81
+	https://discmaster.textfiles.com/browse/12541
+	BOTS
+		PCMANIA / treal81 / gladiat / gladq2094_win32-x86.exe
+		PCMANIA / treal81 / gladiat / gladq2095_win32-x86.exe
+Reset 7
+	https://discmaster.textfiles.com/browse/16335
+	BOTS
+		Magazyn / quake / files / gladq2095.exe
+PC Zone 77
+	https://discmaster.textfiles.com/browse/39495
+	BOTS
+		Editor.ial / PGC99 / pgc99.exe / gladq2091.zip
 
 
 
-Lists
-----
-
-http://redump.org/discs/quicksearch/quake/
-https://legendsworld.net/shooter/year/1998#6566
-https://discmaster.textfiles.com/cd-rom/Game%20-%20Add-Ons,%20Levels%20&%20Tools
 
 
