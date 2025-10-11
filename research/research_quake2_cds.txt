@@ -75,6 +75,7 @@ MAGAZINE CDS
 -------------
 
 Essential CD Gamer Volume 2
+	Essential CD Gamer 2
 	https://archive.org/details/Essential_CD_Gamer_Volume_2_PCG55-4-98B_PC-Gamer
 	https://discmaster.textfiles.com/browse/31951
 	BOTS
@@ -374,7 +375,42 @@ PC PowerPlay 36
 	https://discmaster.textfiles.com/browse/33900
 	BOTS
 		quake / Files / glad_208.zip
-
+PC-X 1998 March
+	https://discmaster.textfiles.com/browse/34194
+	BOTS
+		GAMEPORT / QUAKE_HU / QUAKE2 / BOTS / CRBT099C.ZIP
+		GAMEPORT / QUAKE_HU / QUAKE2 / BOTS / ERAS_0~1.ZIP
+			v0.6
+BUG 13
+	https://discmaster.textfiles.com/browse/2194
+	BOTS
+		zabava / eraser / eraser.exe
+			v0.7
+The Games Machine 46
+	https://discmaster.textfiles.com/browse/22410
+	BOTS
+		E-Mail / Taz / 3rd-Zigock Bot.zip
+			1.56
+		E-Mail / Taz / Eraser Bot 05.exe
+Hacker 4
+	https://discmaster.textfiles.com/browse/21290
+	BOTS
+		Igre / Quake 2 Goodies / Botovi / Famke Bot.exe
+			2.2
+		Igre / Quake 2 Goodies / Botovi / CR Bot.exe
+			0.91a
+		Igre / Quake 2 Goodies / Botovi / Eraser Bot.exe
+			v0.4
+Gambler 19
+	https://discmaster.textfiles.com/browse/22548
+	BOTS
+		UTILS / 3D / MODY / VIKING09.ZIP
+			v0.97b
+PC Accelerator 1
+	https://discmaster.textfiles.com/browse/15678
+	BOTS
+		Exes / quake2 / Eras0501.exe
+			v0.97
 
 
 

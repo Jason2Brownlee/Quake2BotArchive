@@ -122,7 +122,6 @@ Eraser0411b_patch.exe
 Eraser0427_patch.zip
 Eraser0427_patch.exe
 Eraser0427.exe
-Eraser0501.exe
 eraser0501_patch.zip
 eraser0501_patch.exe
 eraser0505.zip

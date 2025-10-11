@@ -192,13 +192,6 @@ http://impact.frag.com/files/Eraser0427_patch.exe
 ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2/eraser0427_patch.exe
 # Eraser0427_patch.zip
 http://impact.frag.com/files/Eraser0427_patch.zip
-# Eraser0501.exe
-ftp://ftp.stomped.com/pub/redwood/bots/eraser0501.exe
-http://bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0501.exe
-http://impact.frag.com/files/Eraser0501.exe
-http://impact.frag.com/files/eraser0501.exe
-http://www.bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser/Eraser0501.exe
-ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2/eraser0501.exe
 # Eraser0505_patch.exe
 ftp://ftp.stomped.com/pub/redwood/bots/eraser0505_patch.exe
 http://impact.frag.com/files/Eraser0505_patch.exe
