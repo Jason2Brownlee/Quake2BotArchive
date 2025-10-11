@@ -411,7 +411,14 @@ PC Accelerator 1
 	BOTS
 		Exes / quake2 / Eras0501.exe
 			v0.97
-
-
-
+PC-X 1998 June
+	https://discmaster.textfiles.com/browse/34197
+	BOTS
+		GAMEPORT / EXTRAK / QUAKE / ERASER / Eraser97.zip
+		GAMEPORT / EXTRAK / QUAKE / ERASER / Eraser99.zip
+CD Action 29 A
+	https://discmaster.textfiles.com/
+	BOTS
+		bonus / QUDN.EXE / Q_U_DN / QUAKE / Q2 / rock_bot
+			v0.6
 
