@@ -18,6 +18,10 @@ http://www.planetquake.com/maxtron/bots/quake2.shtml
 	https://web.archive.org/web/20010509143905fw_/http://www.planetquake.com/maxtron/bots/quake2.shtml
 http://www.swissquake.ch/botpage/
 	https://web.archive.org/web/19981202190704/http://www.swissquake.ch/botpage/
+http://www.fileplanet.com/index.asp?section=117
+	https://web.archive.org/web/20001029174752/http://207.199.1.201/index.asp?section=117
+	https://web.archive.org/web/20000127020756/http://www.fileplanet.com/index.asp?section=117
+
 
 Individual Bots
 --------------------------------------------------------------------------------

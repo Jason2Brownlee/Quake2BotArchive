@@ -71,6 +71,8 @@ Total Destruction
 		mods/zipz/Tangential_140.zip
 
 
+
+
 MAGAZINE CDS
 -------------
 
@@ -89,7 +91,7 @@ PC PowerPlay The Quake Bible CD
 		PROGRAMS/ERASER~1.EXE
 			v1.01
 CD Action 36
-	https://discmaster.textfiles.com/browse/23037
+	https://discmaster.textfiles.com/browse/23037f
 	BOTS
 		Bonus / gryfpp.EXE / gryFPP / quake / Q1 / boty / stp099d / stupid
 			v0.99e.zip
@@ -123,8 +125,10 @@ Oh!X 1999 Spring
 	https://discmaster.textfiles.com/browse/21459
 	https://archive.org/details/Nova_OhX1999Spring_Japan
 	BOTS
-		Oh!X 1999 Spring Special CD-ROM (Japan) (Part 1) / Oh!X 1999 Spring Special CD-ROM (Japan) (Part 1).bin / quake / 3ZB2
+		quake / 3ZB2
 			0.82x
+		BLACK / QUAKE2 / 3zb /
+			3rd-Zigock Bot 1.58
 Joystick Magazine 1999 May
 	https://discmaster.textfiles.com/browse/22671
 	BOTS
@@ -302,6 +306,10 @@ Hráč 1998 January
 			1.10
 		programy / quake2 / ine / dlls / bots / famkebot.zip
 			1.10
+		programy / quake2 / bots / famkebot
+			1.10
+		programy / quake2 / bots / CRBOT
+			0.91a
 CD Ware Multimedia 1998 February
 	https://discmaster.textfiles.com/browse/32298
 	BOTS
@@ -421,4 +429,15 @@ CD Action 29 A
 	BOTS
 		bonus / QUDN.EXE / Q_U_DN / QUAKE / Q2 / rock_bot
 			v0.6
+PC Zone 71
+	https://discmaster.textfiles.com/browse/39489
+	BOTS
+		Explay / Eraser / Eraser.exe
+			Eraser Bot Wizard
+Oh!X 1998 Spring
+	https://discmaster.textfiles.com/browse/21458
+	BOTS
+		QUAKE2 / 3zb
+			3rd-Zigock Bot 1.58
+
 
