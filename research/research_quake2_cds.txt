@@ -67,6 +67,8 @@ Total Destruction
 			v0.6
 		mods/zipz/stp099f.zip
 		mods/Tangential_140.exe
+		mods/zipz/Tangential_Server_120.zip
+		mods/zipz/Tangential_140.zip
 
 
 MAGAZINE CDS
@@ -181,6 +183,13 @@ PC-X 1998 April
 Joystick Magazine 1999 April
 	https://discmaster.textfiles.com/browse/22670
 	BOTS
+		Data / WIN95 / JEUX / Q2RAPLUS.exe / ra2eraser.exe
+		Data / WIN95 / JEUX / Q2RAPLUS.exe / rbot06.exe
+		Data / WIN95 / JEUX / Q2RAPLUS.exe / rbot0715.exe
+		Data / WIN95 / JEUX / Q2RAPLUS.exe / rbot076.exe
+		Data / WIN95 / JEUX / Q2RAPLUS.exe / rbot078.exe
+		Data / WIN95 / JEUX / Q2RAPLUS.exe / rbot078b.exe
+		Data / WIN95 / JEUX / Q2RAPLUS.exe / rbot079.exe
 		Data / WIN95 / JEUX / Q2weapon.exe / wferaser34b
 			v3.4 B2
 OK CD GAMER Epoca 15
@@ -327,6 +336,45 @@ PCMania 76
 		pcmania / treal76 / chaos / chaos11.exe
 		pcmania / treal76 / chaos / chaos111_update.exe
 		pcmania / treal76 / arena / rbot079.zip
+Joystick Magazine 1998 December
+	https://discmaster.textfiles.com/browse/22666
+	BOTS
+		Data / WIN95 / JEUX / chaos11.exe
+PC Zone 105
+	https://discmaster.textfiles.com/browse/26818
+	BOTS
+		modwatch / Chaos / chaos112comp.exe
+PCMania 2
+	https://discmaster.textfiles.com/browse/27482
+	BOTS
+		ARTICULOS / CREATIVIDAD / TIEMPO_REAL / chaos / chaos112comp.exe
+Gambler 17
+	https://discmaster.textfiles.com/browse/22546
+	BOTS
+		UTILS / 3D / OAKII_02.ZIP
+		UTILS / 3D / ERASER.EXE
+			v0.84
+		UTILS / 3D / ER-SKINS.EXE
+			v0.82
+The Games Machine 61
+	https://discmaster.textfiles.com/browse/22425
+	BOTS
+		Wads / Quake 2 / Eraser101_Full.exe
+		Wads / RocketArena2 / rbot079.exe
+		Wads / RocketArena2 / ra2eraser.zip
+Il Mio Computer 1999 January (Alt)
+	https://discmaster.textfiles.com/browse/32519
+	BOTS
+		Giochi / Quake / Eraser101_Full.exe
+GameStar 1999 March
+	https://discmaster.textfiles.com/browse/23177
+	BOTS
+		programy / boti / Eraser101_Full.exe
+PC PowerPlay 36
+	https://discmaster.textfiles.com/browse/33900
+	BOTS
+		quake / Files / glad_208.zip
+
 
 
 
