@@ -515,6 +515,7 @@ http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx012.zip
 http://www.fileplanet.com/dl/dl.asp?expert/eraserx012.zip
 http://www.gamers.org/pub/games/idgames2/planetquake/expert/eraserx012.zip
 http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/expert/eraserx012.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/expert/eraserx012.zip
 # eraserx301.zip
 http://ftp.sunet.se/planetquake/expert/eraserx301.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx301.zip
@@ -528,6 +529,7 @@ http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx301.zip
 http://www.fileplanet.com/dl/dl.asp?expert/eraserx301.zip
 http://www.planetquake.com/dl/dl.asp?expert/eraserx301.zip
 # eraserx301_sparc_solaris.tar.gz
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/expert/eraserx301_sparc_solaris.tar.gz
 http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/expert/eraserx301_sparc_solaris.tar.gz
 http://ftp.sunet.se/planetquake/expert/eraserx301_sparc_solaris.tar.gz
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/expert/eraserx301_sparc_solaris.tar.gz
@@ -547,6 +549,7 @@ http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/expert/eras
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/expert/eraserx30_sparc_solaris.tar.gz
 http://sunsite.org.uk/packages/idgames2/planetquake/expert/eraserx30_sparc_solaris.tar.gz
 http://www.fileplanet.com/dl/dl.asp?expert/eraserx30_sparc_solaris.tar.gz
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/expert/eraserx30_sparc_solaris.tar.gz
 
 # eraser ultra
 # ultra35.zip
