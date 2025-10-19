@@ -141,5 +141,5 @@ Below are lists of known files missing from the archive.
 ### Acknowledgements
 This archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: Daniel Ramsay.
+Special thank you to: Daniel Ramsay aka "SGC-Puffy".
 
