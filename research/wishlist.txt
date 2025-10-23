@@ -54,8 +54,11 @@ ace002.zip
 ace001.zip
 
 # crbot
+crbot09.zip
 crbot097.zip
 crbt099a.zip
+crbt099b.zip
+crbt099e.zip
 crbot10.zip
 crbot101.zip
 crbot102.zip
@@ -65,8 +68,6 @@ crbot105.zip
 crbot107.zip
 # guesses (unconfirmed)
 crbot092.zip
-crbt099b.zip
-crbt099e.zip
 crbot100.zip
 crbot109.zip
 crbot111.zip
