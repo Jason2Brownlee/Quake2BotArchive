@@ -307,6 +307,8 @@ _nf987.exe
 _nf2armybase1.exe
 _nf991.zip
 _nfsound991.zip
+_nfb07.exe
+_nfbuptd.exe
 
 # Eraser + Ninja
 Ninerase.zip
