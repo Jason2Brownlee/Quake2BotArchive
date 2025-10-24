@@ -82,6 +82,9 @@ ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot103.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot105.zip
 http://www.geocities.com/SiliconValley/Lab/8885/crbot105.zip
 ftp://ftp.supermedia.pl/pub/quakeworld/quake2/bots/crbotq2/crbot105.zip
+# crbot_ctf.zip
+http://csoft.net/~cz/crbot_ctf.zip
+http://cz.csoft.net/crbot_ctf.zip
 
 # eraser
 # ridahAI.zip

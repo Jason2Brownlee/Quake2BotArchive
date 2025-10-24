@@ -67,7 +67,6 @@ crbot103.zip
 crbot104.zip
 crbot105.zip
 crbot107.zip
-crbot_ctf.rar
 crbot_ctf.zip
 # guesses (unconfirmed)
 crbot092.zip
