@@ -1,4 +1,4 @@
-# CRBot
+# C.R.Bot
 
 CRBot or "C.R.Bot" by Mike Malakhov.
 
@@ -25,13 +25,18 @@ v1.0    | 19980305 (?)
 v1.01   | 19980306 (?)
 v1.02   | 19980309 (?)
 v1.03   | 19980315 (?)
-v1.04   | ?
-v1.05   | ?
-v1.06   | ?
-v1.07   | ?
-v1.08   | ?
+v1.04   | 19980315 (?)
+v1.05   | 19980317 (?)
+v1.06   | 19980322
+v1.07   | 19980328 (?)
+v1.08   | 19980330
 v1.09   | ?
-v1.11   | ?
+v1.11   | 19980404
+v1.12   | 19980411
+v1.13   | 19980419 (?)
+v1.14   | 19980423
+src     | 20000402
+src+ctf | 20000506
 
 
 ## Homepages
@@ -40,6 +45,7 @@ v1.11   | ?
 2. [http://www.hooked.net/~mim/bot.html](https://web.archive.org/web/19990202061818/) (archived)
 	* [http://www.hooked.net/~mim/](https://web.archive.org/web/19981206040337/http://www.hooked.net:80/~mim/) (archived)
 3. [http://planetquake.com/crbot/](https://web.archive.org/web/19990224100215/http://www.planetquake.com/crbot/) (archived)
+4. [http://crbot.nikto.net](https://web.archive.org/web/20000817084015/http://crbot.nikto.net/) (archived)
 
 Perhaps:
 
@@ -785,6 +791,22 @@ Mentioned on BluesNews:
 
 Released as `crbot103.zip`.
 
+Mentioned on BluesNews:
+
+> Sunday, March 15, 1998
+>
+> C.R.Bot\
+> Version 1.03 of the C.R.Bot is available on the C.R.Bot homepage, not featuring visible weapons support, which is almost newsworthy in these days of increasingly universal support for Hentai's VWep mod. Never fear, VWep is promised for the next release.
+
+-- https://www.bluesnews.com/archives/march98-2.html
+
+**A copy of this release has not yet been acquired.**
+
+
+## v1.04
+
+Released as `crbot104.zip`.
+
 Mentioned on the CRBot homepage:
 
 > 15 March, 1998:
@@ -806,13 +828,531 @@ Mentioned on the CRBot homepage:
 
 Mentioned on BluesNews:
 
-> Sunday, March 15, 1998
+> Monday, March 16, 1998
 >
 > C.R.Bot\
-> Version 1.03 of the C.R.Bot is available on the C.R.Bot homepage, not featuring visible weapons support, which is almost newsworthy in these days of increasingly universal support for Hentai's VWep mod. Never fear, VWep is promised for the next release.
+> Version 1.04 of the C.R.Bot is up on the C.R.Bot homepage, fixing bugs from version 1.03. Thanks William Hooper.
 
 -- https://www.bluesnews.com/archives/march98-2.html
 
 **A copy of this release has not yet been acquired.**
+
+## v1.05
+
+Released as `crbot105.zip`.
+
+Mentioned on the CRBot homepage:
+
+> 17 March, 1998:
+>
+> I've made a little bit of progress with CRbot and decided to release another version without waiting until weekend. New things and fixes:
+>
+> * support for Hentai's Viewable Weapons patch, type view_weapons 1 to turn it on;
+> * lava/sludge avoidance code was broken since couple of versions ago, don't know how it happend, probably I was working late again and fell asleep right on the keyboard :)
+> * support for power shield, power screen and rebreather;
+> * type notarget in console window to toggle "observer mode";
+> * improved rocket aiming code -- bot will try to hit surface nearby instead of targeting directly at you;
+> * you'll have to figure this one out by yourself, but I guarantee you'll like it once you've seen bot doing it, he-he-he...
+
+-- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Mentioned on BluesNews:
+
+> Tuesday, March 17, 1998
+>
+> C.R.Bot\
+> Version 1.05 of the C.R.Bot is available for download on the C.R.Bot official homepage. The new release adds support for Hentai's visible weapons patch.
+
+-- https://www.bluesnews.com/archives/march98-2.html
+
+**A copy of this release has not yet been acquired.**
+
+
+## v1.06
+
+Released as `crbot106.zip`.
+
+Mentioned on the CRBot homepage:
+
+> 22 March, 1998:
+>
+> What's new in v1.06:
+>
+> * map cycling system: use MAPLIST.TXT (included in zip) to create list of your favorite maps and then set map_cycle cvar to 1 if you want to cycle through them or 2 if you prefer random order;
+> * now you can switch taunt/flip animation off by using bot_taunt cvar;
+> * new command cmd team_stats to see team scores;
+> * bot knows how to use BFG10k;
+> * "missing frame" problem with VWep is hopefully fixed;
+> * more AI tweaks and adjustments -- I started implementing simple "learning" part for bot's AI; that means if bot scored a frag using certain weapon from certain distance, that weapon will get additional points and next time bot will get in the same situation he'll more likely to pick the same weapon again;
+>
+> A lot of you have suggested that it would be cool if bots can start their own formations (much like Eraser Bot does). Well, I just would like to point out that it's already like that since couple of dozen version ago. Almost right after I introduced teamplay. The only difference is that these formations are not very tight -- bots won't run together shoulder to shoulder, making themselves really easy to kill with rocket/chaingun/BFG and obscuring each others shots. But they do tend to hang out in the same room and they do respond to cry for help from their teammates.
+> And please, stop e-mailing me about how soon is CTF support coming. It's just plain irritating. When it'll come it'll come, don't worry I'll let you know.
+> Wow, I just noticed that CRbot is featured on GameSpot. Together with Eraser and Bot Epidemic.
+
+-- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Mentioned on BluesNews:
+
+> Monday, March 23, 1998
+>
+> Version 1.06 of the C.R.Bot is out with new features including map cycling, team scores, and AI improvements (including use of BFG )
+
+-- https://www.bluesnews.com/archives/march98-3.html
+
+Content of `crbot106.zip`:
+
+```text
+-rw-rw-r--  0 0      0       11432 22 Mar  1998 CRBOT/README.TXT
+-rw-rw-r--  0 0      0      443392 22 Mar  1998 CRBOT/GAMEX86.DLL
+-rw-rw-r--  0 0      0         654  2 Mar  1998 CRBOT/DEATH.TXT
+-rw-rw-r--  0 0      0        1877  2 Mar  1998 CRBOT/FIGHT.TXT
+-rw-rw-r--  0 0      0        1566  2 Mar  1998 CRBOT/KILL.TXT
+-rw-rw-r--  0 0      0        1077  2 Mar  1998 CRBOT/PAIN.TXT
+-rw-rw-r--  0 0      0         819  6 Mar  1998 CRBOT/BOTS.CFG
+-rw-rw-r--  0 0      0        1063 11 Jan  1998 CRBOT/MAPS.LST
+-rw-rw-r--  0 0      0         175 22 Mar  1998 CRBOT/MAPLIST.TXT
+```
+
+Readme header:
+
+```text
+Name of Mod : The CRBot, for Quake II
+File Name   : crbot106.zip
+Version     : 1.06
+Date        : March 22, 1998
+Author      : Mike Malakhov
+E-mail      : crbot@planetquake.com
+              ww@pobox.com
+Web Site    : http://planetquake.com/crbot
+              http://www.pobox.com/~ww/bot.html
+Build time  : >150 hours
+Source code size: 160 Kb
+```
+
+## v1.07
+
+Released as `crbot107.zip`.
+
+Mentioned on the CRBot homepage:
+
+> 28 March, 1998:
+>
+> I'm trying to fix all minor bugs and glitches before I can start doing CTF support. So in version 1.07 you won't find anything particularly new, just fixes and tweaks:
+>
+> * "negative scores" bug is gone, it was happening if you use obituary_msgs 0 setting to turn off obituaries (I didn't know anybody would use it :) );
+> * rare bug with bot getting stuck jumping in and out of water is fixed;
+> * several performance improvements; I'm thinking to add new cvar computer_speed so you can decrease time spent on bots AI and get better framerate with 10+ bots on slow computers;
+> * several teamplay tweaks;
+>
+> There is new poll going on right now at Best of Quake patches page. If you happened to like CRbot maybe you'll like the idea of voting for it too? :) By the way, you're given 5 votes per day, so you can spend them on other mods too. Or you can give all of them to CRbot...
+
+-- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Mentioned on BluesNews:
+
+> Sunday, March 29, 1998
+> C.R.Bot\
+> Version 1.07 of the C.R.Bot is out fixing up some bugs and glitches before the author begins adding CTF support.
+
+-- https://www.bluesnews.com/archives/march98-4.html
+
+**A copy of this release has not yet been acquired.**
+
+## v1.08
+
+Released as `crbot108.zip`.
+
+Mentioned on the CRBot homepage:
+
+> 30 March, 1998:
+>
+> Bug hunt continues in v1.08:
+>
+> * bots were getting stuck right after spawning on all DaPak2 maps because of respawn points being depressed in the ground;
+> * "SZ_GetSpace: overflow" bug is hopefully gone for good;
+> * ladder climbing code is polished and should work now on most maps;
+>
+> Write me if you still having any problems with bot. Hopefully there's nothing serious left and I can start doing CTF this weekend.
+
+-- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Contents of `crbot108.zip`:
+
+```text
+-rw-rw-r--  0 0      0       11432 30 Mar  1998 CRBOT/README.TXT
+-rw-rw-r--  0 0      0      445440 30 Mar  1998 CRBOT/GAMEX86.DLL
+-rw-rw-r--  0 0      0         654  2 Mar  1998 CRBOT/DEATH.TXT
+-rw-rw-r--  0 0      0        1877  2 Mar  1998 CRBOT/FIGHT.TXT
+-rw-rw-r--  0 0      0        1566  2 Mar  1998 CRBOT/KILL.TXT
+-rw-rw-r--  0 0      0        1077  2 Mar  1998 CRBOT/PAIN.TXT
+-rw-rw-r--  0 0      0         819  6 Mar  1998 CRBOT/BOTS.CFG
+-rw-rw-r--  0 0      0        1063 11 Jan  1998 CRBOT/MAPS.LST
+-rw-rw-r--  0 0      0         175 22 Mar  1998 CRBOT/MAPLIST.TXT
+```
+
+Readme header:
+
+```text
+Name of Mod : The CRBot, for Quake II
+File Name   : crbot108.zip
+Version     : 1.08
+Date        : March 30, 1998
+Author      : Mike Malakhov
+E-mail      : crbot@planetquake.com
+              ww@pobox.com
+Web Site    : http://planetquake.com/crbot
+              http://www.pobox.com/~ww/bot.html
+Build time  : >170 hours
+Source code size: 160 Kb
+```
+
+## v1.09
+
+Released as `crbot109.zip`.
+
+**A copy of this release has not yet been acquired.**
+
+
+## v1.1
+
+Released as `crbot11.zip`.
+
+Mentioned on the CRBot homepage:
+
+> 4 April, 1998:
+>
+> My internet connection was down last night (#$%@!), so I didn't have anything to do but to start adding CTF support. And somewhere around five in the morning it was done. It's just a preliminary version, many more AI improvements to come. Hehe, now I feel real need of something like fuzzy logic or neural nets, simple heuristic decision code is not enough...
+> To play CTF you will need to copy PAK0.PAK from CTF into CRbot subdirectory and add "+set ctf 1" to your command line. Or you can change ctf cvar from console and restart the map. If you want to play normal deathmatch game, use "+set ctf 0".
+> One more thing: if you'll decide to send me a bug-report, please, be more specific! Do not send me e-mails with just "CRbot doesn't work!" line -- it won't help me fix it even a bit. Try to locate possible cause of the problem or at least tell me the exact circumstances how did it happen. Thanks a lot for your cooperation.
+
+-- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Content of `crbot11.zip`:
+
+```text
+-rw-rw-r--  0 0      0       11858  4 Apr  1998 CRBOT/README.TXT
+-rw-rw-r--  0 0      0      393216  4 Apr  1998 CRBOT/GAMEX86.DLL
+-rw-rw-r--  0 0      0         654  2 Mar  1998 CRBOT/DEATH.TXT
+-rw-rw-r--  0 0      0        1877  2 Mar  1998 CRBOT/FIGHT.TXT
+-rw-rw-r--  0 0      0        1566  2 Mar  1998 CRBOT/KILL.TXT
+-rw-rw-r--  0 0      0        1077  2 Mar  1998 CRBOT/PAIN.TXT
+-rw-rw-r--  0 0      0         819  6 Mar  1998 CRBOT/BOTS.CFG
+-rw-rw-r--  0 0      0        1063 11 Jan  1998 CRBOT/MAPS.LST
+-rw-rw-r--  0 0      0         175 22 Mar  1998 CRBOT/MAPLIST.TXT
+```
+
+Readme header:
+
+```text
+Name of Mod : The CRBot, for Quake II
+File Name   : crbot11.zip
+Version     : 1.1
+Date        : April 3, 1998
+Author      : Mike Malakhov
+E-mail      : crbot@planetquake.com
+              ww@pobox.com
+Web Site    : http://planetquake.com/crbot
+              http://www.pobox.com/~ww/bot.html
+Build time  : >190 hours
+Source code : 180 Kb
+```
+
+
+## v1.12
+
+Released as `crbot112.zip`.
+
+Mentioned on the CRBot homepage:
+
+> 11 April, 1998:
+>
+> Quite a lot of fixes and CTF related AI improvements can be found in new version 1.12. Also fixed normal DM game -- if you still want to use CTF style techs in it, add "+set no_tech 0" to command line or type "no_tech 0" in console and restart the map. To help bots better remember CTF maps I included prerecorded node maps for all standard q2ctf* maps in this version. They are not needed to play CRbot, so you'll be able to play other CTF maps anyway, they just save some playing time since bots don't need to figure out first how to get from one base to another. Enjoy.
+
+-- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Content of `crbot112.zip`:
+
+```text
+-rw-rw-r--  0 0      0       12343 11 Apr  1998 CRBOT/README.TXT
+-rw-rw-r--  0 0      0      397312 11 Apr  1998 CRBOT/GAMEX86.DLL
+-rw-rw-r--  0 0      0         654  2 Mar  1998 CRBOT/DEATH.TXT
+-rw-rw-r--  0 0      0        1877  2 Mar  1998 CRBOT/FIGHT.TXT
+-rw-rw-r--  0 0      0        1566  2 Mar  1998 CRBOT/KILL.TXT
+-rw-rw-r--  0 0      0        1077  2 Mar  1998 CRBOT/PAIN.TXT
+-rw-rw-r--  0 0      0         819  6 Mar  1998 CRBOT/BOTS.CFG
+-rw-rw-r--  0 0      0        1063 11 Jan  1998 CRBOT/MAPS.LST
+-rw-rw-r--  0 0      0         175 22 Mar  1998 CRBOT/MAPLIST.TXT
+drwxrwxr-x  0 0      0           0 11 Apr  1998 CRBOT/NODEMAPS/
+-rw-rw-r--  0 0      0       21476 10 Apr  1998 CRBOT/NODEMAPS/Q2CTF1.CRN
+-rw-rw-r--  0 0      0       34148 11 Apr  1998 CRBOT/NODEMAPS/Q2CTF2.CRN
+-rw-rw-r--  0 0      0       15620 11 Apr  1998 CRBOT/NODEMAPS/Q2CTF3.CRN
+-rw-rw-r--  0 0      0       19844 11 Apr  1998 CRBOT/NODEMAPS/Q2CTF4.CRN
+-rw-rw-r--  0 0      0       21092 11 Apr  1998 CRBOT/NODEMAPS/Q2CTF5.CRN
+```
+
+Readme header:
+
+```text
+Name of Mod : The CRBot, for Quake II
+File Name   : crbot112.zip
+Version     : 1.12
+Date        : April 11, 1998
+Author      : Mike Malakhov
+E-mail      : crbot@planetquake.com
+              ww@pobox.com
+Web Site    : http://planetquake.com/crbot
+              http://www.pobox.com/~ww/bot.html
+Build time  : >200 hours
+Source code : 180 Kb
+```
+
+## v1.13
+
+Released as `crbot113.zip`.
+
+Perhaps mentioned on the CRBot homepage:
+
+> 19 April, 1998:
+>
+> Yes, I know that latest version has some serious problems with performance. It's a lot of new CTF AI code which takes almost all the computing power. One of the problems is that I don't have a good profiler. VTune is ok, but for some reason doesn't work that well with profiling CRbot .dll. If you know any other good profiler, please let me know. Anyway next I'm planning to focus on performance issues in this version (which is due out some time next week).
+
+-- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+**A copy of this release has not yet been acquired.**
+
+## v1.14
+
+Released as `crbot114.zip`.
+
+Mentioned on the CRBot homepage:
+
+> 23 April, 1998:
+>
+> As I promised, I worked on performance issues a little bit and v1.14 should be back to normal now in terms of framerate. I tested it with 12 bots on P166 (non MMX, I use it as a benchmark system) with 3Dfx card and framerate was acceptable. Also as many of you requested, now it's possible to disable grappling hook in normal deathmatch game by setting no_hook to 1. Or you can use in-game menu to change it. Just don't forget to restart the map by typing map map_name_here.
+
+-- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Content of `crbot114.zip`:
+
+```text
+-rw-rw-r--  0 0      0       12439 23 Apr  1998 CRBOT/README.TXT
+-rw-rw-r--  0 0      0      398336 23 Apr  1998 CRBOT/GAMEX86.DLL
+-rw-rw-r--  0 0      0         654  2 Mar  1998 CRBOT/DEATH.TXT
+-rw-rw-r--  0 0      0        1877  2 Mar  1998 CRBOT/FIGHT.TXT
+-rw-rw-r--  0 0      0        1566  2 Mar  1998 CRBOT/KILL.TXT
+-rw-rw-r--  0 0      0        1077  2 Mar  1998 CRBOT/PAIN.TXT
+-rw-rw-r--  0 0      0         819  6 Mar  1998 CRBOT/BOTS.CFG
+-rw-rw-r--  0 0      0        1215 23 Apr  1998 CRBOT/MAPS.LST
+-rw-rw-r--  0 0      0         175 22 Mar  1998 CRBOT/MAPLIST.TXT
+drwxrwxr-x  0 0      0           0 11 Apr  1998 CRBOT/NODEMAPS/
+-rw-rw-r--  0 0      0       21476 10 Apr  1998 CRBOT/NODEMAPS/Q2CTF1.CRN
+-rw-rw-r--  0 0      0       34148 11 Apr  1998 CRBOT/NODEMAPS/Q2CTF2.CRN
+-rw-rw-r--  0 0      0       15620 11 Apr  1998 CRBOT/NODEMAPS/Q2CTF3.CRN
+-rw-rw-r--  0 0      0       19844 11 Apr  1998 CRBOT/NODEMAPS/Q2CTF4.CRN
+-rw-rw-r--  0 0      0       21092 11 Apr  1998 CRBOT/NODEMAPS/Q2CTF5.CRN
+```
+
+Readme header:
+
+```text
+Name of Mod : The CRBot, for Quake II
+File Name   : crbot114.zip
+Version     : 1.14
+Date        : April 23, 1998
+Author      : Mike Malakhov
+E-mail      : crbot@planetquake.com
+              ww@pobox.com
+Web Site    : http://planetquake.com/crbot
+              http://www.pobox.com/~ww/bot.html
+Build time  : >210 hours
+Source code : 180 Kb
+```
+
+## Source Code
+
+This is the source code for v1.07.
+
+Released as:
+
+* `crbot_src.rar`
+* `crbot_src.zip`
+
+Mentioned on CRBot News:
+
+> 2 April, 2000:
+>
+> Ok, here it is, all I could salvage. CRbot's source code: rar archive (208K) or zip archive (290K).
+
+-- [http://crbot.nikto.net/news.html](https://web.archive.org/web/20000831090338fw/http://crbot.nikto.net/news.html) (archived)
+
+Mentioned on CRBot Download page:
+
+> Source code for v1.07 (no CTF support): rar archive (208K) or zip archive (290K).
+
+-- [http://crbot.nikto.net/download.html](https://web.archive.org/web/20001011003407fw/http://crbot.nikto.net/download.html) (archived)
+
+Links:
+
+* http://csoft.net/%7Ecz/crbot_src.rar
+* http://csoft.net/%7Ecz/crbot_src.zip
+
+
+Contents of `crbot_src.zip`:
+
+```text
+-rw-rw-r--  0 0      0       14784 28 Jan  1998 m_brain.c
+-rw-rw-r--  0 0      0      161186 28 Mar  1998 cr_main.c
+-rw-rw-r--  0 0      0        1306 22 Mar  1998 cr_main.h
+-rw-rw-r--  0 0      0       12839 22 Mar  1998 cr_menu.c
+-rw-rw-r--  0 0      0       24394 23 Feb  1998 g_ai.c
+-rw-rw-r--  0 0      0       18667 22 Mar  1998 g_cmds.c
+-rw-rw-r--  0 0      0       13809 16 Mar  1998 g_combat.c
+-rw-rw-r--  0 0      0       50867  4 Mar  1998 g_func.c
+-rw-rw-r--  0 0      0       45133  4 Mar  1998 g_items.c
+-rw-rw-r--  0 0      0       29857 22 Mar  1998 g_local.h
+-rw-rw-r--  0 0      0        7309 22 Mar  1998 g_main.c
+-rw-rw-r--  0 0      0       44817  4 Mar  1998 g_misc.c
+-rw-rw-r--  0 0      0       17091 22 Feb  1998 g_monster.c
+-rw-rw-r--  0 0      0       20862 15 Mar  1998 g_phys.c
+-rw-rw-r--  0 0      0       16854 22 Mar  1998 g_save.c
+-rw-rw-r--  0 0      0       22548  6 Mar  1998 g_spawn.c
+-rw-rw-r--  0 0      0        1719  4 Mar  1998 g_svcmds.c
+-rw-rw-r--  0 0      0       19871  2 Mar  1998 g_target.c
+-rw-rw-r--  0 0      0       13217 25 Feb  1998 g_trigger.c
+-rw-rw-r--  0 0      0       10961  9 Jan  1998 g_turret.c
+-rw-rw-r--  0 0      0       10249 22 Feb  1998 g_utils.c
+-rw-rw-r--  0 0      0       22591  6 Mar  1998 g_weapon.c
+-rw-rw-r--  0 0      0          22 28 Jul  1997 game.def
+-rw-rw-r--  0 0      0       24076 15 Mar  1998 game.dsp
+-rw-rw-r--  0 0      0         531  4 Mar  1998 game.dsw
+-rw-rw-r--  0 0      0        6864 26 Jan  1998 game.h
+-rw-rw-r--  0 0      0        2863 27 Feb  1998 game.plg
+-rw-rw-r--  0 0      0       18681 25 Feb  1998 license.txt
+-rw-rw-r--  0 0      0       13337  4 Mar  1998 m_actor.c
+-rw-rw-r--  0 0      0       16845 13 Nov  1997 m_actor.h
+-rw-rw-r--  0 0      0       11280 28 Jan  1998 m_berserk.c
+-rw-rw-r--  0 0      0        8558 13 Nov  1997 m_berserk.h
+-rw-rw-r--  0 0      0       15984 28 Jan  1998 m_boss2.c
+-rw-rw-r--  0 0      0        6351 13 Nov  1997 m_boss2.h
+-rw-rw-r--  0 0      0        1343 24 Nov  1997 m_boss3.c
+-rw-rw-r--  0 0      0       17426  8 Jan  1998 m_boss31.c
+-rw-rw-r--  0 0      0        6601 21 Nov  1997 m_boss31.h
+-rw-rw-r--  0 0      0       21042 28 Jan  1998 m_boss32.c
+-rw-rw-r--  0 0      0       17207 21 Nov  1997 m_boss32.h
+-rw-rw-r--  0 0      0        7786 19 Nov  1997 m_brain.h
+-rw-rw-r--  0 0      0       15174 28 Jan  1998 m_chick.c
+-rw-rw-r--  0 0      0       10093 25 Nov  1997 m_chick.h
+-rw-rw-r--  0 0      0        7991 22 Nov  1997 m_flash.c
+-rw-rw-r--  0 0      0        8975 28 Jan  1998 m_flipper.c
+-rw-rw-r--  0 0      0        5618 13 Nov  1997 m_flipper.h
+-rw-rw-r--  0 0      0       14975 28 Jan  1998 m_float.c
+-rw-rw-r--  0 0      0        8696 13 Nov  1997 m_float.h
+-rw-rw-r--  0 0      0       13961 22 Feb  1998 m_flyer.c
+-rw-rw-r--  0 0      0        5432 13 Nov  1997 m_flyer.h
+-rw-rw-r--  0 0      0        9212 28 Jan  1998 m_gladiator.c
+-rw-rw-r--  0 0      0        3181 19 Nov  1997 m_gladiator.h
+-rw-rw-r--  0 0      0       14274 28 Jan  1998 m_gunner.c
+-rw-rw-r--  0 0      0        7323 13 Nov  1997 m_gunner.h
+-rw-rw-r--  0 0      0       13501  8 Jan  1998 m_hover.c
+-rw-rw-r--  0 0      0        7191 13 Nov  1997 m_hover.h
+-rw-rw-r--  0 0      0       13940 28 Jan  1998 m_infantry.c
+-rw-rw-r--  0 0      0        7264 16 Nov  1997 m_infantry.h
+-rw-rw-r--  0 0      0       16605 28 Jan  1998 m_insane.c
+-rw-rw-r--  0 0      0        9887 13 Nov  1997 m_insane.h
+-rw-rw-r--  0 0      0       17543 28 Jan  1998 m_medic.c
+-rw-rw-r--  0 0      0        8311 13 Nov  1997 m_medic.h
+-rw-rw-r--  0 0      0       10798 27 Jan  1998 m_move.c
+-rw-rw-r--  0 0      0       14420 28 Jan  1998 m_mutant.c
+-rw-rw-r--  0 0      0        5232 13 Nov  1997 m_mutant.h
+-rw-rw-r--  0 0      0       13071 28 Jan  1998 m_parasite.c
+-rw-rw-r--  0 0      0        4278 13 Nov  1997 m_parasite.h
+-rw-rw-r--  0 0      0        6945  8 Dec  1997 m_player.h
+-rw-rw-r--  0 0      0        2162 18 Nov  1997 m_rider.h
+-rw-rw-r--  0 0      0       29041 28 Jan  1998 m_soldier.c
+-rw-rw-r--  0 0      0       16643 18 Nov  1997 m_soldier.h
+-rw-rw-r--  0 0      0       22278  4 Mar  1998 m_supertank.c
+-rw-rw-r--  0 0      0        8913 13 Nov  1997 m_supertank.h
+-rw-rw-r--  0 0      0       19359 28 Jan  1998 m_tank.c
+-rw-rw-r--  0 0      0       10302 24 Nov  1997 m_tank.h
+-rw-rw-r--  0 0      0       36988 28 Mar  1998 p_client.c
+-rw-rw-r--  0 0      0       11867 14 Mar  1998 p_hud.c
+-rw-rw-r--  0 0      0        2122 18 Dec  1997 p_trail.c
+-rw-rw-r--  0 0      0       36357 16 Mar  1998 p_view.c
+-rw-rw-r--  0 0      0       31524 16 Mar  1998 p_weapon.c
+-rw-rw-r--  0 0      0       25469 13 Mar  1998 q_shared.c
+-rw-rw-r--  0 0      0       28573  2 Mar  1998 q_shared.h
+-rw-rw-r--  0 0      0        1831 22 Apr  2000 !readme!.txt
+```
+
+Readme:
+
+```text
+Name of Mod : CRBot, for Quake II
+              Source code
+File Name   : crbot_src.zip
+Version     : 1.0
+Date        : March 26, 2000
+Author      : Mike Malakhov
+E-mail      : ww@pobox.com
+Web Site    : http://crbot.nikto.net
+Coding time : about 250 hours total, excluding testing
+
+CREDITS:
+--------
+Quake2, source code for .dll -- ID Software, http://www.idsoftware.com/
+VWep, Viewable Weapons Patch -- Hentai, http://www.telefragged.com/tsunami/
+
+
+AUTHOR INFO
+-----------
+My name's Mike Malakhov, you can get more info about me
+on my homepage at http://crbot.nikto.net
+
+
+FORMAT
+------
+It was compiled using Visual C++ v5.0.
+
+
+ This is NOT the source code for latest version of CRbot! Unfortunately I have
+lost all files related to CTF support. So I had to hack it to make it work
+without CTF. Sorry, it looks like I won't be able to recover CTF mode, so feel
+free to add it yourself.
+ This package includes not only the source code for CRbot, but all related
+files from original ID Software source code distribution as well. I changed
+some of them and don't exactly remember which ones, sorry you'll have to figure\
+it out yourself too. :)
+ This source code is provided AS IS, with no warranty of any kind, blah blah
+blah. Feel free to do whatever you want with it, there is only one condition:
+I don't provide any kind of support, I don't answer questions and I don't
+tutor on how to create mods for Quake2. Otherwise I would be glad to
+hear about any further modifications you'll do to it. And of course it is
+covered by original ID Software license, which you can find in the file named
+LICENSE.TXT.
+ And one last thing: if you'll decide to use CRbot's source code in your own
+mod, don't forget to give me some credit, ok? Or, you know, your karma might
+suffer. :)
+```
+
+## Source Code + CTF
+
+Mentioned on CRBot News:
+
+> 6 May, 2000:
+>
+> Guess what I found on one of the zip disks I though were lost during my last move? Yep, you guessed it -- full source code for the latest version of CRbot with CTF and full teamplay support. Enjoy: rar archive (173K) or zip archive (214K).
+
+-- [http://crbot.nikto.net/news.html](https://web.archive.org/web/20000831090338fw/http://crbot.nikto.net/news.html) (archived)
+
+Mentioned on CRBot Download page:
+
+> Source code for v1.14 (with CTF support): rar archive (173K) or zip archive (214K).
+
+-- [http://crbot.nikto.net/download.html](https://web.archive.org/web/20001011003407fw/http://crbot.nikto.net/download.html) (archived)
+
+Links:
+
+* http://csoft.net/%7Ecz/crbot_ctf.rar
+* http://csoft.net/%7Ecz/crbot_ctf.zip
 
 

@@ -126,3 +126,7 @@ Source code may have been released as `famkesrc.zip` at one point:
 
 The `famke.zip` release is a skin for the bot.
 
+
+TODO:
+
+* http://www.ogr.com/specials/quake2bot/quake2_bots_1.shtml

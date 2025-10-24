@@ -7,6 +7,8 @@ stp099f.zip
 3zb149.zip
 3zb150.zip
 3zb151.zip
+stup10p.zip
+stup10x.zip
 # guesses (unconfirmed)
 3zb152.zip
 3zb153.zip
@@ -16,9 +18,8 @@ stp099a.zip
 stp099b.zip
 stp099c.zip
 stp099g.zip
-# maybe related
-stup10p.zip
-stup10x.zip
+
+
 
 # 3rd-Zigock Bot 2
 3zb205beta.zip
@@ -66,6 +67,8 @@ crbot103.zip
 crbot104.zip
 crbot105.zip
 crbot107.zip
+crbot_ctf.rar
+crbot_ctf.zip
 # guesses (unconfirmed)
 crbot092.zip
 crbot100.zip

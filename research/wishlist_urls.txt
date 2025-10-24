@@ -52,6 +52,8 @@ http://www.quake2.com/oak/ace006.zip
 http://www.quake2.com/oak/ace006b.zip
 
 # crbot
+# crbot09.zip
+http://quake2.com/earth/patches/crbot/crbot09.zip
 # crbot097.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot097.zip
 http://asp.planetquake.com/dl/dl.asp?crbot/crbot097.zip
