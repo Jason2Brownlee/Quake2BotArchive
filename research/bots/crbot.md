@@ -30,7 +30,7 @@ v1.05   | 19980317 (?)
 v1.06   | 19980322
 v1.07   | 19980328 (?)
 v1.08   | 19980330
-v1.09   | ?
+v1.09   | 199804?? (?)
 v1.11   | 19980404
 v1.12   | 19980411
 v1.13   | 19980419 (?)
@@ -1193,8 +1193,8 @@ Mentioned on CRBot Download page:
 
 Links:
 
-* http://csoft.net/%7Ecz/crbot_src.rar
-* http://csoft.net/%7Ecz/crbot_src.zip
+* http://csoft.net/~cz/crbot_src.rar
+* http://csoft.net/~cz/crbot_src.zip
 
 
 Contents of `crbot_src.zip`:
@@ -1352,7 +1352,7 @@ Mentioned on CRBot Download page:
 
 Links:
 
-* http://csoft.net/%7Ecz/crbot_ctf.rar
-* http://csoft.net/%7Ecz/crbot_ctf.zip
+* http://csoft.net/~cz/crbot_ctf.rar
+* http://csoft.net/~cz/crbot_ctf.zip
 
 

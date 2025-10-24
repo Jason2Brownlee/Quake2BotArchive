@@ -1065,9 +1065,15 @@ OSP Tourney DM
 		tourney-2.5-win32-x86.zip	2006-Jan-04 07:45:00	4.4M	application/zip
 OSP Tourney DM + Linux
 	http://qudos.quakedev.com/linux/quake2/mods/old/OSP-Tourney-v2.5.Linux.tar.bz2
-
-
-
+CRBot tweaked
+	https://arton.cunst.net/quake/crbot/
+		https://arton.cunst.net/quake/crbot/crbot-source.tar.bz2
+		https://arton.cunst.net/quake/crbot/crbot-source.zip
+		https://arton.cunst.net/quake/crbot/crbot-src-020201.tar.bz2
+		https://arton.cunst.net/quake/crbot/crbot-src-020201.zip
+		https://arton.cunst.net/quake/crbot/CRBot114.zip
+		https://arton.cunst.net/quake/crbot/Crbot_source.cab
+		Peter Chiochetti aka "Arton"
 
 
 
