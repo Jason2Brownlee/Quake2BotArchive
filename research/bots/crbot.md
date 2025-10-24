@@ -1336,6 +1336,8 @@ suffer. :)
 
 ## Source Code + CTF
 
+This is the source code for v1.114.
+
 Mentioned on CRBot News:
 
 > 6 May, 2000:

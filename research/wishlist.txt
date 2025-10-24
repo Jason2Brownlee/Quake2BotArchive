@@ -73,7 +73,6 @@ crbot_ctf.zip
 crbot092.zip
 crbot100.zip
 crbot109.zip
-crbot111.zip
 crbot113.zip
 crbot099a.zip
 crbot099b.zip
