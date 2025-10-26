@@ -174,6 +174,14 @@ Links:
 
 * http://www.hooked.net/~mim/bot.html
 
+Mentioned on ShugaShack:
+
+> Monday, January 12  11:24pm
+>
+> Another bot project fairly far underway, the C.R. Bot, has just released a new version for public consumption. v0.93 to be exact. There is a list of new features of this version on the homepage, the battle for supreme Quake2 bot is well underway, I like it. :)
+
+-- [http://www.shugashack.com/archives/j15_j11.htm](https://web.archive.org/web/20000816012252/http://www.shugashack.com/archives/j15_j11.htm) (archived)
+
 Content of `crbot093.zip`:
 
 ```text
@@ -499,6 +507,14 @@ Mentioned on Redwoods:
 > The C.R. Bot is now up to version .99. Thanks Blue's.
 
 -- [http://redwood.stomped.com/198.html](https://web.archive.org/web/20011121172234/http://redwood.stomped.com/198.html) (archived)
+
+Mentioned on ShugaShack:
+
+> Friday, January 30  3:24pm
+>
+> C.R. Bot has hit version 0.99. This is mostly a bug fix release but doesnt offer very many new features, I suspec the big v1.0 will do that.
+
+-- [http://www.shugashack.com/archives/j30_j21.htm](https://web.archive.org/web/20000816012247/http://www.shugashack.com/archives/j30_j21.htm) (archived)
 
 Content of `crbot099.zip`:
 
