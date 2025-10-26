@@ -841,6 +841,20 @@ http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation
 http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/navyfortress_nfsound991.zip&filename=_nfsound991.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=telefragged/navyfortress&filename=_nfsound991.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=_nfsound991.zip&dir=telefragged/navyfortress/
+# _nfb07.exe
+ftp://ftp.epix.net/pub/telefragged/navyfortress/_nfb07.exe
+ftp://ftp.saix.net/pub/telefragged/navyfortress/_nfb07.exe
+ftp://ftp.telefragged.com/navyfortress/_nfb07.exe
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nfb07.exe
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nfb07.exe
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nfb07.exe
+# _nfbuptd.exe
+ftp://ftp.epix.net/pub/telefragged/navyfortress/_nfbuptd.exe
+ftp://ftp.saix.net/pub/telefragged/navyfortress/_nfbuptd.exe
+ftp://ftp.telefragged.com/navyfortress/_nfbuptd.exe
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nfbuptd.exe
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nfbuptd.exe
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/navyfortress/_nfbuptd.exe
 
 # Eraser + Ninja
 # Ninerase.zip

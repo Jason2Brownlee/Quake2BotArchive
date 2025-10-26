@@ -1,6 +1,6 @@
 # C.R.Bot
 
-CRBot or "C.R.Bot" by Mike Malakhov.
+CRBot or "C.R.Bot" by Mike Malakhov developed between January and April 1998.
 
 ## Release Chronology (reconstructed)
 
@@ -43,7 +43,6 @@ src+ctf | 20000506
 
 1. http://www.pobox.com/~ww/bot.html (not archived)
 2. [http://www.hooked.net/~mim/bot.html](https://web.archive.org/web/19990202061818/) (archived)
-	* [http://www.hooked.net/~mim/](https://web.archive.org/web/19981206040337/http://www.hooked.net:80/~mim/) (archived)
 3. [http://planetquake.com/crbot/](https://web.archive.org/web/19990224100215/http://www.planetquake.com/crbot/) (archived)
 4. [http://crbot.nikto.net](https://web.archive.org/web/20000817084015/http://crbot.nikto.net/) (archived)
 
@@ -423,6 +422,15 @@ Links:
 * http://www.quake2.com/epidemic/
 * http://www.planetquake.com/botshop/sabin/index.html
 
+Mentioned on Redwoods:
+
+> January 29, 1998
+>
+> C.R. Bot .98\
+> I saw on The Sentinel that the Quake 2 bot called the C.R. Bot is now up to version .98.
+
+-- [http://redwood.stomped.com/198.html](https://web.archive.org/web/20011121172234/http://redwood.stomped.com/198.html) (archived)
+
 Content of `crbot098.zip`:
 
 ```text
@@ -482,6 +490,15 @@ Mentioned on BluesNews:
 Links:
 
 * http://www.planetquake.com/crbot/
+
+Mentioned on Redwoods:
+
+> January 30, 1998
+>
+> C.R. Bot .99\
+> The C.R. Bot is now up to version .99. Thanks Blue's.
+
+-- [http://redwood.stomped.com/198.html](https://web.archive.org/web/20011121172234/http://redwood.stomped.com/198.html) (archived)
 
 Content of `crbot099.zip`:
 
@@ -585,6 +602,8 @@ Mentioned on the CRBot homepage:
 
 -- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
 
+Mentioned on BluesNews:
+
 > Saturday, February 14, 1998
 >
 > New C.R. Bot (Updated)\
@@ -597,6 +616,15 @@ Mentioned on the CRBot homepage:
 >> bot will try to avoid grenades
 
 -- https://www.bluesnews.com/archives/feb98-2.html
+
+Mentioned on Redwoods:
+
+> February 14, 1998
+>
+> C.R. Bot .99c\
+> I noticed on Blue's that the C.R. Bot is now up to version .99c and it also has teamplay. I am going to have to try this bot out after I finish downloading it to compare it to the Eraser bot.
+
+-- [http://redwood.stomped.com/298.html](https://web.archive.org/web/20011121173546/http://redwood.stomped.com/298.html) (archived)
 
 Content of `crbt099c.zip`:
 
@@ -626,7 +654,6 @@ Web Site    : http://planetquake.com/crbot
               http://www.pobox.com/~ww/bot.html
 Build time  : ~120 hours
 ```
-
 
 ## v0.99d
 
@@ -759,6 +786,15 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/march98-1.html
 
+Mentioned on Redwoods:
+
+> March 09, 1998
+>
+> C.R. Bot 1.01\
+> I also noticed on Blue's that the CR Bot version 1.01 is out. Hey, what can I say, Blue is da man today and I'm not near my email. Hehe.
+
+-- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 
@@ -779,10 +815,19 @@ Mentioned on BluesNews:
 
 > Monday, March 9, 1998
 >
-> C.R.Bot\
-> The C.R.Bot du jour is version 1.02. Apparently the Quake II 3.14 bug he is working around is not a bug, but rather an additional check to ensure the CD is in the drive while you play. Thanks William Hooper.
+> C.R. Bot 1.02\
+> D'oh! When I mentioned the C.R. Bot 1.01 update earlier I tried bringing up the page but our proxy server, which is slower than Sequoia (my turtle), wasn't bringing up all of the page so I didn't see that there was a new version. Oh well, version 1.02 is out and I spotted that on Blue's.
 
 -- https://www.bluesnews.com/archives/march98-1.html
+
+Mentioned on Redwoods:
+
+> March 09, 1998
+>
+> C.R. Bot 1.01\
+> I also noticed on Blue's that the CR Bot version 1.01 is out. Hey, what can I say, Blue is da man today and I'm not near my email. Hehe.
+
+-- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html) (archived)
 
 **A copy of this release has not yet been acquired.**
 
@@ -899,6 +944,15 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/march98-3.html
 
+Mentioned on Redwoods:
+
+> March 23, 1998
+>
+> C.R. Bot 1.06\
+> The C.R. Bot version 1.06 is available. Some new features include AI tweaks, bot uses the BFG, a map cycling system (cool!!), and team stats. Thanks Bot Epidemic.
+
+-- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html) (archived)
+
 Content of `crbot106.zip`:
 
 ```text
@@ -956,6 +1010,15 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/march98-4.html
 
+Mentioned on Redwoods:
+
+> March 29, 1998
+>
+> CR Bot 1.07 Released\
+> I noticed on Bot Epidemic that the C.R. Bot is now up to version 1.7.
+
+-- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 ## v1.08
@@ -975,6 +1038,15 @@ Mentioned on the CRBot homepage:
 > Write me if you still having any problems with bot. Hopefully there's nothing serious left and I can start doing CTF this weekend.
 
 -- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Mentioned on Redwoods:
+
+> April 01, 1998
+>
+> C.R. Bot 1.08\
+> The C.R. Bot version of the day is 1.08. I noticed that at Bot Epidemic.
+
+-- [http://redwood.stomped.com/498.html](https://web.archive.org/web/20011122034128/http://redwood.stomped.com/498.html) (archived)
 
 Contents of `crbot108.zip`:
 
@@ -1027,6 +1099,15 @@ Mentioned on the CRBot homepage:
 
 -- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
 
+Mentioned on BluesNews:
+
+> Sunday, April 5, 1998
+>
+> CRBot\
+> Version 1.1 of the CRBot is out, featuring preliminary CTF support.
+
+-- https://www.bluesnews.com/archives/april98-1.html
+
 Content of `crbot11.zip`:
 
 ```text
@@ -1069,6 +1150,16 @@ Mentioned on the CRBot homepage:
 > Quite a lot of fixes and CTF related AI improvements can be found in new version 1.12. Also fixed normal DM game -- if you still want to use CTF style techs in it, add "+set no_tech 0" to command line or type "no_tech 0" in console and restart the map. To help bots better remember CTF maps I included prerecorded node maps for all standard q2ctf* maps in this version. They are not needed to play CRbot, so you'll be able to play other CTF maps anyway, they just save some playing time since bots don't need to figure out first how to get from one base to another. Enjoy.
 
 -- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Mentioned on BluesNews:
+
+> Saturday, April 11, 1998
+>
+> New CRBot\
+> Version 1.12 of the CRBot is now available, also offering CTF AI improvements, as well as tweaks to normal DM play.
+
+-- https://www.bluesnews.com/archives/april98-2.html
+
 
 Content of `crbot112.zip`:
 
@@ -1131,6 +1222,15 @@ Mentioned on the CRBot homepage:
 > As I promised, I worked on performance issues a little bit and v1.14 should be back to normal now in terms of framerate. I tested it with 12 bots on P166 (non MMX, I use it as a benchmark system) with 3Dfx card and framerate was acceptable. Also as many of you requested, now it's possible to disable grappling hook in normal deathmatch game by setting no_hook to 1. Or you can use in-game menu to change it. Just don't forget to restart the map by typing map map_name_here.
 
 -- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
+
+Mentioned on BluesNews:
+
+> Saturday, April 25, 1998
+>
+> New(ish) CRbot\
+> Missed this at the time, but version 1.14 of the CRbot came out Thursday.
+
+-- https://www.bluesnews.com/archives/april98-4.html
 
 Content of `crbot114.zip`:
 
@@ -1338,6 +1438,11 @@ suffer. :)
 
 This is the source code for v1.114.
 
+Released as:
+
+* `crbot_ctf.rar`
+* `crbot_ctf.zip`
+
 Mentioned on CRBot News:
 
 > 6 May, 2000:
@@ -1358,3 +1463,61 @@ Links:
 * http://csoft.net/~cz/crbot_ctf.zip
 
 
+Contents of `crbot_ctf.rar`:
+
+```text
+-rw-r--r--@ 1 jasonb  staff    1647  6 May  2000 !README!.TXT
+-rw-r--r--@ 1 jasonb  staff    1715 23 Apr  1998 Cr_main.h
+-rw-r--r--@ 1 jasonb  staff   18681 25 Feb  1998 LICENSE.TXT
+-rw-r--r--@ 1 jasonb  staff  179623 23 Apr  1998 cr_main.c
+-rw-r--r--@ 1 jasonb  staff   14233 23 Apr  1998 cr_menu.c
+-rw-r--r--@ 1 jasonb  staff   24393 23 Feb  1998 g_ai.c
+-rw-r--r--@ 1 jasonb  staff    3096 31 Jan  1998 g_chase.c
+-rw-r--r--@ 1 jasonb  staff   19668 11 Apr  1998 g_cmds.c
+-rw-r--r--@ 1 jasonb  staff   14168  3 Apr  1998 g_combat.c
+-rw-r--r--@ 1 jasonb  staff   70467 10 Apr  1998 g_ctf.c
+-rw-r--r--@ 1 jasonb  staff    4834  3 Apr  1998 g_ctf.h
+-rw-r--r--@ 1 jasonb  staff   50890  3 Apr  1998 g_func.c
+-rw-r--r--@ 1 jasonb  staff   71573  3 Apr  1998 g_items.c
+-rw-r--r--@ 1 jasonb  staff   30565 10 Apr  1998 g_local.h
+-rw-r--r--@ 1 jasonb  staff    6942  3 Apr  1998 g_main.c
+-rw-r--r--@ 1 jasonb  staff   45351  3 Apr  1998 g_misc.c
+-rw-r--r--@ 1 jasonb  staff   17089 23 Feb  1998 g_monster.c
+-rw-r--r--@ 1 jasonb  staff   20855  3 Apr  1998 g_phys.c
+-rw-r--r--@ 1 jasonb  staff   17453 23 Apr  1998 g_save.c
+-rw-r--r--@ 1 jasonb  staff   23470  3 Apr  1998 g_spawn.c
+-rw-r--r--@ 1 jasonb  staff    1719  4 Mar  1998 g_svcmds.c
+-rw-r--r--@ 1 jasonb  staff   19868 28 Feb  1998 g_target.c
+-rw-r--r--@ 1 jasonb  staff   13295  3 Apr  1998 g_trigger.c
+-rw-r--r--@ 1 jasonb  staff   10333  3 Apr  1998 g_utils.c
+-rw-r--r--@ 1 jasonb  staff   22789  3 Apr  1998 g_weapon.c
+-rw-r--r--@ 1 jasonb  staff      22 28 Jul  1997 game.def
+-rw-r--r--@ 1 jasonb  staff   16600  6 May  2000 game.dsp
+-rw-r--r--@ 1 jasonb  staff     531 30 Dec  1997 game.dsw
+-rw-r--r--@ 1 jasonb  staff    6863 23 Jan  1998 game.h
+-rw-r--r--@ 1 jasonb  staff   10798 27 Jan  1998 m_move.c
+-rw-r--r--@ 1 jasonb  staff    6947 23 Jan  1998 m_player.h
+-rw-r--r--@ 1 jasonb  staff   38803 23 Apr  1998 p_client.c
+-rw-r--r--@ 1 jasonb  staff   12102  3 Apr  1998 p_hud.c
+-rw-r--r--@ 1 jasonb  staff    3375 30 Jan  1998 p_menu.c
+-rw-r--r--@ 1 jasonb  staff     545 18 Jan  1998 p_menu.h
+-rw-r--r--@ 1 jasonb  staff    2122 23 Jan  1998 p_trail.c
+-rw-r--r--@ 1 jasonb  staff   27359 10 Apr  1998 p_view.c
+-rw-r--r--@ 1 jasonb  staff   32566  3 Apr  1998 p_weapon.c
+-rw-r--r--@ 1 jasonb  staff   25478  3 Apr  1998 q_shared.c
+-rw-r--r--@ 1 jasonb  staff   28498  3 Apr  1998 q_shared.h
+```
+
+Readme header:
+
+```text
+Name of Mod : CRBot, for Quake II
+              Source code
+File Name   : crbot_ctf.zip
+Version     : 1.0
+Date        : March 26, 2000
+Author      : Mike Malakhov
+E-mail      : ww@pobox.com
+Web Site    : http://crbot.nikto.net
+Coding time : about 250 hours total, excluding testing
+```
