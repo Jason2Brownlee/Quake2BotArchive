@@ -573,6 +573,29 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/feb98-1.html
 
+Mentioned on ShugaShack:
+
+> Monday, February 9  8:51am
+>
+> C.R.Bot v0.99a for Q2.\
+> The C.R.Bot has reached v0.99a for Quake2, which will be the final version you can get your hands on before the point release by id. This version contains many bug fixes, along with a couple new features:
+>
+>> * fixed bot infinitely trying to get stuff through window;
+>> * fixed bot spinning while roaming the level;
+>> * fixed bot getting stuck if "weapons stay" option was enabled;
+>> * bot will try to avoid hurting members of its own team;
+>> * the very first command you can use to control bots in your team: "cmd team_help" -- it
+>> * will summon all bots in your team which are not engaged in melee already;
+>> * couple of AI tweaks
+>
+> Grab your copy courtesy of the guys at www.planetquake.com (I'd love to host files, but not till I have a real connect. Phone company >> was supposed to come on Friday, but postoned until tomorrow now, bah)
+
+-- [http://www.shugashack.com/archives/f14_f9.htm](https://web.archive.org/web/20000816012234/http://www.shugashack.com/archives/f14_f9.htm) (archived)
+
+Links:
+
+* http://asp.planetquake.com/dl/dl.asp?crbot/crbt099a.zip
+
 **A copy of this release has not yet been acquired.**
 
 ## v0.99b
@@ -642,6 +665,14 @@ Mentioned on Redwoods:
 
 -- [http://redwood.stomped.com/298.html](https://web.archive.org/web/20011121173546/http://redwood.stomped.com/298.html) (archived)
 
+Mentioned on ShugaShack:
+
+> Saturday, February 14  5:21pm
+>
+> CR Bot for Quake2 has been updated to version 0.99c (They are gonna hit that big v1.0 soon if you don't look out!)
+
+-- [http://www.shugashack.com/archives/f14_f9.htm](https://web.archive.org/web/20000816012234/http://www.shugashack.com/archives/f14_f9.htm) (archived)
+
 Content of `crbt099c.zip`:
 
 ```text
@@ -699,6 +730,13 @@ Links:
 * http://planetquake.com/crbot/news.html
 * http://quake.hype.com/mods/
 
+Mentioned on ShugaShack:
+
+> Tuesday, March 3  6:22pm
+>
+> A new version of the C.R. Bot for Quake2 has been released. This version is compatible with v3.13 and most likely v3.14 as well.
+
+-- [http://www.shugashack.com/archives/m7_m2.htm](https://web.archive.org/web/20000816012209/http://www.shugashack.com/archives/m7_m2.htm) (archived)
 
 Content of `crbt099d.zip`:
 
@@ -754,6 +792,14 @@ Mentioned on BluesNews:
 > Version 0.99e of the C.R.Bot, still Quake II 3.13 compatible, via the "hack," has been released on the C.R.Bot Page fixing a crashing problem in version 0.99d.
 
 -- https://www.bluesnews.com/archives/feb98-4.html
+
+Mentioned on ShugaShack:
+
+> Wednesday, March 4  4:12pm
+>
+> A new version of the C.R. Bot for Quake2 has been released, check out the homepage to grab a copy.
+
+-- [http://www.shugashack.com/archives/m7_m2.htm](https://web.archive.org/web/20000816012209/http://www.shugashack.com/archives/m7_m2.htm) (archived)
 
 **A copy of this release has not yet been acquired.**
 
@@ -861,6 +907,14 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/march98-2.html
 
+Mentioned on Shugashack:
+
+> Sunday, March 15  3:21pm
+>
+> The C.R. Bot for Quake2 has been updated to version 1.03 now. The C.R. Bot was rated a close 2nd to the Eraser Bot in the recent survey that was held online. This new version may just be good enough to catch up :)
+
+-- [http://www.shugashack.com/archives/m21_m15.htm](https://web.archive.org/web/20000816012155/http://www.shugashack.com/archives/m21_m15.htm) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 
@@ -926,6 +980,15 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/march98-2.html
 
+
+Mentioned on Shugashack (with the wrong version number):
+
+> Tuesday, March 17  11:11pm
+>
+>Version 1.03 of the Quake 2 automated deathmatch opponent, C.R Bot has been released http://www.planetquake.com/crbot/
+
+-- [http://www.shugashack.com/archives/m21_m15.htm](https://web.archive.org/web/20000816012155/http://www.shugashack.com/archives/m21_m15.htm) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 
@@ -968,6 +1031,15 @@ Mentioned on Redwoods:
 > The C.R. Bot version 1.06 is available. Some new features include AI tweaks, bot uses the BFG, a map cycling system (cool!!), and team stats. Thanks Bot Epidemic.
 
 -- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html) (archived)
+
+Mentioned on ShugaShack:
+
+> Monday, March 23  12:41pm
+>
+> C.R. Bot\
+> The C.R. Bot for Quake2 which is right on the heels of the EraserBot for being the best Quake2 bot out there according to votes on the Bot Epidimic pages has been updated. This new version has some AI improvements, w00!
+
+-- [http://www.shugashack.com/archives/m28_m22.htm](https://web.archive.org/web/20000816012149/http://www.shugashack.com/archives/m28_m22.htm) (archived)
 
 Content of `crbot106.zip`:
 
