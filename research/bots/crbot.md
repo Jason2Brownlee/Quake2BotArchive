@@ -49,7 +49,7 @@ src+ctf | 20000506
 Perhaps:
 
 * [http://www.geocities.com/SiliconValley/Lab/8885/](https://web.archive.org/web/20010517033010/http://www.geocities.com:80/SiliconValley/Lab/8885/) (archived)
-
+* http://members.tripod.com/~crbot (not archived)
 
 ## v0.9
 
@@ -203,6 +203,17 @@ Links:
 * http://www.hooked.net/~mim/bot.html
 * http://www.geocities.com/SiliconValley/Lab/8885/crbot093.zip
 
+Mentioned on PlanetQuake:
+
+> Quake Date: January 11, 1998
+>
+> CRBot v0.93\
+> CRBot has reached v0.93 (props to Blue for this news), and has a lot of new features... it has support for teams, using the Rocket Launcher, new decision code, new roaming code, bots now show up in the scoreboard, and a whole lot more.
+>
+> For a complete list of the new features, and to download the bot, drop by the CRBot homepage.
+
+-- [http://www.planetquake.com](https://web.archive.org/web/19980113012051/http://www.planetquake.com:80/) (archived)
+
 Content of `crbot093.zip`:
 
 ```text
@@ -246,6 +257,21 @@ Mentioned on BluesNews:
 Links:
 
 * http://www.hooked.net/~mim/bot.html
+
+Mentioned on PlanetQuake:
+
+> Quake Date: January 14, 1998
+>
+> C.R. Bot v0.94
+>The CRBot has reached v0.94, in this version "bot knows how to jump and how to use grenade launcher. Jumping is not very intelligent right know, I'm going to work more on it." Check out the C.R. Bot homepage for details, or download it here or here (147 KB). Thanks Prophet.
+
+-- [http://www.planetquake.com](https://web.archive.org/web/19980115205044/http://planetquake.com:80/) (archived)
+
+Links:
+
+* http://www.hooked.net/~mim/bot.html
+* http://www.geocities.com/SiliconValley/Lab/8885/crbot094.zip
+* http://members.tripod.com/~crbot/crbot094.zip
 
 Contents of `crbot094.zip`:
 
@@ -432,6 +458,15 @@ Mentioned on Inside3D:
 
 -- [http://www.inside3d.com/jan19-jan24.shtml](https://web.archive.org/web/19981205145855/http://www.inside3d.com/jan19-jan24.shtml) (archived)
 
+Mentioned on Telefragged:
+
+> Latest News, January 24
+>
+> New CRBot version -- Update by IceBreak\
+> CRBot Version 0.97 has been released on the CRBot page, new features include improved bots teamplay, better AI, and more...
+
+-- [http://www.telefragged.com/archivednews/1998/jan4.shtml](https://web.archive.org/web/19980626070435/http://www.telefragged.com/archivednews/1998/jan4.shtml) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 ## v0.98
@@ -475,6 +510,15 @@ Mentioned on Redwoods:
 > I saw on The Sentinel that the Quake 2 bot called the C.R. Bot is now up to version .98.
 
 -- [http://redwood.stomped.com/198.html](https://web.archive.org/web/20011121172234/http://redwood.stomped.com/198.html) (archived)
+
+Mentioned on Telefragged:
+
+> Latest News, January 28
+>
+> C.R.Bot Version 0.98 Released -- Update by IceBreak\
+> C.R.Bot Version 0.98 has been posted, new changes include new menu system, skill 0 support, and more...
+
+-- [http://www.telefragged.com/archivednews/1998/jan5.shtml](https://web.archive.org/web/19980626070413/http://www.telefragged.com/archivednews/1998/jan5.shtml) (archived)
 
 Content of `crbot098.zip`:
 
@@ -552,6 +596,20 @@ Mentioned on ShugaShack:
 > C.R. Bot has hit version 0.99. This is mostly a bug fix release but doesnt offer very many new features, I suspec the big v1.0 will do that.
 
 -- [http://www.shugashack.com/archives/j30_j21.htm](https://web.archive.org/web/20000816012247/http://www.shugashack.com/archives/j30_j21.htm) (archived)
+
+Mentioned on Telefragged:
+
+> Latest News, January 29
+>
+> CRBot Version 0.99 Released -- Update by IceBreak\
+> Mike Malakhov has released CRBot Version 0.99, including some bug fixes from 0.97.\
+> [Download CrBot 0.99]
+
+-- [http://www.telefragged.com/archivednews/1998/jan5.shtml](https://web.archive.org/web/19980626070413/http://www.telefragged.com/archivednews/1998/jan5.shtml) (archived)
+
+Links:
+
+* http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbot099.zip
 
 Content of `crbot099.zip`:
 
@@ -641,6 +699,21 @@ Mentioned on Inside3D:
 
 -- [http://www.inside3d.com/feb05-feb09.shtml](https://web.archive.org/web/19981205104218/http://www.inside3d.com/feb05-feb09.shtml) (archived)
 
+Mentioned on Telefragged:
+
+> Latest News, February 9
+>
+> CRBot 0.99a Released -- Update by IceBreak\
+> The new CRBot Version 0.99a Release, fixes some bugs, and adds a few AI tweaks.\
+> [Download CRBot 0.99a]
+
+-- [http://www.telefragged.com/archivednews/1998/feb2.shtml](https://web.archive.org/web/19980626070331/http://www.telefragged.com/archivednews/1998/feb2.shtml) (archived)
+
+Links:
+
+* http://www.planetquake.com/crbot/
+* http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbt099a.zip
+
 **A copy of this release has not yet been acquired.**
 
 ## v0.99b
@@ -717,6 +790,15 @@ Mentioned on ShugaShack:
 > CR Bot for Quake2 has been updated to version 0.99c (They are gonna hit that big v1.0 soon if you don't look out!)
 
 -- [http://www.shugashack.com/archives/f14_f9.htm](https://web.archive.org/web/20000816012234/http://www.shugashack.com/archives/f14_f9.htm) (archived)
+
+Mentioned on Telefragged:
+
+> Latest News, February 14
+>
+> CR Bot -- Update by QuakeGod\
+> For bot lovers (or lagged players), a new CR Bot has become available. It fixes some weapons accuracy/aiming problems and the bot no longer can see in the player in the dark and the bot is sneakier.
+
+-- [http://www.telefragged.com/archivednews/1998/feb3.shtml](https://web.archive.org/web/19980626070310/http://www.telefragged.com/archivednews/1998/feb3.shtml) (archived)
 
 Content of `crbt099c.zip`:
 
@@ -1450,6 +1532,15 @@ Mentioned on BluesNews:
 > Missed this at the time, but version 1.14 of the CRbot came out Thursday.
 
 -- https://www.bluesnews.com/archives/april98-4.html
+
+Mentioned on Telefragged:
+
+> Latest News: April 24, 1998
+>
+> CRBot -- Update by Slade\
+> Version 1.14 of CRBot has been released. This version improves performance and now it's possible to disable grappling hook in normal deathmatch game by setting no_hook to 1.
+
+-- [http://www.telefragged.com/archivednews/1998/apr5.shtml](https://web.archive.org/web/19980626065912/http://www.telefragged.com/archivednews/1998/apr5.shtml) (archived)
 
 Content of `crbot114.zip`:
 
