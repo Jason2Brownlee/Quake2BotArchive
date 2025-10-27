@@ -370,6 +370,15 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/jan98-2.html
 
+Mentioned on BotEpidemic:
+
+> Monday 19 Jan '98 EST
+>
+> C.R.Bot new release!\
+> C.R.Bot release is now v0.96. Visit the C.R.Bot homepage to download the latest version.
+
+-- [http://www.botepidemic.com/archive/19-23jan98.html](https://web.archive.org/web/19991005204844/http://www.botepidemic.com/archive/19-23jan98.html) (archived)
+
 Links:
 
 * http://www.planetquake.com/crbot/
@@ -467,6 +476,19 @@ Mentioned on Telefragged:
 
 -- [http://www.telefragged.com/archivednews/1998/jan4.shtml](https://web.archive.org/web/19980626070435/http://www.telefragged.com/archivednews/1998/jan4.shtml) (archived)
 
+Mentioned on BotEpidemic:
+
+> Sunday 25 Jan '98 EST
+>
+> .R.Bot v0.97 released!\
+> C.R.Bot v0.97 released! Download it or visit the C.R.Bot Home Page.
+>
+> Improvements for v0.97:
+>
+> ...
+
+-- [http://www.botepidemic.com/archive/24-26jan98.html](https://web.archive.org/web/19991006033239/http://www.botepidemic.com/archive/24-26jan98.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 ## v0.98
@@ -519,6 +541,19 @@ Mentioned on Telefragged:
 > C.R.Bot Version 0.98 has been posted, new changes include new menu system, skill 0 support, and more...
 
 -- [http://www.telefragged.com/archivednews/1998/jan5.shtml](https://web.archive.org/web/19980626070413/http://www.telefragged.com/archivednews/1998/jan5.shtml) (archived)
+
+Mentioned on BotEpidemic:
+
+> Wednesday 28 Jan '98 EST
+>
+> New C.R.Bot!\
+> Version 0.98 of the C.R. Bot is out. Go to the C.R.Bot page to get it.
+>
+> Here's the beef
+>
+> ...
+
+-- [http://www.botepidemic.com/archive/27-29jan98.html](https://web.archive.org/web/19991006054813/http://www.botepidemic.com/archive/27-29jan98.html) (archived)
 
 Content of `crbot098.zip`:
 
@@ -610,6 +645,17 @@ Mentioned on Telefragged:
 Links:
 
 * http://www.cdrom.com/pub/idgames2/planetquake/crbot/crbot099.zip
+
+Mentioned on BotEpidemic:
+
+> Friday 30 Jan '98 GMT
+>
+> C.R.Bot v0.99 Released!\
+> Version 0.99 of the C.R.Bot has been released! Download it! Here is what Mike (CRBot author) had to say about it:
+>
+> ...
+
+-- [http://www.botepidemic.com/archive/30jan-3feb98.html](https://web.archive.org/web/19991006143444/http://www.botepidemic.com/archive/30jan-3feb98.html) (archived)
 
 Content of `crbot099.zip`:
 
@@ -742,6 +788,26 @@ Mentioned on the CRBot homepage:
 
 -- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
 
+Mentioned on BotEpidemic:
+
+> Saturday 14th Feb '98 GMT
+>
+> CRBot v0.99b Changes\
+> As was mentioned below by cube, v0.99b of the CRBot has been released. Here are the changes from v0.99a:
+>
+>> * bot won't see you if you happend to be hiding in dark spot
+>> * bot now has limited field of view (based on skill level of course)
+>> * bot will try to sneak up on you; I need to figure out couple of things before this behavior will be really efficient though
+>> * bot is listening to footsteps and explosion sounds and will try to go in their general direction
+>> * bot will try to avoid grenades
+>> * hyperblaster and rocket launcher aiming is fixed
+>> * you won't get a frag for killing your team-mate
+>> * I'm still receiving complaints about bot with railgun being way too accurate -- well, after some pondering I decided to decrease damage on railgun instead of degrading bot's accuracy any further, we'll see if it work; don't worry this won't affect damage from railgun used by you
+>
+> Here is the download link for v0.99b.
+
+-- [http://www.botepidemic.com/archive/13feb-19feb98.html](https://web.archive.org/web/19991118002645/http://www.botepidemic.com/archive/13feb-19feb98.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 ## v0.99c
@@ -799,6 +865,15 @@ Mentioned on Telefragged:
 > For bot lovers (or lagged players), a new CR Bot has become available. It fixes some weapons accuracy/aiming problems and the bot no longer can see in the player in the dark and the bot is sneakier.
 
 -- [http://www.telefragged.com/archivednews/1998/feb3.shtml](https://web.archive.org/web/19980626070310/http://www.telefragged.com/archivednews/1998/feb3.shtml) (archived)
+
+Mentioned on BotEpidemic:
+
+> Sunday 15th Feb '98 EST
+>
+> CRBot v0.99c Released!\
+> Teamplay in v0.99b was broken.. v0.99c fixes this. Go to the downloads page to get it.
+
+-- [http://www.botepidemic.com/archive/13feb-19feb98.html](https://web.archive.org/web/19991118002645/http://www.botepidemic.com/archive/13feb-19feb98.html) (archived)
 
 Content of `crbt099c.zip`:
 
@@ -864,6 +939,16 @@ Mentioned on ShugaShack:
 > A new version of the C.R. Bot for Quake2 has been released. This version is compatible with v3.13 and most likely v3.14 as well.
 
 -- [http://www.shugashack.com/archives/m7_m2.htm](https://web.archive.org/web/20000816012209/http://www.shugashack.com/archives/m7_m2.htm) (archived)
+
+Mentioned on BotEpidemic:
+
+> Tuesday 3rd March '98 GMT
+>
+> C.R.Bot 0.99d Available\
+> A new 3.13 version is available of the C.R. Whether it is 3.14 compatible is not known yet...\
+> Anyway go here to get it.
+
+-- [http://www.botepidemic.com/archive/28feb-4mar98.html](https://web.archive.org/web/19991006084314/http://www.botepidemic.com/archive/28feb-4mar98.html) (archived)
 
 Content of `crbt099d.zip`:
 
@@ -959,6 +1044,15 @@ Mentioned on Inside3D:
 
 -- [http://www.inside3d.com/feb27-mar5.html](https://web.archive.org/web/19990210111934/http://www.inside3d.com/feb27-mar5.html) (archived)
 
+Mentioned on BotEpidemic:
+
+> Thursday 5th March '98 GMT
+>
+> C.R. v1.0\
+> Version 1.0 of the C.R. has been released which has been compiled with the 3.14 source. You will need the latest patch to play it. To download go to the download page.
+
+-- [http://www.botepidemic.com/archive/5mar-8mar98.html](https://web.archive.org/web/19991118003630/http://www.botepidemic.com/archive/5mar-8mar98.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 
@@ -991,6 +1085,19 @@ Mentioned on Redwoods:
 > I also noticed on Blue's that the CR Bot version 1.01 is out. Hey, what can I say, Blue is da man today and I'm not near my email. Hehe.
 
 -- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html) (archived)
+
+Mentioned on BotEpidemic:
+
+> Sunday 8th March '98 EST
+>
+> CRBot v1.01 released!\
+> You can download the latest version of the CRBot (v1.01) here. Changes to this version included improved swimming code and improved menu (you can now choose model and skin name from the menu). The latest version also has a work around for the quake2 v3.14 bug. Thanx KLR-187[KL].
+
+-- [http://www.botepidemic.com/archive/5mar-8mar98.html](https://web.archive.org/web/19991118003630/http://www.botepidemic.com/archive/5mar-8mar98.html) (archived)
+
+Links:
+
+* ftp://ftp.cdrom.com/pub/idgames2/planetquake/crbot/crbot101.zip
 
 **A copy of this release has not yet been acquired.**
 
@@ -1026,6 +1133,21 @@ Mentioned on Redwoods:
 
 -- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html) (archived)
 
+Mentioned on BotEpidemic:
+
+> Monday 9th March '98 GMT
+>
+> C.R. 1.02 Available\
+> New version of C.R. is out. Here's some info:
+>
+> "Advanced teamplay is here! In addition to cmd team_help command (which has been slightly improved too) now you can use cmd team_group. It will force all "spare" bots in the team to follow you in tight formation. To dismiss them use cmd team_free. Next Mike Malakhov plans to add another two commands: cmd team_guard and cmd team_ambush."
+>
+> Big thanks to Mike O'Melia for sending me this info.
+> Mike (Malakhov) has said on the C.R. page that maybe someday if he gets bored he *may* implement CTF. But he has more pressing stuff for the bot apparently.
+> Here's where you want to go to download 1.02.
+
+-- [http://www.botepidemic.com/archive/9mar-12mar98.html](https://web.archive.org/web/19991118004206/http://www.botepidemic.com/archive/9mar-12mar98.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 
@@ -1057,6 +1179,16 @@ Mentioned on Inside3D:
 > New CRBot - Version 1.03 of the CRBot is now out.
 
 -- [http://www.inside3d.com/mar13-mar18.html](https://web.archive.org/web/19990202132839/http://www.inside3d.com/mar13-mar18.html) (archived)
+
+Mentioned on BotEpidemic:
+
+> Sunday 15th March '98 GMT
+>
+> C.R. 1.03 Released\
+> The newest version of the C.R. bot has been released. This version fixes the cmd_free command for teamplay as well as adding even more commands. There is also basic bot ladder use, proper sounds for various models, tweaked swimming and AI and support for viewable weapons will be in the next release.
+> Go to this page to get a your copy.
+
+-- [http://www.botepidemic.com/archive/9mar-12mar98.html](https://web.archive.org/web/19991118004206/http://www.botepidemic.com/archive/9mar-12mar98.html) (archived)
 
 **A copy of this release has not yet been acquired.**
 
@@ -1092,6 +1224,15 @@ Mentioned on BluesNews:
 > Version 1.04 of the C.R.Bot is up on the C.R.Bot homepage, fixing bugs from version 1.03. Thanks William Hooper.
 
 -- https://www.bluesnews.com/archives/march98-2.html
+
+Mentioned on BotEpidemic:
+
+> Monday 16th March '98 GMT
+>
+> C.R. 1.04 Available\
+> This version fixes some bugs that were in version 1.03 and you can get it here.
+
+-- [http://www.botepidemic.com/archive/9mar-12mar98.html](https://web.archive.org/web/19991118004206/http://www.botepidemic.com/archive/9mar-12mar98.html) (archived)
 
 **A copy of this release has not yet been acquired.**
 
@@ -1138,6 +1279,28 @@ Mentioned on Inside3D:
 > CRBot - CRBot v1.05 is now out, supporting the VWep patch. Check that here.
 
 -- [http://www.inside3d.com/mar13-mar18.html](https://web.archive.org/web/19990202132839/http://www.inside3d.com/mar13-mar18.html) (archived)
+
+Mentioned on BotEpidemic:
+
+> Tuesday 17th March '98 GMT
+>
+> C.R. 1.05\
+> Version 1.05 of the C.R. Bot has been released and it now supports the VWep patch!
+>
+> Go here to download it.
+>
+> Here's the juice on all the new features:
+>
+>> * Support for VWep (Yus!)
+>> * Lava/Slime avoidance fixed (broke in last couple of versions)
+>> * Support for power shield, power screen and rebreather
+>> * Using notarget you can become an observer
+>> * Imprved rocket aiming code -- bot will try to hit surface nearby instead of targeting directly at you;
+>> * You'll have figure this one out yourself, but I guarantee you'll like it once you've seen the bot doing it, he-he-he...
+>
+> The last two lines above are exactly what was put on the C.R. page. I (as yet) have no idea what Mike is going on about on the last line.
+
+-- [http://www.botepidemic.com/archive/9mar-12mar98.html](https://web.archive.org/web/19991118004206/http://www.botepidemic.com/archive/9mar-12mar98.html) (archived)
 
 **A copy of this release has not yet been acquired.**
 
@@ -1198,6 +1361,24 @@ Mentioned on Inside3D:
 > CRBot version 1.06 has been posted, with AI improvements among other things.
 
 -- [http://www.inside3d.com/mar23-mar24.html](https://web.archive.org/web/19981203090941/http://www.inside3d.com/mar23-mar24.html) (archived)
+
+Mentioned on BotEpidemic:
+
+> Monday 23rd March '98 GMT
+>
+> C.R. 1.06 Avaiable\
+> Version 1.06 of the C.R. Bot has been released. Here's the beef:
+>
+>> * Map cycling system using maplist.txt. Can be set on or off.
+>> * Taunting etc. anims can be switch on and off.
+>> * cmd team_stats will give a rundown on team scores
+>> * BFG10K is now used by the bot.
+>> * VWep frames problem fixed.
+>> * AI tweaks and adjustments, learning AI for weapons. So bot will learn from practice which weapons are better at certain ranges based on success.
+>
+> You can get yourself a copy over at the C.R. Bot page.
+
+-- [http://www.botepidemic.com/archive/20mar-24mar98.html](https://web.archive.org/web/19991005232336/http://www.botepidemic.com/archive/20mar-24mar98.html) (archived)
 
 Reviewed on OGR:
 
@@ -1286,6 +1467,22 @@ Mentioned on Inside3D:
 
 -- [http://www.inside3d.com/mar26-mar29.html](https://web.archive.org/web/19981202123227/http://www.inside3d.com/mar26-mar29.html) (archived)
 
+Mentioned on BotEpidemic:
+
+> Sunday 29th March '98 GMT
+>
+> C.R. Bot 1.07 Released\
+> Mike has released version 1.07 of the C.R. Bot. Here's the full details of what's in this version:
+>
+>> * "Negative scores" bug is gone, it was happening if you were using the obituary_msgs setting and had it set to 0.
+>> * Rare bug with bot getting stuck jumping in and out of water is fixed.
+>> * Several performance improvements; Mike may add a computer_speed cvar so the time spent on the bots AI is decreased and you can get better framerates with more bots
+>> * Several teamplay tweaks.
+>
+> The C.R. can be downloaded from here.
+
+-- [http://www.botepidemic.com/archive/29mar-1apr98.html](https://web.archive.org/web/19991006110232/http://www.botepidemic.com/archive/29mar-1apr98.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 ## v1.08
@@ -1332,6 +1529,18 @@ Mentioned on Inside3D:
 
 -- [http://www.inside3d.com/mar30-apr01.html](https://web.archive.org/web/19990202194425/http://www.inside3d.com/mar30-apr01.html) (archived)
 
+Mentioned on BotEpidemic:
+
+> Tuesday 31st March '98 GMT
+>
+> Version 1.08 of the C.R. bot has been released by Mike. New features are bug fixes:
+>
+>> * Fixed bots getting stuck in spawn points depressed in ground (DaPak 2 levels)
+>> * "SZ_GetSpace: overflow" is hopefully fixed for good.
+>> * Ladder climbing code is polished and should work on most maps
+
+-- [http://www.botepidemic.com/archive/29mar-1apr98.html](https://web.archive.org/web/19991006110232/http://www.botepidemic.com/archive/29mar-1apr98.html) (archived)
+
 Contents of `crbot108.zip`:
 
 ```text
@@ -1364,7 +1573,9 @@ Source code size: 160 Kb
 
 ## v1.09
 
-Released as `crbot109.zip`.
+Perhaps released as `crbot109.zip`.
+
+No evidence for this release yet.
 
 **A copy of this release has not yet been acquired.**
 
@@ -1400,6 +1611,17 @@ Mentioned on ShugaShack:
 > Yea, just like the headline says. A new version of C.R. Bot for Quake2 has been released. Now you can play with yourself and a bot in the privacy of your own home with the latest version. Nobody has to even know...
 
 -- [http://www.shugashack.com/archives/a11_a5.htm](https://web.archive.org/web/20000816012137/http://www.shugashack.com/archives/a11_a5.htm) (archived)
+
+Mentioned on BotEpidemic:
+
+> Sunday 5th April '98 GMT
+>
+> New C.R.\
+> Version 1.1 of the C.R. Bot has been released. It now supports CTF. To set this run with +set ctf 1 and to turn it off (get this) run with +set ctf 0 in the cmd line. To play ctf you will also need to copy the pak0.pak from CTF into your C.R. directory.
+>
+> The new C.R. can be downloaded here. Thanks to Randar for notifying me of this.
+
+-- [http://www.botepidemic.com/archive/2apr-8apr98.shtml](https://web.archive.org/web/19991006123559/http://www.botepidemic.com/archive/2apr-8apr98.shtml) (archived)
 
 Content of `crbot11.zip`:
 
@@ -1461,6 +1683,19 @@ Mentioned on ShugaShack:
 > Hey, we can't have an Eraser Bot update without a C.R. Bot update as well can we? Yup, another new version of this bot has been released as well. Gonna have to check it out, it's been a while. I'm willing to bet the C.R. Bot is pretty equal to the Eraser Bot. (Also includes CTF support)
 
 -- [http://www.shugashack.com/archives/ap18_ap12.htm](https://web.archive.org/web/20000816012132/http://www.shugashack.com/archives/ap18_ap12.htm) (archived)
+
+Mentioned on BotEpidemic:
+
+> Saturday 11th April '98 GMT
+>
+> C.R. Bot 1.12 Available\
+> SkullPlate has informed me that Mike has released version 1.12 of the C.R. Bot. Here's what he had to say about it:
+>
+>> "Quite a lot of fixes and CTF related AI improvements can be found in new version 1.12. Also fixed normal DM game -- if you still want to use CTF style techs in it, add "+set no_tech 0" to command line or type "no_tech 0" in console and restart the map. To help bots better remember CTF maps I included prerecorded node maps for all standard q2ctf* maps in this version. They are not needed to play CRbot, so you'll be able to play other CTF maps anyway, they just save some playing time since bots don't need to figure out first how to get from one base to another. Enjoy."
+>
+> The new version which is 190k can be downloaded here
+
+-- [http://www.botepidemic.com/archive/9apr-16apr98.html](https://web.archive.org/web/19991118004930/http://www.botepidemic.com/archive/9apr-16apr98.html) (archived)
 
 Content of `crbot112.zip`:
 
@@ -1541,6 +1776,17 @@ Mentioned on Telefragged:
 > Version 1.14 of CRBot has been released. This version improves performance and now it's possible to disable grappling hook in normal deathmatch game by setting no_hook to 1.
 
 -- [http://www.telefragged.com/archivednews/1998/apr5.shtml](https://web.archive.org/web/19980626065912/http://www.telefragged.com/archivednews/1998/apr5.shtml) (archived)
+
+Mentioned on BotEpidemic:
+
+> Friday 24th April '98 GMT
+>
+> New C.R.\
+> I noticed on PQ that Mike has released a new version of the C.R. Bot. This has some performance improvements that should bring the speed of the bot back up. There is also now the option to turn the Grappling Hook off in DM by setting no_hook to 1.
+>
+> Download version 1.14 (190Kb) here.
+
+-- [http://www.botepidemic.com/archive/23apr-27apr98.html](https://web.archive.org/web/19991006005705/http://www.botepidemic.com/archive/23apr-27apr98.html) (archived)
 
 Content of `crbot114.zip`:
 
