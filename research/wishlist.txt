@@ -318,6 +318,7 @@ wferaser3b.zip
 wferaser1b.zip
 
 # sabin
+sabdemo.zip
 sabin971230.exe
 sabin980128.exe
 sabin980130.exe

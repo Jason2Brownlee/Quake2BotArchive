@@ -82,6 +82,14 @@ Mentioned on the CRBot homepage:
 
 -- [http://www.planetquake.com/crbot/old.html](https://web.archive.org/web/19990224220602fw/http://www.planetquake.com/crbot/old.html) (archived)
 
+Mentioned on Inside3D:
+
+> Latest News January 4th
+>
+> Quake II Bots - Version 0.91 alpha of CRBot has been released. Today's update fixes the bot skin problem in which the bots were invisible except for the weapons floating in the air. The bot can pick up weapons, items, and powerups, uses the best weapon that it has (except for rocket launcher, grenade launcher, and BFG), it will attempt to chase you down (when you run away, of course) and it will learn the level as it plays. The bot is still in its "alpha" stage so download it and report in the bugs. [legion]
+
+-- [http://www.inside3d.com/jan03-jan04.shtml](https://web.archive.org/web/19981205104213/http://www.inside3d.com/jan03-jan04.shtml) (archived)
+
 A copy of this release was found with the filename `crbot09.zip`.
 
 Content of `crbot09.zip`:
@@ -182,6 +190,19 @@ Mentioned on ShugaShack:
 
 -- [http://www.shugashack.com/archives/j15_j11.htm](https://web.archive.org/web/20000816012252/http://www.shugashack.com/archives/j15_j11.htm) (archived)
 
+Mentioned on Inside3D:
+
+> Latest News January 12th
+>
+> New C.R Bot - A new version of the C.R bot (0.93) is out. You can get it here. (thanks Andrea) [Timm]
+
+-- [http://www.inside3d.com/jan8th-jan16.html](https://web.archive.org/web/19981202013644/http://www.inside3d.com/jan8th-jan16.html) (archived)
+
+Links:
+
+* http://www.hooked.net/~mim/bot.html
+* http://www.geocities.com/SiliconValley/Lab/8885/crbot093.zip
+
 Content of `crbot093.zip`:
 
 ```text
@@ -272,6 +293,14 @@ Mentioned on BluesNews:
 Links:
 
 * http://www.hooked.net/~mim/bot.html
+
+Mentioned on Inside3D:
+
+> Latest News January 15th
+>
+> CRBot 0.95 - This latest version of CRBot for Quake2 fixes a crashing problem, a jumping problem, and bots no longer stand around 'Getting Board'. Check it out here [Drywall]
+
+-- [http://www.inside3d.com/jan8th-jan16.html](https://web.archive.org/web/19981202013644/http://www.inside3d.com/jan8th-jan16.html) (archived)
 
 Contents of `crbot095.zip`:
 
@@ -394,6 +423,14 @@ Mentioned on BluesNews:
 Links:
 
 * http://www.planetquake.com/crbot/
+
+Mentioned on Inside3D:
+
+> Latest News January 24th
+>
+> CRBot - A new version of the CR Bot has been released. New in v0.97 is a completely rewritten movement code. Go check it out. [legion]
+
+-- [http://www.inside3d.com/jan19-jan24.shtml](https://web.archive.org/web/19981205145855/http://www.inside3d.com/jan19-jan24.shtml) (archived)
 
 **A copy of this release has not yet been acquired.**
 
@@ -595,6 +632,14 @@ Mentioned on ShugaShack:
 Links:
 
 * http://asp.planetquake.com/dl/dl.asp?crbot/crbt099a.zip
+
+Mentioned on Inside3D:
+
+> Latest News February 9th
+>
+> CRBot v0.99a has been released. It adds a new command to order your bots around, the first command so far. Additional fixes and "tweaks" were also made. Go check it out.
+
+-- [http://www.inside3d.com/feb05-feb09.shtml](https://web.archive.org/web/19981205104218/http://www.inside3d.com/feb05-feb09.shtml) (archived)
 
 **A copy of this release has not yet been acquired.**
 
@@ -824,6 +869,14 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/feb98-4.html
 
+Mentioned on Inside3D:
+
+> Latest News March5th
+>
+> CRBot - CRBot 1.0 for Quake3.14 has been uploaded, go get it. [Drywall]
+
+-- [http://www.inside3d.com/feb27-mar5.html](https://web.archive.org/web/19990210111934/http://www.inside3d.com/feb27-mar5.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 
@@ -915,6 +968,14 @@ Mentioned on Shugashack:
 
 -- [http://www.shugashack.com/archives/m21_m15.htm](https://web.archive.org/web/20000816012155/http://www.shugashack.com/archives/m21_m15.htm) (archived)
 
+Mentioned on Inside3D:
+
+> Latest News March 15th
+>
+> New CRBot - Version 1.03 of the CRBot is now out.
+
+-- [http://www.inside3d.com/mar13-mar18.html](https://web.archive.org/web/19990202132839/http://www.inside3d.com/mar13-mar18.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 
@@ -980,14 +1041,21 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/march98-2.html
 
-
 Mentioned on Shugashack (with the wrong version number):
 
 > Tuesday, March 17  11:11pm
 >
->Version 1.03 of the Quake 2 automated deathmatch opponent, C.R Bot has been released http://www.planetquake.com/crbot/
+> Version 1.03 of the Quake 2 automated deathmatch opponent, C.R Bot has been released http://www.planetquake.com/crbot/
 
 -- [http://www.shugashack.com/archives/m21_m15.htm](https://web.archive.org/web/20000816012155/http://www.shugashack.com/archives/m21_m15.htm) (archived)
+
+Mentioned on Inside3D:
+
+> Latest News March 17th
+>
+> CRBot - CRBot v1.05 is now out, supporting the VWep patch. Check that here.
+
+-- [http://www.inside3d.com/mar13-mar18.html](https://web.archive.org/web/19990202132839/http://www.inside3d.com/mar13-mar18.html) (archived)
 
 **A copy of this release has not yet been acquired.**
 
@@ -1040,6 +1108,18 @@ Mentioned on ShugaShack:
 > The C.R. Bot for Quake2 which is right on the heels of the EraserBot for being the best Quake2 bot out there according to votes on the Bot Epidimic pages has been updated. This new version has some AI improvements, w00!
 
 -- [http://www.shugashack.com/archives/m28_m22.htm](https://web.archive.org/web/20000816012149/http://www.shugashack.com/archives/m28_m22.htm) (archived)
+
+Mentioned on Inside3D:
+
+> Latest News March 23rd
+>
+> CRBot version 1.06 has been posted, with AI improvements among other things.
+
+-- [http://www.inside3d.com/mar23-mar24.html](https://web.archive.org/web/19981203090941/http://www.inside3d.com/mar23-mar24.html) (archived)
+
+Reviewed on OGR:
+
+* [http://ogr.com/specials/quake2bot/quake2_bots_2.shtml](https://web.archive.org/web/20000518024549/http://ogr.com/specials/quake2bot/quake2_bots_2.shtml) (archived)
 
 Content of `crbot106.zip`:
 
@@ -1107,6 +1187,23 @@ Mentioned on Redwoods:
 
 -- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html) (archived)
 
+Mentioned on ShugaShack (with the wrong version number):
+
+> Sunday, March 29  2:08pm
+>
+> C.R. Bot\
+> A new version of the C.R. Bot for Quake2 has been released. Up to version 0.7 now the bot is really looking sharp and is quite entertaining to play with.
+
+-- [http://www.shugashack.com/archives/a4_m29.htm](https://web.archive.org/web/20010117055100/http://www.shugashack.com/archives/a4_m29.htm) (archived)
+
+Mentioned on Inside3D:
+
+> Latest News March 29th
+>
+> CRBot v1.07 is out.
+
+-- [http://www.inside3d.com/mar26-mar29.html](https://web.archive.org/web/19981202123227/http://www.inside3d.com/mar26-mar29.html) (archived)
+
 **A copy of this release has not yet been acquired.**
 
 ## v1.08
@@ -1135,6 +1232,23 @@ Mentioned on Redwoods:
 > The C.R. Bot version of the day is 1.08. I noticed that at Bot Epidemic.
 
 -- [http://redwood.stomped.com/498.html](https://web.archive.org/web/20011122034128/http://redwood.stomped.com/498.html) (archived)
+
+Mentioned on ShugaShack:
+
+> Wednesday, April 1  3:41pm
+>
+> C.R. Bot\
+> Yet another new version of the C.R. Bot is available on the homepage. Misc bug fixes etc in this version.
+
+-- [http://www.shugashack.com/archives/a4_m29.htm](https://web.archive.org/web/20010117055100/http://www.shugashack.com/archives/a4_m29.htm) (archived)
+
+Mentioned on Inside3D:
+
+> Latest News March 31st
+>
+> CRBot v1.08 is now out. It fixes a few bugs, etc.
+
+-- [http://www.inside3d.com/mar30-apr01.html](https://web.archive.org/web/19990202194425/http://www.inside3d.com/mar30-apr01.html) (archived)
 
 Contents of `crbot108.zip`:
 
@@ -1196,6 +1310,15 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/april98-1.html
 
+Mentioned on ShugaShack:
+
+> Sunday, April 5  5:21pm
+>
+> C.R. Bot Version 1.1\
+> Yea, just like the headline says. A new version of C.R. Bot for Quake2 has been released. Now you can play with yourself and a bot in the privacy of your own home with the latest version. Nobody has to even know...
+
+-- [http://www.shugashack.com/archives/a11_a5.htm](https://web.archive.org/web/20000816012137/http://www.shugashack.com/archives/a11_a5.htm) (archived)
+
 Content of `crbot11.zip`:
 
 ```text
@@ -1248,6 +1371,14 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/april98-2.html
 
+Mentioned on ShugaShack:
+
+> Sunday, April 12 9:31am
+>
+> C.R. Bot\
+> Hey, we can't have an Eraser Bot update without a C.R. Bot update as well can we? Yup, another new version of this bot has been released as well. Gonna have to check it out, it's been a while. I'm willing to bet the C.R. Bot is pretty equal to the Eraser Bot. (Also includes CTF support)
+
+-- [http://www.shugashack.com/archives/ap18_ap12.htm](https://web.archive.org/web/20000816012132/http://www.shugashack.com/archives/ap18_ap12.htm) (archived)
 
 Content of `crbot112.zip`:
 

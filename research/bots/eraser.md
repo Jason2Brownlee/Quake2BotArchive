@@ -55,4 +55,6 @@ v1.02 (Net Pack)| 1015
 * https://web.archive.org/web/19980507083941/http://quake2.stomped.com/
 
 
-
+reviews:
+https://web.archive.org/web/19981205101012/http://quake2.warzone.com/q2awards/
+https://web.archive.org/web/20040124111109/http://www.planetquake.com/qca/reviews/patch178.htm
