@@ -870,6 +870,8 @@ http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser34a.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/captured/weaponsfactory/wferaser3b.zip
 
 # sabin
+# sabdemo.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabdemo.zip
 # sabin971230.exe
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/sabin971230.exe
 # sabin980128.exe
@@ -1032,5 +1034,7 @@ http://ftp.sunet.se/planetquake/tourney19990115.zip
 http://mirror.aarnet.edu.au/games/planetquake/osp/tourney19990115.zip
 http://mirror.aarnet.edu.au/games/planetquake/tourney19990115.zip
 
-
+# cgf
+# cgf_0_78.zip
+http://www.gpmc.demon.co.uk/cgf_0_78.zip
 

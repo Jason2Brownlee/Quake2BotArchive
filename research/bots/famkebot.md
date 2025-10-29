@@ -1,4 +1,4 @@
-# Famkebot Research
+# Famkebot
 
 
 ## Early Versions
@@ -12,11 +12,11 @@ Let's try and disentangle this.
 
 ### Homepages
 
-* http://www.concentric.net/~thefatal/q2bot.html (not archived)
-* http://www.quake2.com/famkebot/ (circa December 1997 to Early 1998)
-* http://www.telefragged.com/thefatal
-* http://home.telefragged.com/thefatal
-* https://richwhitehouse.com
+1. http://www.concentric.net/~thefatal/q2bot.html (not archived)
+2. http://www.quake2.com/famkebot/ (circa December 1997 to Early 1998)
+3. http://www.telefragged.com/thefatal
+4. http://home.telefragged.com/thefatal
+5. https://richwhitehouse.com
 
 
 ### Versions
