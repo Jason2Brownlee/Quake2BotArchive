@@ -1,6 +1,6 @@
 # Famkebot
 
-Research into the Famkebot Quake2 by Rich Whitehouse aka "thefatal" released between December 1997 and ?.
+Research into the Famkebot Quake2 by Rich Whitehouse aka "thefatal1" released between December 1997 and 1999.
 
 
 ## Homepages
@@ -49,6 +49,18 @@ Mentioned on BluesNews:
 > It sounds like there are still a lot of kinks in it, but it is still first, I'm talking about The Famkebot, which is the first bot for Quake II that I've heard of.
 
 -- https://www.bluesnews.com/archives/dec97-2.html
+
+Links:
+
+* http://www.concentric.net/~thefatal/q2bot.html
+
+Mentioned on Inside3d:
+
+> Latest News December 16th
+>
+> Quake 2 Bots - The first publically available Quake 2 bot, FamkeBot, has been released by TheFatal. You can download it from his site.
+
+-- [http://www.inside3d.com/dec16-dec17.shtml](https://web.archive.org/web/19981201191051/http://www.inside3d.com/dec16-dec17.shtml) (archived)
 
 Links:
 
@@ -238,6 +250,8 @@ Web Site    : http://www.quake2.com/famkebot/ (check back often for updates)
 
 ## v2.2 Source
 
+Released as `famkesrc.zip`.
+
 Mentioned on BluesNews:
 
 > Tuesday, February 10, 1998
@@ -246,6 +260,19 @@ Mentioned on BluesNews:
 > The source code for version 2.2 of the FamkeBot for Quake II has been released on the The Famkebot page, described by the author as a bit messy, but understandable.
 
 -- https://www.bluesnews.com/archives/feb98-1.html
+
+Mentioned on Inside3d:
+
+> Latest News February 10th
+>
+> For you wannabe bot coders out there, the source code for the Famke Bot has been released.
+
+-- [http://www.inside3d.com/feb10-feb12.shtml](https://web.archive.org/web/19981203083611/http://www.inside3d.com/feb10-feb12.shtml) (archived)
+
+Links:
+
+* http://www.quake2.com/famkebot/FAMKESRC.ZIP
+* http://www.quake2.com/famkebot/
 
 ## v2.8
 
