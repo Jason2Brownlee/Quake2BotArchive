@@ -1,6 +1,6 @@
 # Famkebot
 
-Research into the Famkebot Quake2 by Rich Whitehouse aka "thefatal1" released between December 1997 and 1999.
+Research into the Famkebot Quake2 by Rich Whitehouse aka "thefatal1" released between December 1997 and June 1998 and then February 1999 to January 2000.
 
 
 ## Homepages
@@ -9,7 +9,8 @@ Research into the Famkebot Quake2 by Rich Whitehouse aka "thefatal1" released be
 2. [http://www.quake2.com/famkebot/](https://web.archive.org/web/19971222151500/http://www.quake2.com/famkebot/) (archived)
 3. [http://www.telefragged.com/thefatal](https://web.archive.org/web/19980626064038/http://www.telefragged.com/thefatal/) (archived)
 4. [http://home.telefragged.com/thefatal](https://web.archive.org/web/19990225170313/http://home.telefragged.com/thefatal/) (archived)
-5. https://richwhitehouse.com
+5. [http://telefragged.com/thefatal/old/famke.shtml](https://web.archive.org/web/20050410094720/http://telefragged.com/thefatal/old/famke.shtml) (archived)
+6. [https://richwhitehouse.com](https://richwhitehouse.com/index.php?content=inc_projects.php&showproject=25)
 
 
 ## Release Chronology (reconstructed)
@@ -65,6 +66,15 @@ Mentioned on Inside3d:
 Links:
 
 * http://www.concentric.net/~thefatal/q2bot.html
+
+This version was uploaded to the cdrom.com archive, where it remains today in modern mirrors:
+
+```text
+famkebot.txt	1997-Dec-17 00:00:00	1.6K	text/plain
+famkebot.zip	1997-Dec-17 00:00:00	149.0K	application/zip
+```
+
+-- https://www.quaddicted.com/files/idgames2/quake2/dlls/bots/
 
 Content of `famkebot.zip`:
 
