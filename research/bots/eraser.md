@@ -298,6 +298,15 @@ Links:
 
 * http://impact.frag.com/files/Eras0124.zip
 
+Reviewed on Quake-C Archives:
+
+* [Eraser Bot Review](* https://web.archive.org/web/20040124111109/http://www.planetquake.com/qca/reviews/patch178.htm)
+
+Links:
+
+* [http://www.planetquake.com/qca/reviews/patch178.txt](https://web.archive.org/web/20040124111109/http://www.planetquake.com/qca/reviews/patch178.txt)
+* [http://www.planetquake.com/qca/reviews/ebot.zip](https://web.archive.org/web/20040124111109/http://www.planetquake.com/qca/reviews/ebot.zip)
+
 Content of `eras0124.zip`:
 
 ```text
@@ -1797,16 +1806,4 @@ Mentioned on BluesNews:
 * [The Weasel: Erase Yourself in Quake II](https://web.archive.org/web/19990427060252/http://www.games.net/pcgames/articles/0,1034,1661,00.html) (March 1998)
 * [Eraser Bot Review, BotEpidemic](https://web.archive.org/web/19990508124446/http://www.botepidemic.com:80/reviews/ebrev.shtml)
 
-
-
-releases mentioned in "news":
-
-* https://web.archive.org/web/19980224195135fw/http://impact.frag.com/oldnews1.htm
-* https://web.archive.org/web/19980511165430/http://redwood.stomped.com/
-* insideqc
-* https://web.archive.org/web/19980507083941/http://quake2.stomped.com/
-
-reviews:
-* https://web.archive.org/web/19981205101012/http://quake2.warzone.com/q2awards/
-* https://web.archive.org/web/20040124111109/http://www.planetquake.com/qca/reviews/patch178.htm
 
