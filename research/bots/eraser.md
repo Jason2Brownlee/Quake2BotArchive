@@ -6,41 +6,42 @@ Research into the Eraser bot for Quake2 by Ryan Feltrin aka "Ridah" between Janu
 
 Development occurred in 1998.
 
-Version | Filename Date
---- | ---
-v0.1 (Alpha) 	| 01a  (eras0102)
-v0.2 (Alpha)	| 0113 (eras0113)
-v0.3 (Alpha) 	| 0118 (eras0118)
-v0.4 (Beta)		| 0124 (Eras0124)
-v0.4a (Beta)  	| 0125 (Eras0125)
-v5.0 (Beta)		| 0202 (Eras0202) (EraserInstall.exe)
-v0.51 (Beta)	| 0204 (Eras0204) (EraserInstall.exe)
-v0.6 (Beta) 	| 0212 (Eraser0212) (EraserInstall.exe)
-v0.6a (Beta) 	| 0213 (Eraser0213) (EraserInstall.exe)
-v0.7 (Beta)		| 0304 (Eraser0304)
-v0.8 (Beta)		| 0312 (eraser0312)
-v0.81 (Beta)	| 0313 (Eraser0313)
-v0.82 (Beta)	| 0314 (Eraser0314)
-???	(0.82a?)	| 0315 (Eraser0315)
-???	(0.82b?)	| 0316 (Eraser0316)
-v0.84 (Beta)	| 0317 (Eraser0317)
-v0.85 (Beta)	| 0320 (Eraser0320)
-v0.86 (Beta)	| 0323 (Eraser0323)
-v0.90 (Beta)	| 0330 (Eraser0330)
-v0.91 (Beta)	| 0406 (Eraser0406)
-v0.91(a) (Beta)	| 0407 (Eraser0407)
-v0.92 (Beta)	| 0410 (Eraser0410)
-???				| 0411 (Eraser0411)
-v0.95 (Beta)	| 0413 (Eraser0413)
-v0.96 (Beta)	| 0427 (Eraser0427)
-v0.97 (Beta)	| 0501 (Eraser0501)
-v0.98 (Beta)	| 0505 (eraser0505)
-v0.99 (Beta)	| 0508 (Eraser0508)
-v0.991 (Beta)	| 0529 (Eraser0529)
-v0.992 (Beta)	| 0618 (Eraser0617 and Eraser0618)
-v1.0 (Final)	| 0820
-v1.01 (Final)	| 0824
-v1.02 (Net Pack)| 1015
+Version         | Filename Date
+--------------- | ---
+v0.1 		 	| 01a  (eras0102)
+v0.2 			| 0113 (eras0113)
+v0.3 		 	| 0118 (eras0118)
+v0.4 			| 0124 (Eras0124)
+v0.4a		  	| 0125 (Eras0125)
+v0.5 			| 0202 (Eras0202) (EraserInstall.exe)
+v0.51			| 0204 (Eras0204) (EraserInstall.exe)
+v0.6 		 	| 0212 (Eraser0212) (EraserInstall.exe)
+v0.6a		 	| 0213 (Eraser0213) (EraserInstall.exe)
+v0.7 			| 0304 (Eraser0304)
+v0.8 			| 0312 (eraser0312)
+v0.81			| 0313 (Eraser0313)
+v0.82			| 0314 (Eraser0314)
+v0.83			| 0315 (Eraser0315)
+v0.83b			| 0316 (Eraser0316)
+v0.84 			| 0317 (Eraser0317)
+v0.85 			| 0320 (Eraser0320)
+v0.86 			| 0323 (Eraser0323)
+v0.90 			| 0330 (Eraser0330)
+v0.91 			| 0406 (Eraser0406)
+v0.91 Linux		| 0407 (Eraser0407)
+v0.92 			| 0410 (Eraser0410)
+v0.93			| 0411 (Eraser0411)
+v0.94			| 0411b (Eraser0411b)
+v0.95 			| 0413 (Eraser0413)
+v0.96 			| 0427 (Eraser0427)
+v0.97 			| 0501 (Eraser0501)
+v0.98 			| 0505 (eraser0505)
+v0.99 			| 0508 (Eraser0508)
+v0.991			| 0529 (Eraser0529)
+v0.992			| 0618 (Eraser0617 and Eraser0618)
+v1.0 (Final)	| n/a
+v1.01 (Final)	| n/a
+v1.02 (Net Pack)| n/a
 
 
 ## Pre-Release Demo
