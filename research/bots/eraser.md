@@ -36,9 +36,8 @@ v0.96 (Beta)	| 0427 (Eraser0427)
 v0.97 (Beta)	| 0501 (Eraser0501)
 v0.98 (Beta)	| 0505 (eraser0505)
 v0.99 (Beta)	| 0508 (Eraser0508)
-v0.991 (Beta)	| 0529 (Eraser0529) (0528?)
-???				| 0617 (Eraser0617)
-v0.992 (Beta)	| 0618 (Eraser0618)
+v0.991 (Beta)	| 0529 (Eraser0529)
+v0.992 (Beta)	| 0618 (Eraser0617 and Eraser0618)
 v1.0 (Final)	| 0820
 v1.01 (Final)	| 0824
 v1.02 (Net Pack)| 1015
@@ -138,6 +137,13 @@ Links:
 
 * http://impact.frag.com/files/eras0113.zip
 
+Reviewed on BotEpidemic:
+
+* [Full Review of the Eraser Bot v0.2, Last Updated: 16 Jan, '98](https://web.archive.org/web/19980119132340/http://www.quake2.com/epidemic/ebrev.htm)
+
+Link:
+
+* http://impact.frag.com/files/Eras0113.zip
 
 
 ## v0.3
@@ -190,6 +196,45 @@ Mentioned on Redwoods:
 > Yes, I made it back from DC-Con 4 alive. :) The Alpha 3 version of the amazing Eraser Bot for Q2 is now available on the Impact page. Thanks DooScoob. Mucho tired, off to bed now. :)
 
 -- [http://redwood.stomped.com/198.html](https://web.archive.org/web/20011121172234/http://redwood.stomped.com/198.html)
+
+Mentioned on BotEpidemic:
+
+> Monday 19 Jan '98 EST
+>
+> Eraser Bot new release!\
+> Ridah's Eraser Bot release is now v0.3. Download the latest version of the Eraser Bot.
+>
+> You can now set the bots skill level (0 [newbie] -> 3 [expert]).
+>
+> Ridah reports the following new features/bug fixes added to version 0.3:
+> Check out his home page at impact.frag.com.
+
+> * Some bots become transparent after death
+> * Loads of AI fixes
+> * Weapon selection based on circumstances (used to use each weapon until out of ammo)
+> * Bots lose intelligence over time
+> * Bot's get stuck in sloped (downwards) walls when jumping
+> * Added support for custom skins, and client play via network, without installing the Eraser on clients
+> * Restored the original Q2 scoreboard
+> * Fixed timelimit
+> * "cmd botname " no longer case-sensitive
+> * Fixed various AI stuff
+
+-- [http://www.quake2.com/epidemic/](https://web.archive.org/web/19980119101540/http://www.quake2.com/epidemic/)
+
+Links:
+
+* http://impact.frag.com/files/eras0118.zip
+
+Focus of the BotEpidemic Eraser FAQ, Setup Guide, and help:
+
+* [Eraser Bot Bugs/FAQ](https://web.archive.org/web/19980121182830fw_/http://quake2.com/epidemic/ebfaq.html)
+* [Setup guide for the Eraser Bot](https://web.archive.org/web/19980121182714/http://quake2.com/epidemic/ebhelp.html)
+* [Bot Help](https://web.archive.org/web/19980121183021/http://quake2.com/epidemic/helpme.html)
+
+Links:
+
+* http://impact.frag.com/files/ERAS0118.EXE
 
 Contents of `eras0118.zip`:
 
@@ -306,6 +351,19 @@ Links:
 
 * [http://www.planetquake.com/qca/reviews/patch178.txt](https://web.archive.org/web/20040124111109/http://www.planetquake.com/qca/reviews/patch178.txt)
 * [http://www.planetquake.com/qca/reviews/ebot.zip](https://web.archive.org/web/20040124111109/http://www.planetquake.com/qca/reviews/ebot.zip)
+
+Mentioned on BotEpidemic:
+
+> Saturday 24 Jan '98 EST
+>
+> Eraser beta v0.4 released!\
+> Eraser Bot v0.4 released! Download it or visit impact.frag.
+
+-- [http://www.botepidemic.com/archive/24-26jan98.html](https://web.archive.org/web/19991006033239/http://www.botepidemic.com/archive/24-26jan98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eras0124.exe
 
 Content of `eras0124.zip`:
 
@@ -429,6 +487,19 @@ Mentioned on Redwoods:
 
 -- [http://redwood.stomped.com/198.html](https://web.archive.org/web/20011121172234/http://redwood.stomped.com/198.html)
 
+Mentioned on BotEpidemic:
+
+> Monday 26 Jan '98 EST
+>
+> Eraser v0.4a Released!\
+> This release should fix all the bugs in v0.4! Download it or visit impact.frag.
+
+-- [http://www.botepidemic.com/archive/24-26jan98.html](https://web.archive.org/web/19991006033239/http://www.botepidemic.com/archive/24-26jan98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eras0125.zip
+
 Contents of `Eras0125.zip`:
 
 ```text
@@ -511,6 +582,101 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/jan98-5.html
 
+Mentioned on BotEpidemic:
+
+> Wednesday 4 Feb '98 EST
+>
+> Eraser Bot v0.5 BETA (8:00 EST)\
+> Below is the changes from v0.4a for v0.5:
+>
+> * Bot frags don't reset on new level
+> * Incorporated MapMod code to enable map sequencing configuration (see readme.txt for instructions)
+> * Wrote some new danger avoidance code, for rockets & grenades
+> * worked on the player sighting code, trying to balance between intelligence and speed
+> * further tweaking of combat AI, when to abort chasing enemy, etc
+> * Don't chase a human with the RL & > 25 health
+> * Optimizations
+> * Fixed some changelevel problems
+> * add "bot_auto_skill" setting, so that bot's skills are lowered/raised with each kill/death
+> * Re-wrote movement physics, making use of the player movement functions. Solved a lot of irregularities, such as walking pu steep slopes, getting stuck in walls, etc. Hopefully the CPU hit won't be excessive.
+> * Reduce MAX_NODES back to 512, seems to use up too much memory at 1024 !!! make sure ReadTrail() doesn't exceed new MAX_NODES setting !!!
+> * "SZ_GetSpace overflow without allowoverflow set" still occurs (falling into lava?)
+> * MAJOR fps slowdowns on some systems
+> * CanPickupAmmo() not entirely accurate (was working, but result was ignored in RoamFindBestItem() )
+> * Use "game_dir = gi.cvar ("game", "", 0);" instead of hard-coded "Eraser" directory
+> * General AI debugging, bots appear to stop for no reason, then restart
+> * Footstep/Jumping sounds
+> * Add average ping to BOTS.CFG (just for looks)
+> * Bot's don't pickup AMMO intelligently
+>
+> As you can see there is a lot of improvements from the previous version. Still on the TODO list is the following:
+> * Camper flag generally makes bots hover around good weapons/items (Quad, mega armor
+> * Bots should use hand grenades
+> * Fix "notarget 1", and remove botdebug from preventing bot's finding enemies
+> * Investigate timelimit problem in linux
+> * Bot fleeing AI needs work (also running away from player with Quad)
+> * hipdm2 crashes server while learning map
+> * Move to second map, after playing first map >5mins, access violation?
+> * Death in mid-air, body floats in air
+> * PATHS: don't drop jumping node, when taking damage upon falling, or falling into damage brush (ala hipdm2)
+>
+> Stop reading and start fragging! :)
+
+And:
+
+> VIRUS???? Eraser Bot v0.5 BETA (9:00 EST)\
+> Sorry folks! I have taken down the Eraser Bot v0.5 links due to a virus scare.. It appears that there is some kind of major problem with the release. More news on this soon.
+
+And:
+
+> VIRUS? Installer Bug? Eraser Bot v0.5 BETA (10:30 EST)\
+> Got this message from Randar explaining the Eraser v0.5 "virus":
+>
+> "Actually it does NOT appear to be a virus (I ran the exe through three virus programs, before and after I opened it); rather, it is apparently a renegade install program that deletes/corrupts some of Quake2's critical files! After trying to install Eraser 0.5 Quake2 was hosed!!! I could no longer run even the regular game. (The Eraser's install program on a previous version did the same thing to me. I had to completely re-install Quake2 that time!) The simple work-around is to re-install the q2-310.exe patch (Oops! It got corrupted too! But I had a backup. :-) After re-installing the 310 patch, everything works! I wish Ridah would forget the exe installs and go back to the regular zips."
+>
+> A couple of people have confirmed this being the case. We are yet to hear from Ridah, tho. I agree with Randar on the ".zip" downloads.
+>
+> Some people are reporting that McAfee detected a virus. McAfee v3.1.6 reports ANXIETY.POPPY.II.
+>
+> However, I don't believe it is a virus! The above explanation is the more likely scenario. More on this later.
+
+And:
+
+> VIRUS CONFIRMED! Eraser Bot v0.5 BETA (12:00 EST)\
+> Richard Smith has this posted over at Redwood's. It is an apology for accidentally infecting Ridah with the virus that got attached to the Eraser Bot Install:
+>
+> "In regards to the Eraser Bot v0.5 install, sometimes a Quake 2 installation can be saved with a simple reinstallation, other times it cannot. The patch does not work either way giving a "missing file container" error.
+>
+> Windows 95 loads up sometimes with no problems, other times with crashes and hangs. There is no pattern to this. Invalid Page Faults and Illegal instructions, 0E errors and more are also all common.
+>
+> I know this becuase it appears to be my machine that this started on. Ridah recently downloaded a test version of my program QBS from me which caused these problems on his system, meaning he had to re-install. The virus must have survived this and infected the Eraser download.
+>
+> I had no idea that a virus was contained in the QBS file, my computer has been having problems for more than a month but McAfee and PC Scan showed nothing so I concluded that it was a problem with one of my software packages and not a virus.
+>
+> I have lost loads of files and have agonised over this problem for weeks, Ridah has had to restart his, Mr Wolf is also one of many who has also watched his system disappear.
+>
+> I ask that Ridah is not blamed for these recent turn of events as he had no idea what he was letting himself in for when he downloaded QBS, he was doing me a favour and testing it after all. The Eraser bot is a fantastic add-on, Quake Rally was also great and Ridah will continue to provide great software for the Quake community.
+>
+> I only wish all this could have been avoided. When QBS is finally released to the public, I will be doing my upmost to make sure this doesn't happen again. I released the test version to four people to iron out early bugs and this is the result. A lot of people have lost a time, files and their system set up. More importantly they may have lost confidence in a developer who had no idea of the problems he was causing - Ridah. This should not happen.
+>
+> I cannot apologise enough.
+>
+> -Richard"
+>
+> We are still waiting for a report from Ridah...
+
+And:
+
+> Ridah Confirms Virus (12:30 EST)\
+> Ridah (Eraser Bot Author), has confirmed that the distribution was infected with a virus. Here's what he posted over at impact.frag:
+>
+>> "Those that have downloaded the Eraser v0.5 and have run the installer, will no doubt be aware that it contained a virus. All I can say, is I am deeply sorry, and disturbed that my supposedly top-notch virus scanners, McAffee & VET (used by the Australian Government), were unable to detect the virus (I scanned my entire system before uploading the Installer, using both programs). I believe this virus attaches itself to .exe files, rendering them useless (which would explain a lot of the problems I've been having lately). So for most users, a reinstallation of Quake2 will be required. I am told that Norton Antivirus 95 will detect the virus, but I am unsure whether it will actually clean the infected files (I am downloading the update right now from Symantec's website).
+>
+> Once again, I would like to express my sincere apologies to any users that have exprienced problems related to the Eraser Installer. I guess there's one thing I've learnt about this, is that you can never use enough virus scanners.
+>
+> I have removed the infected installer from our files section, and would ask that all other webmasters which have mirrored the file, please do the same. I will have a new Installer available soon, once I can guarantee it's integrity."
+
+-- [http://www.botepidemic.com/archive/4feb-8feb98.html](https://web.archive.org/web/19991118010743/http://www.botepidemic.com/archive/4feb-8feb98.html)
 
 ## v0.51
 
@@ -572,6 +738,17 @@ Links:
 * https://www.bluesnews.com/files/quake2/bots/eraser/eraserinstall.exe
 * https://www.bluesnews.com/files/quake2/bots/eraser/eras0204.zip
 
+Mentioned on BotEpidemic:
+
+> Wednesday 4 Feb '98 EST
+>
+> Eraser Bot v0.51BETA Released!\
+> Ridah released v0.51 of the Eraser Bot. It is 100% virus free. Go to the downloads section to get it or visit impact.frag. For the list of changes from v0.4a to v0.51 you can read them below by clicking here.
+
+-- [http://www.botepidemic.com/archive/4feb-8feb98.html](https://web.archive.org/web/19991118010743/http://www.botepidemic.com/archive/4feb-8feb98.html)
+
+
+
 ## v0.6
 
 Released as:
@@ -630,6 +807,17 @@ Links:
 
 * ftp://ftp.stomped.com/pub/redwood/bots/eraserinstall.exe
 
+Mentioned on BotEpidemic:
+
+> Friday 13th Feb '98 GMT Look it's Friday the 13th!
+>
+> Eraser Fixes from v0.51\
+> Below is a list of the changes to the Eraser from v0.51:
+>
+> ...
+
+-- [http://www.botepidemic.com/archive/13feb-19feb98.html](https://web.archive.org/web/19991118002645/http://www.botepidemic.com/archive/13feb-19feb98.html)
+
 Contents of `eras_0212.zip`:
 
 ```text
@@ -687,7 +875,7 @@ Build Time              : ~400 hours, but who's counting right?
 
 Released as:
 
-* `eraserinstall.exe`
+* `EraserInstall.exe`
 
 Mentioned on Impact News:
 
@@ -724,6 +912,20 @@ Mentioned on Redwoods:
 Links:
 
 * ftp://ftp.stomped.com/pub/redwood/bots/eraserinstall.exe
+
+Mentioned on BotEpidemic:
+
+> Friday 13th Feb '98 GMT Look it's Friday the 13th!
+>
+> Eraser Installer Error\
+> Ridah reports that anyone who downloaded the Eraser Installer v0.6 last night is missing a file (if you downloaded the zip everything should be fine). Here's the link to the corrected installer.
+
+-- [http://www.botepidemic.com/archive/13feb-19feb98.html](https://web.archive.org/web/19991118002645/http://www.botepidemic.com/archive/13feb-19feb98.html)
+
+Links:
+
+* http://impact.frag.com/files/EraserInstall.exe
+
 
 ## v0.7
 
@@ -778,6 +980,20 @@ Links:
 
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0304.exe
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0304.zip
+
+Mentioned on BotEpidemic:
+
+> Wednesday 4th March '98 GMT
+>
+> Eraser 0.7\
+> Ridah has released Eraser 0.7. This is probably one of the last major releases of the bot. Anyway there are two versions available. The Win95 Installer and a zipped version. The .zip is only 30Kb smaller this time.
+
+-- [http://www.botepidemic.com/archive/28feb-4mar98.html](https://web.archive.org/web/19991006084314/http://www.botepidemic.com/archive/28feb-4mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0304.exe
+* http://impact.frag.com/files/Eraser0304.zip
 
 Content of `Eraser0304.exe`:
 
@@ -895,6 +1111,22 @@ Links:
 
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0312.exe
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0312.zip
+
+Mentioned on BotEpidemic:
+
+> Thursday 12th March '98 GMT
+>
+> Eraser 0.8 Available\
+> The final major version of the Eraser bot has been released by Ridah. And get this it features CTF support! It also features support for viewable weapons although you will need that patch to play with them.
+> Eraser 0.8 is available in the usual Win95 and .zip flavours.
+> The viewable weapons mod is available here.
+
+-- [http://www.botepidemic.com/archive/9mar-12mar98.html](https://web.archive.org/web/19991118004206/http://www.botepidemic.com/archive/9mar-12mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0312.exe
+* http://impact.frag.com/files/Eraser0312.zip
 
 Content of `Eraser0312.exe`:
 
@@ -1037,8 +1269,28 @@ Links:
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0313_patch.exe
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0313.exe
 
+Mentioned on BotEpidemic:
+
+> Friday 13th March '98 GMT
+>
+> Eraser v0.81 - CTF fixes\
+> Ridah from impact.frag, released v0.81 of the Eraser.. mainly to fix some CTF bugs. You DO NOT have to download another 2Mb file if you already have v0.8. You can download the v0.8 to v0.81 upgrade here or the complete v0.81 here. If you are confused go to the downloads page to see what you can sponge.
+
+-- [http://www.botepidemic.com/archive/13mar-19mar98.html](https://web.archive.org/web/19991005164641/http://www.botepidemic.com/archive/13mar-19mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0313_patch.exe
+* http://impact.frag.com/files/Eraser0313.exe
 
 ## v0.82
+
+Released as:
+
+* `Eraser0314.exe`
+* `Eraser0314.zip`
+* `Eraser0314_patch.exe`
+* `Eraser0314_patch.zip`
 
 Mentioned on BluesNews:
 
@@ -1058,9 +1310,57 @@ Mentioned on Redwoods:
 
 -- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html)
 
+Mentioned on BotEpidemic:
 
+> Friday 13th March '98 GMT
+>
+> Eraser v0.82 is now out!\
+> Heard about that just as I finished downloading 0.81. Anyway you can get the whole version in .exe and .zip formats. A patch from version 0.8 (and hopefully 0.81 :) is available in the same .exe and .zip flavours.
+This release fixes some bugs created by 0.82 as well as some fixes for the CTF part.
+
+-- [http://www.botepidemic.com/archive/13mar-19mar98.html](https://web.archive.org/web/19991005164641/http://www.botepidemic.com/archive/13mar-19mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0314.exe
+* http://impact.frag.com/files/Eraser0314.zip
+* http://impact.frag.com/files/Eraser0314_patch.exe
+* http://impact.frag.com/files/Eraser0314_patch.zip
 
 ## v0.83
+
+Released as:
+
+* `Eraser0315_patch.exe`
+* `Eraser0315_patch.zip`
+
+Mentioned on BotEpidemic:
+
+> Sunday 15th March '98 GMT
+>
+> Eraser 0.83 is out!\
+> The Eraser bot version 0.83 patch is out but is now not mentioned on the Impact (it was before). The only reason I can see for this being that Sumaleth has just updated the page and may have overwritten Ridah's update. The file links below still work, so stop saying it doesn't exist!
+>
+> Eraser 0.83 Patch Released\
+> A patch for Eraser 0.82 (you have to have 0.82) has been released fixing some minor bugs, adding more advanced CTF invade/retreat AI (cool cool cool :) and route data for Q2CTF2.
+>
+> The patch is available in Win95 and .zip. Both files are 600k.
+>
+> Good news for linux users, the Eraser will be available in linux format "very soon".
+
+-- [http://www.botepidemic.com/archive/13mar-19mar98.html](https://web.archive.org/web/19991005164641/http://www.botepidemic.com/archive/13mar-19mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0315_patch.exe
+* http://impact.frag.com/files/Eraser0315_patch.zip
+
+## v0.83b
+
+Released as:
+
+* `Eraser0316_patch.exe`
+* `Eraser0316_patch.zip`
 
 Mentioned on BluesNews:
 
@@ -1071,7 +1371,28 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/march98-2.html
 
+Mentioned on BotEpidemic:
+
+> Monday 16th March '98 GMT
+>
+> Eraser 0.83b Patch\
+> Has been released but Ridah has already said there is a crashing bug in it, which will be fixed in the next version, which will also contain better lift code.
+>
+> 0.83b can be downloaded here if you want the .exe or here if you want the .zip.
+
+-- [http://www.botepidemic.com/archive/13mar-19mar98.html](https://web.archive.org/web/19991005164641/http://www.botepidemic.com/archive/13mar-19mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0316_patch.exe
+* http://impact.frag.com/files/Eraser0316_patch.zip
+
 ## v0.84
+
+Released as:
+
+* `Eraser0317_patch.exe`
+* `Eraser0317_patch.zip`
 
 Mentioned on BluesNews:
 
@@ -1081,6 +1402,22 @@ Mentioned on BluesNews:
 > Beta 0.84 of the Eraser Bot is up on the Impact Development Team page. The new version fixes lift (elevator) crashes, and adds support for a couple of the newer Eraser launchers that keep springing up, Hot Launch (which has just released version 1.3a) and PowerBase (on Ripcord's homepage). Thanks Prophet.
 
 -- https://www.bluesnews.com/archives/march98-2.html
+
+Mentioned on BotEpidemic:
+
+> Tuesday 17th March '98 GMT
+>
+> Eraser 0.84 Released\
+> 0.84 of the Eraser bot fixes the lift code that was causing crashes and adds some built in support for soem of those launchers.
+>
+> The file is a patch from 0.82 to 0.84 and is 200k. You can get the .exe version and the .zip version.
+
+-- [http://www.botepidemic.com/archive/13mar-19mar98.html](https://web.archive.org/web/19991005164641/http://www.botepidemic.com/archive/13mar-19mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0317_patch.exe
+* http://impact.frag.com/files/Eraser0317_patch.zip
 
 ## v0.85
 
@@ -1125,6 +1462,36 @@ Links:
 * http://redwood.stomped.com/files/bots/eraser0320_patch.zip
 * http://redwood.stomped.com/files/bots/eraser0320_patch.exe
 
+Mentioned on BotEpidemic:
+
+> Friday 20th March '98 GMT
+>
+> Eraser 0.85 Released\
+> Version 0.85 of the Eraser bot has been released by Ridah. Here's what's new or changed in this version:
+>
+> More CTF AI tweaks
+> Fixed dedicated server crash (HACK!)
+> Fixed friendly fire during normal Teamplay
+> Teams disbanded when changing maps (normal teamplay)
+> Enabled Grapple only when bot_calc_nodes = 0
+> [view models] section has been added to bots.cfg, fro View Weapons expandability
+> Added bot_chat 0/1 toggle
+> Added "disperse" command for teamplay
+> This version is available either as a patch for version 0.82 or a full 2.7Mb version.
+>
+> The patch is available in .exe and .zip formats.
+>
+> The main file can be downloaded in .exe, .zip and pretty soon a linux format.
+
+-- [http://www.botepidemic.com/archive/20mar-24mar98.html](https://web.archive.org/web/19991005232336/http://www.botepidemic.com/archive/20mar-24mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0320_patch.exe
+* http://impact.frag.com/files/Eraser320_patch.zip
+* http://impact.frag.com/files/Eraser0320.exe
+* http://impact.frag.com/files/Eraser0320.zip
+
 ## v0.85 Linux
 
 Released as:
@@ -1152,6 +1519,21 @@ Mentioned on Redwoods:
 Links:
 
 * https://web.archive.org/web/20011122033345/http://impact.frag.com/files/Eras0320-linux.tgz
+
+Mentioned on BotEpidemic:
+
+> Saturday 21st March '98 GMT
+>
+> Eraser 0.85 Linux\
+> Yes, it's definitley there. The file is 2.8Mb and can be downloaded here. Ridah has also said he is seriously considering releasing the source to the bot this weekend.
+>
+> On a slightly unrelated matter, has anyone had any problems with eraser 0.85, specifically the bots seem to get stuck in the same places each time and in CTF the bots generally stay in the other teams base resulting in stalemate. I have got extremely good route-tables so I don't think that's the problem. So if anyone has seen the same problems mail me.
+
+-- [http://www.botepidemic.com/archive/20mar-24mar98.html](https://web.archive.org/web/19991005232336/http://www.botepidemic.com/archive/20mar-24mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0320-linux.tgz
 
 ## v0.86
 
@@ -1198,6 +1580,24 @@ Links:
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0323_patch.zip
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0323_patch.zip
 
+Mentioned on BotEpidemic:
+
+> Sunday 22nd March '98 GMT
+>
+> Eraser 0.86 Patch Released\
+> A little sooner than I expected Ridah has released version 0.86 of the Eraser. It is only in a patch form so you will need v0.85 to run it. Quite a few new things are in and you can download the .exe or the .zip. Linux fans a version for you is coming soon.
+>
+> Also a new version of HotLaunch has been released, which can now, according to Ridah, let you config every aspect of the Eraser!
+>
+> -cube
+
+-- [http://www.botepidemic.com/archive/20mar-24mar98.html](https://web.archive.org/web/19991005232336/http://www.botepidemic.com/archive/20mar-24mar98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0323_patch.exe
+* http://impact.frag.com/files/Eraser0323_patch.zip
+
 ## v0.9
 
 Released as:
@@ -1231,6 +1631,55 @@ Links:
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0330.zip
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0330_patch.exe
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0330_patch.zip
+
+Mentioned on BotEpidemic:
+
+> Monday 30th March '98 GMT
+>
+> Eraser Bot v0.9 Released!!!\
+> Ridah has released v0.9 of the Eraser Bot! Mostly a bug fix with a few speed improvements and Teamplay/CTF enhancements.. You can download the full version here (2.8Mb) or get the patch (1.1Mb). Below are the details of the fix:
+>
+> * Fix Greeting chats
+> * Save zips as .zipped, to avoid Zip-Folders from scewing around with them
+> * CTF defend/attack logic with uneven teams
+> * Changing maps on server, humans on incorrect CTF teams
+> * Bots don't go for tech's
+> * Only do teleport if they want to
+> * Keep some bots back at base (when flag taken) if possible
+> * Doors in jail1 don't open by bots
+> * Rocket avoidance too predictable
+> * Continuous telefrags at intermission
+> * Friendly fire during teamplay
+> * Bots more aggressively pursue enemy flag carrier
+> * When using ViewWeapons, and spawning random bots, try to pick bots that are supported
+> * Bots should go for tech's more often
+> * Check that flag_path_src has it's destination paths setup in q2ctf1
+> * Bots not getting weapons when defending?
+> * Allow multiple paths back to base
+> * Fixed moving too fast while swimming
+> * NODES: Ignore Rocket Jumping
+> * View weapons only work with teamplay ON
+> * Don't suicide at intermission screen
+> * Don't respawn after fraglimit has been hit
+> * Bots firing into walls on CTF3, camping in wierd places
+> * Big speed improvements on large levels
+> * Railgun "fuzzy" aiming was broken in v0.86
+> * Fixed strafe jumping into lava
+> * Added some more chat lines
+> * Here's another note from Ridah:
+>
+> "NOTE: If you're upgrading from and older version, you should rename all .zip files in the eraser\routes directory to .zipped. This is to avoid a nasty problem caused by a VERY LAME program called ZipFolders which prevents Win32 programs from accessing .zip files. To do this, simply open up a Dos Shell, change to the eraser\routes directory, then type:
+>
+> ren *.zip *.zipped
+
+> The Eraser can still read .zip files, but will only save them as .zipped, so unless you rename them, you'll end up with duplicate files, and hence be wasting space on your Hard Drive."
+
+-- [http://www.botepidemic.com/archive/29mar-1apr98.html](https://web.archive.org/web/19991006110232/http://www.botepidemic.com/archive/29mar-1apr98.html)
+
+Links:
+
+* ftp://ftp.frag.com/frag/impact/Eraser0330.exe
+* ftp://ftp.frag.com/frag/impact/Eraser0330_patch.exe
 
 ## v0.91
 
@@ -1275,6 +1724,38 @@ Links:
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0406_patch.exe
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0406_patch.zip
 
+Mentioned on BotEpidemic:
+
+> Monday 6th April '98 GMT
+>
+> A New Eraser!\
+> Here's what Ridah had to say:
+>
+> Here's v0.91, with a bunch of fixes, but still a lot of issues remain to be sorted out. If only I had more than a few hours a week to work on this. Oh well, you can be sure that time is being spent on something very cool.
+>
+> * Fixed Greeting chats
+> * Command to raid enemy base
+> * When going from Teamplay -> CTF, clear out the client -> team pointer and make sure models are correct.
+> * Bots sometimes don't capture the flag in q2ctf2, they'll walk close to it, and then go back.
+> * Invulnerable bots should go beserk
+> * Bots get stuck on "up" lifts when they walk onto a lift that has already achieved it's highest elevation at the time they step on it.
+> * Better guarding flag carrier
+> * Bot suicide at intermission still occuring
+> * More defenders for flag carrier
+> * Respawn in walls/ceiling
+> * More aggressively seek dropped
+> * Railgun aiming more human-like
+> * Check disperse command works
+> * Lift waiting not working on some maps.
+>
+> The usual files are available. The .exe and the .zip.
+
+-- [http://www.botepidemic.com/archive/2apr-8apr98.shtml](https://web.archive.org/web/19991006123559/http://www.botepidemic.com/archive/2apr-8apr98.shtml)
+
+Links:
+
+* ftp://ftp.frag.com/frag/impact/Eraser0406_patch.exe
+* ftp://ftp.frag.com/frag/impact/Eraser0406_patch.zip
 
 ## v0.91 Source
 
@@ -1301,6 +1782,15 @@ Links:
 
 * ftp://ftp.stomped.com/pub/redwood/bots/erasersrc0406.zip
 
+Mentioned on BotEpidemic:
+
+> Monday 6th April '98 GMT
+>
+> Eraser Source Released\
+> After the release of 0.91 today, Ridah has released the source but it is only recommended for experienced programmers. The source from 1.0 onwards should be suitable for the less knowledgeable. Go to Impact to get a copy. It's currently only compatible with MSVC 5.0. Don't send any questions regarding source problems to him. He's said he will drop by the Eraser Source part of the Epidemic/Metropolis WWWBoard to answer questions when he has the time. The race is now on to see who can release the first Eraser Hack.
+
+-- [http://www.botepidemic.com/archive/2apr-8apr98.shtml](https://web.archive.org/web/19991006123559/http://www.botepidemic.com/archive/2apr-8apr98.shtml)
+
 ## v0.91 Linux
 
 Released as:
@@ -1324,6 +1814,19 @@ Mentioned on Redwoods:
 > Ridah posted the Linux Eraser Bot .91 (3MB) on the Impact page. Also, it seems the Eraser Bot has helped save a marriage. Ridah, marriage counselor extraordinaire. ;o)
 
 -- [http://redwood.stomped.com/498.html](https://web.archive.org/web/20011122034128/http://redwood.stomped.com/498.html)
+
+Links:
+
+* ftp://ftp.frag.com/frag/impact/Eraser0407-linux.tgz
+
+Mentioned on BotEpidemic:
+
+> Tuesday 7th April '98 GMT
+>
+> Eraser Linux Available\
+> 0.91 of the Eraser has been ported to Linux and can be downloaded here. It also includes extra files required to get the bot to compile under Linux. Any problems with the source should be directed towards the Eraser Source forum on the Epidemic/Metropolis WWWBoard.
+
+-- [http://www.botepidemic.com/archive/2apr-8apr98.shtml](https://web.archive.org/web/19991006123559/http://www.botepidemic.com/archive/2apr-8apr98.shtml)
 
 Links:
 
@@ -1361,7 +1864,31 @@ Links:
 * ftp://ftp.frag.com/frag/impact/Eraser0410_patch.zip
 * ftp://ftp.frag.com/frag/impact/EraserSRC0410.zip
 
+Mentioned on BotEpidemic:
+
+> Thursday 9th April '98 GMT
+>
+> Eraser 0.92 Released\
+> Version 0.92 of the Eraser Bot has been released. It fixes some big AI bugs (mostly CTF related). Once Ridah's "other" project has been finished he will fix some of the stuff in the todo list.
+>
+> The new release is a patch for 0.9+ versions. It's available as .exe or .zip.
+>
+> There is also a new version of the source code. Grab a copy here.
+
+-- [http://www.botepidemic.com/archive/9apr-16apr98.html](https://web.archive.org/web/19991118004930/http://www.botepidemic.com/archive/9apr-16apr98.html)
+
+Links:
+
+* ftp://ftp.frag.com/frag/impact/Eraser0410_patch.exe
+* ftp://ftp.frag.com/frag/impact/Eraser0410_patch.zip
+* ftp://ftp.frag.com/frag/impact/EraserSRC0410.zip
+
 ## v0.93
+
+Probably released as:
+
+* `Eraser0411_patch.exe`
+* `Eraser0411_patch.zip`
 
 Mentioned on BluesNews:
 
@@ -1394,6 +1921,21 @@ Links:
 * ftp://ftp.gamesnet.net/pub/bluesnews/quake2/eraser/Eraser0411b_patch.exe
 * ftp://ftp.gamesnet.net/pub/bluesnews/quake2/eraser/Eraser0411b_patch.zip
 
+Mentioned on BotEpidemic:
+
+> Saturday 11th April '98 GMT
+>
+> Eraser 0.94 Released\
+> Easter greetings from Ridah in the form of the release of a patch for the Eraser Bot. Version 0.94 fixes some of 0.92's bugs and enhances the CTF ai.
+>
+> The .exe (190k) patch can be downloaded from here and the .zip (170k) from here.
+
+-- [http://www.botepidemic.com/archive/9apr-16apr98.html](https://web.archive.org/web/19991118004930/http://www.botepidemic.com/archive/9apr-16apr98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0411b_patch.zip
+* http://impact.frag.com/files/Eraser0411b_patch.zip
 
 ## v0.95
 
@@ -1430,6 +1972,24 @@ Links:
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser_0330.zip
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0413_patch.zip
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0413_patch.exe
+
+Mentioned on BotEpidemic:
+
+> Monday 13th April '98 GMT
+>
+> Eraser 0.95 Released\
+> Ridah has released version 0.95 of the Eraser bot. It fixes some bugs and adds a new command to help with using bots and humans in CTF.
+>
+> You can download the patch in either .exe or .zip.
+>
+> Ridah also asks that people stop mailing him with requests to add support for assorted Q2 mods to Eraser. Especially when these mod's do not have publicly available source (which one is that then? :).
+
+-- [http://www.botepidemic.com/archive/9apr-16apr98.html](https://web.archive.org/web/19991118004930/http://www.botepidemic.com/archive/9apr-16apr98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0413_patch.exe
+* http://impact.frag.com/files/Eraser0413_patch.zip
 
 ## v0.96
 
@@ -1487,6 +2047,35 @@ Links:
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0427_patch.exe
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0427_patch.zip
 
+Mentioned on BotEpidemic:
+
+> Monday 27th April '98 GMT
+>
+> Eraser 0.96 Released\
+> Ridah has released version 0.96 of the Eraser bot. This release is a final candidate release and from now on there should only be releases to fix major bugs. Here's a list of what's new:
+>
+> * AI Fixes
+> * Smaller routes
+> * Grapple Usage
+> * New CAM mode (with thanks to Paul Jordan for the code)
+> * Sentiant abilities. Bot's are knowledgeable of their own existence
+> * Injuries: bot's will limp after sustaining a non-fatal hit
+> * Pre-Game Chat Lounge: Exactly what it says.
+> * Llama Bot's: A high llama rated bot will act like a llama (suprisingly)
+> * Simulated bugs :)
+> * Auto-Detect any one who didn't get the humor above and crash the map
+> * The old route-files are still supported. New one's are saved with an .rtz extension.
+>
+> The new complete version can be downloaded in .exe of .zip formats. There are also patches for version 0.95 again available in either .exe or .zip formats.
+
+-- [http://www.botepidemic.com/archive/23apr-27apr98.html](https://web.archive.org/web/19991006005705/http://www.botepidemic.com/archive/23apr-27apr98.html)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0427.exe
+* http://impact.frag.com/files/Eraser0427.zip
+* http://impact.frag.com/files/Eraser0427_patch.exe
+* http://impact.frag.com/files/Eraser0427_patch.zip
 
 ## v0.97
 
@@ -1611,6 +2200,13 @@ Mentioned on Redwoods:
 
 ## v0.991
 
+Released as:
+
+* `Eraser0529.zip`
+* `Eraser0529.exe`
+* `Eraser0529_patch.zip`
+* `Eraser0529_patch.exe`
+
 Mentioned on Redwoods:
 
 > June 02, 1998
@@ -1624,15 +2220,141 @@ Mentioned on Redwoods:
 
 -- [http://redwood.stomped.com/698.html](https://web.archive.org/web/20010512214801/http://redwood.stomped.com/698.html)
 
+Contents of `Eraser0529.zip`:
+
+```text
+-rw-rw-r--  0 0      0      131072 16 Dec  1997 eraser/zip32.dll
+-rw-rw-r--  0 0      0      143872 16 Dec  1997 eraser/unzip32.dll
+-rw-rw-r--  0 0      0          38 31 Jan  1998 eraser/maps.txt
+-rw-rw-r--  0 0      0        3415 16 Mar  1998 eraser/default.cfg
+-rw-rw-r--  0 0      0           3 17 Mar  1998 eraser/launcher.cfg
+-rw-rw-r--  0 0      0       77462 22 Mar  1998 eraser/pak5.pak
+-rw-rw-r--  0 0      0        5337 28 Mar  1998 eraser/bots.cfg
+-rw-rw-r--  0 0      0       38120  2 Apr  1998 eraser/bots_600.cfg
+-rw-rw-r--  0 0      0       14640  5 May  1998 eraser/EraserTodo.txt
+-rw-rw-r--  0 0      0       11122  5 May  1998 eraser/chat.txt
+-rw-rw-r--  0 0      0       26440 28 May  1998 eraser/readme.txt
+-rw-rw-r--  0 0      0       68775 17 Apr  1998 eraser/routes/starctf2.rtz
+-rw-rw-r--  0 0      0        9545 17 Apr  1998 eraser/routes/grind.rtz
+-rw-rw-r--  0 0      0       10321 17 Apr  1998 eraser/routes/ikdm2.rtz
+-rw-rw-r--  0 0      0       19458 17 Apr  1998 eraser/routes/mintro.rtz
+-rw-rw-r--  0 0      0       24563 17 Apr  1998 eraser/routes/base1.rtz
+-rw-rw-r--  0 0      0       21496 26 Apr  1998 eraser/routes/q2ctf4.rtz
+-rw-rw-r--  0 0      0       39234 17 Apr  1998 eraser/routes/mpq1.rtz
+-rw-rw-r--  0 0      0       50282 27 Apr  1998 eraser/routes/q2ctf2.rtz
+-rw-rw-r--  0 0      0        4574 21 Apr  1998 eraser/routes/ikdm1.rtz
+-rw-rw-r--  0 0      0       40548 27 Apr  1998 eraser/routes/q2ctf1.rtz
+-rw-rw-r--  0 0      0       84668 21 Apr  1998 eraser/routes/q2ctf3.rtz
+-rw-rw-r--  0 0      0      387072 28 May  1998 eraser/gamex86.dll
+-rw-rw-r--  0 0      0       33511 27 Mar  1998 baseq2/players/cyborg/kw_aqua.pcx
+-rw-rw-r--  0 0      0        1858 16 Apr  1998 baseq2/players/cyborg/kw_aqua_i.pcx
+-rw-rw-r--  0 0      0       33487 27 Mar  1998 baseq2/players/cyborg/kw_black.pcx
+-rw-rw-r--  0 0      0        1860 16 Apr  1998 baseq2/players/cyborg/kw_black_i.pcx
+-rw-rw-r--  0 0      0       33525 27 Mar  1998 baseq2/players/cyborg/kw_blue.pcx
+-rw-rw-r--  0 0      0        1858 16 Apr  1998 baseq2/players/cyborg/kw_blue_i.pcx
+-rw-rw-r--  0 0      0       35453 27 Mar  1998 baseq2/players/cyborg/kw_green.pcx
+-rw-rw-r--  0 0      0        1977 16 Apr  1998 baseq2/players/cyborg/kw_green_i.pcx
+-rw-rw-r--  0 0      0       33525 27 Mar  1998 baseq2/players/cyborg/kw_red.pcx
+-rw-rw-r--  0 0      0        1858 16 Apr  1998 baseq2/players/cyborg/kw_red_i.pcx
+-rw-rw-r--  0 0      0       33491 27 Mar  1998 baseq2/players/cyborg/kw_white.pcx
+-rw-rw-r--  0 0      0        1860 16 Apr  1998 baseq2/players/cyborg/kw_white_i.pcx
+-rw-rw-r--  0 0      0       32973 27 Mar  1998 baseq2/players/cyborg/kw_yellow.pcx
+-rw-rw-r--  0 0      0        1865 16 Apr  1998 baseq2/players/cyborg/kw_yellow_i.pcx
+-rw-rw-r--  0 0      0        1858 16 Apr  1998 baseq2/players/cyborg/kw_pink_i.pcx
+-rw-rw-r--  0 0      0       33525 28 Mar  1998 baseq2/players/cyborg/kw_pink.pcx
+-rw-rw-r--  0 0      0       34169 27 Mar  1998 baseq2/players/male/kw_aqua.pcx
+-rw-rw-r--  0 0      0        1795 16 Apr  1998 baseq2/players/male/kw_aqua_i.pcx
+-rw-rw-r--  0 0      0       34218 27 Mar  1998 baseq2/players/male/kw_black.pcx
+-rw-rw-r--  0 0      0        1795 16 Apr  1998 baseq2/players/male/kw_black_i.pcx
+-rw-rw-r--  0 0      0       34220 27 Mar  1998 baseq2/players/male/kw_blue.pcx
+-rw-rw-r--  0 0      0        1795 16 Apr  1998 baseq2/players/male/kw_blue_i.pcx
+-rw-rw-r--  0 0      0       37178 27 Mar  1998 baseq2/players/male/kw_green.pcx
+-rw-rw-r--  0 0      0        1900 16 Apr  1998 baseq2/players/male/kw_green_i.pcx
+-rw-rw-r--  0 0      0       37042 27 Mar  1998 baseq2/players/male/kw_orange.pcx
+-rw-rw-r--  0 0      0        1900 16 Apr  1998 baseq2/players/male/kw_orange_i.pcx
+-rw-rw-r--  0 0      0       34220 27 Mar  1998 baseq2/players/male/kw_pink.pcx
+-rw-rw-r--  0 0      0        1795 16 Apr  1998 baseq2/players/male/kw_pink_i.pcx
+-rw-rw-r--  0 0      0       34304 27 Mar  1998 baseq2/players/male/kw_red.pcx
+-rw-rw-r--  0 0      0        1795 16 Apr  1998 baseq2/players/male/kw_red_i.pcx
+-rw-rw-r--  0 0      0       34168 27 Mar  1998 baseq2/players/male/kw_white.pcx
+-rw-rw-r--  0 0      0        1795 16 Apr  1998 baseq2/players/male/kw_white_i.pcx
+-rw-rw-r--  0 0      0       34239 27 Mar  1998 baseq2/players/male/kw_yellow.pcx
+-rw-rw-r--  0 0      0        1797 16 Apr  1998 baseq2/players/male/kw_yellow_i.pcx
+-rw-rw-r--  0 0      0       29681 27 Mar  1998 baseq2/players/female/kw_aqua.pcx
+-rw-rw-r--  0 0      0        1695 16 Apr  1998 baseq2/players/female/kw_aqua_i.pcx
+-rw-rw-r--  0 0      0       29636 27 Mar  1998 baseq2/players/female/kw_black.pcx
+-rw-rw-r--  0 0      0        1694 16 Apr  1998 baseq2/players/female/kw_black_i.pcx
+-rw-rw-r--  0 0      0       29643 27 Mar  1998 baseq2/players/female/kw_blue.pcx
+-rw-rw-r--  0 0      0        1695 16 Apr  1998 baseq2/players/female/kw_blue_i.pcx
+-rw-rw-r--  0 0      0       32181 27 Mar  1998 baseq2/players/female/kw_green.pcx
+-rw-rw-r--  0 0      0        1756 16 Apr  1998 baseq2/players/female/kw_green_i.pcx
+-rw-rw-r--  0 0      0       29644 27 Mar  1998 baseq2/players/female/kw_pink.pcx
+-rw-rw-r--  0 0      0        1695 16 Apr  1998 baseq2/players/female/kw_pink_i.pcx
+-rw-rw-r--  0 0      0       29650 27 Mar  1998 baseq2/players/female/kw_red.pcx
+-rw-rw-r--  0 0      0        1695 16 Apr  1998 baseq2/players/female/kw_red_i.pcx
+-rw-rw-r--  0 0      0       29644 27 Mar  1998 baseq2/players/female/kw_white.pcx
+-rw-rw-r--  0 0      0        1695 16 Apr  1998 baseq2/players/female/kw_white_i.pcx
+-rw-rw-r--  0 0      0       29693 27 Mar  1998 baseq2/players/female/kw_yellow.pcx
+-rw-rw-r--  0 0      0        1697 16 Apr  1998 baseq2/players/female/kw_yellow_i.pcx
+```
+
+Readme header:
+
+```text
+================================================================
+ The Eraser Bot                                   v0.991 (Beta)
+ by Ryan Feltrin (aka Ridah)
+................................................................
+
+================================================================
+Title                   : Eraser Bot
+Author                  : Ryan Feltrin (aka Ridah)
+Homepage                : http://impact.frag.com
+
+Description             : Human-like AI for Simulated Quake2
+                           Deathmatch play and Capture the
+                           Flag
+
+Additional Credits to   : id Software for being id Software
+                          The Info-Zip team for the zip/unzip tools
+                            (http://www.cdrom.com/pub/infozip/)
+                          Jack "morbid" Mathews for the
+                            installer source
+                          Jeremy Mappus (aka DarkTheties) for
+                            the MapMod source
+                          Grimlock for the colored skins
+                          Rowan "Sumaleth" Crawford, for
+                            playtesting and suggestions
+                          Brett "B-MonEy" McMahon, for his
+                            support and ideas
+                          Nigel "rkm" Bovey for the linux port
+                          IMP for the Eraser logo
+                          Pete Elespuru for the consol mod
+                          The SABIN Team for some Client Emulation code
+                            (http://www.planetquake.com/botshop/sabin)
+                          Steve Yeager (author of the ACE bot) for tips
+                            on creating a static library for the nav
+                            code (stevey@jps.net)
+                          Paul Jordan for the Camera mode
+                            (http://www.prismnet.com/~jordan/q2cam)
+
+                          Anyone else who has contributed in
+                          any way to the development of Eraser.
+
+Build Time              : ~300 coding, lots of hours testing
+================================================================
+```
 
 ## v0.992
 
 Released as:
 
-* `eraser0618.exe`
-* `eraser0618.zip`
-* `eraser0618_patch.exe`
-* `eraser0618_patch.zip`
+* `Eraser0618.exe`
+* `Eraser0618.zip`
+* `Eraser0617-Linux.tgz`
+* `Eraser0618_patch.exe`
+* `Eraser0618_patch.zip`
+* `EraserSRC_0618.zip`
 
 Mentioned on BluesNews:
 
@@ -1661,6 +2383,33 @@ Links:
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0618_patch.exe
 * ftp://ftp.stomped.com/pub/redwood/bots/eraser0618_patch.zip
 
+Mentioned on BotEpidemic:
+
+> Thursday 18th June '98 GMT
+>
+> Eraser 0.992\
+> Ridah has released the last version of the Eraser bot before version 1.0. Any crashes should be reported to him. Here are the files:
+>
+> Eraser Full 0.992 EXE\
+> Eraser Full 0.992 ZIP\
+> Eraser Full 0.992 Linux
+>
+> Eraser Patch from 0.97 (or higher) - 0.992 EXE\
+> Eraser Patch from 0.97 (or higher) - 0.992 ZIP
+>
+> Eraser 0.992 Source\
+> Linux compilables are included with the linux Eraser.
+
+-- [http://www.botepidemic.com/archive/11june98-23june98.shtml](https://web.archive.org/web/19991005082508/http://www.botepidemic.com/archive/11june98-23june98.shtml)
+
+Links:
+
+* http://impact.frag.com/files/Eraser0618.exe
+* http://impact.frag.com/files/Eraser0618.zip
+* http://impact.frag.com/files/Eraser0617-Linux.tgz
+* http://impact.frag.com/files/Eraser0618_patch.exe
+* http://impact.frag.com/files/Eraser0618_patch.zip
+* http://impact.frag.com/files/EraserSRC_0618.zip
 
 # v1.0
 
@@ -1670,6 +2419,28 @@ Released as:
 * `Eraser100.exe`
 * `Eraser100.zip`
 * `Eraser100_SRC.zip`
+
+Mentioned on Impact News:
+
+> Final Eraser (finally)	. 	Friday 21/8/98
+>
+> It's finally here.
+>
+> I've fixed a tonne of bugs, tweaked things here and there, added things here and there. This is the last release of the Eraser bot, unless we managed to overlook any major problems (please don't email me unless you're REALLY sure it's a large bug).
+>
+> This version has been largely tweaked for CTF play, with HUGE improvements over previous versions. Not only are they smarter, and more cohesive with the rest of the team, but they'll respond to your every command. With the following keys (you must bind these yourself):
+>
+> R - Rushbase\
+> D - Defendbase\
+> F - Freestyle
+>
+> You have total control over your (bot) squadron, which gives the game a very strategic feel. If you fancy yourself on defense, just sit back and send them all to the enemy flag, or vice-versa.
+>
+> I strongly recommend that if you haven't tried this functionality, or haven't tried (Eraser) CTF at all, then do yourself a favour, and give it a shot. This has occupied easily 80% of my total Eraser coding time, so while Eraser is a deathmatching graduate, it has "majored" in CTF.
+>
+> Also, BIG thanks to Josh Holdaway, for putting together the Full installer, and for doing such a great job with the QuickStart launcher. Enjoy.
+
+-- [http://impact.frag.com:80/oldnews5.htm](https://web.archive.org/web/19991009034259/http://impact.frag.com:80/oldnews5.htm)
 
 Mentioned on BluesNews:
 
@@ -1740,6 +2511,35 @@ Released as:
 * `Eraser101.zip`
 * `Eraser101_patch.zip`
 * `Eraser101_SRC.zip`
+* `Eraser101_SRC_b.zip`
+
+Mentioned on Impact News:
+
+> Eraser's Final Stop, Ridah Exits	. 	(Reminder)Saturday 28/8/98
+>
+> Eraser v1.01 is now available. This is the absolute last release of the Eraser (from me anyway).
+>
+> The patch for QuickStart (which was causing Eraser crashes when selecting individual bots) can be found here. This is included in the Full v1.01 release.
+>
+> This fixes the View Weapon problems (it now uses the built-in view weapon support) and fixes a CTF bug, which caused the defendbase command to stop your (bot) teammates from chasing enemies after they grab the flag.
+>
+> Note that you no longer need to keep a list of view weapons models in the bots.cfg file, thats all handled automatically by the engine.
+
+-- [http://impact.frag.com/](https://web.archive.org/web/19981212014742/http://impact.frag.com/)
+
+Mentioned on Impact Downloads:
+
+> Eraser 1.01 (FINAL!)	8.2 meg	Eraser101_Full.exe\
+> Linux Eraser 1.01	2.4 meg	Eraser101-linux.tar.gz\
+> Eraser 1.01 Source Code	8.2 meg	Eraser101_SRC_b.zip
+
+-- [http://impact.frag.com:80/files.htm](https://web.archive.org/web/19990508102511/http://impact.frag.com:80/files.htm)
+
+Links:
+
+* http://www.frag.com/cgi-bin/dl.cgi?impact/Eraser101_Full.exe
+* http://www.frag.com/cgi-bin/dl.cgi?impact/Eraser101-linux.tar.gz
+* http://www.frag.com/cgi-bin/dl.cgi?impact/Eraser101_SRC_b.zip
 
 Mentioned on BluesNews:
 
