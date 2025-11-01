@@ -84,6 +84,23 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/s/25/gladiator-bot
 
+Mentioned on Redwoods:
+
+> December 09, 1998
+>
+> Gladiator Bot\
+> Bot Epidemic has announced the release of the Gladiator Bot for Quake 2. Some of the features include:
+>
+> * Several different bot characters included for the real multiplayer experience.
+> * The bot understands all the game rules, weapons and items.
+> * Ability to order bots on your team to do things by chatting with them.
+> * Observer modes to observe the playing bots.
+> * Easy extendable AI network.
+> * Advanced goal evaluation AI.
+> * Bot uses fuzzy logic which gives it an amount of flexibility when making decisions and allows those decisions to appear much more intelligent.
+
+-- [http://redwood.stomped.com/1298.html](https://web.archive.org/web/20011121171129/http://redwood.stomped.com/1298.html)
+
 # v0.9 Source
 
 Released as:
@@ -238,6 +255,12 @@ Links:
 
 * http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2092gamesrca.zip
 
+Mentioned on BluesNews:
+
+> Gladiator Bot [Apr 19, 1999, 09:08 am ET] – Post a Comment\
+> A new version 0.92 of the Gladiator Bot is now available. The new version of this Quake II playmate offers new CTF and teamplay AI, the ability to give teammate bots instructions, and more. Word is "For the best bot performance you will have to re-aas your maps."
+
+-- https://www.bluesnews.com/s/1554/gladiator-bot
 
 # v0.93
 
@@ -280,6 +303,14 @@ Mentioned on the Bot Emporium:
 > Check out the Gladiator site for more info!
 
 -- [http://planetquake.com/emporium/archived.html](https://web.archive.org/web/19991009162252/http://planetquake.com/emporium/archived.html)
+
+Mentioned on BluesNews:
+
+> Sunday, May 09, 1999
+>
+> A new version of the Gladiator Bot for Quake 2 is out, with all kinds of improvements.
+
+-- https://www.bluesnews.com/cgi-bin/blammo.pl?mode=archive&display=19990509&oneday=true
 
 # v0.94
 
@@ -342,6 +373,13 @@ Mentioned on the Gladiator Bot News Page:
 
 -- [http://www.botepidemic.com/gladiator/archive_19990202_19990324.html](https://web.archive.org/web/19991009142838/http://www.botepidemic.com/gladiator/archive_19990202_19990324.html)
 
+Mentioned on BluesNews:
+
+> Gladiator Quake II Bot [May 31, 1999, 10:03 am ET] – Post a Comment\
+> Version 0.95 of the Gladiator Bot is out, offering an update to this AI playmate for Quake II that allows bots to rocket-jump to places it couldn't reach before, fixes some bugs, and enables % chat macros.
+
+-- https://www.bluesnews.com/s/2470/gladiator-quake-ii-bot
+
 # v0.95 Source
 
 Released as:
@@ -378,6 +416,13 @@ Mentioned on the Gladiator Bot News Page:
 
 -- [http://www.botepidemic.com/gladiator/archive_19990202_19990324.html](https://web.archive.org/web/19991009142838/http://www.botepidemic.com/gladiator/archive_19990202_19990324.html)
 
+Mentioned on BluesNews:
+
+> New Gladiator Bot [Jul 20, 1999, 08:21 am ET] – Post a Comment\
+> Version 0.96 of the Gladiator Bot is now available, described as what may indeed be the final release of this AI playmate for Quake II. Thanks [utF] Stakker. Interestingly, The Shugashack points out that there's an "elusive.cfg" in the Q3ATest .pak file, leading to speculation that the author of the Gladiator (and Quake 1's Omicron bot), Mr Elusive, may be involved in the Q3A process in some way.
+
+-- https://www.bluesnews.com/s/3783/new-gladiator-bot
+
 # v0.96 Linux and Source
 
 Released as:
@@ -412,4 +457,9 @@ Links:
 * http://tux.telefragged.com/file.pl?filename=gladq2096_linux-x86-glibc.tar.gz&dir=telefragged/be/gladiator/
 * http://tux.telefragged.com/file.pl?filename=gladq2096gamesrc.zip&dir=telefragged/be/gladiator/
 
+Mentioned on BluesNews:
 
+> Half-Life Bot & Linux Gladiator [Aug 09, 1999, 05:26 am ET] – Post a Comment\
+> A couple of bots plucked from the AI loving pages of the Bot Epidemic: The Gladiator Bot page has a new version 0.96 of the Gladiator Quake II bot for Linux. The release includes the source code, if you want to try to add the Gladiator to another mod. ...
+
+-- https://www.bluesnews.com/s/4408/half-life-bot-linux-gladiator

@@ -962,14 +962,17 @@ http://www.sunflow.com/orangesmoothie/downloads/server-2.75-linux-glibc-x86.tar.
 http://www.orangesmoothie.org/downloads/beta/server-2.75-win32-x86.zip
 http://www.sunflow.com/orangesmoothie/downloads/server-2.75-win32-x86.zip
 # tourney-1_32-FreeBSD-x86.tar.gz
+http://www.ittc.ukans.edu/~rhea/old/tourney-1_32-FreeBSD-x86.tar.gz
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-FreeBSD-x86.tar.gz
 # tourney-1_32-Linux-Alpha.tar.gz
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Linux-Alpha.tar.gz
 http://ftp.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_32-Linux-Alpha.tar.gz
 http://mirrors.telepac.pt/pub/idgames2/planetquake/osp/tourney-1_32-Linux-Alpha.tar.gz
 # tourney-1_32-Linux-x86-glibc.tar.gz
+http://www.ittc.ukans.edu/~rhea/old/tourney-1_32-Linux-x86-glibc.tar.gz
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Linux-x86-glibc.tar.gz
 # tourney-1_32-Linux-x86-libc5.tar.gz
+http://www.ittc.ukans.edu/~rhea/old/tourney-1_32-Linux-x86-libc5.tar.gz
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Linux-x86-libc5.tar.gz
 # tourney-1_32-Solaris-Sparc.tar.Z
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-Solaris-Sparc.tar.Z
