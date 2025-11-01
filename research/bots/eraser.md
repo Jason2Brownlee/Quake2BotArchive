@@ -1242,9 +1242,10 @@ Build Time              : ~200 coding, lots of hours testing
 
 Released as:
 
-* `eraser0313_patch.zip`
-* `eraser0313_patch.exe`
 * `eraser0313.exe`
+* `eraser0313.zip`
+* `eraser0313_patch.exe`
+* `eraser0313_patch.zip`
 
 Mentioned on BluesNews:
 
@@ -1424,10 +1425,10 @@ Links:
 
 Released as:
 
-* `eraser0320.zip`
 * `eraser0320.exe`
-* `eraser0320_patch.zip`
+* `eraser0320.zip`
 * `eraser0320_patch.exe`
+* `eraser0320_patch.zip`
 
 Mentioned on BluesNews:
 
@@ -1671,7 +1672,7 @@ Mentioned on BotEpidemic:
 >
 > "NOTE: If you're upgrading from and older version, you should rename all .zip files in the eraser\routes directory to .zipped. This is to avoid a nasty problem caused by a VERY LAME program called ZipFolders which prevents Win32 programs from accessing .zip files. To do this, simply open up a Dos Shell, change to the eraser\routes directory, then type:
 >
-> ren *.zip *.zipped
+> ren \*.zip \*.zipped
 
 > The Eraser can still read .zip files, but will only save them as .zipped, so unless you rename them, you'll end up with duplicate files, and hence be wasting space on your Hard Drive."
 
@@ -1996,8 +1997,8 @@ Links:
 
 Released as:
 
-* `eraser0427.zip`
 * `eraser0427.exe`
+* `eraser0427.zip`
 * `eraser0427_patch.exe`
 * `eraser0427_patch.zip`
 
@@ -2128,6 +2129,8 @@ Links:
 
 Released as:
 
+* `Eraser0505.exe`
+* `Eraser0505.zip`
 * `Eraser0505_patch.exe`
 * `Eraser0505_patch.zip`
 
@@ -2416,9 +2419,9 @@ Links:
 
 Released as:
 
-* `Eraser100_Full.exe`
 * `Eraser100.exe`
 * `Eraser100.zip`
+* `Eraser100_Full.exe`
 * `Eraser100_SRC.zip`
 
 Mentioned on Impact News:
@@ -2507,12 +2510,12 @@ Links:
 
 Released as:
 
-* `Eraser101_Full.exe`
 * `Eraser101.exe`
 * `Eraser101.zip`
-* `Eraser101_patch.zip`
+* `Eraser101_Full.exe`
 * `Eraser101_SRC.zip`
 * `Eraser101_SRC_b.zip`
+* `Eraser101_patch.zip`
 
 Mentioned on Impact News:
 
