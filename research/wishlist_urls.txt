@@ -1030,8 +1030,17 @@ http://ftp.sunet.se/planetquake/osp/tourney19990115.zip
 http://ftp.sunet.se/planetquake/tourney19990115.zip
 http://mirror.aarnet.edu.au/games/planetquake/osp/tourney19990115.zip
 http://mirror.aarnet.edu.au/games/planetquake/tourney19990115.zip
+# gladiator-tourney146.zip
+http://www.ittc.ukans.edu/~rhea/gladiator-tourney146.zip
+# server-1_15e-Win32.zip
+http://www.ittc.ukans.edu/~rhea/old/server-1_15e-Win32.zip
+# server-254-Win32-x86.zip
+http://www.ittc.ukans.edu/~rhea/server-254-Win32-x86.zip
+# tourney-1.23-19990309.zip
+http://www.ittc.ukans.edu/~rhea/old/tourney-1.23-19990309.zip
 
 # cgf
 # cgf_0_78.zip
 http://www.gpmc.demon.co.uk/cgf_0_78.zip
+
 
