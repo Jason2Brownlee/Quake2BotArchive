@@ -173,6 +173,11 @@ gladq2092gamesrca.zip
 gladq2093_win32-x86.zip
 gladq2093_linux-x86-libc5.tar.gz
 gladq2093_linux-x86-glibc.tar.gz
+gladq2094_linux-x86-glibc.tar.gz
+gladq2094_linux-x86-libc5.tar.gz
+gladq2095_linux-x86-glibc.tar.gz
+gladq2095_linux-x86-libc5.tar.gz
+gladq2095gamesrc.zip
 # guesses (unconfirmed)
 gladq201.zip
 gladq202.zip
