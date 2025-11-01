@@ -2510,6 +2510,7 @@ Links:
 
 Released as:
 
+* `Eraser101-linux.tar.gz`
 * `Eraser101.exe`
 * `Eraser101.zip`
 * `Eraser101_Full.exe`
