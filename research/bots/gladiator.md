@@ -1,5 +1,6 @@
 # Gladiator Bot
 
+Gladiator bot developed by Jan Paul van Waveren between October 1998 and July 1999.
 
 ## Homepages
 
@@ -38,6 +39,15 @@ Released as:
 
 * `gladq208.zip`
 
+Mentioned on BluesNews:
+
+> Wednesday, December 9, 1998
+>
+> Quake II Gladiator Bot  [9:35 AM EST]\
+> The first release of the Gladiator Bot for Quake II is now available, the new release from MrElusive, author of the Omicron for Quake. There is also a MrElusive interview on the Bot Epidemic.
+
+-- https://www.bluesnews.com/archives/dec98-1.html
+
 # v0.9
 
 Released as:
@@ -66,6 +76,13 @@ Mentioned on the Gladiator Bot News Page:
 > Please let us know if you find additional errors.
 
 -- [http://www.botepidemic.com/gladiator/archive_19990202_19990324.html](https://web.archive.org/web/19991009142838/http://www.botepidemic.com/gladiator/archive_19990202_19990324.html)
+
+Mentioned on BluesNews:
+
+> Gladiator Bot [Feb 13, 1999, 7:20 pm ET] – Post a Comment\
+> A new version 0.9 of the Gladiator Bot for Quake II is now available. The update adds support for Quake II: The Reckoning, Quake II Ground Zero, Rocket Arena 2, and Capture The Flag. The release also offers a new version 1.1 of the WinBSPC utility to add gladiator routes to existing maps, since routes converted with the previous version will not work with the new Gladiator.
+
+-- https://www.bluesnews.com/s/25/gladiator-bot
 
 # v0.9 Source
 
@@ -129,6 +146,12 @@ Links:
 
 * http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/gladq2091.zip
 
+Mentioned on BluesNews:
+
+> New Gladiator Bot [Mar 20, 1999, 06:38 am ET] – Post a Comment\
+> The Gladiator Bot page has a new version 0.91 of the Gladiator, the Quake II bot. The new release promises "no limitations" (not sure what that means), and has the Linux-i386 binaries are included. You can read about what's new in the readme. Thanks Dolbs.
+
+-- https://www.bluesnews.com/s/829/new-gladiator-bot
 
 # v0.91 Source
 
@@ -248,6 +271,16 @@ Mentioned on the Gladiator Bot News Page:
 
 -- [http://www.botepidemic.com/gladiator/archive_19990202_19990324.html](https://web.archive.org/web/19991009142838/http://www.botepidemic.com/gladiator/archive_19990202_19990324.html)
 
+Mentioned on the Bot Emporium:
+
+> New Gladiator Bot\
+> |Renegade|Mon:May10:99
+>
+> Got word from MrElusive that the new Gladiator Bot version 0.93 has been released. New in this version comes added patrol AI and chat interpretation, the ability for the bot to check points where players can drop, fixed CTF userinfo bug which caused the bots to shoot at human teammates, added RA2 "ra_botcycle" and "ra_playercycle" option, and more.
+> Check out the Gladiator site for more info!
+
+-- [http://planetquake.com/emporium/archived.html](https://web.archive.org/web/19991009162252/http://planetquake.com/emporium/archived.html)
+
 # v0.94
 
 Released as:
@@ -327,6 +360,10 @@ Mentioned on the Gladiator Bot News Page:
 
 # v0.96
 
+Released as:
+
+* `gladq2096_win32-x86.exe`
+
 Mentioned on the Gladiator Bot News Page:
 
 > July 20th 1999 by Squatt, MrFreeze & MrElusive
@@ -342,6 +379,12 @@ Mentioned on the Gladiator Bot News Page:
 -- [http://www.botepidemic.com/gladiator/archive_19990202_19990324.html](https://web.archive.org/web/19991009142838/http://www.botepidemic.com/gladiator/archive_19990202_19990324.html)
 
 # v0.96 Linux and Source
+
+Released as:
+
+* `gladq2096_linux-x86-libc5.tar.gz`
+* `gladq2096_linux-x86-glibc.tar.gz`
+* `gladq2096gamesrc.zip`
 
 Mentioned on the Gladiator Bot News Page:
 
