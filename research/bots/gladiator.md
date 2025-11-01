@@ -312,6 +312,13 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/cgi-bin/blammo.pl?mode=archive&display=19990509&oneday=true
 
+And again:
+
+> New Gladiator Quake II Bot [May 10, 1999, 04:41 am ET] – Post a Comment\
+> A new version 0.93 of the Gladiator Bot for Quake II is now available for Win32-x86, Linux-x86-libc5 and Linux-x86-glibc. The new version adds patrol AI and chat interpretation, and the new Gladiators understand check points which players can drop.
+
+-- https://www.bluesnews.com/s/2055/new-gladiator-quake-ii-bot
+
 # v0.94
 
 Released as:
