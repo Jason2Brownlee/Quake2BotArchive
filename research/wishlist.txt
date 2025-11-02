@@ -208,9 +208,6 @@ OakII_033.zip
 arena01.zip
 arena02.zip
 
-# acenoak
-ACEOak01.zip
-
 # ACEvsEraser
 ACEvsEraser.zip
 

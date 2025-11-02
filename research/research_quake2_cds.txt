@@ -439,5 +439,11 @@ Oh!X 1998 Spring
 	BOTS
 		QUAKE2 / 3zb
 			3rd-Zigock Bot 1.58
+CD Action 25 A
+	https://discmaster.textfiles.com/browse/23030/cdactioncoverdisc25a1998.iso/BONUS.DOS/Q&D/Q&D.EXE/QUAKE&DU/QUAKE&DU/QUAKE/Q2BOT/QUAKE2/ACENOAK
+	Bots
+		AcenOak
+
+
 
 
