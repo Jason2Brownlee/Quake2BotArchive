@@ -42,7 +42,7 @@ v0.3 	  | 19980330 (?)
 v0.33 	  | 19980422 (?)
 v0.4 	  | 19980723
 
-# Private Beta Versions
+## Private Beta Versions
 
 The bot was not public for these prior versions.
 
@@ -146,7 +146,7 @@ Version 0.03    - Added support for the skins, using new models with all the ski
 		  at you.
 ```
 
-# v0.1
+## v0.1
 
 Released as:
 
@@ -204,7 +204,7 @@ Changelog:
 		- Merged with 3.14 source from id.
 ```
 
-# v0.1a
+## v0.1a
 
 Released as:
 
@@ -251,7 +251,7 @@ Changelog:
 		- Fixed CopyToBodyQue call.
 ```
 
-# v0.2
+## v0.2
 
 Released as:
 
@@ -343,7 +343,7 @@ Changelog:
 ```
 
 
-# v0.21
+## v0.21
 
 Released as:
 
@@ -374,7 +374,7 @@ Changelog:
 		- Tweaked falling off edges, no more floating in the air.
 ```
 
-# v0.22
+## v0.22
 
 Released as:
 
@@ -397,7 +397,7 @@ Changelog:
 		- Tweaked mapping, it seems id and I disagree about what solids are.
 ```
 
-# v0.3
+## v0.3
 
 Released as:
 
@@ -436,7 +436,7 @@ Changelog:
 		- Reduced straffing move speed.
 ```
 
-# v0.33
+## v0.33
 
 Released as:
 
@@ -462,7 +462,7 @@ Changelog:
 * Version 0.33	- Minor tweaks to AI, tidying up a little code.
 ```
 
-# v0.4
+## v0.4
 
 Released as:
 
