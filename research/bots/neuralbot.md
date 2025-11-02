@@ -325,8 +325,15 @@ Links:
 
 ## References
 
+* https://www.reddit.com/r/programming/comments/15xdsa/neuralbot_a_quake_2_evolving_artificial/
 * https://www.reddit.com/user/Ono-Sendai/
 * https://github.com/Ono-Sendai
 * https://substrata.info/
 * https://glaretechnologies.com/
+* https://code.nephatrine.net/QuakeArchive/neuralbot
+* https://www.angelfire.com/mt2/quakebots/downloads.html
+* https://cesar-esweb.blogspot.com/2010/05/ejemplos-quake-ii-neuralbot-un-bot-es.html
+* https://inteligenciaartificialgrupo33.blogspot.com/p/software-de-inteligencia-artificial-idox.html
+
+
 
