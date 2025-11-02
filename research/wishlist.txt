@@ -194,7 +194,20 @@ gladq2095gamesrca.zip
 # neural not
 nbot_05.zip
 nbotsource_05.zip
-nbot_06.zip
+# guessed at versions
+nbot_01.zip
+nbotsource_01.zip
+nbot_02.zip
+nbotsource_02.zip
+nbot_03.zip
+nbotsource_03.zip
+nbot_04.zip
+nbotsource_04.zip
+# demos and maps
+nbtraining.zip
+nbdemos.zip
+olddemos.zip
+goodaim.zip
 
 # oak ii
 OakII_01.zip

@@ -416,25 +416,7 @@ http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/tel
 http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbotsource_05.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=nbotsource_05.zip&dir=telefragged/be/neuralbot/
-# nbot_06.zip
-https://dl.dropbox.com/u/8789055/nbot_06.zip
-http://203.96.147.59/~nickc/neuralbot/nbot_06.zip
-http://homepages.paradise.net.nz/nickamy/neuralbot/nbot_06.zip
-ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
-ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
-ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
-ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbot/nbot_06.zip
-ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbot/nbot_06.zip
-http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbot/nbot_06.zip
-http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
-http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
-http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
-http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
-http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
-http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbot_06.zip&filename=nbot_06.zip&dl=mirror
-http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbot_06.zip&dl=local
-http://tux.telefragged.com/file.pl?filename=nbot_06.zip&dir=telefragged/be/neuralbot/
-http://quake.quipo.it/q2crew/q2/nbot_06.zip
+
 
 # Oak II
 # OakII_01.zip
