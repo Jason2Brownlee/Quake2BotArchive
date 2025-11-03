@@ -416,7 +416,15 @@ http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/tel
 http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbotsource_05.zip&filename=nbotsource_05.zip&dl=mirror
 http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbotsource_05.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=nbotsource_05.zip&dir=telefragged/be/neuralbot/
-
+# goodaim.zip
+http://homepages.paradise.net.nz/nickamy/neuralbot/goodaim.zip
+# nbdemos.zip
+http://homepages.paradise.net.nz/nickamy/neuralbot/nbdemos.zip
+# nbtraining.zip
+http://203.96.147.59/~nickc/neuralbot/nbtraining.zip
+http://homepages.paradise.net.nz/nickamy/neuralbot/nbtraining.zip
+# olddemos.zip
+http://homepages.paradise.net.nz/nickamy/neuralbot/olddemos.zip
 
 # Oak II
 # OakII_01.zip
