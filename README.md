@@ -22,7 +22,7 @@ Bot Name | Bot Author(s) | File
 3ZB2 + KMQuake2 | "dirtdemon" | [dd3zb2_010_ctf.zip](bin/dd3zb2_010_ctf.zip)
 3ZB2 + Linux | Richard Hess | [3zb2097_glibc.zip](bin/3zb2097_glibc.zip)<br>[3ZB2-Linux.tar.bz2](bin/3ZB2-Linux.tar.bz2)<br>Quake2-QuDos-3ZB2.Linux.tar.bz2
 3ZB2 + Q2RTX | "tehnetium" | [3zb2.zip](bin/3zb2.zip)
-3rd-Zigock 1 Bot (Stupid Bot) | "ponpoko" | stp099d.zip<br>[stp099e.zip](bin/stp099e.zip)<br>[stp099f.zip](bin/stp099f.zip)<br>stp099h.zip<br>stup10p.zip<br>stup10x.zip<br>3zb149.zip<br>3zb150.zip<br>3zb151.zip<br>[3zb155.zip](bin/3zb155.zip)<br>[3zb156.zip](bin/3zb156.zip)<br>[3zb158.zip](bin/3zb158.zip)
+3rd-Zigock Bot (Stupid Bot) ([research](research/bots/3zb1.md)) | "ponpoko" | stp099d.zip<br>[stp099e.zip](bin/stp099e.zip)<br>[stp099f.zip](bin/stp099f.zip)<br>stp099h.zip<br>stup10p.zip<br>stup10x.zip<br>3zb149.zip<br>3zb150.zip<br>3zb151.zip<br>[3zb155.zip](bin/3zb155.zip)<br>[3zb156.zip](bin/3zb156.zip)<br>[3zb158.zip](bin/3zb158.zip)
 3rd-Zigock 2 Bot (3ZB2) | "ponpoko" | 3zb205beta.zip<br>[3zb2dm2x.zip](bin/3zb2dm2x.zip)<br>3zb206.zip<br>3zb207.zip<br>3zb208.zip<br>[3zb2082.zip](bin/3zb2082.zip)<br>[3zb2087.zip](bin/3zb2087.zip)<br>[3zb2088.zip](bin/3zb2088.zip)<br>3zb2089u.zip<br>3zb2093.zip<br>3zb2src93.zip<br>3zb2093_x86.zip<br>[3zbjpndoc096.zip](bin/3zbjpndoc096.zip)<br>[3zb2097.zip](bin/3zb2097.zip)<br>3zb2097b.zip<br>[3zb2097d.zip](bin/3zb2097d.zip)<br>[3zb2src97.zip](bin/3zb2src97.zip)<br>[3zb2src97LCC.zip](bin/3zb2src97LCC.zip)<br>[3zb2098.zip](bin/3zb2098.zip)
 ACEBot + BeOS | Richard Hess | [ace_x86.zip](bin/ace_x86.zip)
 ACEBot + Linux | "QuDos" | [ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
