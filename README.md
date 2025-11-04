@@ -29,7 +29,7 @@ ACEBot + Linux | "QuDos" | [ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
 ACEBot + Rogue (Linux) | "QuDos" | [Rogue-Bots.tar.bz2](bin/Rogue-Bots.tar.bz2)
 ACEBot + Xatrix (Linux) | "QuDos" | [Xatrix-Bots.tar.bz2](bin/Xatrix-Bots.tar.bz2)
 ACEBot + Zaero (Linux) | "QuDos" | [Zaero-Bots.tar.bz2](bin/Zaero-Bots.tar.bz2)
-ACEBot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>acetest.zip
+ACEBot ([research](research/bots/ace.md)) | Steve Yeager aka "Meat" | gamex86.zip<br>[ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>acetest.zip
 ACEnEraser (ACEBot + Eraser) | Steve Yeager | ACEvsEraser.zip
 ACEnOak (ACEBot + OakII) | Steve Yeager and John Crickett | [ACEOak01.zip](bin/ACEOak01.zip)
 AdionBot | Adion Coolman | [adionBot.zip](bin/adionBot.zip)

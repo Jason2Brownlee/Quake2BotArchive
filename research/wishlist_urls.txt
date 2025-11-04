@@ -21,7 +21,6 @@ http://ponpoko.tri6.net/stup10x.zip
 http://users.jp.tri6.net/~ponpoko/stup10x.zip
 http://www.jp.tri6.net/~ponpoko/stup10x.zip
 
-
 # 3rd-Zigock Bot 2
 # 3zb205beta.zip
 http://users.jp.tri6.net/~ponpoko/3zb205beta.zip
@@ -48,12 +47,18 @@ http://users.jp.tri6.net/~ponpoko/3zb2src93.zip
 http://users.jp.tri6.net/~ponpoko/3zb2ctfdemo.zip
 # please3zb2.zip
 http://users.jp.tri6.net/~ponpoko/3zb2/please3zb2.zip
+# 3zb2_user_guide_093.zip
+http://users.jp.tri6.net/~ponpoko/3zb2_user_guide_093.zip
 
 # acebot
+# gamex86.zip
+http://www.quake2.com/oak/gamex86.zip
 # ace006.zip
 http://www.quake2.com/oak/ace006.zip
 # ace006b.zip
 http://www.quake2.com/oak/ace006b.zip
+# acetest.zip
+http://www.telefragged.com/mirrors/mirrors.pl?be/acetest.zip
 
 # crbot
 # crbot09.zip
