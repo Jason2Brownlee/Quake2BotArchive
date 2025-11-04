@@ -1194,6 +1194,14 @@ Eraser101_SRC.zip
 # xdm7_rt.zip
 # xdm_rtpak.zip
 
+# eraser routes (quake2.com/botlair)
+# eraserq2dm.zip
+# q2dm1.zip
+# q2dm3.zip
+# q2dm6.zip
+# q2dm7.zip
+# q2dm8.zip
+# 2fortgro.zip
 
 # linux ports (qudos)
 Quake2-QuDos-3ZB2.Linux.tar.bz2

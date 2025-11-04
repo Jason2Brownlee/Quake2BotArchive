@@ -451,6 +451,10 @@ Mentioned on BotEpidemic:
 
 -- [http://www.botepidemic.com/archive/17apr-22apr98.html](https://web.archive.org/web/19991005184431/http://www.botepidemic.com/archive/17apr-22apr98.html)
 
+Reviewed on BotLair:
+
+* [Oak 2 Bot Review](https://web.archive.org/web/19990203050404/http://www.quake2.com/botlair/reviews/oakreview.htm)
+
 Links:
 
 * ftp://ftp.telefragged.com/pub/oak/OakII_033.zip
@@ -502,6 +506,15 @@ Mentioned on BluesNews:
 > A new version 0.4 of the Oak II Bot is out. Looks like the Oak author is going to put together a Rocket Arena 2 type mod to create bots for, since the source for RA2 is not available.
 
 -- https://www.bluesnews.com/s/233767/new-oak-ii
+
+Mentioned on BotLair:
+
+> Thursday, July 23, 1998\
+> New Oak II\
+> Spartan has released Oak II V0.4. This new version has a lot of new features and fixes. We might not see another Oak for a while because Spartan says he would like to focus more on Spartan Arena. For those of you that dont know Spartan Arena is a new mod he is developing with DrCrypt that is similar to Rocket Arena but is suppossed to have new features and be even better.
+-Genocyde
+
+-- [http://www.quake2.com:80/botlair/archives/archive9.html](https://web.archive.org/web/19990202190137/http://www.quake2.com:80/botlair/archives/archive9.html)
 
 Content of `Oak040F.zip`:
 

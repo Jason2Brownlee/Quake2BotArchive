@@ -2211,6 +2211,15 @@ Released as:
 * `Eraser0529_patch.zip`
 * `Eraser0529_patch.exe`
 
+Mentioned on BotLair:
+
+> Thursday, May 28, 1998
+>
+> ERASER\
+> The new Eraser V0.991 is finally out with source! Although ridah reports that there is a small bug with the new ctf_items command, which is no big deal. Next is most likely the final V1.0 which Ridah says should be out by next week, I can't wait. He also updated his .plan so read it.
+
+-- [http://www.quake2.com:80/botlair/archives/archive2.htm](https://web.archive.org/web/19990202095155/http://www.quake2.com:80/botlair/archives/archive2.htm)
+
 Mentioned on Redwoods:
 
 > June 02, 1998
@@ -2414,6 +2423,15 @@ Links:
 * http://impact.frag.com/files/Eraser0618_patch.exe
 * http://impact.frag.com/files/Eraser0618_patch.zip
 * http://impact.frag.com/files/EraserSRC_0618.zip
+
+Mentioned on BotLair:
+
+> Thursday, June 18, 1998
+>
+> NEW ERASER!\
+> The new Eraser V0.992 is finally out and according to Ridah this is the absolute last release before the long awaited V1.0. In case you didn't know V1.0 is the final Eraser.
+
+-- [http://www.quake2.com:80/botlair/archives/archive5.htm](https://web.archive.org/web/19990202130546/http://www.quake2.com:80/botlair/archives/archive5.htm)
 
 # v1.0
 
