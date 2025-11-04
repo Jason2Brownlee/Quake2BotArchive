@@ -50,6 +50,89 @@ http://users.jp.tri6.net/~ponpoko/3zb2/please3zb2.zip
 # 3zb2_user_guide_093.zip
 http://users.jp.tri6.net/~ponpoko/3zb2_user_guide_093.zip
 
+# 3zb routes
+# base_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/base_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/base_pk.zip
+# citycl_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/citycl_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/citycl_pk.zip
+# cmbbstr_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/cmbbstr_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/cmbbstr_pk.zip
+# cxdmx_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/cxdmx_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/cxdmx_pk.zip
+# cxxdmx_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/cxxdmx_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/cxxdmx_pk.zip
+# dm64_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/dm64_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/dm64_pk.zip
+# fact_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/fact_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/fact_pk.zip
+# hangar_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/hangar_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/hangar_pk.zip
+# ikdmx_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/ikdmx_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/ikdmx_pk.zip
+# ikdmx_pk2.zip
+http://ponpoko.tri6.net/3zb2/routes/ikdmx_pk2.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/ikdmx_pk2.zip
+# jail_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/jail_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/jail_pk.zip
+# q2dmx_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/q2dmx_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/q2dmx_pk.zip
+# retinal_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/retinal_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/retinal_pk.zip
+# spasmox_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/spasmox_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/spasmox_pk.zip
+# trdmx_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/trdmx_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/trdmx_pk.zip
+# trpower_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/trpower_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/trpower_pk.zip
+# verm0x_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/verm0x_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/verm0x_pk.zip
+# ware_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/ware_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/ware_pk.zip
+# waste_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/waste_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/waste_pk.zip
+# xatrixmap_pk1.zip
+http://ponpoko.tri6.net/3zb2/routes/xatrixmap_pk1.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/xatrixmap_pk1.zip
+# xatrixmap_pk2.zip
+http://ponpoko.tri6.net/3zb2/routes/xatrixmap_pk2.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/xatrixmap_pk2.zip
+# xatrixmap_pk3.zip
+http://ponpoko.tri6.net/3zb2/routes/xatrixmap_pk3.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/xatrixmap_pk3.zip
+# xatrixmap_pk4.zip
+http://ponpoko.tri6.net/3zb2/routes/xatrixmap_pk4.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/xatrixmap_pk4.zip
+# xdm3.zip
+http://ponpoko.tri6.net/3zb2/routes/xdm3.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/xdm3.zip
+# xdmx_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/xdmx_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/xdmx_pk.zip
+# xldmx_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/xldmx_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/xldmx_pk.zip
+# ztn2dmx_pk.zip
+http://ponpoko.tri6.net/3zb2/routes/ztn2dmx_pk.zip
+http://users.jp.tri6.net/~ponpoko/3zb2/routes/ztn2dmx_pk.zip
+
 # acebot
 # gamex86.zip
 http://www.quake2.com/oak/gamex86.zip
@@ -449,6 +532,32 @@ ftp://quake.mtu.ru/pub/quake2/bots/oakii_03.zip
 http://www.quake2.com/oak/files/OakII_03.zip
 # OakII_033.zip
 ftp://ftp.telefragged.com/pub/oak/OakII_033.zip
+# OakLch.zip
+ftp://ftp.epix.net/pub/telefragged/oak/OakLch.zip
+ftp://ftp.saix.net/pub/telefragged/oak/OakLch.zip
+ftp://ftp.telefragged.com/oak/OakLch.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/oak/OakLch.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/oak/OakLch.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/oak/OakLch.zip
+http://www.telefragged.com/mirrors/mirror.pl?oak/OakLch.zip
+# OakNodeEd.zip
+ftp://ftp.epix.net/pub/telefragged/oak/OakNodeEd.zip
+ftp://ftp.saix.net/pub/telefragged/oak/OakNodeEd.zip
+ftp://ftp.telefragged.com/oak/OakNodeEd.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/oak/OakNodeEd.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/oak/OakNodeEd.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/oak/OakNodeEd.zip
+http://www.telefragged.com/mirrors/mirror.pl?oak/OakNodeEd.zip
+# Optimise.zip
+ftp://ftp.epix.net/pub/telefragged/oak/Optimise.zip
+ftp://ftp.saix.net/pub/telefragged/oak/Optimise.zip
+ftp://ftp.telefragged.com/oak/Optimise.zip
+ftp://ftp.telefragged.com/pub/epidemic/optimise.ZIP
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/oak/Optimise.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/oak/Optimise.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/oak/Optimise.zip
+http://quake.org.pl/files/quake2/boty/oak/Optimise.zip
+http://www.telefragged.com/mirrors/mirror.pl?oak/Optimise.zip
 
 # Rocket Arena Oak
 # arena02.zip
@@ -857,6 +966,11 @@ http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser1b.zip
 http://asp.planetquake.com/dl/dl.asp?captured/weaponsfactory/wferaser34a.zip
 # wferaser3b.zip
 http://ftp.telepac.pt/pub/idgames2/planetquake/captured/weaponsfactory/wferaser3b.zip
+# 2fortme2_wf.zip
+http://botepidemic.com/q2rfd/routes/wf/wfmappack1a/2fortme2_wf.zip
+# goodspeed1wf_wf.zip
+http://botepidemic.com/q2rfd/routes/wf/wfmaps/goodspeed1wf_wf.zip
+
 
 # sabin
 # sabdemo.zip

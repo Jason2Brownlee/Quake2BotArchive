@@ -1,7 +1,6 @@
 # Quake II Bot Research
 
 ## Bots
-
 * [3ZB1](3zb1.md)
 * [3ZB2](3zb2.md)
 * [CRBot](crbot.md)
@@ -14,8 +13,13 @@
 
 ## Resources
 
+### Bot Sites
+* [Bot Epidemic](resource_botepidemic.md)
+* Bot Lair
+* Bot Emporium
+* Bot Outpost
+* Randar's Bots
+
+### Other Sites
 * [Bot Message Boards](resource_botboards.md)
 * [quake2.com](resource_quake2com.md)
-* [Bot Epidemic](resource_botepidemic.md)
-
-
