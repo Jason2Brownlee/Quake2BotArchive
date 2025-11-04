@@ -44,6 +44,8 @@ http://reality.sgi.com/rhess_engr/beos/q2/3zb2/3zb2093_x86.zip
 http://users.jp.tri6.net/~ponpoko/3zb2097b.zip
 # 3zb2src93.zip
 http://users.jp.tri6.net/~ponpoko/3zb2src93.zip
+# 3zb2ctfdemo.zip
+http://users.jp.tri6.net/~ponpoko/3zb2ctfdemo.zip
 
 # acebot
 # ace006.zip

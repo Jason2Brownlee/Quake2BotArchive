@@ -1092,8 +1092,10 @@ q2ace
 	http://www.spks.org/
 	another aimbot? pro client?
 	?
-
-
+MechBot
+	https://web.archive.org/web/20140726193524/https://forums.bots-united.com/showthread.php?p=65381
+	https://web.archive.org/web/20020822223204/http://botboard.telefragged.com/showpost.pl?Board=quake2&Number=804&page=0&view=collapsed&sb=5
+		circa 2002
 
 
 Incomplete / Insufficient Info

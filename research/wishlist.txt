@@ -19,8 +19,6 @@ stp099b.zip
 stp099c.zip
 stp099g.zip
 
-
-
 # 3rd-Zigock Bot 2
 3zb205beta.zip
 3zb207.zip
