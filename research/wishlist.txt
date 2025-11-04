@@ -32,7 +32,7 @@ stp099g.zip
 3zb2src93.zip
 3zb206.zip
 3zb2_user_guide_093.zip
-3zb2ctfdemo.zip
+please3zb2.zip
 # guesses (unconfirmed)
 3zb2081.zip
 3zb2083.zip
@@ -40,6 +40,7 @@ stp099g.zip
 3zb2085.zip
 3zb2086.zip
 3zb2090.zip
+3zb209.zip
 3zb2090c.zip
 3zb209.zip
 3zb2091.zip
