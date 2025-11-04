@@ -8,7 +8,8 @@ Hosted on telefragged.com and associated with telefragged.com/metro akak "metrop
 
 1. [http://www.telefragged.com/metro/botboard/](https://web.archive.org/web/19980626145834/http://www.telefragged.com/metro/botboard/) (archived)
 2. [http://www.telefragged.com/message_boards/metropolis/](https://web.archive.org/web/19980626091214/http://www.telefragged.com/message_boards/metropolis/) (archived)
-3. [http://botboard.telefragged.com/](https://web.archive.org/web/19991012182743/http://botboard.telefragged.com/) (archived)
+3. http://home.telefragged.com/message_boards/metro (not archived)
+4. [http://botboard.telefragged.com/](https://web.archive.org/web/19991012182743/http://botboard.telefragged.com/) (archived)
 
 
 ## Inside3d

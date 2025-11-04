@@ -1074,6 +1074,20 @@ CRBot tweaked
 		https://arton.cunst.net/quake/crbot/CRBot114.zip
 		https://arton.cunst.net/quake/crbot/Crbot_source.cab
 		Peter Chiochetti aka "Arton"
+RainBot
+	https://web.archive.org/web/20000818034919/botepidemic.com/archives/6jan99-22jan99.shtml
+	https://web.archive.org/web/20000818034919/http://fireteam.telefragged.com/
+		https://web.archive.org/web/20001013041035/http://fireteam.telefragged.com/rainbot/index.shtml
+		cancelled
+		https://web.archive.org/web/20001013041035/http://www.telefragged.com/mirrors/mirror.pl?fireteam/quake2/rain/rainbot_alpha_src.zip
+		https://web.archive.org/web/20000606040921/http://www.telefragged.com/mirrors/mirror.pl?fireteam/quake2/rain/rainbot_alpha_src.zip
+			mirrors
+				ftp://ftp.telefragged.com/fireteam/quake2/rain/rainbot_alpha_src.zip
+				ftp://ftp.epix.net/pub/telefragged/fireteam/quake2/rain/rainbot_alpha_src.zip
+				ftp://ftp.saix.net/pub/telefragged/fireteam/quake2/rain/rainbot_alpha_src.zip
+				ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/fireteam/quake2/rain/rainbot_alpha_src.zip
+				ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/fireteam/quake2/rain/rainbot_alpha_src.zip
+				ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/fireteam/quake2/rain/rainbot_alpha_src.zip
 
 
 
@@ -1096,6 +1110,9 @@ MechBot
 	https://web.archive.org/web/20140726193524/https://forums.bots-united.com/showthread.php?p=65381
 	https://web.archive.org/web/20020822223204/http://botboard.telefragged.com/showpost.pl?Board=quake2&Number=804&page=0&view=collapsed&sb=5
 		circa 2002
+
+
+
 
 
 Incomplete / Insufficient Info
