@@ -10,6 +10,7 @@
 * [Gladiator](gladiator.md)
 * [NeuralBot](neuralbot.md)
 * [OakII](oak.md)
+* [Ace Bot](ace.md)
 
 ## Resources
 

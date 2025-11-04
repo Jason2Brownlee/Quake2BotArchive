@@ -29,7 +29,7 @@ ACEBot + Linux | "QuDos" | [ACEBot.Linux.tar.bz2](bin/ACEBot.Linux.tar.bz2)
 ACEBot + Rogue (Linux) | "QuDos" | [Rogue-Bots.tar.bz2](bin/Rogue-Bots.tar.bz2)
 ACEBot + Xatrix (Linux) | "QuDos" | [Xatrix-Bots.tar.bz2](bin/Xatrix-Bots.tar.bz2)
 ACEBot + Zaero (Linux) | "QuDos" | [Zaero-Bots.tar.bz2](bin/Zaero-Bots.tar.bz2)
-ACEBot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)
+ACEBot | Steve Yeager | [ace005.zip](bin/ace005.zip)<br>ace006.zip<br>ace006b.zip<br>[acesetup.exe](bin/acesetup.exe)<br>[ace008_dll.zip](bin/ace008_dll.zip)<br>[ace008_src.zip](bin/ace008_src.zip)<br>acetest.zip
 ACEnEraser (ACEBot + Eraser) | Steve Yeager | ACEvsEraser.zip
 ACEnOak (ACEBot + OakII) | Steve Yeager and John Crickett | [ACEOak01.zip](bin/ACEOak01.zip)
 AdionBot | Adion Coolman | [adionBot.zip](bin/adionBot.zip)
@@ -108,7 +108,7 @@ Quake2 Basketball + Linux | "QuDos" | [Basketball.Linux.tar.bz2](bin/Basketball.
 Quake2 Basketball Bot | Matt Shade | [q2bball094.zip](bin/q2bball094.zip)<br>[bballsrc094.zip](bin/bballsrc094.zip)<br>[q2bball_1.zip](bin/q2bball_1.zip)<br>[bballsrc_1.zip](bin/bballsrc_1.zip)
 Quake2BotCore | Ben Swartzlander | [q2botcore.zip](bin/q2botcore.zip)<br>[q2bc_src.zip](bin/q2bc_src.zip)
 RAMBOT | Ariel Mirles aka "KRYPTYK" | rambot_v47.zip<br>[rambot_v48a.zip](bin/rambot_v48a.zip)<br>[rambot_v49.zip](bin/rambot_v49.zip)
-RainBot | "Psykotik" | [rainbot_alpha_src.zip](bin/rainbot_alpha_src.zip)
+RainBot | Charles Pence aka "Psykotik" | [rainbot_alpha_src.zip](bin/rainbot_alpha_src.zip)
 RatBot | Thomas aka "Rat_42" | [ratbot.exe](bin/ratbot.exe)
 Rocket Bot (RA2) | Manfred Nerurkar aka "Defcon-X" | [rbot06.exe](bin/rbot06.exe)<br>[rbot07.exe](bin/rbot07.exe)<br>[rbot0715.exe](bin/rbot0715.exe)<br>[rbot076.exe](bin/rbot076.exe)<br>[rbot078.exe](bin/rbot078.exe)<br>[rbot078b.exe](bin/rbot078b.exe)<br>[rbot079.exe](bin/rbot079.exe)<br>[rbot079.zip](bin/rbot079.zip)
 S.A.B.I.N. | Terry Hendrix aka "Mongoose" | sabdemo.zip<br>sabin971230.exe<br>24_1_98.zip<br>sabin980128.exe<br>sabin980130.exe<br>sabin980221.exe<br>sabin290398.rar<br>sabin980320.rar<br>sabin980505.rar<br>sabin980510.rar<br>sabin980611.zip<br>sabin980615-update.zip<br>sabin980620-vwep-update.zip<br>sabin980721.zip<br>sabin_linux.tar.gz<br>sabin_ctf_demo.zip<br>sabin_demo.zip<br>sabin_plan_demo.zip<br>sabin980723-linux-src.zip<br>sabin980723-test.exe<br>sabin980724-test.exe

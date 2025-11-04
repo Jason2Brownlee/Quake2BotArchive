@@ -1088,7 +1088,9 @@ RainBot
 				ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/fireteam/quake2/rain/rainbot_alpha_src.zip
 				ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/fireteam/quake2/rain/rainbot_alpha_src.zip
 				ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/fireteam/quake2/rain/rainbot_alpha_src.zip
-
+	team
+		https://web.archive.org/web/20001012080204/http://fireteam.telefragged.com/fireteam/index.shtml
+			Charles 'Psykotik' Pence
 
 
 TODO

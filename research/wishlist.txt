@@ -52,6 +52,7 @@ please3zb2.zip
 # acebot
 ace006.zip
 ace006b.zip
+acetest.zip
 # guesses (unconfirmed)
 ace004.zip
 ace003.zip
