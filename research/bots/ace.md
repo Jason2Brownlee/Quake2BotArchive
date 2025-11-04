@@ -15,10 +15,9 @@ Ace+Oak 		| 19980312
 0.06b 			| 19980315 (?)
 0.07 			| 19980414 (?)
 Ace+Eraser 	 	| 19980419 (?)
-0.08 			| ?
-0.08 src 		| ?
 ACE II test		| 19990106 (?)
-
+0.08 			| 19990304 (?)
+0.08 src 		| 19990615 (?)
 
 ## Homepages
 
@@ -243,6 +242,30 @@ Links:
 * http://www.telefragged.com/oak/ace.html
 * http://www.telefragged.com/oak/files/acesetup.exe
 
+Listed on Steve's Homepage:
+
+> Version 007b Download now! (574k)
+>
+> This is the original ACE Bot that has been around for quite a while.
+>
+> It supports:
+>
+> * Easy to use setup program.
+> * New "Autobot" frontend included.
+> * Support for CTF, teleporters, ladders, swimming, and the grappling hook.
+> * "BotBrain" (Shows the bot in action).Full Client Emulation.
+> * Complex Level Navigation.
+> * Support for CTF, Teamplay, and use of all Game Items.
+> * Fuzzy logic decision making.
+> * Built-in pathing editor.
+> * Skill Levels
+
+-- [http://www.axionfx.com/ace/](https://web.archive.org/web/20000817072317/http://www.axionfx.com/ace/)
+
+Links:
+
+* http://www.axionfx.com/ace/Downloads/acesetup.exe
+
 Timestamps from inspecting the contents of `acesetup.exe` are all "1999-03-24".
 
 Content of `acesetup.exe` (after extracting, this messes up the timestamps):
@@ -316,9 +339,75 @@ Mentioned on BotEpidemic:
 
 -- [http://www.botepidemic.com/archive/23apr-27apr98.html](https://web.archive.org/web/19991006005705/http://www.botepidemic.com/archive/23apr-27apr98.html)
 
+## Ace II
+
+Released as `acetest.zip`.
+
+Mentioned on BotEpidemic:
+
+> Wednesday 6th January '99
+>
+> ACE II News/Demo  update by cube\
+>Yesterday 3ZB II, today ACE II. Steve Yeager sent this info on what he's been doing over the holidays:
+
+>> ACE II
+>>
+>> - Built on 3.20 src.
+>> - CTF support.
+>> - Full client emulation.
+>> - New navigation method, very fast and supports the 64 player maps with ease.
+>> - New movement code.
+>> - New goal decision logic.
+>>
+>> Basically, I took apart the original ACE source and rebuilt the parts that I thought really sucked. The navigation and movement code were complete rewritten to accommodate a new method I developed (which can be read about on BotAid). No more slowdowns on the larger maps, and the accuracy of the ACE bot's movement are vastly improved. I also simplified the goal selection and combat AI so they basically work as well as the original ACE, but will allow better functions to be dropped in to improve the bots abilities. Probably the best news is that I will be releasing the source code once the last few bugs are cleaned up. That's right the entire source, which should allow anyone who wants to add ACE bots to their mods very simple, or to create all new bots based on ACE. The ACE bot source hooks into the original id source with only about 15 simple id source code changes. As for a release date all I can say is "Real Soon Now".
+>
+> And if that wasn't enough Steve also sent along a demo for posting, which you can get hold of here.
+
+-- [botepidemic.com/archives/6jan99-22jan99.shtml](https://web.archive.org/web/20000818034919/botepidemic.com/archives/6jan99-22jan99.shtml)
+
+Links:
+
+* http://www.telefragged.com/mirrors/mirrors.pl?be/acetest.zip
+
 ## v0.08
 
 Released as `ace008_dll.zip`.
+
+Listed on Steve's Homepage:
+
+> Finally.....this may now be a little dated, but I got off my lazy ass to release it.... (Steve 6/10/99)
+>
+> Here you can download the latest ACE Bots.  If you want to know more about ACE or the other Q2 bots out there, there are much better sites than this that will tell you a heck of a lot more about Bots, for example Bot Epidemic or Bot Emporium.
+>
+> If you want to visit my main site, go here.
+>
+> On with the bots....
+
+And:
+
+> Version 008 (Base Bot) Download now
+>
+> This is a compiled version the new ACE Bot base code.  It is simply the main 3.2 dll zipped and currently does not contain a launcher or > setup program. For installation, read the readme.txt file included in the zip.
+>
+> I have completely rewritten many of the bot's internals including a brand spanking new pathing system.
+>
+> It supports:
+>
+> * 3.20 version of source.
+> * Spectator mode.
+> * Setup Program.
+> * Autobot Launcher.
+> * Support for CTF.
+> * Client movement.
+> * New pathing system.
+> * Dynamic skill levels. (set starting skill, bots adjusts during play)
+> * Source code available.
+
+-- [http://www.axionfx.com/ace/](https://web.archive.org/web/20000817072317/http://www.axionfx.com/ace/)
+
+Links:
+
+* http://www.axionfx.com/ace/downloads/ace008_dll.zip
 
 Reviewed on Randars:
 
@@ -351,40 +440,26 @@ Current Version:
 Version 008
 ```
 
-## Ace II
-
-Released as `acetest.zip`.
-
-Mentioned on BotEpidemic:
-
-> Wednesday 6th January '99
->
-> ACE II News/Demo  update by cube\
->Yesterday 3ZB II, today ACE II. Steve Yeager sent this info on what he's been doing over the holidays:
-
->> ACE II
->>
->> - Built on 3.20 src.
->> - CTF support.
->> - Full client emulation.
->> - New navigation method, very fast and supports the 64 player maps with ease.
->> - New movement code.
->> - New goal decision logic.
->>
->> Basically, I took apart the original ACE source and rebuilt the parts that I thought really sucked. The navigation and movement code were complete rewritten to accommodate a new method I developed (which can be read about on BotAid). No more slowdowns on the larger maps, and the accuracy of the ACE bot's movement are vastly improved. I also simplified the goal selection and combat AI so they basically work as well as the original ACE, but will allow better functions to be dropped in to improve the bots abilities. Probably the best news is that I will be releasing the source code once the last few bugs are cleaned up. That's right the entire source, which should allow anyone who wants to add ACE bots to their mods very simple, or to create all new bots based on ACE. The ACE bot source hooks into the original id source with only about 15 simple id source code changes. As for a release date all I can say is "Real Soon Now".
->
-> And if that wasn't enough Steve also sent along a demo for posting, which you can get hold of here.
-
--- [botepidemic.com/archives/6jan99-22jan99.shtml](https://web.archive.org/web/20000818034919/botepidemic.com/archives/6jan99-22jan99.shtml)
-
-Links:
-
-* http://www.telefragged.com/mirrors/mirrors.pl?be/acetest.zip
-
 
 ## v0.08 Source
 
 Released as `ace008_src.zip`.
+
+Listed on Steve's Homepage:
+
+> Version 008 (Base Bot Source) Download now
+>
+> This is the full source for the ACE Base Bot.  All of the relevant information is in the source and any bot constructed from this base code must mention that it was based on the ACE Base code. I think you will find it quite easy to add this source to any other mod out there. It was compiled under VC++ 6.0.
+>
+> This bot, like ACE 007, is one of the few out there to truly use client emulation, for which I credit the SABIN dudes for showing me the last pieces of the puzzle I needed to get it to work.  You'll find that by using client emulation and environmental sampling most of what was done to get the bot to work can be ported very easily to other 3d engines.  There is a simplified vision system for local navigation (roaming and obstacle avoidance) and a pathing system for level navigation. Most of the other internal AI routines have been simplified and may not provide the same level of intelligent decision making that the original ACE had, but serve to demonstrate just how good the base code actually is. Since the source has now been released, you are free to change the AI as you see fit.  Someday I may get around to releasing some of the test bots I wrote with things such as Neural Net AI, or GA AI.  Both of those AI systems are not really finished and more of an experiment to make each bot have a unique personality and not appear like the same old ordinary bot.
+>
+> NOTE: I will not answer any questions from newbie coders, such as "how do I compile? or what the heck is 'C'?" , but if you have any advanced questions please feel free to email me at syeager@axionfx.com.
+
+-- [http://www.axionfx.com/ace/](https://web.archive.org/web/20000817072317/http://www.axionfx.com/ace/)
+
+Links:
+
+* http://www.axionfx.com/ace/downloads/ace008_src.zip
 
 Contents of `ace008_src.zip`:
 
