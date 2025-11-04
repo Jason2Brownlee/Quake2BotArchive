@@ -6,9 +6,9 @@ Developed by Steve Yeager aka "Meat" in 1998.
 
 Version         | Date
 --------------- | -----
-0.02 			| ?
-0.03 			| ?
-0.04 			| 19980225 (?)
+0.02 			| 19980225 (?)
+0.03 			| n/a
+0.04 			| n/a
 0.05 			| 19980302
 0.06 			| 19980306 (?)
 Ace+Oak 		| 19980312
@@ -32,17 +32,9 @@ ACE II test		| 19990106 (?)
 
 ## v0.02
 
-?
-
-## v0.03
-
-?
-
-## v0.04
-
 Released as `gamex86.zip`.
 
-This might be v0.04 mentioned on BotEpidemic:
+Mentioned on BotEpidemic:
 
 > Wednesday 25th Feb '98 GMT
 >
@@ -59,6 +51,14 @@ Links:
 * http://www.quake2.com/oak
 * http://www.quake2.com/oak/ace.html
 * http://www.quake2.com/oak/gamex86.zip
+
+## v0.03
+
+Never Released (according to changelog).
+
+## v0.04
+
+Never Released (according to changelog).
 
 ## v0.05
 
