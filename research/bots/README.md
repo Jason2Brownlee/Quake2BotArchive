@@ -19,7 +19,7 @@
 * [Bot Emporium](resource_botemporium.md) (planetquake.com/emporium)
 * [Bot Outpost](resource_botoutpost.md) (planetquake.com/outpost)
 * Randar's Bots (randars.com)
-* SkullPlate's Bots (inside3d.com/bot)
+* [SkullPlate's Bots](resource_skullplates.md) (inside3d.com/bot)
 * CTFBot Central (captured.com/bot)
 * Skynet (afterquake.com/skynet)
 * German Bot Page (swissquake.ch/botpage)

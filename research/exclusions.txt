@@ -90,5 +90,7 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetcnc/editors/u
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetcnc/files/ra/utilities/ultra.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/strategyplanet/rctuk/zip/ultra.zip
 https://youfailit.net/pub/idgames/levels/doom2/s-u/ultra.zip
-
+http://cd.textfiles.com/carousel344/012/OPTIMISE.ZIP
+http://cd.textfiles.com/originalsw/8/optimise.zip
+http://web.ukonline.co.uk/oliver.cook/netbar/demos/NBDemoS.zip
 

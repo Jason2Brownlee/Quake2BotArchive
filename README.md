@@ -120,6 +120,23 @@ ZBot (Zappa Bot) | Jörgen Karlsson aka "Zappa" | [zbotq2.zip](bin/zbotq2.zip)<b
 ZBot (modified) | "=\_Extor\_=" | [zbot06k.zip](bin/zbot06k.zip)<br>zbot07k.zip<br>[zbot08k.zip](bin/zbot08k.zip)<br>[zbot09k.zip](bin/zbot09k.zip)<br>[zbot10.zip](bin/zbot10.zip)
 ZBot (modified) | Zorlac Meister | [zbot10m1.zip](bin/zbot10m1.zip)<br>[zbot10m2.zip](bin/zbot10m2.zip)
 
+## Routes
+
+Many bots require routes to navigate the levels.
+
+You can find route files, and attritional bot files in subdirectories under the [bin/](bin/) directory, for example:
+
+* [3z2b](bin/3z2b)
+* [ace](bin/ace)
+* [eraser](bin/eraser)
+* [wp](bin/wf)
+
+You can see all research into bots and bot websites here:
+
+* [Quake Bot Research](research/bots/README.md)
+* [Bot Notes](research/bot_botes.txt
+* [Bots on Quake2 Addon CDs](research/research_quake2_cds.txt)
+
 ## Help
 
 Perhaps you can help to make this archive more complete.
