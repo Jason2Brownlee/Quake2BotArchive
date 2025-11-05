@@ -15,10 +15,11 @@
 
 ### Bot Sites
 * [Bot Epidemic](resource_botepidemic.md)
-* Bot Lair
+* [Bot Lair](resource_botlair.md)
 * Bot Emporium
 * Bot Outpost
 * Randar's Bots
+* SkullPlate's Bots
 
 ### Other Sites
 * [Bot Message Boards](resource_botboards.md)
