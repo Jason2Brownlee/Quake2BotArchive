@@ -11,6 +11,9 @@ Hosted on telefragged.com and associated with telefragged.com/metro akak "metrop
 3. http://home.telefragged.com/message_boards/metro (not archived)
 4. [http://botboard.telefragged.com/](https://web.archive.org/web/19991012182743/http://botboard.telefragged.com/) (archived)
 
+## BotEpidemic
+
+1. quake2.com/epidemic/wwwboard/ (not archived)
 
 ## Inside3d
 

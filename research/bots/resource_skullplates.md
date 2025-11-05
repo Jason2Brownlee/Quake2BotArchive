@@ -1,6 +1,5 @@
 # SkullPlate's Bots
 
-
 ## Homepage
 
 * http://www.inside3d.com/bot/ (not archived)
@@ -25,3 +24,10 @@ Some news to give a flavor of the site:
 > SkullPlate's Quake II Bot Page offers 168 route tables for the Eraser Bot to quickly teach your AI friend maps including those from id, CTF, LM CTF, and other user levels instead of taking the time (as long as 20 minutes) to generate your own tables.
 
 -- https://www.bluesnews.com/s/231690/eraser-routes
+
+> Monday, April 13 4:03pm
+>
+> Eraser Routes:\
+> SkullPlate's Quake2 page is offering the routing tables for 168 different Quake2 map for you to plugin to your Eraser Bot instead of having to go through the maps yourself. this includes of course all the Q2 maps, CTF maps, DM maps, and several of the more popular user maps.
+
+-- [http://www.shugashack.com/archives/ap18_ap12.](https://web.archive.org/web/20000816012132/http://www.shugashack.com/archives/ap18_ap12.htm)

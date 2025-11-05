@@ -126,15 +126,15 @@ Many bots require routes to navigate the levels.
 
 You can find route files, and attritional bot files in subdirectories under the [bin/](bin/) directory, for example:
 
-* [3z2b](bin/3z2b)
-* [ace](bin/ace)
-* [eraser](bin/eraser)
-* [wp](bin/wf)
+* [bin/3z2b/](bin/3z2b)
+* [bin/ace/](bin/ace)
+* [bin/eraser/](bin/eraser)
+* [bin/wp/](bin/wf)
 
 You can see all research into bots and bot websites here:
 
 * [Quake Bot Research](research/bots/README.md)
-* [Bot Notes](research/bot_botes.txt
+* [Bot Notes](research/bot_botes.txt)
 * [Bots on Quake2 Addon CDs](research/research_quake2_cds.txt)
 
 ## Help

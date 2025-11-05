@@ -328,6 +328,15 @@ Links:
 
 * http://www.telefragged.com/oak/files/ACEvsEraser.zip
 
+Mentioned on ShugaShack:
+
+> Monday, April 20 10:01pm
+>
+> ACEnEraser Bot\
+> Steve stevey@jps.net, the author of the ACE bot, has released a mod which contains both the ACE and Eraser combined (hence the name ACEnEraser). It is a beta and only recommended for experienced bot users. Both bots can still use all the commands they normally have in their seperate versions such as ACE's Bot Brain. the ACE page is; www.telefragged.com/oak/ace.html Copies of ACE 0.07 and Eraser 0.92 are required to use the mod. Check out the Bot Epidimic
+
+-- [http://www.shugashack.com/archives/a25_a20.htm](https://web.archive.org/web/20000816012127/http://www.shugashack.com/archives/a25_a20.htm)
+
 ## New Homepage
 
 Mentioned on BotEpidemic:
