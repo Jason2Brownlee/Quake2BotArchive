@@ -129,6 +129,7 @@ You can find route files, and attritional bot files in subdirectories under the 
 * [bin/3z2b/](bin/3z2b)
 * [bin/ace/](bin/ace)
 * [bin/eraser/](bin/eraser)
+* [bin/gladiator/](bin/gladiator)
 * [bin/wp/](bin/wf)
 
 You can see all research into bots and bot websites here:
