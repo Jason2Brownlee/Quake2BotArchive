@@ -36,4 +36,4 @@ Homepage:
 
 ## Related
 
-* [Q2RFDi aka Quake2 Route File Depot interactive](https://web.archive.org/web/20040728191729/http://planetquake.com/borderfield/q2rfdi.htm)
+* [Q2RFDi](https://web.archive.org/web/20000118075343/http://planetquake.com:80/borderfield/q2rfdi.shtml)

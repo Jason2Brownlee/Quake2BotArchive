@@ -18,7 +18,7 @@
 * [Bot Lair](resource_botlair.md) (quake2.com/botlair)
 * [Bot Emporium](resource_botemporium.md) (planetquake.com/emporium)
 * [Bot Outpost](resource_botoutpost.md) (planetquake.com/outpost)
-* Randar's Bots (randars.com)
+* [Randar's Bots](resource_randars.md) (randars.com)
 * [SkullPlate's Bots](resource_skullplates.md) (inside3d.com/bot)
 * CTFBot Central (captured.com/bot)
 * Skynet (afterquake.com/skynet)
@@ -31,3 +31,8 @@
 * [Bot Message Boards](resource_botboards.md)
 * [quake2.com](resource_quake2com.md)
 * [Code Tutorials](resource_tutorials.md)
+
+## Links
+* [Quake II DM Bot Cave](https://www.angelfire.com/mt2/quakebots/)
+* [Randar's Bots](http://www.randars.com/bots/)
+
