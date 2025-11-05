@@ -14,12 +14,17 @@
 ## Resources
 
 ### Bot Sites
-* [Bot Epidemic](resource_botepidemic.md)
-* [Bot Lair](resource_botlair.md)
-* Bot Emporium
-* Bot Outpost
-* Randar's Bots
-* SkullPlate's Bots
+* [Bot Epidemic](resource_botepidemic.md) (botepidemic.com)
+* [Bot Lair](resource_botlair.md) (quake2.com/botlair)
+* [Bot Emporium](resource_botemporium.md) (planetquake.com/emporium)
+* Bot Outpost (planetquake.com/outpost)
+* Randar's Bots (randars.com)
+* SkullPlate's Bots (inside3d.com/bot)
+* CTFBot Central (captured.com/bot)
+* Skynet (afterquake.com/skynet)
+* German Bot Page (swissquake.ch/botpage)
+* Fred's Quake II Route File Depot (botepidemic.com/q2rfd)
+* Bot Aid (botepidemic.com/aid)
 
 ### Other Sites
 * [Bot Message Boards](resource_botboards.md)
