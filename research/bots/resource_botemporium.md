@@ -20,6 +20,13 @@ planetquake.com/emporium:
 
 ## Modern Archives
 
+FTP mirrors:
+
 * https://www.gamers.org/pub/idgames2/planetquake/emporium/
 * https://www.quaddicted.com/files/idgames2/planetquake/emporium/
+* https://dukeworld.com/planetquake/emporium/
+
+WWW mirrors:
+
+* [http://www.quakeworld.com/emporium/](https://web.archive.org/web/20010519021009/http://www.quakeworld.com/emporium/)
 
