@@ -573,6 +573,25 @@ Changelog:
 * Version 0.4	- Tweaked weightings.
 ```
 
+## Source
+
+It looks like the source code for the bot was not released.
+
+There is mention of the source code on the Jager Bot webpage:
+
+> Use Oak Bot Base
+
+Which links to:
+
+* http://www.geocities.com/SiliconValley/Haven/6020/oaksrc.zip
+
+From:
+
+-- [http://www.geocities.com/SiliconValley/Haven/6020/](https://web.archive.org/web/20010519141901/http://www.geocities.com/SiliconValley/Haven/6020/)
+
+I suspect that this code comes from the Oak II bot code tutorials:
+
+* [http://www.quake2.com/dll/tutorials/index.html](https://web.archive.org/web/20010617040454/http://www.quake2.com/dll/tutorials/index.html)
 
 ## References
 

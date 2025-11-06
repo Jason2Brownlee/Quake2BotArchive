@@ -216,6 +216,7 @@ OakII_033.zip
 OakLch.zip
 Optimise.zip
 OakNodeEd.zip
+oaksrc.zip
 
 # Rocket Arena Oak
 arena01.zip
