@@ -124,18 +124,19 @@ ZBot (modified) | Zorlac Meister | [zbot10m1.zip](bin/zbot10m1.zip)<br>[zbot10m2
 
 Many bots require routes to navigate the levels.
 
-You can find route files, and attritional bot files in subdirectories under the [bin/](bin/) directory, for example:
+You can find route files, and additional bot files in subdirectories under the [bin/](bin/) directory, for example:
 
 * [bin/3z2b/](bin/3z2b)
 * [bin/ace/](bin/ace)
 * [bin/eraser/](bin/eraser)
 * [bin/gladiator/](bin/gladiator)
+* [bin/secant/](bin/secant)
 * [bin/wp/](bin/wf)
 
 You can see all research into bots and bot websites here:
 
 * [Quake Bot Research](research/bots/README.md)
-* [Bot Notes](research/bot_botes.txt)
+* [Bot Notes](research/bot_notes.txt)
 * [Bots on Quake2 Addon CDs](research/research_quake2_cds.txt)
 
 ## Help
