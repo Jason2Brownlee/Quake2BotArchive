@@ -290,6 +290,7 @@ bbqbotv04.zip
 update103_linux.zip
 
 # cgf / action quake2
+cgfbeta5.zip
 cgf_0_78.zip
 cgf_0_78u.zip
 cgf_0_77.zip

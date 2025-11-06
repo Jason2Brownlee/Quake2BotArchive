@@ -610,6 +610,9 @@ Computer Generated Forces (Action Quake2)
 			https://web.archive.org/web/20000104010518/http://www.botepidemic.com:80/aid/cgf/docs/cgf_0_81.txt
 		https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
 		https://dondeq2.com/2019/01/04/computer-generated-forces-cgf-for-action-quake-2-bots-mission-tactics-and-scripting-in-action/
+		home.iae.nl/users/sterren
+			https://web.archive.org/web/20010522062945/http://home.iae.nl/users/sterren/
+			https://web.archive.org/web/20010522062945/http://home.iae.nl/users/sterren/cgfbeta5.zip
 Licensed To Kill (LTK) (Action Quake2)
 	Author: RiEvEr
 	planetquake.com/maxtron/ltk

@@ -24,7 +24,7 @@
 * [SkyNet Robotic Press](resource_skynet.md) (afterquake.com/skynet)
 * [Die deutsche Quake II Bot Page](resource_diedeutsche.md) (swissquake.ch/botpage)
 * [Fred's Quake II Route File Depot](resource_q2rfd.md) (botepidemic.com/q2rfd)
-* Bot Aid (botepidemic.com/aid)
+* [Bot Aid](resource_botaid.md) (botepidemic.com/aid)
 * [Groove's Bot Page](resource_grooves.md) (groove.quake2.co.uk)
 
 ### Other Sites
