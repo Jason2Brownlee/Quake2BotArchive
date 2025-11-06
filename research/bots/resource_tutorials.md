@@ -17,15 +17,15 @@ Tutorials:
 * [Lesson 3: You shoot me, I shoot you!](https://web.archive.org/web/20010716180705/http://www.planetquake.com/tangential/Lesson_03.html)
 * [Lesson 4: You can run but you cannot hide!](https://web.archive.org/web/20010716183721/http://www.planetquake.com/tangential/Lesson_04.html)
 
-### Quake Devels
-
-* [http://www.planetquake.com/qDevels/](https://web.archive.org/web/20010707051641/http://www.planetquake.com/qDevels/)
-
 ### Quake2 DLL
 
 * [http://www.quake2.com/dll/](https://web.archive.org/web/20010603015637/http://www.quake2.com/dll/)
 * [Tutorials](https://web.archive.org/web/20010617040454/http://www.quake2.com/dll/tutorials/index.html)
 * [GreyBear's Quake 2 Tutorials](https://web.archive.org/web/20010629031721/http://www.quake2.com/dll/tutorials/gbt_title.html)
+
+This site is still live (at the time of writing):
+
+* http://www.quake2.com/dll/
 
 OAK II Bot Tutorials:
 * [Lesson 1: Spawning a bot -- the basics.](https://web.archive.org/web/20010414024046/http://www.quake2.com/dll/tutorials/bot/oak1.html)
@@ -65,6 +65,10 @@ Most of the tutorials were not archived.
 * Bot-Fire BFG
 * [Bot-NUKE!!!](https://web.archive.org/web/20001013145534fw_/http://geocities.com/SiliconValley/Haven/6020/bot11.html)
 
+### Other
+
+* [Modding the Quake II Remastered source code](https://schnapple.com/2023/08/14/modding-the-quake-ii-remastered-source-code/) (bot on the new code base)
+
 ## Code Tutorials
 
 ### Quake Devels
@@ -85,5 +89,14 @@ So many tutorials.
 * [http://quakestyle.telefragged.com/tuts.shtml](https://web.archive.org/web/20010802060058/http://quakestyle.telefragged.com/tuts.shtml)
 
 
+### Quake Workshop
 
+* http://www.quake2.com/qworkshop/tutorials/tutorials.htm (still live)
+
+### Other
+
+e.g. quake1 and engine coding
+
+* [QuakeSrc](https://web.archive.org/web/20061101224848/http://www.quakesrc.org/tutorials/old)
+* [Quake II Rerelease Game Source](https://github.com/id-Software/quake2-rerelease-dll)
 
