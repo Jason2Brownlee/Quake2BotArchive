@@ -1,10 +1,9 @@
-# Bot Code Tutorials
+# Quake II Programming Tutorials
 
 With a focus on bot programming tutorials.
 
 
 ## Bot Tutorials
-
 
 ### Tangential
 
