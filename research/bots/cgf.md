@@ -1,6 +1,6 @@
 # Computer Generated Forces (CGF)
 
-Computer Generated Forced bot for Action Quake 2 by William van der Sterren developed between Feb 1999 and December 1999.
+Computer Generated Forced bot for Action Quake 2 by William van der Sterren developed between January 1999 and December 1999.
 
 ## Release Chronology (reconstructed)
 
@@ -18,7 +18,7 @@ v0.81           | 19991225
 
 * http://www.iae.nl/users/sterren (not arcived)
 	* https://web.archive.org/web/*/http://www.iae.nl/users/sterren*
-* [home.iae.nl/users/sterren/](https://web.archive.org/web/20010522062945/http://home.iae.nl/users/sterren/)
+* [http://home.iae.nl/users/sterren/](https://web.archive.org/web/20010522062945/http://home.iae.nl/users/sterren/)
 	* https://web.archive.org/web/*/http://home.iae.nl/users/sterren/*
 * [http://www.botepidemic.com/aid/cgf/](https://web.archive.org/web/20000815235517fw/http://www.botepidemic.com/aid/cgf/)
 	* https://web.archive.org/web/*/http://www.botepidemic.com/aid/cgf/*
@@ -35,34 +35,50 @@ Related:
 * https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/action/
 * https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/cineplex/
 
-## Announcement
+## Early Announcement
 
-> March 30, 1999
->
-> Welcome to the CGF for ActionQ2 site. All the info on the upcoming ActionQ2 bots, illustrated by lots of screen shots!
-> Alas, no bots to download yet, but I'm making steady progress (and have reduced my AQ2 on-line hours :( to spend more time with the bots).
-> Expect to hear a release date in the first week of May.
->
-> I aim to update the site every week, to keep you posted on the progress. Meanwhile, have a look at the ideas behind CGF and the planned features.
->
-> This site wouldn't be here without the help of Telefragged (the big mama for many of the ActionQ2 sites), the input and design of Cube (site, logo and the action flick style image rotation in the sidebar), and the many gamers who sent encouraging emails and offered support.
->
-> William
+Mentioned on ActionQuake2:
 
--- [http://www.botepidemic.com/aid/cgf/news_99marapr.shtml](https://web.archive.org/web/19990825102855/http://www.botepidemic.com/aid/cgf/news_99marapr.shtml)
-
-> 7th April 1999 - CGF site hosted.
+> Sunday, January 24th Nobody messes with Suislide foo! (5:13 AM EST)
 >
-> Again apologies. While John seems to be sucked into real life AI work (or busy waiting for the Half-Life SDK :)), I've been too busy as well...
-As a result, now present at this site is my ongoing work on a combination of bots, missions, tactics and scripting for Action Quake2 : CGF.
->
-> --William
+> Third, there is no bot that works with action quake yet but there is one being worked on by someone and I assure you when it is done I will announce it on this page.
 
--- [http://www.botepidemic.com/aid/menuindex.html](https://web.archive.org/web/20000226053758/http://www.botepidemic.com:80/aid/menuindex.html)
+-- [http://action.telefragged.com/january1999news.html](https://web.archive.org/web/19991023133611/http://action.telefragged.com:80/january1999news.html)
+
+Mentioned on BotEpidemic:
+
+> Monday January 25th 1998
+>
+> Action Quake II Bot cube @ 06:48
+> This taken from the Action Quake II site:
+>
+>> ...there is no bot that works with action quake yet but there is one being worked on by someone and I assure you when it is done I will announce it on this page.
+
+-- [http://www.botepidemic.com/](https://web.archive.org/web/19990125093758/http://www.botepidemic.com/)
 
 ## Preview
 
 Released as `aq2botpreview.zip`.
+
+Mentioned on BotEpidemic:
+
+> Sunday February 7th 1999
+>
+> Computer Generated Forces Movie/Preview cube @ 06:43\
+> Over on the Action Quake II they have a 5 minute movie posted, showing the upcoming AQ2 bots (William van der Sterren's CGF) in action. There's a big quote from William on there, plus Suislide's thoughts on playing the beta's of CGF. I am one of the three beta testers and thanks to that over the past month or so I've been playing it (hard job but someone's got to do it) and also over the past few weeks been writing a three page preview of it (this was what I was talking about yesterday), which you can find here. The movie is linked above, although you will need the full copy of AQ2 (available from the AQ2 site) and the Urban map (find it on the AQ2 MapDepot).
+
+-- [http://www.botepidemic.com/](https://web.archive.org/web/19990208011826/http://www.botepidemic.com/)
+
+Link:
+
+* http://www.telefragged.com/mirrors/mirror.pl?action/aq2botpreview.zip
+
+Preview on Bot Epidemic:
+
+* [CGF Preview Index](https://web.archive.org/web/19990508092228/http://www.botepidemic.com/previews/cgf.shtml)
+	* [CGF Preview 1](https://web.archive.org/web/19991018232930/http://www.botepidemic.com/previews/cgf1.shtml)
+	* [CGF Preview || Cube Takes on CGF](https://web.archive.org/web/19990508102907/http://www.botepidemic.com/previews/cgf2.shtml)
+	* [CGF Preview || Page III](https://web.archive.org/web/19991007233223/http://www.botepidemic.com/previews/cgf3.shtml)
 
 Listed on homepage:
 
@@ -104,6 +120,31 @@ cgfbeta5.zip            09-Mar-1999 00:31   464k
 ```
 
 -- [http://home.iae.nl/users/sterren/](https://web.archive.org/web/20010522062945/http://home.iae.nl/users/sterren/)
+
+## Homepage Announcement
+
+> March 30, 1999
+>
+> Welcome to the CGF for ActionQ2 site. All the info on the upcoming ActionQ2 bots, illustrated by lots of screen shots!
+> Alas, no bots to download yet, but I'm making steady progress (and have reduced my AQ2 on-line hours :( to spend more time with the bots).
+> Expect to hear a release date in the first week of May.
+>
+> I aim to update the site every week, to keep you posted on the progress. Meanwhile, have a look at the ideas behind CGF and the planned features.
+>
+> This site wouldn't be here without the help of Telefragged (the big mama for many of the ActionQ2 sites), the input and design of Cube (site, logo and the action flick style image rotation in the sidebar), and the many gamers who sent encouraging emails and offered support.
+>
+> William
+
+-- [http://www.botepidemic.com/aid/cgf/news_99marapr.shtml](https://web.archive.org/web/19990825102855/http://www.botepidemic.com/aid/cgf/news_99marapr.shtml)
+
+> 7th April 1999 - CGF site hosted.
+>
+> Again apologies. While John seems to be sucked into real life AI work (or busy waiting for the Half-Life SDK :)), I've been too busy as well...
+As a result, now present at this site is my ongoing work on a combination of bots, missions, tactics and scripting for Action Quake2 : CGF.
+>
+> --William
+
+-- [http://www.botepidemic.com/aid/menuindex.html](https://web.archive.org/web/20000226053758/http://www.botepidemic.com:80/aid/menuindex.html)
 
 ## v0.77
 
