@@ -40,7 +40,7 @@ BorrAdor BoT | Siro aka "BJAM" | borrador-bin.zip<br>[borrador-2.0-bin.zip](bin/
 CRBot ([research](research/bots/crbot.md)) | Mike Malakhov | crbot09.zip<br>[crbot091a.zip](bin/crbot091a.zip)<br>[crbot091b.zip](bin/crbot091b.zip)<br>crbot092.zip<br>[crbot093.zip](bin/crbot093.zip)<br>[crbot094.zip](bin/crbot094.zip)<br>[crbot095.zip](bin/crbot095.zip)<br>[crbot096.zip](bin/crbot096.zip)<br>crbot097.zip<br>[crbot098.zip](bin/crbot098.zip)<br>[crbot099.zip](bin/crbot099.zip)<br>crbt099a.zip<br>crbt099b.zip<br>[crbt099c.zip](bin/crbt099c.zip)<br>[crbt099d.zip](bin/crbt099d.zip)<br>crbt099e.zip<br>crbot10.zip<br>crbot101.zip<br>crbot102.zip<br>crbot103.zip<br>crbot104.zip<br>crbot105.zip<br>[crbot106.zip](bin/crbot106.zip)<br>crbot107.zip<br>[crbot108.zip](bin/crbot108.zip)<br>crbot109.zip<br>[crbot11.zip](bin/crbot11.zip)<br>[crbot112.zip](bin/crbot112.zip)<br>crbot113.zip<br>[crbot114.zip](bin/crbot114.zip)<br>[crbot_src.zip](bin/crbot_src.zip)<br>[crbot_src.rar](bin/crbot_src.rar)<br>[crbot_ctf.rar](bin/crbot_ctf.rar)<br>crbot_ctf.zip
 CRBot + Linux | Marc Kerschbaumer aka "Grieve" and Peter Chiochetti aka "DUB" | [CRBot-v1.14.Linux.tar.bz2](bin/CRBot-v1.14.Linux.tar.bz2)<br>[crbotlinux.zip](bin/crbotlinux.zip)
 CRBot tweaked | Peter Chiochetti aka "Arton" | [crbot-source.tar.bz2](bin/crbot-source.tar.bz2)<br>[crbot-source.zip](bin/crbot-source.zip)<br>[crbot-src-020201.tar.bz2](bin/crbot-src-020201.tar.bz2)<br>[crbot-src-020201.zip](bin/crbot-src-020201.zip)<br>[CRBot114.zip](bin/CRBot114_u.zip)<br>[Crbot_source.cab](bin/Crbot_source.cab)
-Computer Generated Forces (CGF) (Action Quake2) | William van der Sterren | [aq2botpreview.zip](bin/aq2botpreview.zip)<br>cgfbeta5.zip<br>cgf_0_77.zip<br>cgf_0_78.zip<br>cgf_0_78u.zip<br>[cgf_0_80.zip](bin/cgf_0_80.zip)<br>[cgf_0_81u.zip](bin/cgf_0_81u.zip)<br>[cgf_0_81.zip](bin/cgf_0_81.zip)
+Computer Generated Forces (CGF) (Action Quake2) ([research](research/bots/cgf.md)) | William van der Sterren | [aq2botpreview.zip](bin/aq2botpreview.zip)<br>cgfbeta5.zip<br>cgf_0_77.zip<br>cgf_0_78.zip<br>cgf_0_78u.zip<br>[cgf_0_80.zip](bin/cgf_0_80.zip)<br>[cgf_0_81u.zip](bin/cgf_0_81u.zip)<br>[cgf_0_81.zip](bin/cgf_0_81.zip)
 Crusader Bot | Mark Rabas | [crusv05.zip](bin/crusv05.zip)
 DEraser | Mark Wheeler | [deraser.zip](bin/deraser.zip)
 Demonshooter | Arno Onken | shooter2.zip
@@ -128,6 +128,7 @@ You can find route files, and additional bot files in subdirectories under the [
 
 * [bin/3z2b/](bin/3z2b)
 * [bin/ace/](bin/ace)
+* [bin/cgf/](bin/cgf)
 * [bin/eraser/](bin/eraser)
 * [bin/gladiator/](bin/gladiator)
 * [bin/secant/](bin/secant)
