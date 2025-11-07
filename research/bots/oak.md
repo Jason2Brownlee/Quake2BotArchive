@@ -473,6 +473,10 @@ Released as:
 * `Oak040F.zip`
 * `Oak040S.zip`
 
+Modern mirror:
+
+* https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/oak/
+
 Listed on Oak II downloads page:
 
 > Version 0.40 (Full Version, 1.23Mb) Can be downloaded here\

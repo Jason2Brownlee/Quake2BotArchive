@@ -971,7 +971,6 @@ http://botepidemic.com/q2rfd/routes/wf/wfmappack1a/2fortme2_wf.zip
 # goodspeed1wf_wf.zip
 http://botepidemic.com/q2rfd/routes/wf/wfmaps/goodspeed1wf_wf.zip
 
-
 # sabin
 # sabdemo.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabdemo.zip
@@ -1149,7 +1148,41 @@ http://www.ittc.ukans.edu/~rhea/server-254-Win32-x86.zip
 http://www.ittc.ukans.edu/~rhea/old/tourney-1.23-19990309.zip
 
 # cgf
+# cgfbeta5.zip
+http://home.iae.nl/users/sterren/cgfbeta5.zip
 # cgf_0_78.zip
 http://www.gpmc.demon.co.uk/cgf_0_78.zip
+http://tux.telefragged.com/download.pl?dir=&filename=cgf_0_78.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/cgf_0_78.zip&dir&filename=cgf_0_78.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/becgf_0_78.zip&filename=cgf_0_78.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/cgf_0_78.zip&dir&filename=cgf_0_78.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/becgf_0_78.zip&filename=cgf_0_78.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/cgf_0_78.zip&dir&filename=cgf_0_78.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/becgf_0_78.zip&filename=cgf_0_78.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/cgf_0_78.zip&dir&filename=cgf_0_78.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/becgf_0_78.zip&filename=cgf_0_78.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirror/cgf_0_78.zip&dir&filename=cgf_0_78.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/cgf_0_78.zip&dir&filename=cgf_0_78.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/becgf_0_78.zip&filename=cgf_0_78.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/cgf_0_78.zip&dir&filename=cgf_0_78.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/becgf_0_78.zip&filename=cgf_0_78.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be&filename=cgf_0_78.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=cgf_0_78.zip&dir=telefragged/be/
+# cgf_0_78u.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/becgf_0_78u.zip&filename=cgf_0_78u.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/becgf_0_78u.zip&filename=cgf_0_78u.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/becgf_0_78u.zip&filename=cgf_0_78u.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/becgf_0_78u.zip&filename=cgf_0_78u.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/becgf_0_78u.zip&filename=cgf_0_78u.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/becgf_0_78u.zip&filename=cgf_0_78u.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be&filename=cgf_0_78u.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=cgf_0_78u.zip&dir=telefragged/be/
+# cgf_0_77.zip
+http://tux.telefragged.com/file.pl?filename=cgf_0_77.zip&dir=telefragged/be/
+
+
+
+
+
 
 
