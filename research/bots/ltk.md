@@ -1,6 +1,6 @@
 # Licensed To Kill (LTK)
 
-Licensed To Kill (LTK) Action Quake2 bot by Connor Caple aka "RiEvEr" and later by Paril and Fred circa 1999-2007.
+Licensed To Kill (LTK) Action Quake2 bot by Connor Caple aka "RiEvEr" between 1999-2000 and later extended by Paril, Fredrick Andreas aka "Fred", and Connor Caple aka "RiEvEr" circa 2005-2007.
 
 Based on the ACE bot.
 
@@ -28,10 +28,12 @@ v1.22 			| 20000229
 v1.22 Linux 	| 20000306
 v1.22 Source 	| ?
 v1.22 CFG 		| ?
-v1.23 			| ?
-v1.24 			| ?
-v1.25 			| ?
-v2.0 			| ?
+v0.5 			| ?
+v0.5.1 			| 20050423 (?)
+v1.23 			| 20060209
+v1.24 			| 20060216 (?)
+v1.25 			| 20060409
+v2.0 			| 20070402
 
 ## Homepages
 
@@ -42,9 +44,12 @@ v2.0 			| ?
 	* https://web.archive.org/web/*/http://www.pondscum.co.uk/*
 * [botgod.org.uk](https://web.archive.org/web/20010723023311/http://www.botgod.org.uk/) (archived)
 	* https://web.archive.org/web/*/http://www.botgod.org.uk/*
+
+Extensions
+
 * [actiongames.co.uk/tnn/ltk](https://web.archive.org/web/20020720113316/http://www.actiongames.co.uk:80/tnn/ltk/index.shtml) (archived)
 	* https://web.archive.org/web/*/actiongames.co.uk/tnn/ltk*
-* franva.org
+* [franva.org](https://web.archive.org/web/20080517020422/http://www.franva.org/news.php)
 * [moddb.com/mods/action-quake-2-bot](https://www.moddb.com/mods/action-quake-2-bot) (current)
 
 
@@ -719,21 +724,329 @@ Links:
 
 * http://www.pondscum.co.uk/files/ltkbo/ltkbotv1_2.zip
 
+## v1.22 Alternate Source
+
+I suspect the source code files were acquired and renamed and stored as part of Action games:
+
+* [http://www.actiongames.co.uk/tnn/](https://web.archive.org/web/20010411042647/http://www.actiongames.co.uk/tnn/)
+
+Listed here:
+
+> Source Files
+>
+> LTK Source 1.22 (works best in MSVS 6.0) - 480 Kb\
+> LTK Source 1.22 [Linux] - 430 Kb
+
+-- [http://www.actiongames.co.uk/tnn/ltk/ltkdload.shtml](https://web.archive.org/web/20030706120323/http://www.actiongames.co.uk/tnn/ltk/ltkdload.shtml)
+
+Links:
+
+* http://files.actiongames.co.uk/tnn/ltk/source/ltk122src-proj.zip
+* http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
+
+And here:
+
+```text
+[   ] ltk122src-proj.zip      07-Jul-2002 01:26   478k
+[   ] ltksrc_nix.zip          07-Jul-2002 01:30   432k
+```
+
+-- [http://files.actiongames.co.uk/tnn/ltk/source/](https://web.archive.org/web/20050114071733/http://files.actiongames.co.uk:80/tnn/ltk/source/)
+
+## v0.5
+
+Probably released as `BotRelease0.5.zip`.
+
+Mentioned on ModDB as part of the changelog:
+
+> Version 0.5
+>
+> x) Rdeath sound removed (To annoying) sorry WereWolf
+>
+> x) First implentation of smart sellection of weapons,
+> based on distance from target and weapon aviable and
+> if more weapons was at hand.
+>
+> The bot in deathmatch does not work properly, this bug was not introduced by me but happened somewhere from Ltk to NewLtk by Josef Jahn. I am trying to track it down.
+>
+> Bots handle Actcity3 verry good, but the waypoint information has a few bugs in some places, rendering allot of falling accidents.
+>
+> Feel free to create some one, my time is limited.
+
+-- https://www.moddb.com/mods/action-quake-2-bot/news/a-new-version-is-aviable
+
+## v0.5.1
+
+Released as `BotRelease0.5.1.zip`.
+
+I suspect this is part of a rewrite branch of the project by "RiEvEr" mentioned in some of the changelogs.
+
+Mentioned on ModDB:
+
+> Posted by RiviEr on Apr 23rd, 2005
+>
+> Version 0.5.1
+>
+> x) A few more tweaks on the weapon usage again.
+>
+> x) Bots chat updated.
+>
+> x) Increased max number of waypoints from 1200 to 1500. Should be enough
+> for the largest maps now.
+>
+> x) Tweaked the door handler, bots will not run SO long backwards
+> as before.
+>
+> Teamjungle.ltk added
+
+And:
+
+> RiviEr - Apr 24 2005 - 2 comments\
+> becouse mod db does not suport downloads yet, here is the link from my page. Playspoon.com
+
+-- https://www.moddb.com/mods/action-quake-2-bot/news/a-new-version-is-aviable
+
+Links:
+
+* http://www.playspoon.com/Aq2_Bot/Files/BotRelease0.5.1.zip
+
 ## v1.23
 
 Released as `LTK_1.23.exe`.
 
+Changelog:
+
+```text
+1.23 9th Feb 2006
+
+- Tweaked the distance bots walk backwards while opening the door.
+- Rdeath removed and Im_hit from the radio.
+- The bot's arent so agressive using the radio anymore.
+- Improved the usage of weapons vs distance to target
+- Bot's try to avoid hitting their teammates.
+- Improved Jumping.
+- Grenades implemented.
+- Bots understand when to crouch.
+- Changed some sounds
+- Bots are able to walk trough the doors , when animated (opening) untill i can
+  clean up the bot door handler code.
+```
+
+Contents of `LTK_1.23.exe` (I had to extract it manually):
+
+```text
+-rw-r--r--@ 1 jasonb  staff     494 16 Oct  1999 BAKasylum.cfg
+-rw-r--r--@ 1 jasonb  staff     512 17 Feb  2000 BAKbotdata.cfg
+drwxr-xr-x@ 4 jasonb  staff     128  9 Nov 08:25 LTK
+drwxr-xr-x@ 6 jasonb  staff     192  9 Nov 08:25 NSIS Plugins Directory
+-rw-r--r--@ 1 jasonb  staff  483328 14 Feb  2006 gamex86.dll
+drwxr-xr-x@ 5 jasonb  staff     160  9 Nov 08:25 terrain
+
+./LTK_1.23/LTK:
+total 72
+-rw-r--r--@ 1 jasonb  staff  19363 14 Feb  2006 LICENSE.TXT
+-rw-r--r--@ 1 jasonb  staff  15644 14 Feb  2006 Readme.txt
+
+./LTK_1.23/NSIS Plugins Directory:
+total 384
+-rw-r--r--@ 1 jasonb  staff   12800  9 Nov 08:25 InstallOptions.dll
+-rw-r--r--@ 1 jasonb  staff   10240  9 Nov 08:25 System.dll
+-rw-r--r--@ 1 jasonb  staff     211 25 Nov  2003 ioSpecial.ini
+-rw-r--r--@ 1 jasonb  staff  159822 14 Feb  2006 modern-wizard.bmp
+
+./LTK_1.23/terrain:
+total 2424
+-rw-r--r--@ 1 jasonb  staff  332892  9 Feb  2006 actcity3.ltk
+-rw-r--r--@ 1 jasonb  staff  199596  1 Mar  2000 asylum.ltk
+-rw-r--r--@ 1 jasonb  staff  704482  1 Mar  2000 teamjungle.ltk
+```
+
+Readme header:
+
+```text
+Author:  Fred (others bellow)
+Version: 1.23
+Website: www.franva.org
+email:   fredrick.vamstad@gmail.com
+```
+
+
 ## v1.24
 
-Released as `LTK1.24.exe`.
+Probably released as `LTK1.24.exe`.
+
+Changelog:
+
+```text
+LTK 1.24 16 Feb 2006
+
+- Various changes and balances (weapon, think states etc++)
+- Added 4 game modes (Bots can play sniper war, mp5 war etc)
+- Added a new navigation state.
+- Changed a few nodes checks.
+- Bot's can now handle doors allot better.
+```
 
 ## v1.25
 
 Released as `LTK1.25.exe`.
 
+Mentioned on ModDB:
+
+> LTK 1.25 30 March/Apr 2006
+>
+> - Bot's check their location from time to time, so they arent lost in their
+own route table.
+> - Bot's "fly" less, but still a issue.
+> - Bot's use the scope again.
+> - KnifeWar added as a game mode (beta).
+> - Improved the grenades usage.
+> - Optimized the code generation.
+> - Matched the client and the bot rules against the gamemodes.
+> - Bot's pic a more reasonable item for the gamemodes.
+> - Added action male model to the deathmatch.
+
+-- https://www.moddb.com/mods/action-quake-2-bot/downloads/ltk-125
+
+Contents of `LTK_1.23.exe` (I had to extract it manually):
+
+```text
+-rw-r--r--@ 1 jasonb  staff     494 16 Oct  1999 BAKasylum.cfg
+-rw-r--r--@ 1 jasonb  staff     512 17 Feb  2000 BAKbotdata.cfg
+drwxr-xr-x@ 4 jasonb  staff     128  9 Nov 08:31 LTK
+drwxr-xr-x@ 6 jasonb  staff     192  9 Nov 08:31 NSIS Plugins Directory
+-rw-r--r--@ 1 jasonb  staff  557056  9 Apr  2006 gamex86.dll
+drwxr-xr-x@ 7 jasonb  staff     224  9 Nov 08:31 terrain
+
+./LTK1.25/LTK:
+total 80
+-rw-r--r--@ 1 jasonb  staff  19363 14 Feb  2006 LICENSE.TXT
+-rw-r--r--@ 1 jasonb  staff  16851  9 Apr  2006 Readme.txt
+
+./LTK1.25/NSIS Plugins Directory:
+total 384
+-rw-r--r--@ 1 jasonb  staff   12800  9 Nov 08:31 InstallOptions.dll
+-rw-r--r--@ 1 jasonb  staff   10240  9 Nov 08:31 System.dll
+-rw-r--r--@ 1 jasonb  staff     211 25 Nov  2003 ioSpecial.ini
+-rw-r--r--@ 1 jasonb  staff  159822 14 Feb  2006 modern-wizard.bmp
+
+./LTK1.25/terrain:
+total 6152
+-rw-r--r--@ 1 jasonb  staff   332892  9 Feb  2006 actcity3.ltk
+-rw-r--r--@ 1 jasonb  staff   199596  1 Mar  2000 asylum.ltk
+-rw-r--r--@ 1 jasonb  staff   279580 20 Feb  2006 rexro.ltk
+-rw-r--r--@ 1 jasonb  staff   704482  1 Mar  2000 teamjungle.ltk
+-rw-r--r--@ 1 jasonb  staff  1625538 16 Feb  2006 urban.ltk
+```
+
+Readme header:
+
+```text
+Author:  Fred (others bellow)
+Version: 1.24
+Website: www.franva.org
+email:   fredrick.vamstad@gmail.com
+```
+
+Changelog:
+
+```text
+LTK 1.25 30 March/Apr 2006
+
+- Bot's check their location from time to time, so they arent lost in their
+  own route table.
+- Bot's "fly" less, but still a issue.
+- Bot's use the scope again.
+- KnifeWar added as a game mode (beta).
+- Improved the grenades usage.
+- Optimized the code generation.
+- Matched the client and the bot rules against the gamemodes.
+- Bot's pic a more reasonable item for the gamemodes.
+- Added action male model to the deathmatch.
+```
+
 ## v2.0
 
 Released as `LTK2.0.zip`.
 
+Mentioned on the LTK 2.0 homepage:
 
+> LTK 2.0\
+> Action Quake LTK 2.0 Beta finaly released!
+
+> After a full year of development we are happy to finaly release the beta version of the latest ltk version. So much has changed and some features are not completly tested, some are left out until final release.
+>
+> Every component has been improved, bot and client code.
+>
+> LTK 2.00 BETA March 2007
+>
+> New Features:
+>
+> - Action coop implemented with:
+> - New models for ALL monsters to reflect aq2. (Paril)
+> - Monsters use the aq2 weapons correctly, reload, knife, kick etc. (Paril)
+> - uses CGF glass for more realism. (Fred)
+> - New game rules for monsters, entities etc (Paril, Fred)
+
+-- [http://www.franva.org/news.php](https://web.archive.org/web/20080517020422/http://www.franva.org/news.php)
+
+Contents of `LTK2.0.zip`:
+
+```text
+-rw-rw-r--  0 0      0    22761967  2 Apr  2007 Setup.exe
+```
+
+Contents of `Setup.exe` (I had to manually extract it):
+
+```text
+drwxr-xr-x@ 33 jasonb  staff    1056  9 Nov 08:39 LTK
+-rw-r--r--@  1 jasonb  staff  364544  2 Apr  2007 LTK Launcher.exe
+drwxr-xr-x@  6 jasonb  staff     192  9 Nov 08:39 NSIS Plugins Directory
+...
+```
+
+Readme header:
+
+```text
+Author:  Fred, Paril (others bellow)
+Version: 2.0 BETA
+Website: www.franva.org
+email:   fredrick.vamstad@gmail.com
+```
+
+Changelog:
+
+```text
+LTK 2.00 BETA March 2007
+
+- New Features
+ - Action coop implemented with:
+   - New models for ALL monsters to reflect aq2. (Paril)
+   - Monsters use the aq2 weapons correctly, reload, knife, kick etc. (Paril)
+   - uses CGF glass for more realism. (Fred)
+   - New game rules for monsters, entities etc (Paril, Fred)
+
+ - LTK Launcher (Fred)
+   - Host manager, set time, round, maxclients, bots.
+   - Can hold virtualy unlimited configuration profiles.
+   - ++
+
+ More features will be included in final.
+
+- Changes
+ - Tweaked the bots to increase general handling. (Fred)
+ - + tons of tweaks (Fred)
+
+- Bugs fixed
+ - Handcannon reload is alot better. Instead of waiting for reload to finish to add
+   two rounds, it adds the rounds while reloading (one at f78 and one at f79) so it looks
+   real. (Paril)
+ - Grenades can be picked up in deathmatch again. (Fred)
+
+
+- Known issues
+ - keys dont appear in coop (fixed for final)
+ - Health icon when healing is floating.
+ - Bots dont understand coop but can spawn (fixed for final)
+ ```
 
