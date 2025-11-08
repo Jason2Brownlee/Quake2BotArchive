@@ -26,6 +26,8 @@ v1.20 			| 20000224 (?)
 v1.21 			| 20000227
 v1.22 			| 20000229
 v1.22 Linux 	| 20000306
+v1.22 Source 	| ?
+v1.22 CFG 		| ?
 v1.23 			| ?
 v1.24 			| ?
 v1.25 			| ?
@@ -686,6 +688,36 @@ Contents of `ltk122linux.zip`:
 -rw-r--r--  0 0      0         494  6 Mar  2000 usr/local/games/quake2/action/bots/BAKasylum.cfg
 -rw-r--r--  0 0      0      737658  6 Mar  2000 usr/local/games/quake2/action/terrain/teamjungle.ltk
 ```
+
+## v1.22 Source
+
+Released as `ltksrc.zip`.
+
+Listed on the LTK Downloads page:
+
+> LTK BOT SOURCE CODE !
+>
+> LTK SOURCE CODE v 1.22 (by REVIER)(NEW)
+
+-- [http://www.pondscum.co.uk/files/files.htm#ltk](https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/files.htm#ltk)
+
+Links:
+
+* http://www.pondscum.co.uk/files/ltkbo/ltksrc.zip
+
+## v1.22 CFG
+
+Released as `ltkbotv1_2.zip`
+
+Listed on the LTK Downloads page:
+
+> LTK.CFG(For 1.22)NEW
+
+-- [http://www.pondscum.co.uk/files/files.htm#ltk](https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/files.htm#ltk)
+
+Links:
+
+* http://www.pondscum.co.uk/files/ltkbo/ltkbotv1_2.zip
 
 ## v1.23
 

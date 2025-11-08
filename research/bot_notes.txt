@@ -1094,6 +1094,18 @@ RainBot
 	team
 		https://web.archive.org/web/20001012080204/http://fireteam.telefragged.com/fireteam/index.shtml
 			Charles 'Psykotik' Pence
+NewLTK
+	New and improved version of the LTK bots for Action Quake 2
+	by Josef Jahn
+	https://web.archive.org/web/20010614065758/http://www.playspoon.com/aq/
+		https://web.archive.org/web/20010614065758/http://www.playspoon.com/aq/newltk.zip
+		https://web.archive.org/web/20010614065758/http://www.playspoon.com/aq/newltksrc.zip
+		https://web.archive.org/web/20010614065758/http://www.playspoon.com/aq/newltk_pb.zip
+		https://web.archive.org/web/20010614065758/http://www.playspoon.com/aq/newltksrc_pb.zip
+	https://github.com/dividebysandwich/newltk_action_quake2
+		mirror
+		https://playspoon.com/projects/
+
 
 
 TODO
