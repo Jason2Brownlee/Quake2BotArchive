@@ -1105,6 +1105,26 @@ NewLTK
 	https://github.com/dividebysandwich/newltk_action_quake2
 		mirror
 		https://playspoon.com/projects/
+LTKTBM
+	extension?
+		includes AQ2 as well, massive files
+	by Mark Parker aka "mSparks"
+	https://web.archive.org/web/20030212013437/http://ltktbm.moddb.com/
+	https://web.archive.org/web/20030424202819/http://features.moddb.com/interview/27/
+	https://web.archive.org/web/20041216122011/http://www.fileplanet.com/143265/140000/fileinfo/LTKTBM-1.7-beta
+		ltktbm17beta.zip
+	https://web.archive.org/web/20030701121506fw_/http://www.cam-direct.co.uk/ltk/dls.shtml
+		https://web.archive.org/web/20030701121506/http://www.cam-direct.co.uk/downloads/ltk14bnix.zip
+		https://web.archive.org/web/20030701121506/http://www.cam-direct.co.uk/downloads/ltk13.zip
+		https://web.archive.org/web/20030701121506/http://www.cam-direct.co.uk/downloads/ltktbm14.zip
+		https://web.archive.org/web/20030701121506/http://www.3ddownloads.com/Action/Quake%202/Mods/Action%20Quake%202/ltktbm12bfull.zip
+		https://web.archive.org/web/20030701121506/http://www.cam-direct.co.uk/downloads/ltktbm145rc11.zip
+	https://web.archive.org/web/20050121223716/http://www.cam-direct.co.uk/ltk/downloads/dls.php
+		https://web.archive.org/web/20050120025421/http://www.cam-direct.co.uk/ltk/downloads/ltktbm1317b.exe.torrent
+		https://web.archive.org/web/20050120025421/http://www.cam-direct.co.uk/ltk/downloads/ltktbm17beta.exe.torrent
+
+
+
 
 
 

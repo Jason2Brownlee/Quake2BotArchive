@@ -52,6 +52,10 @@ Extensions
 * [franva.org](https://web.archive.org/web/20080517020422/http://www.franva.org/news.php)
 * [moddb.com/mods/action-quake-2-bot](https://www.moddb.com/mods/action-quake-2-bot) (current)
 
+Modern mirrors
+
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
+
 
 ## v0.01 Alpha
 
@@ -190,6 +194,37 @@ Mentioned in the changelog:
 			+ 'Sindarin' nameset added to standard name set.
 			- Modified combat code to stop crouching etc., beyond a certain range.
 ```
+
+Mentioned on Usenet:
+
+Licensed To Kill (bots) for Action Quake II\
+Connor Caple 2 Oct 1999
+
+> V 0.14Beta of the LTK bots is up on the site at
+> http://www.planetquake.com/maxtron/ltk/
+> I've put a new pathing system in that blows the ACEBot version out of
+> the water and means that once they have a decent routefile built the
+> bots don't get lost.
+>
+> Nowhere near perfect yet, but you won't beat them on skill level 10 -
+> even if you're the best :)
+>
+> Teamplay still needs more work to stop them running around in RB6 line
+> style (centipedes....)
+>
+> I've also taught then to generate their own route files as they play
+> so that you don't have to wait to start playing them on a new level,
+> but obviously you can generate better routes than they can.
+>
+> There are mailing lists for the bots and lots more info on the main
+> site. I just thought I'd drop a note in here since I live in the UK
+> and this is the only Q2 newsgroup I bother to read.
+>
+> RiEvEr..
+> --
+> con...@botgod.org.uk
+
+-- https://groups.google.com/g/uk.games.computer.quake2/c/ZWeSxp2d-tc/m/3nR-cqhoXe8J
 
 Mentioned on BluesNews:
 

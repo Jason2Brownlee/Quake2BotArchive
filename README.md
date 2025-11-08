@@ -92,6 +92,7 @@ JABot | "jalisko" | [JABot-Q2-0.9.zip](bin/JABot-Q2-0.9.zip)<br>jabot902win32bin
 LTK + BeOS | Richard Hess | [ltk110a_x86.zip](bin/ltk110a_x86.zip)
 LTK + Linux | Richard Hess | [ltk110a_glibc.zip](bin/ltk110a_glibc.zip)
 LTK + Mac | Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan" | mac_LTK122.sit.bin
+LTKTBM | Mark Parker aka "mSparks" | ltktbm12bfull.zip<br>ltk13.zip<br>ltktbm14.zip<br>ltk14bnix.zip<br>ltktbm145rc11.zip<br>ltktbm1317b.exe<br>[ltktbm17beta.zip](bin/ltktbm17beta.zip)<br>[ltktbmlite1_9_0_25.exe](bin/ltktbmlite1_9_0_25.exe)
 Licensed To Kill (LTK) (Action Quake2) ([research](research/bots/ltk.md)) | Connor Caple aka "RiEvEr" and Fredrick Andreas aka "Fred" and Paril | LTK002Alpha.zip<br>LTK013Beta.zip<br>LTK014Beta.zip<br>LTK015Beta.zip<br>[LTK016Beta.zip](bin/LTK016Beta.zip)<br>LTK100.zip<br>LTK101.zip<br>[LTK110.zip](bin/LTK110.zip)<br>LTK112dll.zip<br>LTK120.zip<br>[ltk121.zip](bin/ltk121.zip)<br>[LTK122.zip](bin/LTK122.zip)<br>[ltk122linux.zip](bin/ltk122linux.zip)<br>ltkbotv1_2.zip<br>ltksrc.zip<br>ltk122src-proj.zip<br>ltksrc_nix.zip<br>BotRelease0.5.1.zip<br>[LTK_1.23.exe](bin/LTK_1.23.exe)<br>LTK1.24.exe<br>[LTK1.25.exe](bin/LTK1.25.exe)<br>[LTK2.0.zip](bin/LTK2.0.zip)
 Lights (ACEBot) | "QuDos" | [Lights-Bots.tar.bz2](bin/Lights-Bots.tar.bz2)
 Michael Bot (ACEBot + HolyWars) (Mac) | Gerard Ryan aka "Numb", Kris Amico aka "Moby" and Steve Linberg "TomatoMan" | mac_hwbot003b7final.sit.bin
