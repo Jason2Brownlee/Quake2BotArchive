@@ -10,9 +10,9 @@ Version         | Date
 --------------- | -----
 v0.01 			| ?
 v0.02 			| ?
-v0.1 			| ?
-v0.11 			| ?
-v0.12 			| ?
+v0.1 			| 19990912 (?)
+v0.11 			| 19990918 (?)
+v0.12 			| 19990922 (?)
 v0.13 			| ?
 v0.14 			| 19991002 (?)
 v0.15 			| ?
@@ -90,6 +90,17 @@ Mentioned in the changelog:
 			+ Tactics changed to allow only forward movement if using knife
 ```
 
+Perhaps mentioned on BluesNews:
+
+> Action Quake2 Bot [Sep 12, 1999, 6:43 pm ET] – Post a Comment\
+> The maXtron main site has the debut release of Licensed To Kill for Action Quake2, which adds an AI bot to this popular Quake II mod. The early version is based on the ACEBot source code (and the name is indeed an homage to James Bond), and is described as having a lot to learn, but apparently aim is not one of them (the quote was "it shoots nice :)").
+
+-- https://www.bluesnews.com/s/5669/action-quake2-bot
+
+Links:
+
+* http://www.planetquake.com/maxtron/
+
 ## v0.11
 
 Probably released as `LTK011Beta.zip`.
@@ -112,6 +123,13 @@ Mentioned in the changelog:
 			+ Simple weapon choice code included for longer range shots
 ```
 
+Mentioned on BluesNews:
+
+> LTK AQ2 Bot [Sep 18, 1999, 8:24 pm ET] – Post a Comment\
+> The Licensed To Kill site has a new beta 0.11 of this mod for Action Quake 2 that adds bot teammates and opponents to this Quake II mod. The new version has been updated to use the AQ2 1.52 source code, adds a new node storage structure, and fixes some bugs.
+
+-- https://www.bluesnews.com/s/5841/ltk-aq2-bot
+
 ## v0.12
 
 Probably released as `LTK012Beta.zip`.
@@ -127,6 +145,13 @@ Mentioned in the changelog:
 			+ Added LTK version information to compiled code. Use "ltkversion" to access.
 			~ temporary change installed for centipede effect (bot delay time)
 ```
+
+Mentioned on BluesNews:
+
+> New Action Quake 2 Bot [Sep 22, 1999, 05:42 am ET] – Post a Comment\
+> A new version 0.12 of the Licensed To Kill bot is now available. The update to this AI playmate for Action Quake2 fixes a game crashing bug and has new reload code for the special weapons.
+
+-- https://www.bluesnews.com/s/5942/new-action-quake-2-bot
 
 ## v0.13
 
@@ -165,6 +190,13 @@ Mentioned in the changelog:
 			+ 'Sindarin' nameset added to standard name set.
 			- Modified combat code to stop crouching etc., beyond a certain range.
 ```
+
+Mentioned on BluesNews:
+
+> Kingpin and AQ2 Bots [Oct 03, 1999, 3:00 pm ET] – Post a Comment\
+> The maXtron main site has RiEvEr's port of his bot code to work in Kingpin: Life of Crime, Xatrix' Quake II-engine game. This first release of the port from the author of the ReDeMpTiOn Bot and the Licensed To Kill bot for Action Quake2 is intended as a base for mod authors to include in their own Kingpin mods. Thanks Poisonville. Speaking of which, there's a new Licensed To Kill bot for Action Quake2 version 0.14 beta on maXtron as well. The new release has "the first version of the shiny new pathing system so the bots get around a lot better..."
+
+-- https://www.bluesnews.com/s/6278/kingpin-and-aq2-bots
 
 Mentioned on BotEpidemic:
 
@@ -239,6 +271,13 @@ Mentioned in the changelog:
 			+ Weapon and Equipment selection added to config file for Teamplay.
 			- Modified Wander code again (needs a complete rewrite!)
 ```
+
+Mentioned on BluesNews:
+
+> New Action Quake II Bot [Oct 16, 1999, 5:01 pm ET] – Post a Comment\
+> A new version 0.16 beta of the Licensed To Kill Deathmatch and TeamPlay DM bot for Action Quake2 is now available. Changes in the new release include fixed respawning code, and improved jumping. Thanks Killjoy.
+
+-- https://www.bluesnews.com/s/6656/new-action-quake-ii-bot
 
 Contents of `LTK016Beta.zip`:
 
@@ -325,6 +364,13 @@ Mentioned in the changelog:
 			- Altered maximum "drop" distance to 180 QU.
 			- Increased maximum nodes in route file to 1200
 ```
+
+Mentioned on BluesNews:
+
+> LTK for AQ2 [Nov 30, 1999, 04:44 am ET] – Post a Comment\
+> Simultaneous with the CGF for Action Quake2 release yesterday, is a new version 1.10 of the Licensed To Kill bot for Action Quake2. Word is the new CGF and the new LTK "both support some sweet fog code," and the LTK release also now includes the latest source code for the bot.
+
+-- https://www.bluesnews.com/s/7982/ltk-for-aq2
 
 Listed on the LTK downloads page:
 
@@ -536,6 +582,13 @@ Links:
 
 * http://www.pondscum.co.uk/ltk/ltkpage.htm
 
+Mentioned on BluesNews:
+
+> LTK for AQ2 [Feb 28, 2000, 07:07 am ET] – Post a Comment\
+> A new version 1.21 of Licensed To Kill Quake II mod that adds bots to the Action Quake2 Quake II mod is now available. The new version adds "greatly improved jump code."
+
+-- https://www.bluesnews.com/s/10593/ltk-for-aq2
+
 Mentioned on BotEpidemic:
 
 > LTK 1.21 | February 29, 2000 - 6:12 GMT | Ze0
@@ -618,6 +671,13 @@ Listed on the LTK downloads page:
 Links:
 
 * http://www.planetquake.com/dl/dl.asp?maxtron/LTK122.zip
+
+Mentioned on BluesNews:
+
+> New Licensed To Kill for AQ2 [Mar 01, 2000, 06:50 am ET] – Post a Comment\
+> With the paint barely dry on the last release, the Licensed To Kill page already has a new version 1.22 of the Licensed To Kill bot for Action Quake2. The new version adds knife throwing and kicking to the bots non-Marquis of Queensbury repertoire, increases sniper accuracy at lower skill levels, adds corner collision detection and avoidance code, and more.
+
+-- https://www.bluesnews.com/s/10678/new-licensed-to-kill-for-aq2
 
 Linked on BotEpidemic:
 
