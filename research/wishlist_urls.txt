@@ -210,6 +210,7 @@ http://209.1.245.14/files/quake2/bots/eraser/Eraser0304.zip
 http://bluesnews.com/files/quake2/bots/eraser/Eraser0304.zip
 http://impact.frag.com/files/Eraser0304.zip
 http://www.bluesnews.com/files/quake2/bots/eraser/Eraser0304.zip
+ftp://ftp.stomped.com/pub/redwood/bots/eraser0304.zip
 # Eraser0312.zip
 http://impact.frag.com/files/Eraser0312.zip
 http://www.bluesnews.com/files/quake2/bots/eraser/Eraser0312.zip
@@ -245,6 +246,7 @@ http://impact.frag.com/files/Eraser0320_patch.exe
 http://redwood.stomped.com/files/bots/eraser0320_patch.exe
 # Eraser0320_patch.zip
 http://www.farmbert.com/botster/files/eraser0320_patch.zip
+http://impact.frag.com/files/Eraser0320_patch.zip
 # Eraser0323_patch.exe
 http://impact.frag.com/files/Eraser0323_patch.exe
 http://quake2.mikrosat.com.pl/quake2ftp/bots/eraser0323_patch.exe
@@ -331,12 +333,16 @@ http://impact.frag.com/files/EraserSRC_0618.zip
 # eras0113.zip
 ftp://ftp.tyumen.ru/pub/games/quake2/bots/eras0113.zip
 http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/news/eras0113.zip
+http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/news/eras0113.zip.1
+http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/news/eras0113.zip.2
 http://impact.frag.com/files/Eras0113.zip
 http://impact.frag.com/files/eras0113.zip
 http://quake.demi.spb.ru/files/quake2/bots/eras0113.zip
 http://www.bluesnews.com/files/quake2/bots/eras0113.zip
 http://www.fortunecity.com/underworld/streetfighter/158/eras0113.zip
 http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/news/eras0113.zip
+http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/news/eras0113.zip.1
+http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/news/eras0113.zip.2
 # eraser0501_patch.exe
 ftp://ftp.stomped.com/pub/redwood/bots/eraser0501_patch.exe
 http://impact.frag.com/files/Eraser0501_patch.exe
@@ -510,13 +516,31 @@ http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbo
 http://tux.telefragged.com/file.pl?filename=nbotsource_05.zip&dir=telefragged/be/neuralbot/
 # goodaim.zip
 http://homepages.paradise.net.nz/nickamy/neuralbot/goodaim.zip
+http://tux.telefragged.com/file.pl?filename=goodaim.zip&dir=telefragged/be/neuralbot/
 # nbdemos.zip
 http://homepages.paradise.net.nz/nickamy/neuralbot/nbdemos.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbdemos.zip&filename=nbdemos.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbdemos.zip&filename=nbdemos.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbdemos.zip&filename=nbdemos.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbotnbdemos.zip&filename=nbdemos.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbotnbdemos.zip&filename=nbdemos.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbdemos.zip&filename=nbdemos.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbdemos.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=nbdemos.zip&dir=telefragged/be/neuralbot/
 # nbtraining.zip
 http://203.96.147.59/~nickc/neuralbot/nbtraining.zip
 http://homepages.paradise.net.nz/nickamy/neuralbot/nbtraining.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/neuralbotnbtraining.zip&filename=nbtraining.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/neuralbotnbtraining.zip&filename=nbtraining.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/neuralbotnbtraining.zip&filename=nbtraining.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/neuralbotnbtraining.zip&filename=nbtraining.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/neuralbotnbtraining.zip&filename=nbtraining.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/neuralbotnbtraining.zip&filename=nbtraining.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/neuralbot&filename=nbtraining.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=nbtraining.zip&dir=telefragged/be/neuralbot/
 # olddemos.zip
 http://homepages.paradise.net.nz/nickamy/neuralbot/olddemos.zip
+http://tux.telefragged.com/file.pl?filename=olddemos.zip&dir=telefragged/be/neuralbot
 
 # Oak II
 # OakII_01.zip
@@ -725,6 +749,7 @@ http://ftp.sunet.se/planetquake/niq/niq-linux-1.9.tgz
 http://ftp.telepac.pt/pub/idgames2/planetquake/niq/niq-linux-1.9.tgz
 http://mirror.aarnet.edu.au/games/planetquake/niq/niq-linux-1.9.tgz
 http://mirrors.telepac.pt/pub/idgames2/planetquake/niq/niq-linux-1.9.tgz
+http://www.linuxquake.com/cgi-bin/getmirrors/getmirrors?network=planetquake&file=niq/niq-linux-1.9.tgz&description=NIQ
 # niq17.zip
 ftp://ftp.cdrom.com/pub/planetquake/niq/niq17.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/niq/niq17.zip
