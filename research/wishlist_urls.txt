@@ -1213,6 +1213,28 @@ http://tux.telefragged.com/Action/Quake%202/Mods/Action%20Quake%202/ltktbm1317b.
 http://www.3ddownloads.com/Action/Quake%202/Mods/Action%20Quake%202/2/ltktbm1317b.exe
 http://www.3ddownloads.com/Action/Quake%202/Mods/Action%20Quake%202/ltktbm1317b.exe
 http://www.cam-direct.co.uk/ltk/downloads/ltktbm1317b.exe.torrent
+# aq2ltktbm17src.zip
+http://cam-direct.co.uk/downloads/developer/aq2ltktbm17src.zip
+# ltk13.zip
+http://www.cam-direct.co.uk/downloads/ltk13.zip
+# ltk14bnix.zip
+http://www.cam-direct.co.uk/downloads/ltk14bnix.zip
+http://www.cam-direct.co.uk/ltk/downloads/ltk14bnix.zip
+# ltktbm12bfull.zip
+http://www.3ddownloads.com/Action/Quake%202/Mods/Action%20Quake%202/ltktbm12bfull.zip
+# ltktbm14.zip
+http://www.cam-direct.co.uk/downloads/ltktbm14.zip
+# ltktbm145rc11.zip
+http://www.cam-direct.co.uk/downloads/ltktbm145rc11.zip
+# ltktbm18r3-win32andlinux.zip
+http://slacker.home.cosmic-cow.net/ltktbm/ltktbm18r3-win32andlinux.zip
+http://slacker.home.cosmic-cow.net/standalone/ltktbm18r3-win32andlinux.zip
+# ltktbmupdate18r2.zip
+http://homepage.ntlworld.com/jane.a.parker/ltktbmupdate18r2.zip
+# ltktbmupdate18r3.zip
+http://homepage.ntlworld.com/jane.a.parker/ltktbmupdate18r3.zip
+# ltktbmupnix18.zip
+http://homepage.ntlworld.com/jane.a.parker/ltktbmupnix18.zip
 
 
 
