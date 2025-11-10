@@ -613,54 +613,6 @@ Computer Generated Forces (Action Quake2)
 		home.iae.nl/users/sterren
 			https://web.archive.org/web/20010522062945/http://home.iae.nl/users/sterren/
 			https://web.archive.org/web/20010522062945/http://home.iae.nl/users/sterren/cgfbeta5.zip
-Licensed To Kill (LTK) (Action Quake2)
-	Author: RiEvEr
-	planetquake.com/maxtron/ltk
-		https://web.archive.org/web/20000816190517/http://www.planetquake.com/maxtron/ltk/
-		https://web.archive.org/web/20000823200025/http://www.planetquake.com/maxtron/ltk/html/downloads.html
-		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/LTK110.zip
-		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/LTK122.zip
-		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/ltk122linux.zip
-		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK013Beta.zip
-		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK014Beta.zip
-		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK015Beta.zip
-	http://reality.sgi.com/rhess_engr/linux/q2/ltk/
-		https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/
-		https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/ltk110a_glibc.zip
-	http://www.pondscum.co.uk/ltk/ltkpage.htm
-		https://web.archive.org/web/*/http://www.pondscum.co.uk/*
-		https://web.archive.org/web/20000816190517/http://www.pondscum.co.uk/ltk/ltkpage.htm
-		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltksrc.zip
-		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltk121.zip
-		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltk123.zip
-		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltkbotv1_2.zip
-		https://web.archive.org/web/20010826082541/http://www.pondscum.co.uk/file/files.htm
-	http://www.botgod.org.uk/
-		https://web.archive.org/web/*/http://www.botgod.org.uk/*
-		https://web.archive.org/web/20000816190517/http://www.botgod.org.uk/LTK112dll.zip
-		https://web.archive.org/web/20000530215407/http://www.botgod.org.uk/LTK120.zip
-		https://web.archive.org/web/20000530215407/http://www.botgod.org.uk/
-	http://actiongames.co.uk/tnn/ltk/
-		https://web.archive.org/web/20020923171838/http://actiongames.co.uk/tnn/ltk/ltkdload.shtml
-		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/client/ltk122.zip
-		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/client/ltk122linux.zip
-		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/source/ltk122src-proj.zip
-		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
-	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
-	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
-LTK Extension
-	https://web.archive.org/web/20090406015629/http://www.franva.org/download.php?list.4
-		LTK 1.25
-		LTK 2.0 Beta
-		Fred Paril
-	https://www.moddb.com/mods/action-quake-2-bot
-	https://www.moddb.com/mods/action-quake-2-bot/downloads/ltk-125
-		LTK 1.25 30 March/Apr 2006
-		LTK 2.00 BETA March 2007
-	https://www.moddb.com/mods/action-quake-2-bot/news/a-new-version-is-aviable
-		http://www.playspoon.com/Aq2_Bot/Files/BotRelease0.5.1.zip
-			BotRelease0.5.1.zip
-			what version number madness is this?
 AdionBot
 	https://discmaster.textfiles.com/view/22453/XENIATGM89.iso/E-Mail/Paolo%20Bianco/killer15.zip/manual.html
 	https://gif.oocities.org/televisioncity/set/1894/
@@ -1094,6 +1046,55 @@ RainBot
 	team
 		https://web.archive.org/web/20001012080204/http://fireteam.telefragged.com/fireteam/index.shtml
 			Charles 'Psykotik' Pence
+Licensed To Kill (LTK) (Action Quake2)
+	Author: RiEvEr
+	planetquake.com/maxtron/ltk
+		https://web.archive.org/web/20000816190517/http://www.planetquake.com/maxtron/ltk/
+		https://web.archive.org/web/20000823200025/http://www.planetquake.com/maxtron/ltk/html/downloads.html
+		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/LTK110.zip
+		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/LTK122.zip
+		https://web.archive.org/web/20000823200025/http://www.planetquake.com/dl/dl.asp?maxtron/ltk122linux.zip
+		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK013Beta.zip
+		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK014Beta.zip
+		https://web.archive.org/web/19991013085513/http://www.planetquake.com/dl/dl.asp?maxtron/LTK015Beta.zip
+	http://reality.sgi.com/rhess_engr/linux/q2/ltk/
+		https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/
+		https://web.archive.org/web/20000816191234/http://reality.sgi.com/rhess_engr/linux/q2/ltk/ltk110a_glibc.zip
+	http://www.pondscum.co.uk/ltk/ltkpage.htm
+		https://web.archive.org/web/*/http://www.pondscum.co.uk/*
+		https://web.archive.org/web/20000816190517/http://www.pondscum.co.uk/ltk/ltkpage.htm
+		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltksrc.zip
+		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltk121.zip
+		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltk123.zip
+		https://web.archive.org/web/20010414122017/http://www.pondscum.co.uk/files/ltkbo/ltkbotv1_2.zip
+		https://web.archive.org/web/20010826082541/http://www.pondscum.co.uk/file/files.htm
+	http://www.botgod.org.uk/
+		https://web.archive.org/web/*/http://www.botgod.org.uk/*
+		https://web.archive.org/web/20000816190517/http://www.botgod.org.uk/LTK112dll.zip
+		https://web.archive.org/web/20000530215407/http://www.botgod.org.uk/LTK120.zip
+		https://web.archive.org/web/20000530215407/http://www.botgod.org.uk/
+	http://actiongames.co.uk/tnn/ltk/
+		https://web.archive.org/web/20020923171838/http://actiongames.co.uk/tnn/ltk/ltkdload.shtml
+		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/client/ltk122.zip
+		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/client/ltk122linux.zip
+		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/source/ltk122src-proj.zip
+		https://web.archive.org/web/20020923171838/http://files.actiongames.co.uk/tnn/ltk/source/ltksrc_nix.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
+	LTK Extension
+		https://web.archive.org/web/20090406015629/http://www.franva.org/download.php?list.4
+			LTK 1.25
+			LTK 2.0 Beta
+			Fred Paril
+		https://www.moddb.com/mods/action-quake-2-bot
+		https://www.moddb.com/mods/action-quake-2-bot/downloads/ltk-125
+			LTK 1.25 30 March/Apr 2006
+			LTK 2.00 BETA March 2007
+		https://www.moddb.com/mods/action-quake-2-bot/news/a-new-version-is-aviable
+			http://www.playspoon.com/Aq2_Bot/Files/BotRelease0.5.1.zip
+				BotRelease0.5.1.zip
+				what version number madness is this?
+		https://github.com/FredrickV/ltk
 NewLTK
 	New and improved version of the LTK bots for Action Quake 2
 	by Josef Jahn
@@ -1105,7 +1106,7 @@ NewLTK
 	https://github.com/dividebysandwich/newltk_action_quake2
 		mirror
 		https://playspoon.com/projects/
-LTKTBM
+LTKTBM / Licensed To Kill The Borg Matrix
 	extension?
 		includes AQ2 as well, massive files
 	by Mark Parker aka "mSparks"
@@ -1134,6 +1135,12 @@ LTKTBM
 		https://web.archive.org/web/20040710042158/http://slacker.home.cosmic-cow.net/ltktbm/ltktbm17beta.exe
 		https://web.archive.org/web/20040710042158/http://slacker.home.cosmic-cow.net/ltktbm/ltktbm17beta.exe.torrent
 		https://web.archive.org/web/20040710042158/http://slacker.home.cosmic-cow.net/ltktbm/ltktbmupdate18.zip
+	https://planetquake.gamespy.com/pagetools/pagetools48b1.html?act=printnews&id=77085
+	mirrors
+		https://assets.aq2world.com/archive/websites/www.theborgmatrix.com/ltk/index2.php/LTKTBM/7/
+		https://archives.aq2world.com/websites/www.theborgmatrix.com/
+		https://archives.aq2world.com/websites/www.cam-direct.co.uk/ltk/
+
 
 TODO
 --------------------------------------------------------------------------------
