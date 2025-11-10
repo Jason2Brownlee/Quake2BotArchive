@@ -1205,7 +1205,14 @@ http://tux.telefragged.com/file.pl?filename=cgf_0_78u.zip&dir=telefragged/be/
 # cgf_0_77.zip
 http://tux.telefragged.com/file.pl?filename=cgf_0_77.zip&dir=telefragged/be/
 
-
+# ltktbm
+# ltktbm12bfull.zip
+http://tux.telefragged.com/Action/Quake%202/Mods/Action%20Quake%202/ltktbm12bfull.zip
+# ltktbm1317b.exe
+http://tux.telefragged.com/Action/Quake%202/Mods/Action%20Quake%202/ltktbm1317b.exe
+http://www.3ddownloads.com/Action/Quake%202/Mods/Action%20Quake%202/2/ltktbm1317b.exe
+http://www.3ddownloads.com/Action/Quake%202/Mods/Action%20Quake%202/ltktbm1317b.exe
+http://www.cam-direct.co.uk/ltk/downloads/ltktbm1317b.exe.torrent
 
 
 

@@ -1122,11 +1122,18 @@ LTKTBM
 	https://web.archive.org/web/20050121223716/http://www.cam-direct.co.uk/ltk/downloads/dls.php
 		https://web.archive.org/web/20050120025421/http://www.cam-direct.co.uk/ltk/downloads/ltktbm1317b.exe.torrent
 		https://web.archive.org/web/20050120025421/http://www.cam-direct.co.uk/ltk/downloads/ltktbm17beta.exe.torrent
-
-
-
-
-
+	https://web.archive.org/web/20060708053234/http://www.cam-direct.co.uk/ltk/index2.php?location=News&expand=0
+	https://www.moddb.com/games/ltktbm/downloads/ltktbm-lite
+		ltktbmlite1_9_0_25.exe
+		ltktbm 1.9 final beta
+			filename?
+	http://theborgmatrix.com/
+	https://classicforums.aq2world.com/viewtopic.php?t=1018
+	http://slacker.home.cosmic-cow.net/ltktbm/
+		https://web.archive.org/web/20040710042158/http://slacker.home.cosmic-cow.net/ltktbm/gamei386.so.zip
+		https://web.archive.org/web/20040710042158/http://slacker.home.cosmic-cow.net/ltktbm/ltktbm17beta.exe
+		https://web.archive.org/web/20040710042158/http://slacker.home.cosmic-cow.net/ltktbm/ltktbm17beta.exe.torrent
+		https://web.archive.org/web/20040710042158/http://slacker.home.cosmic-cow.net/ltktbm/ltktbmupdate18.zip
 
 TODO
 --------------------------------------------------------------------------------
