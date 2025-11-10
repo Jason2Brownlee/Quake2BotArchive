@@ -56,6 +56,21 @@ Modern mirrors
 
 * https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/maxtron/
 
+## Development History
+
+Email from Fredrick Andreas aka "Fred":
+
+> Some trivia, the LTK bot source was based on WereWolf final version that Paril and myself continued on, i was in regular contact with W.W at the time, he and I (mostly he) made the QuArK bot waypointer for LTK waypoint format, as i worked closely width cdunde at the time. Plugin may still be available for the core release of QuArK as I don't see it in the  "Addons" section of the site.
+
+-- November 2025.
+
+This suggests a history something like:
+
+1. Development of LTK by Connor Caple aka "RiEvEr"
+2. Extension to NewLTK by Josef Jahn aka "WereWolf"
+3. Extension of NewLTK by Paril and Fred.
+
+I also note that LTKTBM by Mark Parker aka "mSparks" is an extension as well.
 
 ## v0.01 Alpha
 
@@ -1144,4 +1159,7 @@ LTK 2.00 BETA March 2007
  - Health icon when healing is floating.
  - Bots dont understand coop but can spawn (fixed for final)
  ```
+
+
+
 
