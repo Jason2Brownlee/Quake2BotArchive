@@ -128,7 +128,7 @@ Many bots require routes to navigate the levels.
 
 You can find route files, and additional bot files in subdirectories under the [bin/](bin/) directory, for example:
 
-* [bin/3z2b/](bin/3z2b)
+* [bin/3zb2/](bin/3zb2)
 * [bin/ace/](bin/ace)
 * [bin/cgf/](bin/cgf)
 * [bin/eraser/](bin/eraser)

@@ -1095,6 +1095,8 @@ Licensed To Kill (LTK) (Action Quake2)
 				BotRelease0.5.1.zip
 				what version number madness is this?
 		https://github.com/FredrickV/ltk
+	src
+		https://github.com/FredrickV/ltk
 NewLTK
 	New and improved version of the LTK bots for Action Quake 2
 	by Josef Jahn
