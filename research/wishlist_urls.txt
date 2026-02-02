@@ -1091,9 +1091,6 @@ http://www.geocities.ws/oldquaker/clanllama/files/zbot317.zip
 # server-2.75-linux-glibc-x86.tar.gz
 http://www.orangesmoothie.org/downloads/beta/server-2.75-linux-glibc-x86.tar.gz
 http://www.sunflow.com/orangesmoothie/downloads/server-2.75-linux-glibc-x86.tar.gz
-# server-2.75-win32-x86.zip
-http://www.orangesmoothie.org/downloads/beta/server-2.75-win32-x86.zip
-http://www.sunflow.com/orangesmoothie/downloads/server-2.75-win32-x86.zip
 # tourney-1_32-FreeBSD-x86.tar.gz
 http://www.ittc.ukans.edu/~rhea/old/tourney-1_32-FreeBSD-x86.tar.gz
 http://asp.planetquake.com/dl/dl.asp?osp/tourney-1_32-FreeBSD-x86.tar.gz
