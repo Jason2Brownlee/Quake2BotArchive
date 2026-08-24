@@ -1142,6 +1142,17 @@ LTKTBM / Licensed To Kill The Borg Matrix
 		https://assets.aq2world.com/archive/websites/www.theborgmatrix.com/ltk/index2.php/LTKTBM/7/
 		https://archives.aq2world.com/websites/www.theborgmatrix.com/
 		https://archives.aq2world.com/websites/www.cam-direct.co.uk/ltk/
+lokobot / loko bot / l0k0 bot
+	author
+		Lou Korosy aka "lOkO"
+	lokobot_014.zip
+	http://tastyspleen.net/quake/downloads/mods/lokobot/lokobot_014.zip
+	www.angelfire.com/jazz/loko
+		https://web.archive.org/web/20050210012032/http://www.angelfire.com/jazz/loko/
+	https://www.moddb.com/mods/loko-bot-and-megamod
+
+
+
 
 
 TODO
