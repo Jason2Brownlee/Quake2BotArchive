@@ -1229,8 +1229,10 @@ http://homepage.ntlworld.com/jane.a.parker/ltktbmupdate18r2.zip
 http://homepage.ntlworld.com/jane.a.parker/ltktbmupdate18r3.zip
 http://raky.haxorhost.com/aq2/ltktbm/ltktbmupdate18r3.zip
 http://slacker.home.cosmic-cow.net/ltktbm/ltktbmupdate18r3.zip
+http://www.mrzl.nl/files/ltktbmupdate18r3.zip
 # ltktbmupnix18.zip
 http://homepage.ntlworld.com/jane.a.parker/ltktbmupnix18.zip
 http://raky.haxorhost.com/aq2/ltktbm/ltktbmupnix18.zip
 http://slacker.home.cosmic-cow.net/ltktbm/ltktbmupnix18.zip
+http://www.mrzl.nl/files/ltktbmupnix18.zip
 
