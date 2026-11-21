@@ -92,7 +92,6 @@ Eras0124-linux.tgz
 Eras0125-linux.tgz
 EraserInstall.exe
 Eras0202.zip
-Eras0204.zip
 Eras0204-linux.tgz
 Eraser0304.zip
 Eraser0312.zip

@@ -197,10 +197,6 @@ http://www.bluesnews.com/files/quake2/bots/eraser/eras0125-linux.tgz
 http://impact.frag.com/files/Eras0202.zip
 # Eras0204-linux.tgz
 http://impact.frag.com/files/Eras0204-linux.tgz
-# Eras0204.zip
-http://bluesnews.com/files/quake2/bots/eraser/eras0204.zip
-http://impact.frag.com/files/Eras0204.zip
-http://www.bluesnews.com/files/quake2/bots/eraser/eras0204.zip
 # Eras0320-linux.tgz
 http://impact.frag.com/files/Eras0320-linux.tgz
 # Eraser0304.zip
