@@ -249,7 +249,7 @@ eraserx301.zip
 eraserx301_sparc_solaris.tar.gz
 
 # eraser ultra
-ultra.zip
+#ultra.zip (too generic for searching)
 ultra35.zip
 linux-ultra35.zip
 ultra-26.zip

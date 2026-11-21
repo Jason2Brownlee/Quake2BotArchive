@@ -18,6 +18,20 @@ https://www.quaddicted.com/files/idgames2/levels/deathmatch/a-c/arena01.zip
 https://www.quaddicted.com/files/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
 https://www.quaddicted.com/files/maps/multiplayer/arena01.zip
 https://www.quaddicted.com/files/mirrors/quakerepo.net/deathmatch/maps/arena01.zip
+http://ftpmirror.infania.net/pub/idgames2/levels/deathmatch/a-c/arena01.zip
+http://ftpmirror.infania.net/pub/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
+http://ftpmirror.infania.net/pub/quakerepo/deathmatch/maps/arena01.zip
+https://archive.org/download/the-q-2-files-quake/The_Q2_Files_Quake.iso/zips/multi-zip/dmatch/arena01.zip
+https://ftpmirror.infania.net/pub/idgames2/levels/deathmatch/a-c/arena01.zip
+https://ftpmirror.infania.net/pub/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
+https://ftpmirror.infania.net/pub/quakerepo/deathmatch/maps/arena01.zip
+https://www.gamers.org/pub/games/idgames2/levels/deathmatch/a-c/arena01.zip
+https://www.gamers.org/pub/games/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
+https://www.gamers.org/pub/games/quake/levels/deathmatch/a-c/arena01.zip
+https://www.gamers.org/pub/games/quake/quake2/levels/deathmatch/a-c/arena01.zip
+https://www.gamers.org/pub/games/quake2/levels/deathmatch/a-c/arena01.zip
+https://www.gamers.org/pub/idgames2/levels/deathmatch/a-c/arena01.zip
+https://www.gamers.org/pub/idgames2/quake2/levels/deathmatch/a-c/arena01.zip
 # arena02.zip
 http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1999/Maps/ARENA02.zip
 http://ftp.planetmirror.com/pub/idgames2/levels/deathmatch/a-c/arena02.zip
@@ -28,6 +42,13 @@ http://www.gamers.org/pub/idgames2/levels/deathmatch/a-c/arena02.zip
 https://www.quaddicted.com/files/idgames2/levels/deathmatch/a-c/arena02.zip
 https://www.quaddicted.com/files/maps/multiplayer/arena02.zip
 https://www.quaddicted.com/files/mirrors/quakerepo.net/deathmatch/maps/arena02.zip
+http://ftpmirror.infania.net/pub/idgames2/levels/deathmatch/a-c/arena02.zip
+http://ftpmirror.infania.net/pub/quakerepo/deathmatch/maps/arena02.zip
+https://ftpmirror.infania.net/pub/idgames2/levels/deathmatch/a-c/arena02.zip
+https://ftpmirror.infania.net/pub/quakerepo/deathmatch/maps/arena02.zip
+https://www.gamers.org/pub/games/idgames2/levels/deathmatch/a-c/arena02.zip
+https://www.gamers.org/pub/games/quake/levels/deathmatch/a-c/arena02.zip
+https://www.gamers.org/pub/idgames2/levels/deathmatch/a-c/arena02.zip
 # gsb.zip
 http://www.angelfire.com/mt2/quakebots/gsb.zip
 # ice_01.zip
@@ -90,7 +111,48 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetcnc/editors/u
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetcnc/files/ra/utilities/ultra.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/strategyplanet/rctuk/zip/ultra.zip
 https://youfailit.net/pub/idgames/levels/doom2/s-u/ultra.zip
+http://cd.textfiles.com/arcadebbs/TEXT/ULTRA.ZIP
+http://ftp.sunet.se/planetquake/planetcnc/editors/ultra.zip
+http://ftpmirror.infania.net/pub/PlanetQuake/planetcnc/editors/ultra.zip
+http://ftpmirror.infania.net/pub/PlanetQuake/planetcnc/files/ra/utilities/ultra.zip
+http://ftpmirror.infania.net/pub/idgames/levels/doom2/s-u/ultra.zip
+http://ftpmirror.infania.net/pub/idgames2/quakec/compilations/ultra.zip
+https://archive.org/download/fs-tool-kit/FS_Tool_Kit.iso/FSTOOLS/AIRCRAFT/GA/ULTRA.ZIP
+https://archive.org/download/its-all-in-the-game-2-1995/Its_all_in_the_Game_2_1995.iso/G_DENK/ULTRA.ZIP
+https://archive.org/download/mega-game-pack-1/Mega_Game_Pack_3.iso/G_DENK/ULTRA.ZIP
+https://ftpmirror.infania.net/pub/PlanetQuake/planetcnc/editors/ultra.zip
+https://ftpmirror.infania.net/pub/PlanetQuake/planetcnc/files/ra/utilities/ultra.zip
+https://ftpmirror.infania.net/pub/idgames/levels/doom2/s-u/ultra.zip
+https://ftpmirror.infania.net/pub/idgames2/quakec/compilations/ultra.zip
+https://www.gamers.org/pub/games/doom/levels/doom2/s-u/ultra.zip
+https://www.gamers.org/pub/games/doom2/levels/doom2/s-u/ultra.zip
+https://www.gamers.org/pub/games/heretic/levels/doom2/s-u/ultra.zip
+https://www.gamers.org/pub/games/hexen/levels/doom2/s-u/ultra.zip
+https://www.gamers.org/pub/games/idgames/levels/doom2/s-u/ultra.zip
+https://www.gamers.org/pub/games/idgames2/planetquake/planetcnc/editors/ultra.zip
+https://www.gamers.org/pub/games/idgames2/planetquake/planetcnc/files/ra/utilities/ultra.zip
+https://www.gamers.org/pub/games/idgames2/planetquake/strategyplanet/rctuk/zip/ultra.zip
+https://www.gamers.org/pub/games/idgames2/quakec/compilations/ultra.zip
+https://www.gamers.org/pub/games/quake/planetquake/planetcnc/editors/ultra.zip
+https://www.gamers.org/pub/games/quake/planetquake/planetcnc/files/ra/utilities/ultra.zip
+https://www.gamers.org/pub/games/quake/planetquake/strategyplanet/rctuk/zip/ultra.zip
+https://www.gamers.org/pub/games/quake/quakec/compilations/ultra.zip
+https://www.gamers.org/pub/idgames/levels/doom2/s-u/ultra.zip
+https://www.gamers.org/pub/idgames2/planetquake/planetcnc/editors/ultra.zip
+https://www.gamers.org/pub/idgames2/planetquake/planetcnc/files/ra/utilities/ultra.zip
+https://www.gamers.org/pub/idgames2/planetquake/strategyplanet/rctuk/zip/ultra.zip
+https://www.gamers.org/pub/idgames2/quakec/compilations/ultra.zip
+https://www.gamers.org/pub/mirrors/ftp.planetquake.com/planetcnc/editors/ultra.zip
+https://www.gamers.org/pub/mirrors/ftp.planetquake.com/planetcnc/files/ra/utilities/ultra.zip
+https://www.gamers.org/pub/mirrors/ftp.planetquake.com/strategyplanet/rctuk/zip/ultra.zip
+# optimize.zip
 http://cd.textfiles.com/carousel344/012/OPTIMISE.ZIP
 http://cd.textfiles.com/originalsw/8/optimise.zip
+# nbdemos.zip
 http://web.ukonline.co.uk/oliver.cook/netbar/demos/NBDemoS.zip
-
+# acetest.zip
+https://archive.org/download/mega-7-super-add-ons/Mega_7_Super_Add-ons.iso/DOOMS/D2_LEVEL/ACETEST/ACETEST.ZIP
+# crbot09.zip (it is v0.91)
+https://archive.org/download/total-conversions-for-quake-2/Total_Conversions_for_Quake2.iso/New Levels/The C.R.Bot, for Quake II v0.90/crbot09.zip
+# sabdemo.zip
+https://archive.org/download/1000-game-levels-vol-2/1000_Game_Levels_Vol2.iso/DOSARC2/SABDEMO.ZIP
