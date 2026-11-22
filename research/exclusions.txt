@@ -54,6 +54,7 @@ http://www.angelfire.com/mt2/quakebots/gsb.zip
 # ice_01.zip
 http://cd.textfiles.com/carousel/013A/ICE101.ZIP
 http://cd.textfiles.com/carousel344/013/ICE101.ZIP
+http://cd.textfiles.com/gigabytesw/015a/ice101.zip
 http://cd.textfiles.com/hackersencyc/PROGRAMS/ICE101.ZIP
 # ultra.zip
 http://cd.textfiles.com/carousel344/012/ULTRA.ZIP
@@ -146,7 +147,9 @@ https://www.gamers.org/pub/mirrors/ftp.planetquake.com/planetcnc/editors/ultra.z
 https://www.gamers.org/pub/mirrors/ftp.planetquake.com/planetcnc/files/ra/utilities/ultra.zip
 https://www.gamers.org/pub/mirrors/ftp.planetquake.com/strategyplanet/rctuk/zip/ultra.zip
 # optimize.zip
+http://cd.textfiles.com/carousel/012B/OPTIMISE.ZIP
 http://cd.textfiles.com/carousel344/012/OPTIMISE.ZIP
+http://cd.textfiles.com/gigabytesw/014b/optimise.zip
 http://cd.textfiles.com/originalsw/8/optimise.zip
 # nbdemos.zip
 http://web.ukonline.co.uk/oliver.cook/netbar/demos/NBDemoS.zip
