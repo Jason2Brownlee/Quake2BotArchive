@@ -212,9 +212,9 @@ OakII_033.zip
 # additional files
 # extra.zip (lots of false positives)
 OakLch.zip
-Optimise.zip
 OakNodeEd.zip
-
+# too generic
+##Optimise.zip
 
 # Rocket Arena Oak
 arena01.zip

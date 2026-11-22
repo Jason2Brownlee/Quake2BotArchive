@@ -55,7 +55,12 @@ http://www.angelfire.com/mt2/quakebots/gsb.zip
 http://cd.textfiles.com/carousel/013A/ICE101.ZIP
 http://cd.textfiles.com/carousel344/013/ICE101.ZIP
 http://cd.textfiles.com/gigabytesw/015a/ice101.zip
+http://cd.textfiles.com/hackchron/CHRONTMP/ICE101.ZIP
+http://cd.textfiles.com/hackchronii/TSOFT/ICE101.ZIP
 http://cd.textfiles.com/hackersencyc/PROGRAMS/ICE101.ZIP
+http://cd.textfiles.com/nightowl/carrs/015A/ICE101.ZIP
+http://cd.textfiles.com/phoenix2/15a/ice101.zip
+http://cd.textfiles.com/phoenixrising/hack-2/ice101.zip
 # ultra.zip
 http://cd.textfiles.com/carousel344/012/ULTRA.ZIP
 http://cd.textfiles.com/cleanhpvac/ULTRA.ZIP
@@ -150,7 +155,10 @@ https://www.gamers.org/pub/mirrors/ftp.planetquake.com/strategyplanet/rctuk/zip/
 http://cd.textfiles.com/carousel/012B/OPTIMISE.ZIP
 http://cd.textfiles.com/carousel344/012/OPTIMISE.ZIP
 http://cd.textfiles.com/gigabytesw/014b/optimise.zip
+http://cd.textfiles.com/internetconnection/dskutil2/optimise.zip
+http://cd.textfiles.com/nightowl/carrs/014B/OPTIMISE.ZIP
 http://cd.textfiles.com/originalsw/8/optimise.zip
+http://cd.textfiles.com/phoenix2/11b/optimise.zip
 # nbdemos.zip
 http://web.ukonline.co.uk/oliver.cook/netbar/demos/NBDemoS.zip
 # acetest.zip
