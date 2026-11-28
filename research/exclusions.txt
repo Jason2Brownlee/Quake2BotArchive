@@ -58,6 +58,9 @@ file://ftp.l0pht.com/pub/blackcrwl/hack/ice101.zip
 http://cd.textfiles.com/blackcrawling/BLACKC~1/HACK/ICE101.ZIP
 http://cd.textfiles.com/carousel/013A/ICE101.ZIP
 http://cd.textfiles.com/carousel344/013/ICE101.ZIP
+http://cd.textfiles.com/cuteskunk/unsorted-hacker-chronicles/chrontmp/ice101.zip
+http://cd.textfiles.com/darkdomain/artpacks/2000/ice0011.zip
+http://cd.textfiles.com/fsubjects3/HACKING/MISC/ICE101.ZIP
 http://cd.textfiles.com/gigabytesw/015a/ice101.zip
 http://cd.textfiles.com/hackchron/CHRONTMP/ICE101.ZIP
 http://cd.textfiles.com/hackchronii/TSOFT/ICE101.ZIP
@@ -171,3 +174,4 @@ https://archive.org/download/mega-7-super-add-ons/Mega_7_Super_Add-ons.iso/DOOMS
 https://archive.org/download/total-conversions-for-quake-2/Total_Conversions_for_Quake2.iso/New Levels/The C.R.Bot, for Quake II v0.90/crbot09.zip
 # sabdemo.zip
 https://archive.org/download/1000-game-levels-vol-2/1000_Game_Levels_Vol2.iso/DOSARC2/SABDEMO.ZIP
+http://cd.textfiles.com/gigagames3/DOS/DEMOS/SABDEMO.ZIP
